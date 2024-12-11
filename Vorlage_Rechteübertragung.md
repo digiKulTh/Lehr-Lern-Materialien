@@ -1,4 +1,6 @@
-Name: (nachfolgend Rechteinhaber:in)
+Name: 
+
+(nachfolgend Rechteinhaber:in)
 
 Studiengang:
 
