@@ -112,29 +112,29 @@ Fragen zum Thema Urheberrecht werden zentral, sobald es zur "Vervielfältigung" 
 
 **Rechte am digitalisierten Objekt**
 
-- [ ] Handelt es sich um ein Werk, also ist es in einem individuellen, schöpferischen Akt entstanden (vgl. Kap. 1.1)?
+- [ ] Handelt es sich um ein Werk, also ist es in einem individuellen, schöpferischen Akt entstanden (vgl. [Was ist ein Werk?](#was-ist-ein-werk))?
 
-- [ ] Ist es noch urheberrechtlich geschützt, d. h. die Urheber:innen sind noch nicht mindestens 70 Jahre tot (vgl. Kap. 1.2)?
+- [ ] Ist es noch urheberrechtlich geschützt, d. h. die Urheber:innen sind noch nicht mindestens 70 Jahre tot (vgl. [Welche Rechte haben Urheber:innen?](#welche-rechte-haben-urheberinnen))?
 
-- [ ] Wenn es geschützt ist, liegt eine Lizenz oder andere Erlaubnis für die Vervielfältigung und ggf. Veröffentlichung vor bzw. kann diese – etwa bei einer Verwertungsgesellschaft – eingeholt werden (vgl. Kap. 1.4)?
+- [ ] Wenn es geschützt ist, liegt eine Lizenz oder andere Erlaubnis für die Vervielfältigung und ggf. Veröffentlichung vor bzw. kann diese – etwa bei einer Verwertungsgesellschaft – eingeholt werden (vgl.[Rechteübertragung und Lizenzformen](#rechteübertragung-und-lizenzformen))?
 
-- [ ] Greift eine Schranke, etwa die Möglichkeit der Digitalisierung zu (internen) Dokumentationszwecken (vgl. Kap. 1.6)?
+- [ ] Greift eine Schranke, etwa die Möglichkeit der Digitalisierung zu (internen) Dokumentationszwecken (vgl. [Relevante Schranken des Urheberrechts](#relevante-schranken-des-urheberrechts))?
 
 **Rechte am Digitalisat**
 
-- [ ] Handelt es sich um ein inszeniertes Foto eines dreidimensionalen Objektes, Raumes usw. oder um eine einfache Reproduktion eines Gemäldes, eine Grafik, eines Fotonegatives (vgl. Handreichung 1.3)?
+- [ ] Handelt es sich um ein inszeniertes Foto eines dreidimensionalen Objektes, Raumes usw. oder um eine einfache Reproduktion eines Gemäldes, eine Grafik, eines Fotonegatives (vgl. [Rechte an einem Digitalisat](#rechte-an-einem-digitalisat))?
 
-- [ ] Ist die Vorlage für das Lichtbild vielleicht inzwischen gemeinfrei oder wurde rein mechanisch eine Reproduktion (z. B. Scan) erzeugt (vgl. Kap. 1.3)?
+- [ ] Ist die Vorlage für das Lichtbild vielleicht inzwischen gemeinfrei oder wurde rein mechanisch eine Reproduktion (z. B. Scan) erzeugt (vgl. [Rechte an einem Digitalisat](#rechte-an-einem-digitalisat))?
 
-- [ ] Wenn ein urheberrechtlicher Schutz besteht, liegt eine Lizenz für die Nutzung vor (vgl. Kap. 1.4, 1.5)?
+- [ ] Wenn ein urheberrechtlicher Schutz besteht, liegt eine Lizenz für die Nutzung vor (vgl. [Rechteübertragung und Lizenzformen](#rechteübertragung-und-lizenzformen), [Urheberrecht in Arbeitsverhältnissen, Praktika u. ä.](#urheberrecht-in-arbeitsverhältnissen-praktika-u-ä))?
 
 **Rechte am eigenen Bild**
 
-- [ ] Sind auf einem digitalisierten Fotonegativ oder Abzug Personen identifizierbar (vgl. Kap. 2)?
+- [ ] Sind auf einem digitalisierten Fotonegativ oder Abzug Personen identifizierbar (vgl. [Recht am eigenen Bild](#recht-am-eigenen-bild))?
 
 **Kennzeichen verfassungswidriger Organisationen**
 
-- [ ] Zeigen zu digitalisierende Objekte bzw. Digitalisate Symbole oder Kennzeichen insbesondere von NS- Organisationen (vgl. Kap. 3)?
+- [ ] Zeigen zu digitalisierende Objekte bzw. Digitalisate Symbole oder Kennzeichen insbesondere von NS- Organisationen (vgl. [Kennzeichen verfassungswidriger Organisationen](#kennzeichen-verfassungswidriger-organisationen))?
 
 ## Anhang: Verwendete und weiterführende Literatur
 
