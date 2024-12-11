@@ -16,5 +16,19 @@ Umgesetzt wird dies als Lehrprogramm bestehend aus einer zertifizierten ‘Grund
 3. Die TN können objektbezogene Daten erheben und strukturiert ablegen.
 4. Die TN können an Museumsstandards orientierte Digitalisate anfertigen.
 
+## Exemplarischer Veranstaltungsplan für das SoSe 2024
+| **Woche** | **Uhrzeit** | **Montag**                                                   | **Dienstag**                                                     | **Mittwoch**                                     | **Donnerstag**                           | **Freitag**                         |
+| --------- | ----------- | ------------------------------------------------------------ | ---------------------------------------------------------------- | ------------------------------------------------ | ---------------------------------------- | ----------------------------------- |
+| 1. Woche  | 10-13       | Grundlagen des Sammlungs&shy;managements                      | Exkursion Kustodie der Universität Jena                      | Praxis Objekterfassung und Metadaten         | Input Objektfotografie               | Input Recht,<br> Ethik, Nachnutzung |
+|           | 14-17       | Input Objekthandling, Verpackung, Lagerung, Gefahrstoffe | Exkursion Restaurierungs&shy;werkstatt der Universitäts&shy;bibliothek | Exkursion Antikensammlung                    | Exkursion Hausknecht Herbarium       | Aufbau Digitalisierungs&shy;technik      |
+|           |             |                                                              |                                                                  |                                                  |                                          |                                     |
+| 2. Woche  | 10-13       | Praxis Aufbau Digitalisierungs&shy;arbeitsplätze             | Praxis Objektfotografie und -katalogisierung                 | Praxis Objektfotografie und -katalogisierung | Abbau der Digitalisierungs&shy;arbeitsplätze | Zusammenfassung und Feedback-Runde  |
+|           | 14-17       | Praxis Objektfotografie und -katalogisierung             | Praxis Objektfotografie und -katalogisierung                 | Praxis Objektfotografie und -katalogisierung | Exkursion Zoologische Sammlung       |                                     |
+
+
+## Struktur des Repositoriums
+Dieses Repositorium enthält derzeit als nutzbare Ressourcen einen Ordner mit [Handreichungen](https://github.com/digiKulTh/Lehr-Lern-Materialien/tree/main/Handreichungen), die wir im Rahmen des Praxisseminars als PDFs an die Studierenden ausgeben und die uns als Orientierung über die Inhalte dienen sowie ein Verzeichnis der im Rahmen der Objektdigitalisierung eingesetzten [Technik](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/digiKulTh-Fototechnik.md).
+
 #### Interne Tipps für die Materialerstellung
 - Marcdown-TOC-Generator: https://bitdowntoc.derlin.ch/ (gibt ein Preset für GitHub)
+- `&shy;` ist der (unsichtbare) HTML-Code für ein 'weiches' Trennzeichen (nach Bedarf) und etwa in der Tabellenformatierung hilfreich
