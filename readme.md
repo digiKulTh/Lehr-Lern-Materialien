@@ -55,7 +55,7 @@ Von den 6 Niveaustufen der Lernzieltaxonomie nach Bloom werden die Stufen 1 (Wis
 
 
 ## Struktur des Repositoriums
-Dieses Repositorium enthält derzeit als nutzbare Ressourcen einen Ordner mit [Handreichungen](https://github.com/digiKulTh/Lehr-Lern-Materialien/tree/main/Handreichungen), die wir im Rahmen des Praxisseminars als PDFs an die Studierenden ausgeben und die uns als Orientierung über die Inhalte dienen sowie ein Verzeichnis der im Rahmen der Objektdigitalisierung eingesetzten [Technik](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/digiKulTh-Fototechnik.md).
+Dieses Repositorium enthält derzeit als nutzbare Ressourcen einen Ordner mit [Handreichungen](https://github.com/digiKulTh/Lehr-Lern-Materialien/tree/main/Handreichungen), die wir im Rahmen des Praxisseminars als PDFs an die Studierenden ausgeben und die uns als Orientierung über die Inhalte dienen. Weiterhin zu finden ist ein Verzeichnis der im Rahmen der Objektdigitalisierung eingesetzten [Technik](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/digiKulTh-Fototechnik.md) sowie eine [Vereinbarung über die Nachnutzung](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Vorlage_Rechte%C3%BCbertragung.md) der von den Teilnehmenden erzeugten Daten und Metadaten durch die Institution .
 
 #### Interne Tipps für die Materialerstellung
 - Marcdown-TOC-Generator: https://bitdowntoc.derlin.ch/ (gibt ein Preset für GitHub)
