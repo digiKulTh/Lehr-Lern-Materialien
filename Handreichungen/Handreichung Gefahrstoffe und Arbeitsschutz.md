@@ -88,16 +88,16 @@ Oft handelt es sich um Infrastrukturmaßnahmen, die von der (Abteilungs-)Leitung
 
 Jeder Kontakt mit einem Objekt bedeutet ein potenzielles Risiko für die Person, die mit dem Objekt arbeitet und für das Objekt. Folgende Fragen sollten vor der Arbeit mit Objekten geklärt werden:
 
-- [ ] Könnte die Sammlung belastete Objekte enthalten, z. B. durch die Art der Sammlung, der Objekte oder der Lagerung (vgl. Kap. 1)?
+- [ ] Könnte die Sammlung belastete Objekte enthalten, z. B. durch die Art der Sammlung, der Objekte oder der Lagerung?
 
-- [ ] Welche Arten von Gefahrstoffen/ Belastungen könnten vorliegen, z. B. Schimmel, Insektizide, Konservierungsmittel, etc. 
+- [ ] Welche Arten von Gefahrstoffen/ Belastungen könnten vorliegen, z. B. Schimmel, Insektizide, Konservierungsmittel, etc.?
 
-- [ ] Habe ich Anhaltspunkte für eine Belastung mit Schadstoffen, wie Stockflecken, kristalline Ausblühungen, seltsame Gerüche (Achtung: Viele Schadstoffe haben KEINEN Geruch!), aber auch Ausschlag, Atemnot, Schwindel, Kopfschmerzen (vgl. Kap. 2.1)?
+- [ ] Habe ich Anhaltspunkte für eine Belastung mit Schadstoffen, wie Stockflecken, kristalline Ausblühungen, seltsame Gerüche (Achtung: Viele Schadstoffe haben KEINEN Geruch!), aber auch Ausschlag, Atemnot, Schwindel, Kopfschmerzen (vgl. [Gefahrstoffe](#gefahrstoffe))?
 
-- [ ] Welche Schutzmaßnahmen sollte ich immer anwenden (vgl. Kap. 2.2)?
+- [ ] Welche Schutzmaßnahmen sollte ich immer anwenden (vgl. [Personenbezogene Schutzmaßnahmen](#personenbezogene-schutzmaßnahmen))?
 
 - [ ] Welche Schutzmaßnahmen müssen zusätzlich getroffen werden, wenn eine Schadstoffbelastung vorliegt?
-  Welche Schutzkleidung genau bei welchem Gefahrstoff getragen werden muss, kann nur auf Grundlage entsprechender Analysen und einer Gefährdungsbeurteilung entschieden werden (vgl. Kap. 2.2-2.4)
+  Welche Schutzkleidung genau bei welchem Gefahrstoff getragen werden muss, kann nur auf Grundlage entsprechender Analysen und einer Gefährdungsbeurteilung entschieden werden (vgl. [Personenbezogene Schutzmaßnahmen](#personenbezogene-schutzmaßnahmen), [Organisatorische Schutzmaßnahmen](#organisatorische-schutzmaßnahmen), [Technische Schutzmaßnahmen](#technische-schutzmaßnahmen)).
 
 > ⚠️ Falls bei Objekten Verdachtsmomente für schädliche Substanzen oder Schädlingsbefall (Fraßspuren, Schimmel) vorliegen, konsultieren Sie vor jeglicher Bearbeitung – und dies meint auch Verpackung und Transport – eine:n Expert:in und halten Sie die vereinbarten Schutzmaßnahmen ein!
 
