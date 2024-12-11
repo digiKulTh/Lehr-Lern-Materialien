@@ -10,11 +10,34 @@ Ziel des Vorhabens ist der nachhaltige Aufbau eines Praktikumsprogramms zur Obje
 Umgesetzt wird dies als Lehrprogramm bestehend aus einer zertifizierten ‘Grundausbildung’ als zweiwöchiges Praxisseminar, ergänzt um – je nach Bedarf seitens der Studierenden – studienbegleitende Praktika mit einer Laufzeit von vier bis acht Wochen. Die Ausbildung erfolgt durch Mitarbeitende in der Abteilung DKSM mit langjähriger Erfahrung und umfangreicher Expertise sowie anhand der Bestände Jenaer Universitätssammlungen. Damit lässt sich das gesamte Spektrum von ‚Flachware‘ wie Grafik über kulturhistorische Objekte wie Gemälde und Skulpturen bis hin zu naturwissenschaftlichen Objekten wie Herbarbögen, Präparaten oder Forschungsinstrumenten abbilden. 
 
 ## Zentrale Lernziele
+Von den 6 Niveaustufen der Lernzieltaxonomie nach Bloom werden die Stufen 1 (Wissen: Fakten und Informationen wiedergeben), 2 (Verstehen: Informationen erklären, interpretieren und in eigenen Worten wiedergeben) und 3 (Anwenden: Gelerntes Wissen in neuen Situationen anwenden) adressiert.
 
-1. Die TN kennen wesentliche Rahmenbedingungen von Kulturgutdigitalisierung.
-2. Die TN haben theoretische Kenntnisse und praktische Erfahrungen im Umgang mit Objekten.
-3. Die TN können objektbezogene Daten erheben und strukturiert ablegen.
-4. Die TN können an Museumsstandards orientierte Digitalisate anfertigen.
+- Die TN kennen wesentliche Rahmenbedingungen von Kulturgutdigitalisierung.
+  - Sie kennen die Relevanz von Kulturgutdigitalisierung, wissen, welche Ziele damit verfolgt werden und welche Arbeitsschritte dafür notwendig sind (1). 
+  - Sie haben ein Verständnis für die grundlegende Struktur musealen Sammlungsmanagements als Verschränkung physischer (z. B. Handling, Konservierung) und digitaler (z. B. Fotografie, Erschließung) Aspekte (2).
+  - Sie kennen zentrale rechtliche Aspekte von Sammlungsdigitalisierung im Bereich Urheber- und Persönlichkeitsrecht (1).
+  - Sie kennen Lizenzmodelle für die Publikation von (Meta-)Daten (1) und können deren Eigenschaften beschreiben (2).
+  - Sie kennen ethische Herausforderungen der Kulturgutdigitalisierung insbesondere im weiteren Anwendungsbereich der CARE-Prinzipien (sensible Objekte) (1).
+  - Sie kennen Formen der Nachnutzung von Sammlungsdaten in Forschung, Lehre und Vermittlung (1).
+  - Sie haben einen Überblick über relevante Expertisefelder für den Gesamtprozess und können relevante Ansprechpartner benennen (2).
+- Die TN haben theoretische Kenntnisse und praktische Erfahrungen im Umgang mit Objekten.
+  - Sie haben Grundkenntnisse im Handling von Objekten, d. h. kennen die Merkmale geeigneter Handschuhe, Verpackungsmaterialien, Depotmöbel und Räumlichkeiten (1).
+  - Sie kennen häufig auftretende Substanzen, Zustände und Bedingungen, die den Objekten oder ihnen selbst bei Exposition schaden können (1). 
+  - Sie kennen die Möglichkeiten der Anbringung von Inventarnummern und grundlegende Konservierungstechniken inkl. IPM (1).
+  - Sie haben diese Kenntnisse auf einen abgegrenzten Sammlungsbestand unter Anleitung praktisch angewendet (3).
+- Die TN können objektbezogene Daten erheben und strukturiert ablegen.
+  - Sie haben Grundkenntnisse in den Bereichen Metadaten, Datenmanagement und Linked Open Data (FAIR LIDO) (1). 
+  - Sie verstehen die Relevanz strukturierter Daten für die Arbeit mit Sammlungen und die Nutzung von Sammlungsdaten für Forschung, Lehre und Vermittlung (2).
+  - Sie kennen verbreitete Erfassungssysteme, Thesauri/Vokabulare sowie Datenformate (1).
+  - Sie wissen, welche Metadaten sie bei der Digitalisierung von Kulturgut erheben sollten und wie dies in einer Erfassungsmaske zu geschehen hat (2).
+  - Sie können objektbezogene Daten in einem musealen Erfassungssystem strukturiert erfassen (3).
+- Die TN können an Museumsstandards orientierte Digitalisate anfertigen.
+  - Sie kennen relevante Ausrüstung zur Objektfotografie sowie wichtige Kamera- und Objektivparameter (1).
+  - Sie können die Elemente und Merkmale eines Arbeitsplatzes für Objektfotografie beschreiben (2).
+  - Sie können wesentliche Qualitätskriterien für Objektfotografien benennen (1) und vorgelegte Digitalisate entsprechend einschätzen (2).
+  - Sie kennen wesentliche Schritte der digitalen Entwicklung und des Datenexports (1).
+  - Sie haben alle Arbeitsschritte der Objektdigitalisierung angewendet und verstehen ihren Zusammenhang (3).
+  - Sie können selbstständig einen vorhandenen Arbeitsplatz für die Objektfotografie betreiben und Digitalisate erstellen (3).
 
 ## Exemplarischer Veranstaltungsplan für das SoSe 2024
 | **Woche** | **Uhrzeit** | **Montag**                                                   | **Dienstag**                                                     | **Mittwoch**                                     | **Donnerstag**                           | **Freitag**                         |
