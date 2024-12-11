@@ -1,6 +1,12 @@
 # Digitale Kulturwerkbank Thüringen@ThULB. 
 Hier findet sich die Materialien aus dem Lehrinnovationsprojekt [digitale Kulturwerkstatt Thüringen (digiKulTh)](https://dksm.thulb.uni-jena.de/digikulth/), durchgeführt im Rahmen von [Freiraum2023](https://stiftung-hochschullehre.de/foerderung/freiraum/) der [Stiftung Innovation in der Hochschullehre](https://stiftung-hochschullehre.de/) an der [Thüringer Universitäts- und Landesbibliothek Jena](https://www.thulb.uni-jena.de/home).
 
+## Inhalt
+- [Rahmenbedingungen und Konzept](#rahmenbedingungen-und-konzept)
+- [Lernziele](#lernziele)
+- [Exemplarischer Veranstaltungsplan für das SoSe 2024](#exemplarischer-veranstaltungsplan-für-das-sose-2024)
+- [Struktur des Repositoriums](#struktur-des-repositoriums)
+
 ## Rahmenbedingungen und Konzept
 
 Die Abteilung Digitales Kultur- und Sammlungsmanagement (DKSM) an der Thüringer Universitäts- und Landesbibliothek (ThULB) betreut weit über 100 Projekte zur Objektdigitalisierung im Kultursektor. Eine zentrale Herausforderung, die sich durch den wachsenden Bedarf an Digital-Know-how weiter verschärft, ist der Mangel an Kompetenzen in den Bereichen Handling, Erschließung, Objektfotografie und Datenanreicherung an den kooperierenden Institutionen.
@@ -9,7 +15,7 @@ Ziel des Vorhabens ist der nachhaltige Aufbau eines Praktikumsprogramms zur Obje
 
 Umgesetzt wird dies als Lehrprogramm bestehend aus einer zertifizierten ‘Grundausbildung’ als zweiwöchiges Praxisseminar, ergänzt um – je nach Bedarf seitens der Studierenden – studienbegleitende Praktika mit einer Laufzeit von vier bis acht Wochen. Die Ausbildung erfolgt durch Mitarbeitende in der Abteilung DKSM mit langjähriger Erfahrung und umfangreicher Expertise sowie anhand der Bestände Jenaer Universitätssammlungen. Damit lässt sich das gesamte Spektrum von ‚Flachware‘ wie Grafik über kulturhistorische Objekte wie Gemälde und Skulpturen bis hin zu naturwissenschaftlichen Objekten wie Herbarbögen, Präparaten oder Forschungsinstrumenten abbilden. 
 
-## Zentrale Lernziele
+## Lernziele
 Von den 6 Niveaustufen der Lernzieltaxonomie nach Bloom werden die Stufen 1 (Wissen: Fakten und Informationen wiedergeben), 2 (Verstehen: Informationen erklären, interpretieren und in eigenen Worten wiedergeben) und 3 (Anwenden: Gelerntes Wissen in neuen Situationen anwenden) adressiert.
 
 - Die TN kennen wesentliche Rahmenbedingungen von Kulturgutdigitalisierung.
