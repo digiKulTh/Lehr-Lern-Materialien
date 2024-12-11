@@ -5,7 +5,7 @@ Michael Markert
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
 - [Einleitung](#einleitung)
-- [Die Fair-Prinzipien](#die-fair-prinzipien)
+- [Die FAIR-Prinzipien](#die-fair-prinzipien)
 - [Die CARE-Prinzipien](#die-care-prinzipien)
 - [Be FAIR and CARE: Der Minimaldatensatz der Deutschen Digitalen Bibliothek als Anwendungsbeispiel](#be-fair-and-care-der-minimaldatensatz-der-deutschen-digitalen-bibliothek-als-anwendungsbeispiel)
 - [Jenseits von FAIR und CARE](#jenseits-von-fair-und-care)
@@ -20,7 +20,7 @@ Die Digitalisierung von Kulturgütern und insbesondere die Veröffentlichung ent
 
 Das Feld der Sammlungsethik ist seit einigen Jahren in starker Bewegung und bisher sind im Zuge dessen zwei Sets ethischer Prinzipien für die Arbeit mit Sammlungsdaten entstanden, die domänenübergreifend anerkannt sind und genutzt werden. Es handelt sich dabei um FAIR aus dem Bereich des Forschungsdatenmanagements und CARE aus der Auseinandersetzung indigener Communities mit westlicher Museumsarbeit.
 
-## Die Fair-Prinzipien
+## Die FAIR-Prinzipien
 
 Die [FAIR-Prinzipien](https://www.go-fair.org/fair-principles/) wurden 2016 vorgestellt und schnell in verschiedenen Domänen zur Qualitätssicherung von Datenpublikationen adaptiert, obgleich sie ursprünglich nur den Zugang zu wissenschaftlichen Forschungsdaten auf eine neue Grundlage stellen sollten. FAIR steht für „**F**indable, **A**ccessible, **I**nteroperable, and **R**eusable“, also auffindbar, zugänglich, austauschbar und nachnutzbar. Es handelt sich um eine auf Open Science ausgerichtete Datenethik, die eine bestimmte technische Implementierung nahelegt.
 
@@ -77,13 +77,13 @@ Unabhängig von der Verfügbarkeit entsprechender Guidelines, Empfehlungen und F
 
 Es ist ein naheliegender Impuls sich auf das Recht als vermeintlich sicheren Hafen beim Umgang mit Sammlungen und Sammlungsdaten zurückziehen zu wollen. Nur leider liefert es erstens nicht auf alles eine Antwort und fällt zweitens keine Entscheidungen. Zwar gibt es mit dem Urheberrecht anwendbare Regeln, aber welches Lizenzmodell man wählt und ob überhaupt Daten veröffentlicht werden sollen, hängt davon ab, was man für gut und gerecht hält – und welche Ressourcen für eine Umsetzung zur Verfügung stehen.
 
-**FAIRe Publikation** (vgl. Kap. 2)
+**FAIRe Publikation** (vgl. [Die FAIR-Prinzipien](#die-fair-prinzipien))
 
 - [ ] Wie wichtig ist der Zugang zu Metadaten und Digitalisaten für eine breite Nutzer:innengruppe?
 
 - [ ] Wie sind die FAIR-Prinzipien implementiert und besteht eventuell Handlungsbedarf?
 
-**CARE-Bedarfe** (vgl. Kap. 3)
+**CARE-Bedarfe** (vgl. [Die CARE-Prinzipien](#die-care-prinzipien))
 
 - [ ] Haben meine Sammlungsdaten einen Bezug zu indigenen Gemeinschaften?
 
@@ -93,7 +93,7 @@ Es ist ein naheliegender Impuls sich auf das Recht als vermeintlich sicheren Haf
 
 - [ ] Welche Möglichkeiten existieren, um im Digitalen indigene Interessen und Bedürfnisse abzubilden, etwa über TK- oder BC-Label?
 
-**Weitere Ethische Aspekte** (vgl. Kap. 5)
+**Weitere Ethische Aspekte** (vgl. [Jenseits von FAIR und CARE](#jenseits-von-fair-und-care))
 
 - [ ] Liegen relevante (z. B. sprachliche) Diskriminierungsformen, Machtgefälle, Ausschlüsse oder sensible Objekte wie menschliche Überreste oder Raubgut vor?
 
