@@ -1,103 +1,81 @@
-# Welcome to Your Adventure! 🎮
+<!--
+author:  Claude
+email: 
+version:  0.1.0
+language: en
+narrator: US English Female
+comment: A simple adventure story with multiple paths
+-->
 
-Welcome to this interactive story! In this adventure, your decisions shape your journey. Choose wisely and enjoy the experience.
+# The Ancient Temple Adventure
 
----
+Once upon a time, you found yourself standing at the entrance of an ancient temple deep in the jungle...
 
-## The Beginning: Choose Your Path
+[[Continue]]
+[[Turn back and go home]]
 
-You are standing at a crossroads. Which path will you take?
+## Continue
+You gather your courage and step into the dimly lit temple entrance. The stone walls are covered in mysterious symbols, and you notice two passages ahead.
 
-?[](Which path will you choose?)
-- [ ] **Dense Forest** 🌲
-- [ ] **Misty Mountains** 🏔️
+[[Take the left passage]]
+[[Take the right passage]]
 
-<script>
-if (input == "Dense Forest") {
-  goToSection("forest");
-} else if (input == "Misty Mountains") {
-  goToSection("mountains");
-}
-</script>
+## Turn back and go home
+You decide this adventure is too dangerous and head back home. Perhaps another day...
 
----
+The End.
 
-## Forest Adventure 🐾 {#forest}
+[[Start over]]
 
-You step into the dense forest, surrounded by towering trees and the sound of rustling leaves. Suddenly, you hear a growl — it’s a wolf!
+## Take the left passage
+The left passage leads you to a room with a golden idol on a pedestal. You see:
+1. A suspicious pressure plate in front of it
+2. Some loose rocks near the wall
 
-What will you do?
+[[Carefully walk around the pressure plate]]
+[[Try to throw rocks at the idol]]
 
-?[](How will you handle the wolf?)
-- [ ] Try to scare it away 🐺
-- [ ] Run as fast as you can 🏃‍♂️
+## Take the right passage
+The right passage opens into a chamber with an ancient puzzle door. There are three levers:
+- Red
+- Blue
+- Green
 
-<script>
-if (input == "Try to scare it away") {
-  goToSection("scare-wolf");
-} else if (input == "Run as fast as you can") {
-  goToSection("run-forest");
-}
-</script>
+[[Pull the red lever]]
+[[Pull the blue lever]]
+[[Pull the green lever]]
 
----
+## Carefully walk around the pressure plate
+Using your archaeological knowledge, you carefully maneuver around the trap and retrieve the idol safely. Congratulations! You've succeeded in your quest!
 
-## Misty Mountain Climb ❄️ {#mountains}
+The End.
 
-You climb the steep, mist-covered mountains. The air gets colder, and you feel the altitude affecting your breathing. Suddenly, you see a cave entrance.
+[[Start over]]
 
-What will you do?
+## Try to throw rocks at the idol
+As the rocks hit the idol, the entire room begins to shake! The ceiling starts collapsing! You run out just in time, but empty-handed.
 
-?[](What’s your choice?)
-- [ ] Enter the cave 🔦
-- [ ] Continue climbing ⬆️
+The End.
 
-<script>
-if (input == "Enter the cave") {
-  goToSection("cave");
-} else if (input == "Continue climbing") {
-  goToSection("climb-mountain");
-}
-</script>
+[[Start over]]
 
----
+## Pull the red lever
+The ground beneath you opens up! You fall into a pit of... soft cushions? It seems this was an escape route. You slide through a tunnel and end up outside with an ancient treasure map!
 
-## You Scared the Wolf! 🐕 {#scare-wolf}
+The End.
 
-You yell loudly and wave your arms. The wolf stops, looks confused, and runs away. You feel victorious!
+[[Start over]]
 
-Congratulations, you survived the forest. 🎉
+## Pull the blue lever
+A burst of ancient dust fills the room. When it clears, nothing seems to have changed... except your hair is now bright blue!
 
-[Restart Adventure](#beginning)
+The End.
 
----
+[[Start over]]
 
-## You Ran from the Wolf! 🏃 {#run-forest}
+## Pull the green lever
+The door slowly creaks open, revealing a magnificent library of ancient scrolls. You've discovered knowledge far more valuable than gold!
 
-You turn around and sprint as fast as you can. Luckily, the wolf doesn’t chase you. You escape unharmed but feel shaken.
+The End.
 
-You made it out of the forest alive. 🎉
-
-[Restart Adventure](#beginning)
-
----
-
-## Exploring the Cave 🕯️ {#cave}
-
-You enter the dark cave, your footsteps echoing around you. Suddenly, you find a treasure chest! Inside, there’s gold and jewels. You’re rich!
-
-Congratulations, your mountain adventure ends with treasure. 🏆
-
-[Restart Adventure](#beginning)
-
----
-
-## Continuing the Climb 🌄 {#climb-mountain}
-
-You keep climbing higher and higher until you reach the summit. The view is breathtaking, and you feel a sense of accomplishment.
-
-Congratulations, you conquered the mountain. 🌟
-
-[Restart Adventure](#beginning)
-
----
+[[Start over]]
