@@ -9,6 +9,7 @@ Welcome to this interactive story! In this adventure, your decisions shape your 
 You are standing at a crossroads. Which path will you take?
 
 Which path will you choose?
+
 [[ ]] **Dense Forest** 🌲
 [[ ]] **Misty Mountains** 🏔️
 
