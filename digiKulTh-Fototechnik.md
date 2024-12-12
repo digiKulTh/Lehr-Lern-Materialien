@@ -1,9 +1,15 @@
 # Materialliste Objektfotografie@digiKulTh 
+Für die Auswahl der Technik waren mehrere Faktoren ausschlaggebend:
+- Orientierung an den Setups, die an der ThULB schon langjährig für Museumsdigitalisierung eingesetzt werden
+- ausreichend Leistungsreserven für langjährige Nutzung
+- Betrieb unabhängig von individuellen Nutzer:innenkonten
+- kompakt genug für einen unkomplizierten Transport (je Setup ein Fotokoffer, zwei Euroboxen, eine Stativtasche) und Aufbau auch in kleineren Räumen
+
 ## Hardware (mehrere identische Setups)
   
 ### Kamerausstattung
 - Body **Sony A7RV**<br>
-    Vollformat-Body mit hoher Auflösung (61 Megapixel), entsprechend flexibel und lange ausreichend leistungsfähig auch für anspruchsvolle Anwendungen.
+    Vollformat-Body mit hoher Auflösung (61 Megapixel), entsprechend flexibel und leistungsfähig auch für anspruchsvolle Anwendungen.
 - Objektiv **Sony 90/2.8 Macro G OSS**<br>
     Ein Makroobjektiv erlaubt nicht nur das Fotografieren sehr kleiner Objekte wie Münzen, sondern bildet auch sehr scharf und kontrastreich ab.
 - Objektiv **Sony 24-70/2.8 GMII**<br>
@@ -13,7 +19,7 @@
 - SD Karte **64GB SanDisk Extreme Pro**<br>
     Diese wird nur für Metadaten und Kameraeinstellungen verwendet. Fotos werden direkt auf dem Computer / Externe SSD gespeichert.
 ### Beleuchtung und Hintergrund
-- 2x **Walimex pro VC-500** Excellence Studioblitzleuchten 
+- 2x **Walimex pro VC-500 Excellence** Studioblitzleuchten 
 - 2x Softboxen **Walimex Pro 60x90**
 - 2x Stativ für Blitze
 - **Kaiser Funksender und -empfänger**<br>
