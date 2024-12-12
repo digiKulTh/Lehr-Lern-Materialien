@@ -8,7 +8,7 @@ Welcome to this interactive story! In this adventure, your decisions shape your 
 
 You are standing at a crossroads. Which path will you take?
 
-?[](Which path will you choose?)
+Which path will you choose?
 - [ ] **Dense Forest** 🌲
 - [ ] **Misty Mountains** 🏔️
 
@@ -28,7 +28,7 @@ You step into the dense forest, surrounded by towering trees and the sound of ru
 
 What will you do?
 
-?[](How will you handle the wolf?)
+How will you handle the wolf?
 - [ ] Try to scare it away 🐺
 - [ ] Run as fast as you can 🏃‍♂️
 
@@ -48,7 +48,7 @@ You climb the steep, mist-covered mountains. The air gets colder, and you feel t
 
 What will you do?
 
-?[](What’s your choice?)
+What’s your choice?
 - [ ] Enter the cave 🔦
 - [ ] Continue climbing ⬆️
 
