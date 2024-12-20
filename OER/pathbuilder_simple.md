@@ -1,24 +1,4 @@
-<!--  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 20px;
-    }
-    .container {
-      max-width: 400px;
-      margin: 0 auto;
-    }
-    input {
-      width: 100%;
-      padding: 10px;
-      font-size: 16px;
-      margin-bottom: 10px;
-    }
-    .output {
-      font-size: 18px;
-      color: #333;
-    }
-  </style> 
-  -->
+
 
   <div class="container">
     <h2>Year + 70 Calculator</h2>
