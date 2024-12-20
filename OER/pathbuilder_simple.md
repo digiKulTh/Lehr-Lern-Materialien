@@ -1,31 +1,45 @@
-## Welcome to My Course
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    .container {
+      max-width: 400px;
+      margin: 0 auto;
+    }
+    input {
+      width: 100%;
+      padding: 10px;
+      font-size: 16px;
+      margin-bottom: 10px;
+    }
+    .output {
+      font-size: 18px;
+      color: #333;
+    }
+  </style>
 
-What would you like to learn?
+  <div class="container">
+    <h2>Year + 70 Calculator</h2>
+    <label for="yearInput">Enter a year:</label>
+    <input type="number" id="yearInput" placeholder="Enter a year (e.g., 2024)">
+    <div class="output" id="output"></div>
+  </div>
 
-- [Go to Section 1](#section-1)
-- [Go to Section 2](#section-2)
-- [Go to Section 3](#section-3)
+  <script>
+    // Get references to the input field and output div
+    const yearInput = document.getElementById('yearInput');
+    const output = document.getElementById('output');
 
----
-
-## Section 1
-
-Welcome to Section 1. This section covers the basics of LiaScript.
-
-[Back to Menu](#welcome-to-my-course)
-
----
-
-## Section 2
-
-Welcome to Section 2. This section dives deeper into LiaScript capabilities.
-
-[Back to Menu](#welcome-to-my-course)
-
----
-
-## Section 3
-
-Welcome to Section 3. This section focuses on advanced topics.
-
-[Back to Menu](#welcome-to-my-course)
+    // Add an event listener to update the output as the user types
+    yearInput.addEventListener('input', () => {
+      const year = parseInt(yearInput.value); // Parse the input as an integer
+      if (!isNaN(year)) {
+        // If the input is a valid number, calculate and display the year + 70
+        output.textContent = `Year + 70: ${year + 70}`;
+      } else {
+        // If the input is invalid, clear the output
+        output.textContent = '';
+      }
+    });
+  </script>
