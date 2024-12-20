@@ -1,4 +1,4 @@
-  <style>
+<!--  <style>
     body {
       font-family: Arial, sans-serif;
       margin: 20px;
@@ -17,7 +17,8 @@
       font-size: 18px;
       color: #333;
     }
-  </style>
+  </style> 
+  -->
 
   <div class="container">
     <h2>Year + 70 Calculator</h2>
