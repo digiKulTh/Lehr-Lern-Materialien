@@ -5,7 +5,7 @@ Hier finden sich die Materialien aus dem Lehrinnovationsprojekt [digitale Kultur
 - [Rahmenbedingungen und Konzept](#rahmenbedingungen-und-konzept)
 - [Lernziele](#lernziele)
 - [Exemplarischer Veranstaltungsplan für das SoSe 2024](#exemplarischer-veranstaltungsplan-für-das-sose-2024)
-- [Struktur des Repositoriums](#struktur-des-repositoriums)
+- [Inhalt des Repositoriums](#inhalt-des-repositoriums)
 
 ## Rahmenbedingungen und Konzept
 
@@ -54,7 +54,7 @@ Von den 6 Niveaustufen der Lernzieltaxonomie nach Bloom werden die Stufen 1 (Wis
 |           | 14-17       | Praxis Objektfotografie und -katalogisierung             | Praxis Objektfotografie und -katalogisierung                 | Praxis Objektfotografie und -katalogisierung | Exkursion Zoologische Sammlung       |                                     |
 
 
-## Struktur des Repositoriums
+## Inhalt des Repositoriums
 Dieses Repositorium enthält derzeit als nutzbare Ressourcen einen Ordner mit [Handreichungen](https://github.com/digiKulTh/Lehr-Lern-Materialien/tree/main/Handreichungen), die wir im Rahmen des Praxisseminars als PDFs an die Studierenden ausgeben und die uns als Orientierung über die Inhalte dienen. Weiterhin zu finden ist ein Verzeichnis der im Rahmen der Objektdigitalisierung eingesetzten [Technik](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/digiKulTh-Fototechnik.md) sowie eine [Vereinbarung über die Nachnutzung](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Vorlage_Rechte%C3%BCbertragung.md) der von den Teilnehmenden erzeugten Daten und Metadaten durch die Institution.
 
 #### Interne Tipps für die Materialerstellung
