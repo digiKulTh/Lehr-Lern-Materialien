@@ -10,36 +10,42 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
 @dragdrop
 <section style="width: 100%; max-width: 600px; margin: 20px auto; padding: 20px; border: 1px solid #ccc; border-radius: 8px;">
   <div class="question" style="font-size: 18px; margin-bottom: 20px;">@0</div>
-  <div class="choices-container" style="display: flex; flex-direction: column; gap: 10px;">
+  <div id="choices-@uid" class="choices-container" style="display: flex; flex-direction: column; gap: 10px;">
     @1
   </div>
-  <div class="feedback" style="margin-top: 20px; font-weight: bold; text-align: center;"></div>
+  <div id="feedback-@uid" style="margin-top: 20px; font-weight: bold; text-align: center;"></div>
 </section>
 
 <script>
-  let correctAnswers = [@2];
-  
-  new Sortable(document.querySelector('.choices-container'), {
-    animation: 150,
-    onEnd: function() {
-      checkAnswer();
-    }
-  });
-
-  function checkAnswer() {
-    const choices = Array.from(document.querySelectorAll('.choice'));
-    const userAnswer = choices.map(choice => choice.textContent.trim());
+  (function(){
+    const correctOrder = [@2];
+    const container = document.getElementById("choices-@uid");
+    const feedback = document.getElementById("feedback-@uid");
     
-    const feedback = document.querySelector('.feedback');
-    
-    if (JSON.stringify(userAnswer) === JSON.stringify(correctAnswers)) {
-      feedback.textContent = "Correct!";
-      feedback.style.color = "green";
-    } else {
-      feedback.textContent = "Try again!";
-      feedback.style.color = "red";
-    }
-  }
+    new Sortable(container, {
+      animation: 150,
+      onEnd: function() {
+        const choices = Array.from(container.querySelectorAll('.choice'));
+        const currentOrder = choices.map(choice => choice.textContent.trim());
+        
+        let isCorrect = true;
+        for(let i = 0; i < correctOrder.length; i++) {
+          if(currentOrder[i] !== correctOrder[i]) {
+            isCorrect = false;
+            break;
+          }
+        }
+        
+        if (isCorrect) {
+          feedback.textContent = "Correct!";
+          feedback.style.color = "green";
+        } else {
+          feedback.textContent = "Try again!";
+          feedback.style.color = "red";
+        }
+      }
+    });
+  })();
 </script>
 @end
 -->
