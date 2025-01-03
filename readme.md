@@ -60,4 +60,4 @@ Dieses Repositorium enthält derzeit als nutzbare Ressourcen einen Ordner mit [H
 #### Interne Tipps für die Materialerstellung
 - Marcdown-TOC-Generator: https://bitdowntoc.derlin.ch/ (gibt ein Preset für GitHub)
 - `&shy;` ist der (unsichtbare) HTML-Code für ein 'weiches' Trennzeichen (nach Bedarf) und etwa in der Tabellenformatierung hilfreich
-- https://github.com/BaileyJM02/markdown-to-pdf erlaubt die automatische Generierung von PDFs aus Markdown-Dokumenten in einem Ordner via GitHub-Action
+- https://github.com/BaileyJM02/markdown-to-pdf erlaubt die automatische Generierung von PDFs aus Markdown-Dokumenten in einem Ordner via GitHub-Action. Gut gestaltete PDFs, u. a. mit Kopf- und Fußzeilen, generiert der Editor [MarkText](https://github.com/marktext/marktext).
