@@ -8,7 +8,7 @@ narrator: US English Female
 script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
 
 @dragdrop
-<section style="width: 100%; max-width: 600px; margin: 20px auto; padding: 20px; border: 1px solid #ccc; border-radius: 8px;">
+<section style="width: 100%; max-width: 600px; margin: 20px auto; padding: 20px; border: 1px solid #ccc; border-radius: 8px;" id="quiz-@0">
   <div class="question" style="font-size: 18px; margin-bottom: 20px;">@0</div>
   
   <div style="display: flex; gap: 20px;">
@@ -32,25 +32,31 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
 <script>
   (function(){
     const quizId = '@0'.replace(/[^a-zA-Z0-9]/g, '');
-    const poolContainer = document.querySelector(`#pool-${quizId}`);
-    const targetContainer = document.querySelector(`#target-${quizId}`);
-    const feedback = targetContainer.parentElement.parentElement.querySelector('.feedback');
+    const quizContainer = document.querySelector(`#quiz-${quizId}`);
+    const poolContainer = quizContainer.querySelector('.pool-container');
+    const targetContainer = quizContainer.querySelector('.target-container');
+    const feedback = quizContainer.querySelector('.feedback');
     const correctAnswers = new Set('@2'.split(';'));
     
     new Sortable(poolContainer, {
-      group: quizId,
-      animation: 150
+      group: {
+        name: quizId,
+        pull: 'clone',
+        put: true
+      },
+      animation: 150,
+      onEnd: checkAnswer
     });
     
     new Sortable(targetContainer, {
-      group: quizId,
-      animation: 150,
-      onAdd: function() {
-        checkAnswer();
+      group: {
+        name: quizId,
+        pull: true,
+        put: true
       },
-      onRemove: function() {
-        checkAnswer();
-      }
+      animation: 150,
+      onAdd: checkAnswer,
+      onRemove: checkAnswer
     });
 
     function checkAnswer() {
