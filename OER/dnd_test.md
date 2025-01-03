@@ -29,13 +29,17 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
         const choices = Array.from(container.querySelectorAll('.choice'));
         const currentOrder = choices.map(choice => choice.textContent.trim());
         
-        let isCorrect = true;
-        for(let i = 0; i < correctOrder.length; i++) {
-          if(currentOrder[i] !== correctOrder[i]) {
-            isCorrect = false;
-            break;
-          }
+        // Check if arrays are the same length
+        if (currentOrder.length !== correctOrder.length) {
+          feedback.textContent = "Try again!";
+          feedback.style.color = "red";
+          return;
         }
+        
+        // Check if all elements match in order
+        const isCorrect = currentOrder.every((item, index) => {
+          return item === correctOrder[index];
+        });
         
         if (isCorrect) {
           feedback.textContent = "Correct!";
