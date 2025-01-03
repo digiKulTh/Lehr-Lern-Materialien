@@ -21,7 +21,7 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
     const quizId = '@0'.replace(/[^a-zA-Z0-9]/g, '');
     const container = document.querySelector(`#quiz-${quizId}`);
     const feedback = container.nextElementSibling;
-    const correctOrder = [@2];
+    const correctAnswers = [@2];
     
     new Sortable(container, {
       animation: 150,
@@ -29,17 +29,11 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
         const choices = Array.from(container.querySelectorAll('.choice'));
         const currentOrder = choices.map(choice => choice.textContent.trim());
         
-        // Check if arrays are the same length
-        if (currentOrder.length !== correctOrder.length) {
-          feedback.textContent = "Try again!";
-          feedback.style.color = "red";
-          return;
-        }
+        console.log('Current order:', currentOrder);
+        console.log('Correct answers:', correctAnswers);
         
-        // Check if all elements match in order
-        const isCorrect = currentOrder.every((item, index) => {
-          return item === correctOrder[index];
-        });
+        const isCorrect = currentOrder.length === correctAnswers.length && 
+                         currentOrder.every((answer, index) => answer === correctAnswers[index]);
         
         if (isCorrect) {
           feedback.textContent = "Correct!";
@@ -64,7 +58,7 @@ Try to order these items correctly by dragging and dropping them!
 <div class="choice" style="padding: 10px; background-color: #f0f0f0; border: 1px solid #ddd; border-radius: 4px; cursor: move; user-select: none;">2</div>
 <div class="choice" style="padding: 10px; background-color: #f0f0f0; border: 1px solid #ddd; border-radius: 4px; cursor: move; user-select: none;">3</div>
 <div class="choice" style="padding: 10px; background-color: #f0f0f0; border: 1px solid #ddd; border-radius: 4px; cursor: move; user-select: none;">1</div>,
-"1","2","3","4")
+1,2,3,4)
 
 Try another example:
 
