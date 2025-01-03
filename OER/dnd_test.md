@@ -21,7 +21,7 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
     const quizId = '@0'.replace(/[^a-zA-Z0-9]/g, '');
     const container = document.querySelector(`#quiz-${quizId}`);
     const feedback = container.nextElementSibling;
-    const correctAnswers = [@2];
+    const correctAnswers = '@2'.split(',');
     
     new Sortable(container, {
       animation: 150,
@@ -66,4 +66,4 @@ Try another example:
 <div class="choice" style="padding: 10px; background-color: #f0f0f0; border: 1px solid #ddd; border-radius: 4px; cursor: move; user-select: none;">Watermelon</div>
 <div class="choice" style="padding: 10px; background-color: #f0f0f0; border: 1px solid #ddd; border-radius: 4px; cursor: move; user-select: none;">Apple</div>
 <div class="choice" style="padding: 10px; background-color: #f0f0f0; border: 1px solid #ddd; border-radius: 4px; cursor: move; user-select: none;">Grape</div>,
-"Grape","Apple","Watermelon")
+Grape,Apple,Watermelon)
