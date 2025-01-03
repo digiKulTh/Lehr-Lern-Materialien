@@ -5,148 +5,163 @@ version:  0.1.0
 language: de
 narrator: Deutsch Female
 
-@DragDropQuiz
+********************************************************************************
+**Extension: DragAndDropQuiz**
+********************************************************************************
+
 <script>
-    let container = document.createElement('div');
-    container.className = 'drag-drop-quiz';
-    
-    // Parse input parameters
-    let items = '@0'.split(',');
-    let correctOrder = [@1];
-    
-    // Add styles
-    let style = document.createElement('style');
-    style.textContent = `
-        .drag-drop-quiz {
-            margin: 20px 0;
-        }
-        .drag-container {
-            margin: 20px 0;
-            padding: 10px;
-            background: #f5f5f5;
-            border-radius: 5px;
-        }
-        .draggable {
-            padding: 10px;
-            margin: 5px;
-            background: white;
-            border: 1px solid #ccc;
-            cursor: grab;
-            user-select: none;
-            border-radius: 3px;
-        }
-        .draggable.dragging {
-            opacity: 0.5;
-        }
-        .drop-zone {
-            min-height: 50px;
-            margin: 10px 0;
-            padding: 10px;
-            border: 2px dashed #ccc;
-            border-radius: 5px;
-        }
-        .check-button {
-            margin-top: 10px;
-            padding: 8px 16px;
-            background: #2196f3;
-            color: white;
-            border: none;
-            border-radius: 4px;
-            cursor: pointer;
-        }
-        .feedback {
-            margin-top: 10px;
-            padding: 10px;
-            border-radius: 4px;
-            display: none;
-        }
-        .feedback.correct {
-            display: block;
-            background: #c8e6c9;
-            color: #2e7d32;
-        }
-        .feedback.incorrect {
-            display: block;
-            background: #ffcdd2;
-            color: #c62828;
-        }
+/**
+ * Dieses Skript fügt eine einfache Drag-and-Drop-Quiz-Komponente hinzu.
+ * Idee: 
+ *  - Man kann Items per Drag & Drop in die korrekte Reihenfolge bringen.
+ *  - Eine "Prüfen"-Schaltfläche vergleicht die Reihenfolge mit der erwarteten Lösung.
+ * 
+ * Integration ins LiaScript:
+ *  - Mit @DragAndDropQuiz können einzelne Aufgaben definiert werden.
+ *  - Die Aufgaben enthalten sowohl die zu sortierenden Elemente als auch eine "list"-Definition
+ *    mit dem korrekten Ziel-Array.
+ */
+
+let DragAndDropQuiz = {
+  // Initiales Rendering des HTML-Inhalts
+  init: function(container, taskData) {
+    // taskData enthält unsere Daten aus dem LiaScript-Block
+    let { question, items, solution } = taskData;
+
+    container.innerHTML = `
+      <div class="drag-and-drop-container">
+        <p><strong>${question}</strong></p>
+        <div class="dd-list" id="dd-list"></div>
+        <button id="checkBtn">Prüfen</button>
+        <div id="resultMsg"></div>
+      </div>
     `;
-    container.appendChild(style);
-    
-    // Create drag container
-    let dragContainer = document.createElement('div');
-    dragContainer.className = 'drag-container';
-    
-    // Create drop zone
-    let dropZone = document.createElement('div');
-    dropZone.className = 'drop-zone';
-    
-    // Create draggable elements
-    items.forEach((item, index) => {
-        let draggable = document.createElement('div');
-        draggable.className = 'draggable';
-        draggable.draggable = true;
-        draggable.textContent = item;
-        draggable.dataset.index = index;
-        dragContainer.appendChild(draggable);
+
+    // Elemente einfügen
+    let ddList = container.querySelector("#dd-list");
+    items.forEach((item, idx) => {
+      let el = document.createElement("div");
+      el.classList.add("dd-item");
+      el.setAttribute("draggable", "true");
+      el.setAttribute("data-index", idx);
+      el.innerText = item;
+      ddList.appendChild(el);
     });
-    
-    // Create check button
-    let checkButton = document.createElement('button');
-    checkButton.className = 'check-button';
-    checkButton.textContent = 'Antwort überprüfen';
-    
-    // Create feedback element
-    let feedback = document.createElement('div');
-    feedback.className = 'feedback';
-    
-    // Add drag and drop functionality
-    dragContainer.addEventListener('dragstart', e => {
-        if (e.target.classList.contains('draggable')) {
-            e.target.classList.add('dragging');
-        }
+
+    // Drag & Drop Behavior
+    let draggedEl = null;
+
+    ddList.addEventListener("dragstart", (e) => {
+      if (e.target.classList.contains("dd-item")) {
+        draggedEl = e.target;
+        e.dataTransfer.effectAllowed = "move";
+        e.dataTransfer.setData("text/plain", e.target.innerText);
+      }
     });
-    
-    dragContainer.addEventListener('dragend', e => {
-        if (e.target.classList.contains('draggable')) {
-            e.target.classList.remove('dragging');
-        }
+
+    ddList.addEventListener("dragover", (e) => {
+      e.preventDefault();
+      let target = e.target;
+      if (target && target.classList.contains("dd-item") && target !== draggedEl) {
+        // Für den Effekt: beim Überfahren "aktiv" setzen
+      }
     });
-    
-    dropZone.addEventListener('dragover', e => {
-        e.preventDefault();
-        const draggable = document.querySelector('.dragging');
-        if (draggable) {
-            dropZone.appendChild(draggable);
-        }
+
+    ddList.addEventListener("drop", (e) => {
+      e.preventDefault();
+      let target = e.target;
+      if (target && target.classList.contains("dd-item") && target !== draggedEl) {
+        // Die Positionen der Elemente vertauschen
+        let draggedIndex = draggedEl.getAttribute("data-index");
+        let targetIndex = target.getAttribute("data-index");
+
+        // Im DOM austauschen
+        let draggedHTML = draggedEl.outerHTML;
+        let targetHTML = target.outerHTML;
+        draggedEl.outerHTML = targetHTML;
+        target.outerHTML = draggedHTML;
+
+        // Neue refs zu den ausgetauschten Elementen holen (nach dem outerHTML-Swap)
+        let ddItems = ddList.querySelectorAll(".dd-item");
+        ddItems.forEach((el, i) => {
+          el.setAttribute("data-index", i);
+        });
+      }
     });
-    
-    // Add check functionality
-    checkButton.addEventListener('click', () => {
-        const currentOrder = Array.from(dropZone.children).map(child => 
-            parseInt(child.dataset.index));
-        const isCorrect = currentOrder.every((value, index) => 
-            value === correctOrder[index]);
-        
-        feedback.textContent = isCorrect ? 
-            'Richtig! Die Reihenfolge ist korrekt.' : 
-            'Nicht ganz richtig. Versuchen Sie es noch einmal!';
-        feedback.className = 'feedback ' + (isCorrect ? 'correct' : 'incorrect');
+
+    // "Prüfen"-Button
+    container.querySelector("#checkBtn").addEventListener("click", () => {
+      let userOrder = [];
+      ddList.querySelectorAll(".dd-item").forEach((el) => {
+        userOrder.push(el.innerText.trim());
+      });
+      let resultMsg = container.querySelector("#resultMsg");
+
+      if (JSON.stringify(userOrder) === JSON.stringify(solution)) {
+        resultMsg.innerHTML = `<p style="color:green;">Richtig!</p>`;
+      } else {
+        resultMsg.innerHTML = `<p style="color:red;">Falsch. Versuche es nochmal.</p>`;
+      }
     });
+  }
+};
+
+
+// LiaScript Hook, damit das Plugin verwendet werden kann
+export default {
+  // Der Schlüssel, unter dem das Plugin verfügbar ist (z.B. @DragAndDropQuiz)
+  tag: "DragAndDropQuiz",
+  
+  // Daten aus dem LiaScript-Block (Markdown) verarbeiten
+  parse: function(raw) {
+    // raw = vollständiger Inhalt zwischen @DragAndDropQuiz ... @DragAndDropQuiz
+    // Beispiel: question=..., items=..., solution=[...]
     
-    // Assemble quiz
-    container.appendChild(dragContainer);
-    container.appendChild(dropZone);
-    container.appendChild(checkButton);
-    container.appendChild(feedback);
-    
-    return container;
+    let data = {
+      question: "",
+      items: [],
+      solution: []
+    };
+
+    // Einfaches Parsen über Zeilen (minimalistischer Ansatz)
+    // Erlaubt ein Format wie:
+    //
+    // question=Wie lautet die richtige Reihenfolge?
+    // items=Erstes, Zweites, Drittes, Viertes
+    // solution=Erstes, Zweites, Drittes, Viertes
+    //
+    // Wichtig: Komma-getrennte Elemente in Arrays umwandeln.
+
+    let lines = raw.trim().split("\n");
+    for (let line of lines) {
+      let trimmed = line.trim();
+      if (trimmed.startsWith("question=")) {
+        data.question = trimmed.replace("question=", "").trim();
+      } else if (trimmed.startsWith("items=")) {
+        let itemsText = trimmed.replace("items=", "").trim();
+        data.items = itemsText.split(",").map(i => i.trim());
+      } else if (trimmed.startsWith("solution=")) {
+        let solText = trimmed.replace("solution=", "").trim();
+        data.solution = solText.split(",").map(i => i.trim());
+      }
+    }
+    return data;
+  },
+
+  // Wird aufgerufen, wenn der Block gerendert wird
+  render: function(root, data) {
+    DragAndDropQuiz.init(root, data);
+  }
+};
 </script>
-@end
 -->
 
 # Drag & Drop Quiz Demo
 
 Ordnen Sie die folgenden Schritte in der richtigen Reihenfolge an:
 
-@DragDropQuiz(Objektauswahl,Zustandsdokumentation,Fotografische Erfassung,Metadateneingabe,Qualitätskontrolle|0,1,2,3,4)
+@DragAndDropQuiz
+question=Bringe die Elemente in die richtige Reihenfolge.
+items=Mars, Venus, Merkur, Jupiter
+solution=Merkur, Venus, Mars, Jupiter
+@DragAndDropQuiz
