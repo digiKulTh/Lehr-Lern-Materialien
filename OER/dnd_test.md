@@ -10,17 +10,18 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
 @dragdrop
 <section style="width: 100%; max-width: 600px; margin: 20px auto; padding: 20px; border: 1px solid #ccc; border-radius: 8px;">
   <div class="question" style="font-size: 18px; margin-bottom: 20px;">@0</div>
-  <div id="choices-@uid" class="choices-container" style="display: flex; flex-direction: column; gap: 10px;">
+  <div class="choices-container" style="display: flex; flex-direction: column; gap: 10px;" id="quiz-@0">
     @1
   </div>
-  <div id="feedback-@uid" style="margin-top: 20px; font-weight: bold; text-align: center;"></div>
+  <div class="feedback" style="margin-top: 20px; font-weight: bold; text-align: center;"></div>
 </section>
 
 <script>
   (function(){
+    const quizId = '@0'.replace(/[^a-zA-Z0-9]/g, '');
+    const container = document.querySelector(`#quiz-${quizId}`);
+    const feedback = container.nextElementSibling;
     const correctOrder = [@2];
-    const container = document.getElementById("choices-@uid");
-    const feedback = document.getElementById("feedback-@uid");
     
     new Sortable(container, {
       animation: 150,
@@ -54,7 +55,7 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
 
 Try to order these items correctly by dragging and dropping them!
 
-@dragdrop(Put these numbers in ascending order:,
+@dragdrop(quiz1,
 <div class="choice" style="padding: 10px; background-color: #f0f0f0; border: 1px solid #ddd; border-radius: 4px; cursor: move; user-select: none;">4</div>
 <div class="choice" style="padding: 10px; background-color: #f0f0f0; border: 1px solid #ddd; border-radius: 4px; cursor: move; user-select: none;">2</div>
 <div class="choice" style="padding: 10px; background-color: #f0f0f0; border: 1px solid #ddd; border-radius: 4px; cursor: move; user-select: none;">3</div>
@@ -63,7 +64,7 @@ Try to order these items correctly by dragging and dropping them!
 
 Try another example:
 
-@dragdrop(Order these fruits from smallest to largest:,
+@dragdrop(quiz2,
 <div class="choice" style="padding: 10px; background-color: #f0f0f0; border: 1px solid #ddd; border-radius: 4px; cursor: move; user-select: none;">Watermelon</div>
 <div class="choice" style="padding: 10px; background-color: #f0f0f0; border: 1px solid #ddd; border-radius: 4px; cursor: move; user-select: none;">Apple</div>
 <div class="choice" style="padding: 10px; background-color: #f0f0f0; border: 1px solid #ddd; border-radius: 4px; cursor: move; user-select: none;">Grape</div>,
