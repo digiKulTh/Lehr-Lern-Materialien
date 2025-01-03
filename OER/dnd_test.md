@@ -64,4 +64,4 @@ Try another example:
 @dragdrop(quiz2,
 <div class="choice" style="padding: 10px; background-color: #f0f0f0; border: 1px solid #ddd; border-radius: 4px; cursor: move; user-select: none;">Watermelon</div>
 <div class="choice" style="padding: 10px; background-color: #f0f0f0; border: 1px solid #ddd; border-radius: 4px; cursor: move; user-select: none;">Apple</div>
-<div class="choice" style="padding: 10px; background-color: #f0f0f0; border: 1px solid #ddd; border-radius: 4px; cursor: move; user-select: none;">Grape</div>,"Grape";"Apple";"Watermelon")
+<div class="choice" style="padding: 10px; background-color: #f0f0f0; border: 1px solid #ddd; border-radius: 4px; cursor: move; user-select: none;">Grape</div>,Grape;Apple;Watermelon)
