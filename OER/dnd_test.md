@@ -8,13 +8,13 @@ narrator: US English Female
 script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
 
 @dragdroporder
-<section style="width: 100%; max-width: 600px; padding: 20px; border: 1px solid #ccc; border-radius: 8px;">
+<div style="width: 100%; max-width: 600px; padding: 20px; border: 1px solid #ccc; border-radius: 8px;">
   <div class="question" style="font-size: 18px; margin-bottom: 20px;">@0</div>
   <div class="choices-container" style="display: flex; flex-direction: column; gap: 10px;" id="quiz-@0">
     @1
   </div>
   <div class="feedback" style="margin-top: 20px; font-weight: bold; text-align: center;"></div>
-</section>
+</div>
 
 <script>
   (function(){
@@ -52,7 +52,7 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
 @end
 
 @dragdropmultiple
-<section style="width: 100%; max-width: 600px; margin: 20px auto; padding: 20px; border: 1px solid #ccc; border-radius: 8px;" id="quiz-@0">
+<div style="width: 100%; max-width: 600px; margin: 20px auto; padding: 20px; border: 1px solid #ccc; border-radius: 8px;" id="quiz-@0">
   <div class="question" style="font-size: 18px; margin-bottom: 20px;">@0</div>
   
   <div style="display: flex; gap: 20px;">
@@ -71,7 +71,7 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
   </div>
   
   <div class="feedback" style="margin-top: 20px; font-weight: bold; text-align: center;"></div>
-</section>
+</div>
 
 <script>
   (function(){
@@ -127,7 +127,7 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
 
 # Drag and Drop Quizzes
 
-## Drag and drop in order
+**Drag and drop in order**
 
 Try to order these items correctly by dragging and dropping them!
 
@@ -137,9 +137,7 @@ Try to order these items correctly by dragging and dropping them!
 <div class="choice">3</div>
 <div class="choice">1</div>,1;2;3;4)
 
-## Drag and drop multiple choice
-
-# Drag and Drop Quiz
+**Drag and drop multiple choice**
 
 Select the correct numbers from the pool (hint: odd numbers only)!
 
