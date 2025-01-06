@@ -10,7 +10,7 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
 @dragdroporder
 <div style="width: 100%; max-width: 600px; padding: 20px; border: 1px solid #ccc; border-radius: 8px;">
   <div class="question" style="font-size: 18px; margin-bottom: 20px;">@0</div>
-  <div class="choices-container" style="display: flex; flex-direction: column; gap: 10px;" id="quiz-@uid">
+  <div class="choices-container" style="display: flex; flex-direction: column; gap: 10px;" id="quiz-@0">
     @1
   </div>
   <div class="feedback" style="margin-top: 20px; font-weight: bold; text-align: center;"></div>
@@ -18,7 +18,7 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
 
 <script>
   (function(){
-    const quizId = "@uid";;
+    const quizId = '@0'.replace(/[^a-zA-Z0-9]/g, '');
     const container = document.querySelector(`#quiz-${quizId}`);
     const feedback = container.nextElementSibling;
     const correctAnswers = '@2'.split(';');
@@ -52,7 +52,7 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
 @end
 
 @dragdropmultiple
-<div style="width: 100%; max-width: 600px; padding: 20px; border: 1px solid #ccc; border-radius: 8px;" id="quiz-@uid">
+<div style="width: 100%; max-width: 600px; padding: 20px; border: 1px solid #ccc; border-radius: 8px;" id="quiz-@0">
   <div class="question" style="font-size: 18px; margin-bottom: 20px;">@0</div>
   
   <div style="display: flex; gap: 20px;">
@@ -75,7 +75,7 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
 
 <script>
   (function(){
-    const quizId = "@uid";
+    const quizId = '@0'.replace(/[^a-zA-Z0-9]/g, '');
     const quizContainer = document.querySelector(`#quiz-${quizId}`);
     const poolContainer = quizContainer.querySelector('.pool-container');
     const targetContainer = quizContainer.querySelector('.target-container');
@@ -141,7 +141,7 @@ Try to order these items correctly by dragging and dropping them!
 
 Select the correct numbers from the pool (hint: odd numbers only)!
 
-@dragdropmultiple(quiz1,
+@dragdropmultiple(quiz2,
 <div class="choice">1</div>
 <div class="choice">2</div>
 <div class="choice">3</div>
