@@ -41,7 +41,7 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
     new Sortable(poolContainer, {
       group: {
         name: quizId,
-        pull: 'clone',
+        // pull: 'clone',
         put: true
       },
       animation: 150,
