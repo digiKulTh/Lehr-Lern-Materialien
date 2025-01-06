@@ -45,6 +45,7 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
       }
     });
   })();
+  document.getElementsByClassName("choice").style.cssText = "padding: 10px; background-color: #f0f0f0; border: 1px solid #ddd; border-radius: 4px; cursor: move; user-select: none;"
 </script>
 @end
 -->
@@ -54,10 +55,10 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
 Try to order these items correctly by dragging and dropping them!
 
 @dragdrop(quiz1,
-<div class="choice" style="padding: 10px; background-color: #f0f0f0; border: 1px solid #ddd; border-radius: 4px; cursor: move; user-select: none;">4</div>
-<div class="choice" style="padding: 10px; background-color: #f0f0f0; border: 1px solid #ddd; border-radius: 4px; cursor: move; user-select: none;">2</div>
-<div class="choice" style="padding: 10px; background-color: #f0f0f0; border: 1px solid #ddd; border-radius: 4px; cursor: move; user-select: none;">3</div>
-<div class="choice" style="padding: 10px; background-color: #f0f0f0; border: 1px solid #ddd; border-radius: 4px; cursor: move; user-select: none;">1</div>,1;2;3;4)
+<div class="choice">4</div>
+<div class="choice">2</div>
+<div class="choice">3</div>
+<div class="choice">1</div>,1;2;3;4)
 
 Try another example:
 
