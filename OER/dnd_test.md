@@ -8,7 +8,7 @@ narrator: US English Female
 script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
 
 @dragdrop
-<section style="width: 100%; max-width: 600px; margin: 20px auto; padding: 20px; border: 1px solid #ccc; border-radius: 8px;">
+<section style="width: 100%; max-width: 600px; padding: 20px; border: 1px solid #ccc; border-radius: 8px;">
   <div class="question" style="font-size: 18px; margin-bottom: 20px;">@0</div>
   <div class="choices-container" style="display: flex; flex-direction: column; gap: 10px;" id="quiz-@0">
     @1
