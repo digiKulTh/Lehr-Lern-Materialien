@@ -83,56 +83,63 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
 </div>
 
 <script>
-  (function(){
-    const quizId = '@0'.replace(/[^a-zA-Z0-9]/g, '');
-    const quizContainer = document.querySelector(`#quiz-${quizId}`);
-    const poolContainer = quizContainer.querySelector('.pool-container');
-    const targetContainer = quizContainer.querySelector('.target-container');
-    const feedback = quizContainer.querySelector('.feedback');
-    const correctAnswers = new Set('@2'.split(';'));
-    
-    new Sortable(poolContainer, {
-      group: {
-        name: quizId,
-        // pull: 'clone',
-        put: true
-      },
-      animation: 150,
-      onEnd: checkAnswer
-    });
-    
-    new Sortable(targetContainer, {
-      group: {
-        name: quizId,
-        pull: true,
-        put: true
-      },
-      animation: 150,
-      onAdd: checkAnswer,
-      onRemove: checkAnswer
-    });
-
-    function checkAnswer() {
-      const currentAnswers = new Set(
-        Array.from(targetContainer.querySelectorAll('.choice'))
-          .map(choice => choice.textContent.trim())
-      );
-
-      const isCorrect = currentAnswers.size === correctAnswers.size &&
-                       [...currentAnswers].every(answer => correctAnswers.has(answer));
-      
-      if (isCorrect) {
-        feedback.textContent = "Correct!";
-        feedback.style.color = "green";
-      } else {
-        feedback.textContent = "Try again!";
-        feedback.style.color = "red";
-      }
-    }
-  })();
-  container.querySelectorAll('.choice').forEach(element => {
+  setTimeout(() => {
+    (function(){
+      try {
+        const quizId = '@0'.replace(/[^a-zA-Z0-9]/g, '');
+        const quizContainer = document.querySelector(`#quiz-${quizId}`);
+        const poolContainer = quizContainer.querySelector('.pool-container');
+        const targetContainer = quizContainer.querySelector('.target-container');
+        const feedback = quizContainer.querySelector('.feedback');
+        const correctAnswers = new Set('@2'.split(';'));
+        
+        // Apply styles to choice elements
+        quizContainer.querySelectorAll('.choice').forEach(element => {
           element.setAttribute('style', 'padding: 10px; background-color: #f0f0f0; border: 1px solid #ddd; border-radius: 4px; cursor: move; user-select: none;');
         });
+
+        new Sortable(poolContainer, {
+          group: {
+            name: quizId,
+            put: true
+          },
+          animation: 150,
+          onEnd: checkAnswer
+        });
+        
+        new Sortable(targetContainer, {
+          group: {
+            name: quizId,
+            pull: true,
+            put: true
+          },
+          animation: 150,
+          onAdd: checkAnswer,
+          onRemove: checkAnswer
+        });
+
+        function checkAnswer() {
+          const currentAnswers = new Set(
+            Array.from(targetContainer.querySelectorAll('.choice'))
+              .map(choice => choice.textContent.trim())
+          );
+
+          const isCorrect = currentAnswers.size === correctAnswers.size &&
+                           [...currentAnswers].every(answer => correctAnswers.has(answer));
+          
+          if (isCorrect) {
+            feedback.textContent = "Correct!";
+            feedback.style.color = "green";
+          } else {
+            feedback.textContent = "Try again!";
+            feedback.style.color = "red";
+          }
+        }
+      } catch (error) {
+        console.error('Error initializing quiz:', error);
+      }
+    })();
+  }, 100);
 </script>
 @end
 -->
@@ -166,3 +173,12 @@ Select the correct numbers from the pool (hint: odd numbers only)!
 <div class="choice">4</div>
 <div class="choice">5</div>
 <div class="choice">6</div>,1;3;5)
+
+
+@dragdropmultiple(quiz4,
+<div class="choice">1</div>
+<div class="choice">2</div>
+<div class="choice">3</div>
+<div class="choice">4</div>
+<div class="choice">5</div>
+<div class="choice">6</div>,2;4;6)
