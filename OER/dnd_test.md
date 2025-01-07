@@ -10,7 +10,7 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
 @dragdroporder
 <div style="width: 100%; max-width: 600px; padding: 20px; border: 1px solid #ccc; border-radius: 8px;">
   <div class="question" style="font-size: 18px; margin-bottom: 20px;">@0</div>
-  <div class="choices-container" style="display: flex; flex-direction: column; gap: 10px;">
+  <div class="choices-container" style="display: flex; flex-direction: column; gap: 10px;" id="quiz-@0">
     @1
   </div>
   <div class="feedback" style="margin-top: 20px; font-weight: bold; text-align: center;"></div>
@@ -52,7 +52,7 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
 @end
 
 @dragdropmultiple
-<div style="width: 100%; max-width: 600px; padding: 20px; border: 1px solid #ccc; border-radius: 8px;">
+<div style="width: 100%; max-width: 600px; padding: 20px; border: 1px solid #ccc; border-radius: 8px;" id="quiz-@0">
   <div class="question" style="font-size: 18px; margin-bottom: 20px;">@0</div>
   
   <div style="display: flex; gap: 20px;">
@@ -137,28 +137,20 @@ Try to order these items correctly by dragging and dropping them!
 <div class="choice">3</div>
 <div class="choice">1</div>,1;2;3;4)
 
-@dragdroporder(quiz2,
+@dragdroporder(quiz3,
 <div class="choice">4</div>
 <div class="choice">2</div>
 <div class="choice">3</div>
-<div class="choice">1</div>,4;3;2;1)
+<div class="choice">1</div>,1;2;3;4)
 
 **Drag and drop multiple choice**
 
 Select the correct numbers from the pool (hint: odd numbers only)!
 
-@dragdropmultiple(quiz3,
+@dragdropmultiple(quiz2,
 <div class="choice">1</div>
 <div class="choice">2</div>
 <div class="choice">3</div>
 <div class="choice">4</div>
 <div class="choice">5</div>
 <div class="choice">6</div>,1;3;5)
-
-@dragdropmultiple(quiz4,
-<div class="choice">1</div>
-<div class="choice">2</div>
-<div class="choice">3</div>
-<div class="choice">4</div>
-<div class="choice">5</div>
-<div class="choice">6</div>,2;4;6)
