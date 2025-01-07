@@ -84,9 +84,8 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
 
 <script>
   setTimeout(() => {
-    (function(){
+    (function(quizId){
       try {
-        const quizId = '@0'.replace(/[^a-zA-Z0-9]/g, '');
         const quizContainer = document.querySelector(`#quiz-${quizId}`);
         const poolContainer = quizContainer.querySelector('.pool-container');
         const targetContainer = quizContainer.querySelector('.target-container');
@@ -138,7 +137,7 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
       } catch (error) {
         console.error('Error initializing quiz:', error);
       }
-    })();
+    })('q0');
   }, 100);
 </script>
 @end
@@ -166,7 +165,7 @@ Try to order these items correctly by dragging and dropping them!
 
 Select the correct numbers from the pool (hint: odd numbers only)!
 
-@dragdropmultiple(quiz2,
+@dragdropmultiple(@uid,
 <div class="choice">1</div>
 <div class="choice">2</div>
 <div class="choice">3</div>
@@ -175,7 +174,7 @@ Select the correct numbers from the pool (hint: odd numbers only)!
 <div class="choice">6</div>,1;3;5)
 
 
-@dragdropmultiple(quiz4,
+@dragdropmultiple(@uid,
 <div class="choice">1</div>
 <div class="choice">2</div>
 <div class="choice">3</div>
