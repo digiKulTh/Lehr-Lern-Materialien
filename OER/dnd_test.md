@@ -22,6 +22,8 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
         const container = document.querySelector(`#quiz-${quizId}`);
 
         const feedback = container.nextElementSibling;
+        feedback.textContent = "🤔";
+        feedback.style.fontSize = "2em";
         const correctAnswers = '@2'.split(';');
         
         new Sortable(container, {
@@ -79,6 +81,8 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
         const poolContainer = quizContainer.querySelector('.pool-container');
         const targetContainer = quizContainer.querySelector('.target-container');
         const feedback = quizContainer.querySelector('.feedback');
+        feedback.textContent = "🤔";
+        feedback.style.fontSize = "2em";
         const correctAnswers = new Set('@2'.split(';'));
         
         poolContainer.querySelectorAll('.choice').forEach(element => {
