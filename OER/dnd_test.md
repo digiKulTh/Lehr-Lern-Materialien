@@ -10,7 +10,7 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
 @dragdroporder
 <div style="width: 100%; max-width: 600px; padding: 20px; border: 1px solid #ccc; border-radius: 8px;">
   <div class="question" style="font-size: 18px; margin-bottom: 20px;">@0</div>
-  <div class="choices-container" style="display: flex; flex-direction: column; gap: 10px;">
+  <div class="choices-container" style="display: flex; flex-direction: column; gap: 10px;" id="quiz-@0">
     @1
   </div>
   <div class="feedback" style="margin-top: 20px; font-weight: bold; text-align: center;"></div>
@@ -18,7 +18,7 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
 
 <script>
   (function(){
-    const quizId = '@0';
+    const quizId = '@0'.replace(/[^a-zA-Z0-9]/g, '');
     const container = document.querySelector(`#quiz-${quizId}`);
     const feedback = container.nextElementSibling;
     const correctAnswers = '@2'.split(';');
@@ -131,17 +131,11 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
 
 Try to order these items correctly by dragging and dropping them!
 
-@dragdroporder(@uid,
+@dragdroporder(quiz1,
 <div class="choice">4</div>
 <div class="choice">2</div>
 <div class="choice">3</div>
 <div class="choice">1</div>,1;2;3;4)
-
-@dragdroporder(quiz3,
-<div class="choice">4</div>
-<div class="choice">2</div>
-<div class="choice">3</div>
-<div class="choice">1</div>,4;3;2;1)
 
 **Drag and drop multiple choice**
 
