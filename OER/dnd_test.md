@@ -16,38 +16,47 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
   <div class="feedback" style="margin-top: 20px; font-weight: bold; text-align: center;"></div>
 </div>
 
+
 <script>
-  (function(quizId){
-    const container = document.querySelector(`#quiz-${quizId}`);
-    console.log(container);
-    const feedback = container.nextElementSibling;
-    const correctAnswers = '@2'.split(';');
-    
-    new Sortable(container, {
-      animation: 150,
-      onEnd: function() {
-        const choices = Array.from(container.querySelectorAll('.choice'));
-        const currentOrder = choices.map(choice => choice.textContent.trim());
-        
-        console.log('Current order:', currentOrder);
-        console.log('Correct answers:', correctAnswers);
-        
-        const isCorrect = currentOrder.length === correctAnswers.length && 
-                         currentOrder.every((answer, index) => answer === correctAnswers[index]);
-        
-        if (isCorrect) {
-          feedback.textContent = "Correct!";
-          feedback.style.color = "green";
-        } else {
-          feedback.textContent = "Try again!";
-          feedback.style.color = "red";
+  setTimeout(() => {
+    (function(quizId){
+      try {
+        const container = document.querySelector(`#quiz-${quizId}`);
+        if (!container) {
+          console.error(`Container not found for quiz ${quizId}`);
+          return;
         }
+
+        const feedback = container.nextElementSibling;
+        const correctAnswers = '@2'.split(';');
+        
+        new Sortable(container, {
+          animation: 150,
+          onEnd: function() {
+            const choices = Array.from(container.querySelectorAll('.choice'));
+            const currentOrder = choices.map(choice => choice.textContent.trim());
+            
+            const isCorrect = currentOrder.length === correctAnswers.length && 
+                             currentOrder.every((answer, index) => answer === correctAnswers[index]);
+            
+            if (isCorrect) {
+              feedback.textContent = "Correct!";
+              feedback.style.color = "green";
+            } else {
+              feedback.textContent = "Try again!";
+              feedback.style.color = "red";
+            }
+          }
+        });
+        
+        container.querySelectorAll('.choice').forEach(element => {
+          element.setAttribute('style', 'padding: 10px; background-color: #f0f0f0; border: 1px solid #ddd; border-radius: 4px; cursor: move; user-select: none;');
+        });
+      } catch (error) {
+        console.error('Error initializing quiz:', error);
       }
-    });
-  })('q0');
-  document.querySelectorAll('.choice').forEach(element => {
-    element.setAttribute('style', 'padding: 10px; background-color: #f0f0f0; border: 1px solid #ddd; border-radius: 4px; cursor: move; user-select: none;');
-  });
+    })('@0');
+  }, 100);
 </script>
 @end
 
