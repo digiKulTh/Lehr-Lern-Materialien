@@ -130,11 +130,17 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
 
 Try to order these items correctly by dragging and dropping them!
 
-@dragdroporder(quiz1,
+@dragdroporder(@uid,
 <div class="choice">4</div>
 <div class="choice">2</div>
 <div class="choice">3</div>
 <div class="choice">1</div>,1;2;3;4)
+
+@dragdroporder(@uid,
+<div class="choice">4</div>
+<div class="choice">2</div>
+<div class="choice">3</div>
+<div class="choice">1</div>,4;3;2;1)
 
 **Drag and drop multiple choice**
 
