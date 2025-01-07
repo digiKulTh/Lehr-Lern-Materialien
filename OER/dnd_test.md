@@ -9,7 +9,6 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
 
 @dragdroporder
 <div style="width: 100%; max-width: 600px; padding: 20px; border: 1px solid #ccc; border-radius: 8px;">
-  <div class="question" style="font-size: 18px; margin-bottom: 20px;">@0</div>
   <div class="choices-container" style="display: flex; flex-direction: column; gap: 10px;" id="quiz-@0">
     @1
   </div>
@@ -62,8 +61,6 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
 
 @dragdropmultiple
 <div style="width: 100%; max-width: 600px; padding: 20px; border: 1px solid #ccc; border-radius: 8px;" id="quiz-@0">
-  <div class="question" style="font-size: 18px; margin-bottom: 20px;">@0</div>
-  
   <div style="display: flex; gap: 20px;">
     <div style="flex: 1;">
       <div style="font-weight: bold; margin-bottom: 10px;">Pool:</div>
@@ -71,7 +68,6 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
         @1
       </div>
     </div>
-    
     <div style="flex: 1;">
       <div style="font-weight: bold; margin-bottom: 10px;">Your Selection:</div>
       <div class="target-container" style="min-height: 50px; padding: 10px; background-color: #f8f8f8; border: 1px dashed #ccc; border-radius: 4px; display: flex; flex-direction: column; gap: 10px;" id="target-@0">
@@ -161,11 +157,13 @@ Try to order these items correctly by dragging and dropping them!
 <div class="choice">3</div>
 <div class="choice">1</div>,1;2;3;4)
 
+Try to order these items correctly by dragging and dropping them (hint: reverse order)!
+
 @dragdroporder(@uid,
 <div class="choice">4</div>
 <div class="choice">2</div>
-<div class="choice">3</div>
-<div class="choice">1</div>,4;3;2;1)
+<div class="choice">1</div>
+<div class="choice">3</div>,4;3;2;1)
 
 **Drag and drop multiple choice**
 
@@ -178,6 +176,8 @@ Select the correct numbers from the pool (hint: odd numbers only)!
 <div class="choice">4</div>
 <div class="choice">5</div>
 <div class="choice">6</div>,1;3;5)
+
+Select the correct numbers from the pool (hint: even numbers only)!
 
 @dragdropmultiple(@uid,
 <div class="choice">1</div>
