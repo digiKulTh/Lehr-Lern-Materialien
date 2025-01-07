@@ -137,7 +137,7 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
       } catch (error) {
         console.error('Error initializing quiz:', error);
       }
-    })('q0');
+    })('@0');
   }, 100);
 </script>
 @end
