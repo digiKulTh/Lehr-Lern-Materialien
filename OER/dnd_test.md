@@ -34,11 +34,11 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
                              currentOrder.every((answer, index) => answer === correctAnswers[index]);
             
             if (isCorrect) {
-              feedback.textContent = "Correct!";
-              feedback.style.color = "green";
+              feedback.textContent = "✅";
+              feedback.style.fontSize = "2em";
             } else {
-              feedback.textContent = "Try again!";
-              feedback.style.color = "red";
+              feedback.textContent = "❌";
+              feedback.style.fontSize = "2em";
             }
           }
         });
@@ -115,11 +115,11 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
                            [...currentAnswers].every(answer => correctAnswers.has(answer));
           
           if (isCorrect) {
-            feedback.textContent = "Correct!";
-            feedback.style.color = "green";
+            feedback.textContent = "✅";
+            feedback.style.fontSize = "2em";
           } else {
-            feedback.textContent = "Try again!";
-            feedback.style.color = "red";
+            feedback.textContent = "❌";
+            feedback.style.fontSize = "2em";
           }
         }
     })();
