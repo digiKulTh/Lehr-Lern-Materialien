@@ -19,6 +19,7 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
 <script>
   (function(quizId){
     const container = document.querySelector(`#quiz-${quizId}`);
+    console.log(container);
     const feedback = container.nextElementSibling;
     const correctAnswers = '@2'.split(';');
     
