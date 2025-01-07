@@ -12,7 +12,7 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
   <div class="choices-container" style="display: flex; flex-direction: column; gap: 10px;" id="quiz-@0">
     @1
   </div>
-  <div class="feedback" style="margin-top: 20px; font-weight: bold; text-align: center;"></div>
+  <div class="feedback" style="margin-top: 20px; font-size:2em; font-weight: bold; text-align: center;">🤔</div>
 </div>
 
 <script>
@@ -22,8 +22,6 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
         const container = document.querySelector(`#quiz-${quizId}`);
 
         const feedback = container.nextElementSibling;
-        feedback.textContent = "🤔";
-        feedback.style.fontSize = "2em";
         const correctAnswers = '@2'.split(';');
         
         new Sortable(container, {
@@ -69,7 +67,7 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
     </div>
   </div>
   
-  <div class="feedback" style="margin-top: 20px; font-weight: bold; text-align: center;"></div>
+  <div class="feedback" style="margin-top: 20px; font-size: 2em; font-weight: bold; text-align: center;">🤔</div>
 </div>
 
 <script>
