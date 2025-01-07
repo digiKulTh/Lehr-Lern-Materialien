@@ -17,8 +17,7 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
 </div>
 
 <script>
-  (function(){
-    const quizId = '@0'.replace(/[^a-zA-Z0-9]/g, '');
+  (function(quizId){
     const container = document.querySelector(`#quiz-${quizId}`);
     const feedback = container.nextElementSibling;
     const correctAnswers = '@2'.split(';');
@@ -44,7 +43,7 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
         }
       }
     });
-  })();
+  })('q0');
   document.querySelectorAll('.choice').forEach(element => {
     element.setAttribute('style', 'padding: 10px; background-color: #f0f0f0; border: 1px solid #ddd; border-radius: 4px; cursor: move; user-select: none;');
   });
