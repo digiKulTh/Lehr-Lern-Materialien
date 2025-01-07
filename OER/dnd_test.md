@@ -67,14 +67,14 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
   <div style="display: flex; gap: 20px;">
     <div style="flex: 1;">
       <div style="font-weight: bold; margin-bottom: 10px;">Pool:</div>
-      <div class="pool-container" style="min-height: 50px; padding: 10px; background-color: #f8f8f8; border: 1px dashed #ccc; border-radius: 4px;" id="pool-@0">
+      <div class="pool-container" style="min-height: 50px; padding: 10px; background-color: #f8f8f8; border: 1px dashed #ccc; border-radius: 4px; display: flex; flex-direction: column; gap: 10px;" id="pool-@0">
         @1
       </div>
     </div>
     
     <div style="flex: 1;">
       <div style="font-weight: bold; margin-bottom: 10px;">Your Selection:</div>
-      <div class="target-container" style="min-height: 50px; padding: 10px; background-color: #f8f8f8; border: 1px dashed #ccc; border-radius: 4px;" id="target-@0">
+      <div class="target-container" style="min-height: 50px; padding: 10px; background-color: #f8f8f8; border: 1px dashed #ccc; border-radius: 4px; display: flex; flex-direction: column; gap: 10px;" id="target-@0">
       </div>
     </div>
   </div>
