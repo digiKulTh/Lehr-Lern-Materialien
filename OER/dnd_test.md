@@ -10,7 +10,7 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
 @dragdroporder
 <div style="width: 100%; max-width: 600px; padding: 20px; border: 1px solid #ccc; border-radius: 8px;">
   <div class="question" style="font-size: 18px; margin-bottom: 20px;">@0</div>
-  <div class="choices-container" style="display: flex; flex-direction: column; gap: 10px;" id="quiz-@0">
+  <div class="choices-container" style="display: flex; flex-direction: column; gap: 10px;">
     @1
   </div>
   <div class="feedback" style="margin-top: 20px; font-weight: bold; text-align: center;"></div>
