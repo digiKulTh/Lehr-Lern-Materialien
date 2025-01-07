@@ -21,10 +21,6 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
       try {
         const quizId = '@0';
         const container = document.querySelector(`#quiz-${quizId}`);
-        if (!container) {
-          console.error(`Container not found for quiz ${quizId}`);
-          return;
-        }
 
         const feedback = container.nextElementSibling;
         const correctAnswers = '@2'.split(';');
@@ -51,9 +47,7 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
         container.querySelectorAll('.choice').forEach(element => {
           element.setAttribute('style', 'padding: 10px; background-color: #f0f0f0; border: 1px solid #ddd; border-radius: 4px; cursor: move; user-select: none;');
         });
-      } catch (error) {
-        console.error('Error initializing quiz:', error);
-      }
+      } 
     })();
   }, 100);
 </script>
@@ -84,17 +78,12 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
       try {
         const quizId = '@0';
         const quizContainer = document.querySelector(`#quiz-${quizId}`);
-        if (!quizContainer) {
-          console.error(`Quiz container not found for ID: ${quizId}`);
-          return;
-        }
 
         const poolContainer = quizContainer.querySelector('.pool-container');
         const targetContainer = quizContainer.querySelector('.target-container');
         const feedback = quizContainer.querySelector('.feedback');
         const correctAnswers = new Set('@2'.split(';'));
         
-        // Apply styles to choice elements
         poolContainer.querySelectorAll('.choice').forEach(element => {
           element.setAttribute('style', 'padding: 10px; background-color: #f0f0f0; border: 1px solid #ddd; border-radius: 4px; cursor: move; user-select: none;');
         });
@@ -136,9 +125,7 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
             feedback.style.color = "red";
           }
         }
-      } catch (error) {
-        console.error('Error initializing quiz:', error);
-      }
+      } 
     })();
   }, 100);
 </script>
