@@ -17,7 +17,8 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
 </div>
 
 <script>
-  (function(quizId){
+  (function(){
+    const quizId = '@0';
     const container = document.querySelector(`#quiz-${quizId}`);
     const feedback = container.nextElementSibling;
     const correctAnswers = '@2'.split(';');
@@ -43,11 +44,10 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
         }
       }
     });
-    
+  })();
   document.querySelectorAll('.choice').forEach(element => {
     element.setAttribute('style', 'padding: 10px; background-color: #f0f0f0; border: 1px solid #ddd; border-radius: 4px; cursor: move; user-select: none;');
   });
-  })('@0');
 </script>
 @end
 
@@ -137,7 +137,7 @@ Try to order these items correctly by dragging and dropping them!
 <div class="choice">3</div>
 <div class="choice">1</div>,1;2;3;4)
 
-@dragdroporder(@uid,
+@dragdroporder(quiz3,
 <div class="choice">4</div>
 <div class="choice">2</div>
 <div class="choice">3</div>
