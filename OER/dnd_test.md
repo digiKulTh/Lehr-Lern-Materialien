@@ -18,7 +18,7 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
 
 <script>
   (function(){
-    const quizId = '@0';
+    const quizId = '@0'.replace(/[^a-zA-Z0-9]/g, '');
     const container = document.querySelector(`#quiz-${quizId}`);
     const feedback = container.nextElementSibling;
     const correctAnswers = '@2'.split(';');
@@ -75,7 +75,7 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
 
 <script>
   (function(){
-    const quizId = '@0';
+    const quizId = '@0'.replace(/[^a-zA-Z0-9]/g, '');
     const quizContainer = document.querySelector(`#quiz-${quizId}`);
     const poolContainer = quizContainer.querySelector('.pool-container');
     const targetContainer = quizContainer.querySelector('.target-container');
@@ -131,13 +131,13 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
 
 Try to order these items correctly by dragging and dropping them!
 
-@dragdroporder(@uid,
+@dragdroporder(quiz1,
 <div class="choice">4</div>
 <div class="choice">2</div>
 <div class="choice">3</div>
 <div class="choice">1</div>,1;2;3;4)
 
-@dragdroporder(@uid,
+@dragdroporder(quiz2,
 <div class="choice">4</div>
 <div class="choice">2</div>
 <div class="choice">3</div>
@@ -147,7 +147,7 @@ Try to order these items correctly by dragging and dropping them!
 
 Select the correct numbers from the pool (hint: odd numbers only)!
 
-@dragdropmultiple(@uid,
+@dragdropmultiple(quiz3,
 <div class="choice">1</div>
 <div class="choice">2</div>
 <div class="choice">3</div>
@@ -155,7 +155,7 @@ Select the correct numbers from the pool (hint: odd numbers only)!
 <div class="choice">5</div>
 <div class="choice">6</div>,1;3;5)
 
-@dragdropmultiple(@uid,
+@dragdropmultiple(quiz4,
 <div class="choice">1</div>
 <div class="choice">2</div>
 <div class="choice">3</div>
