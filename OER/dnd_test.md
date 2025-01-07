@@ -20,7 +20,7 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
   setTimeout(() => {
     (function(){
       try {
-        const quizId = '@0'.replace(/[^a-zA-Z0-9]/g, '');
+        const quizId = '@0';
         const container = document.querySelector(`#quiz-${quizId}`);
         if (!container) {
           console.error(`Container not found for quiz ${quizId}`);
@@ -86,7 +86,7 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
   setTimeout(() => {
     (function(){
       try {
-        const quizId = '@0'.replace(/[^a-zA-Z0-9]/g, '');
+        const quizId = '@0';
         const quizContainer = document.querySelector(`#quiz-${quizId}`);
         if (!quizContainer) {
           console.error(`Quiz container not found for ID: ${quizId}`);
