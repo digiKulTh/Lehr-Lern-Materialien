@@ -93,7 +93,7 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
         const correctAnswers = new Set('@2'.split(';'));
         
         // Apply styles to choice elements
-        quizContainer.querySelectorAll('.choice').forEach(element => {
+        poolContainer.querySelectorAll('.choice').forEach(element => {
           element.setAttribute('style', 'padding: 10px; background-color: #f0f0f0; border: 1px solid #ddd; border-radius: 4px; cursor: move; user-select: none;');
         });
 
