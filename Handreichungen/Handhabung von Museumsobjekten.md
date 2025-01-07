@@ -1,18 +1,18 @@
 # Handreichung Handhabung von Museumsobjekten
 
 Anne Hiltscher & Rebecca Wulke
-[Handreichung Handhabung von Museumsobjekten](#handreichung-handhabung-von-museumsobjekten)
-   * [Grundvoraussetzungen am Arbeitsplatz](#grundvoraussetzungen-am-arbeitsplatz)
-      + [Kleidung](#kleidung)
-      + [Räume und Wege](#räume-und-wege)
-      + [Arbeitsflächen](#arbeitsflächen)
-      + [Zeit und Ruhe](#zeit-und-ruhe)
-      + [Klima und Lichtbedingungen am Arbeitsplatz](#klima-und-lichtbedingungen-am-arbeitsplatz)
-   * [Vor dem Objekthandling](#vor-dem-objekthandling)
-   * [Handling von Objekten](#handling-von-objekten)
-   * [Reinigung von Objekten](#reinigung-von-objekten)
-   * [Anhang Checkliste](#anhang-checkliste)
-   * [Anhang Verwendete Literatur](#anhang-verwendete-literatur)
+
+* [Grundvoraussetzungen am Arbeitsplatz](#grundvoraussetzungen-am-arbeitsplatz)
+  + [Kleidung](#kleidung)
+  + [Räume und Wege](#räume-und-wege)
+  + [Arbeitsflächen](#arbeitsflächen)
+  + [Zeit und Ruhe](#zeit-und-ruhe)
+  + [Klima und Lichtbedingungen am Arbeitsplatz](#klima-und-lichtbedingungen-am-arbeitsplatz)
+* [Vor dem Objekthandling](#vor-dem-objekthandling)
+* [Handling von Objekten](#handling-von-objekten)
+* [Reinigung von Objekten](#reinigung-von-objekten)
+* [Anhang Checkliste](#anhang-checkliste)
+* [Anhang Verwendete Literatur](#anhang-verwendete-literatur)
 
 Jede Bewegung und jede Berührung eines Objektes bedeuten ein potenzielles Risiko sowohl für das Objekt als auch für die Personen, die mit dem Objekt arbeiten. Um diese zu vermeiden, sollten Empfehlungen für einen sicheren und schonenden Umgang mit Sammlungsobjekten beachtet werden. Unterschiedliche Objektgattungen und -materialien stellen verschiedene Anforderungen an Handling und Transport. Bevor ein Objekt bewegt wird, sollte jeder Arbeitsschritt genau durchdacht werden.
 
