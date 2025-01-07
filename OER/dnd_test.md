@@ -18,7 +18,7 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
 
 <script>
   (function(){
-    const quizId = '@0'.replace(/[^a-zA-Z0-9]/g, '');
+    const quizId = '@0';
     const container = document.querySelector(`#quiz-${quizId}`);
     const feedback = container.nextElementSibling;
     const correctAnswers = '@2'.split(';');
@@ -75,7 +75,7 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
 
 <script>
   (function(){
-    const quizId = '@0'.replace(/[^a-zA-Z0-9]/g, '');
+    const quizId = '@0';
     const quizContainer = document.querySelector(`#quiz-${quizId}`);
     const poolContainer = quizContainer.querySelector('.pool-container');
     const targetContainer = quizContainer.querySelector('.target-container');
