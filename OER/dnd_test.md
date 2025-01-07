@@ -141,7 +141,7 @@ Try to order these items correctly by dragging and dropping them!
 <div class="choice">4</div>
 <div class="choice">2</div>
 <div class="choice">3</div>
-<div class="choice">1</div>,1;2;3;4)
+<div class="choice">1</div>,4;3;2;1)
 
 **Drag and drop multiple choice**
 
