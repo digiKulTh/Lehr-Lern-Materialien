@@ -1,4 +1,4 @@
-# # Handreichung Handhabung von Museumsobjekten
+# Handreichung Handhabung von Museumsobjekten
 
 Anne Hiltscher & Rebecca Wulke
 
