@@ -138,7 +138,7 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
         console.error('Error initializing quiz:', error);
       }
     })('q0');
-  }, 100);
+  }, 200);
 </script>
 @end
 -->
@@ -172,7 +172,6 @@ Select the correct numbers from the pool (hint: odd numbers only)!
 <div class="choice">4</div>
 <div class="choice">5</div>
 <div class="choice">6</div>,1;3;5)
-
 
 @dragdropmultiple(@uid,
 <div class="choice">1</div>
