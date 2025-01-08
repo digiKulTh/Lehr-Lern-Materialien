@@ -135,7 +135,7 @@ Try to order these items correctly by dragging and dropping them!
 
 Try to order these items correctly by dragging and dropping them (hint: reverse order)!
 
-@dragdroporder(@uid,4|2|1|3,4|3|2|1)
+@dragdroporder(@uid,field 4|field 2|field 1|field 3,field 4|field 3|field 2|field 1)
 
 **Drag and drop multiple choice**
 
