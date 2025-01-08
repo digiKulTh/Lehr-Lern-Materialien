@@ -11,8 +11,8 @@ Anne Hiltscher & Rebecca Wulke
 * [Vor dem Objekthandling](#vor-dem-objekthandling)
 * [Handling von Objekten](#handling-von-objekten)
 * [Reinigung von Objekten](#reinigung-von-objekten)
-* [Anhang Checkliste](#anhang-checkliste)
-* [Anhang Verwendete Literatur](#anhang-verwendete-literatur)
+* [Anhang: Checkliste](#anhang-checkliste)
+* [Anhang: Verwendete Literatur](#anhang-verwendete-literatur)
 
 
 Jede Bewegung und jede Berührung eines Objektes bedeuten ein potenzielles Risiko sowohl für das Objekt als auch für die Personen, die mit dem Objekt arbeiten. Um diese zu vermeiden, sollten Empfehlungen für einen sicheren und schonenden Umgang mit Sammlungsobjekten beachtet werden. Unterschiedliche Objektgattungen und -materialien stellen verschiedene Anforderungen an Handling und Transport. Bevor ein Objekt bewegt wird, sollte jeder Arbeitsschritt genau durchdacht werden.
@@ -74,7 +74,7 @@ Im Zweifelsfall sollte immer ein:e Restaurator:in zu Rate gezogen werden.
 
 Eine Reinigung von Objekten bedarf immer einer vorherigen Begutachtung durch eine:n Experten:in. Sie darf nicht unabgesprochen erfolgen, da dies sowohl das Objekt beschädigen als auch der Gesundheit der Mitarbeitenden abträglich sein kann. Das Entfernen einer leichten Staubschicht von unempfindlichen Materialien wie Geräten aus Metall oder Porzellangeschirr mit einem trockenen Ziegenhaarpinsel ist auch ohne Fachausbildung zulässig (s. Handreichung Gefahrstoffe und Arbeitsschutz zu den Gefahren von Staub).
 
-## Anhang Checkliste
+## Anhang: Checkliste
 
 Jede Bewegung, jede Berührung eines Objektes bedeutet ein potenzielles Risiko für das Objekt. Darum sollte jeder Arbeitsschritt genau durchdacht werden, bevor ein Objekt bewegt wird. Folgende Fragen sind im Vorfeld zu stellen:
 
@@ -95,7 +95,7 @@ Jede Bewegung, jede Berührung eines Objektes bedeutet ein potenzielles Risiko f
       Könnte eine Berührung Schäden vergrößern? Ist der Zustand des Objektes so, dass er erfasst werden sollte? Wer sollte Kenntnis vom
       Objektzustand haben?
 
-## Anhang Verwendete Literatur
+## Anhang: Verwendete Literatur
 
 Rangol, Verena (2019): Zum Umgang mit Museumsobjekten. Eine Handreichung der
 LVR-Museumsberatung, (hrsg. v.) Landschaftsverband Rheinland, Köln, URL: https://www.museen-brandenburg.de/fileadmin/Handreichungen/Umgang_mit_Museumsobjekten_LVR-Museumsheft3.pdf, (letzter Zugriff 02.12.2024).  
