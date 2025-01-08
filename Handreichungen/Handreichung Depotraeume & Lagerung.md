@@ -79,7 +79,7 @@ Brand ist nicht löschbar. Bei Nitro-Film ist aus diesem Grund eine separate Lag
 
 ## Anhang Checkliste
 
-##### Wie sollten Depoträumebeschaffen sein?
+- [ ] ##### Wie sollten Depoträumebeschaffen sein?
 
 Zugangsbeschränkt, nach Brandschutzvorschriften, ausreichend Platz zur Lagerung der Objekte
 
