@@ -14,8 +14,8 @@ Anne Hiltscher & Michael Markert (Bearb.)
       + [Hautpflege](#hautpflege)
   * [Organisatorische Schutzmaßnahmen](#organisatorische-schutzmaßnahmen)
   * [Technische Schutzmaßnahmen](#technische-schutzmaßnahmen)
-- [Checkliste Gefahrstoffe und Arbeitsschutz](#checkliste-gefahrstoffe-und-arbeitsschutz)
-- [Verwendete und weiterführende Literatur](#verwendete-und-weiterführende-literatur)
+- [Anhang: Checkliste Gefahrstoffe und Arbeitsschutz](#anhang-checkliste-gefahrstoffe-und-arbeitsschutz)
+- [Anhang: Verwendete und weiterführende Literatur](#anhang-verwendete-und-weiterführende-literatur)
 
 <!-- TOC end -->
 
@@ -47,8 +47,7 @@ Der Grundsatz sollte immer sein: Die eigene Gesundheit geht vor! Besteht Verdach
 
 ### Maßnahmen der Prävention
 
-Um sich nicht unnötigen Risiken auszusetzen, sollten im Vorfeld Informationen über die Sammlungsobjekte eingeholt werden – Um welche Objektgattungen aus welcher (ungefähren) Zeit handelt es sich? Gibt es eine Gefährdungsbeurteilung, die nähere Details zu
-Gefahrstoffen in der Sammlung enthält? Können Kustod:innen, Sammlungsverantwortlichen, Restaurator:innen oder Gefahrenstoffbeauftragten hinzugezogen werden? Welche Stoffe wurden damals zur Verarbeitung, Konservierung und zum Schutz vor Schädlingen und Schimmel verwendet? Gibt es eine Dokumentation zum Objekte und finden sich darin oder in Gesprächen Hinweise etwa auf „Spritzen“ oder „Tauchen“ was auf eine Behandlung mit Schadstoffen hinweisen kann?
+Um sich nicht unnötigen Risiken auszusetzen, sollten im Vorfeld Informationen über die Sammlungsobjekte eingeholt werden – Um welche Objektgattungen aus welcher (ungefähren) Zeit handelt es sich? Gibt es eine Gefährdungsbeurteilung, die nähere Details zu Gefahrstoffen in der Sammlung enthält? Können Kustod:innen, Sammlungsverantwortlichen, Restaurator:innen oder Gefahrenstoffbeauftragten hinzugezogen werden? Welche Stoffe wurden damals zur Verarbeitung, Konservierung und zum Schutz vor Schädlingen und Schimmel verwendet? Gibt es eine Dokumentation zum Objekte und finden sich darin oder in Gesprächen Hinweise etwa auf „Spritzen“ oder „Tauchen“ was auf eine Behandlung mit Schadstoffen hinweisen kann?
 
 Zweitens sollte geprüft werden, welche Schutzmaßnamen getroffen wurden, um Risiken einzudämmen. Die Objekte, die gefährliche Substanzen enthalten, sollten besonders gekennzeichnet werden, speziell verpackt und/ oder ggf. an speziellen Orten gelagert werden. Auch verdächtige Objekte und Materialien sind Belastete sorgfältig zu kennzeichnen und zu dokumentieren. 
 
@@ -84,7 +83,7 @@ Alle Wege und Abläufe von Mitarbeitenden und belasteten Objekten in die oder au
 
 Oft handelt es sich um Infrastrukturmaßnahmen, die von der (Abteilungs-)Leitung verantwortet werden und hier der Vollständigkeit halber aufgeführt werden. So sollten Waschräume in der Nähe der Arbeitsräume zur Verfügung stehen, je nach Art der Tätigkeit auch ausgestattet mit Duschen. Gegen belastete Stäube helfen spezielle Staubsauger mit HEPA-Filtern, beim Arbeiten an Objekten (Reinigung, Restaurierung) schützt man sich vor Stäuben, Dämpfen oder Gasen mit Absauganlagen wie einer sogenannten reinen Werkbank, wo mittels Unterdruck schädliche Substanzen von den Nutzer:innen wegbewegt werden. Luftreiniger und Anlagen der Raumlufttechnik (RLT) sowie ein angepasster Reinigungsturnus können Schadstoffe in der Luft unter Umständen dauerhaft reduzieren. Dabei sollten vor allem Reinigungsarbeiten mit Flüssigkeiten keinesfalls ohne vorherige Freigabe und Unterweisung durch Expert:innen vorgenommen werden. 
 
-## Checkliste Gefahrstoffe und Arbeitsschutz
+## Anhang: Checkliste Gefahrstoffe und Arbeitsschutz
 
 Jeder Kontakt mit einem Objekt bedeutet ein potenzielles Risiko für die Person, die mit dem Objekt arbeitet und für das Objekt. Folgende Fragen sollten vor der Arbeit mit Objekten geklärt werden:
 
@@ -101,7 +100,7 @@ Jeder Kontakt mit einem Objekt bedeutet ein potenzielles Risiko für die Person,
 
 > ⚠️ Falls bei Objekten Verdachtsmomente für schädliche Substanzen oder Schädlingsbefall (Fraßspuren, Schimmel) vorliegen, konsultieren Sie vor jeglicher Bearbeitung – und dies meint auch Verpackung und Transport – eine:n Expert:in und halten Sie die vereinbarten Schutzmaßnahmen ein!
 
-## Verwendete und weiterführende Literatur
+## Anhang: Verwendete und weiterführende Literatur
 
 Deutsche Gesetzliche Unfallversicherung (2023: Gefahrstoffliste 2023. Gefahrstoffe am Arbeitsplatz. Abgerufen von https://publikationen.dguv.de/widgets/pdf/download/article/4801 (03/12/2024).
 
