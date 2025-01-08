@@ -134,7 +134,7 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
 
 Try to order these items correctly by dragging and dropping them!
 
-@dragdroporder(@uid,4;2;3;,1;2;3;4)
+@dragdroporder(@uid,4;2;3;1,1;2;3;4)
 
 Try to order these items correctly by dragging and dropping them (hint: reverse order)!
 
