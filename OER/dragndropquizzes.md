@@ -133,7 +133,7 @@ Try to order these items correctly by dragging and dropping them!
 
 @dragdroporder(@uid,4|2|3|1,1|2|3|4)
 
-Try to order these items correctly by dragging and dropping them (hint: reverse order)!
+Try to order these items correctly by dragging and dropping them (hint: should be a sentence)!
 
 @dragdroporder(@uid,solution|is|this|the,this|is|the|solution)
 
