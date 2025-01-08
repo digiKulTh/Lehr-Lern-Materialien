@@ -21,38 +21,6 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
       })();
     </script>
   </div>
-  <div class="feedback" style="margin-top: 20px; font-weight: bold; text-align: center;"></div>
-</div>
-
-<script>
-  void setTimeout(() => {
-    const quizId = '@0'.replace(/[^a-zA-Z0-9]/g, '');
-    const container = document.querySelector(`#quiz-${quizId}`);
-    const feedback = container.nextElementSibling;
-    const correctAnswers = '@2'.split(';');
-    
-    new Sortable(container, {
-      animation: 150,
-      onEnd: function() {
-        const choices = Array.from(container.querySelectorAll('.choice'));
-        const currentOrder = choices.map(choice => choice.textContent.trim());
-        
-        const isCorrect = currentOrder.length === correctAnswers.length && 
-                         currentOrder.every((answer, index) => answer === correctAnswers[index]);
-        
-        if (isCorrect) {
-          feedback.textContent = "Correct!";
-          feedback.style.color = "green";
-        } else {
-          feedback.textContent = "Try again!";
-          feedback.style.color = "red";
-        }
-      }
-    });
-  }, 100);
-</script>
-@end
-  </div>
   <div class="feedback" style="margin-top: 20px; font-size:2em; font-weight: bold; text-align: center;">🤔</div>
 </div>
 
