@@ -2,6 +2,22 @@
 
 Anne Hiltscher
 
+<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
+
+- [Eingangsregistratur](#eingangsregistratur)
+   * [Was ist das und warum wird das gemacht?](#was-ist-das-und-warum-wird-das-gemacht)
+   * [Welche Daten müssen mindestens aufgenommen werden?](#welche-daten-müssen-mindestens-aufgenommen-werden)
+- [Inventarisierung](#inventarisierung)
+   * [Exkurs Zur Unterscheidung von Besitz und Eigentum](#exkurs-zur-unterscheidung-von-besitz-und-eigentum)
+   * [Welche Daten sollten aufgenommen werden?](#welche-daten-sollten-aufgenommen-werden)
+   * [Inventarnummern](#inventarnummern)
+   * [Wie sind Inventarnummern aufzubringen?](#wie-sind-inventarnummern-aufzubringen)
+- [Verkauf, Deakzession oder Verlust eines Objektes](#verkauf-deakzession-oder-verlust-eines-objektes)
+- [Verleih eines Objektes](#verleih-eines-objektes)
+- [Anhang Checkliste](#anhang-checkliste)
+- [Anhang Verwendete Literatur**](#anhang-verwendete-literatur)
+
+<!-- TOC end -->
 
 Eine Grundlage der Arbeit mit Sammlungen ist die Erfassung und Verwaltung der Objekte. Die Gesamtheit der Objekte, die in eine Sammlung aufgenommen/ inventarisiert wurden, wird Bestand oder Inventar genannt. Der Bestand umfasst alle Dinge, auch die (noch) nicht inventarisierten. Das Inventar bietet einen rechtlichen
 Nachweis über Herkunft, Art und eventuelle Umstände des Eingangs eines Objektes in die Sammlung, Eingangszeitpunkt/-zeitraum und allgemein über die Existenz des Objektes in der Sammlung. Weiterhin dient es zur eindeutigen Bestimmung und Dokumentation von Sammlungsstücken und ist der Ausgangspunkt für jede interne und externe Verwendung der Objektdaten, etwa bei der Vorbereitung von Ausstellungen.
