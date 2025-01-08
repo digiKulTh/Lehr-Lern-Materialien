@@ -4,15 +4,14 @@ Anne Hiltscher & Rebecca Wulke
 
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
-- [Handreichung Depoträume und Lagerung](#handreichung-depoträume-und-lagerung)
-   * [Depoträume](#depoträume)
-      + [Temperatur und Luftfeuchtigkeit](#temperatur-und-luftfeuchtigkeit)
-      + [Licht](#licht)
-      + [Nicht Lüften](#nicht-lüften)
-   * [Integrierte Schädlingsbekämpfung (IPM)](#integrierte-schädlingsbekämpfung-ipm)
-   * [Art der Lagerung](#art-der-lagerung)
-   * [Anhang Checkliste](#anhang-checkliste)
-   * [Anhang Verwendete Literatur](#anhang-verwendete-literatur)
+- [Depoträume](#depoträume)
+   * [Temperatur und Luftfeuchtigkeit](#temperatur-und-luftfeuchtigkeit)
+   * [Licht](#licht)
+   * [Nicht Lüften](#nicht-lüften)
+- [Integrierte Schädlingsbekämpfung (IPM)](#integrierte-schädlingsbekämpfung-ipm)
+- [Art der Lagerung](#art-der-lagerung)
+- [Anhang Checkliste](#anhang-checkliste)
+- [Anhang Verwendete Literatur](#anhang-verwendete-literatur)
 
 <!-- TOC end -->
 
