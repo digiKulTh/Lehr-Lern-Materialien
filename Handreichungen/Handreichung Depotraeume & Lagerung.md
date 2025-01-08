@@ -67,17 +67,17 @@ Bei **Sonderobjekten**, wie bspw. Nitro-Film, etc., könnten sich das Material o
 
 ## Anhang: Checkliste
 
-- [ ] **Wie sollten Depoträume beschaffen sein?**
+- [ ] **Wie sollten Depoträume beschaffen sein?** (vgl. [Depoträume](#depoträume))
       Zugangsbeschränkt, nach Brandschutzvorschriften, ausreichend Platz zur Lagerung der Objekte
 
-- [ ] **Welche Bedingungen muss die Umgebung erfüllen, um das Objekt optimal zu lagern?**
+- [ ] **Welche Bedingungen muss die Umgebung erfüllen, um das Objekt optimal zu lagern?** (vgl. [Depoträume](#depoträume))
       Das Raumklima (Temperatur und Luftfeuchtigkeit) müssen stabil und bestmöglich sein. Die Beleuchtung sollte so gering und kurz wie möglich erfolgen. Dauer, Intensität und Spektrum des Lichts sind entscheidende Faktoren für eine optimale Lagerung oder Ausstellung von Objekten. 
 
-- [ ] **Sind Maßnahmen zur Schädlingskontrolle erforderlich**?
+- [ ] **Sind Maßnahmen zur Schädlingskontrolle erforderlich**? (vgl. [Integrierte Schädlingsbekämpfung (IPM)](#integrierte-schädlingsbekämpfung-ipm))
 
-- [ ] **Welche Objektgattung** (Gemälde, Möbel, Textilien, technische Geräte, etc.) **liegt vor und welche Besonderheiten sind zu beachten?**
+- [ ] **Welche Objektgattung** (Gemälde, Möbel, Textilien, technische Geräte, etc.) **liegt vor und welche Besonderheiten sind zu beachten?** (vgl. [Art der Lagerung](#art-der-lagerung))
 
-- [ ] **In welcher Position sollten Objekte gelagert werden?**
+- [ ] **In welcher Position sollten Objekte gelagert werden?** (vgl. [Art der Lagerung](#art-der-lagerung))
       Je nach Objekt ist eine hängende oder liegende Lagerung ideal.  
 
 ## Anhang: Verwendete Literatur
