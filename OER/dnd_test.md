@@ -59,7 +59,6 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
     <div style="flex: 1;">
       <div style="font-weight: bold; margin-bottom: 10px;">Pool:</div>
       <div class="pool-container" style="min-height: 50px; padding: 10px; background-color: #f8f8f8; border: 1px dashed #ccc; border-radius: 4px; display: flex; flex-direction: column; gap: 10px;" id="pool-@0">
-        @1
       </div>
     </div>
     <div style="flex: 1;">
@@ -81,11 +80,12 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
         const poolContainer = quizContainer.querySelector('.pool-container');
         const targetContainer = quizContainer.querySelector('.target-container');
         const feedback = quizContainer.querySelector('.feedback');
-        const correctAnswers = new Set('@2'.split(';'));
-        
-        poolContainer.querySelectorAll('.choice').forEach(element => {
-          element.setAttribute('style', 'padding: 10px; background-color: #f0f0f0; border: 1px solid #ddd; border-radius: 4px; cursor: move; user-select: none;');
-        });
+        const correctAnswers = new Set('@2'.split('|'));
+
+        const initialOrder = '@1'.split('|');
+        poolContainer.innerHTML = initialOrder.map(item => 
+          `<div class="choice" style="padding: 10px; background-color: #f0f0f0; border: 1px solid #ddd; border-radius: 4px; cursor: move; user-select: none;">${item}</div>`
+        ).join('');
 
         new Sortable(poolContainer, {
           group: {
@@ -144,20 +144,8 @@ Try to order these items correctly by dragging and dropping them (hint: reverse 
 
 Select the correct numbers from the pool (hint: odd numbers only)!
 
-@dragdropmultiple(@uid,
-<div class="choice">1</div>
-<div class="choice">2</div>
-<div class="choice">3</div>
-<div class="choice">4</div>
-<div class="choice">5</div>
-<div class="choice">6</div>,1;3;5)
+@dragdropmultiple(@uid,1|2|3|4|5|6,1|3|5)
 
 Select the correct numbers from the pool (hint: even numbers only)!
 
-@dragdropmultiple(@uid,
-<div class="choice">1</div>
-<div class="choice">2</div>
-<div class="choice">3</div>
-<div class="choice">4</div>
-<div class="choice">5</div>
-<div class="choice">6</div>,2;4;6)
+@dragdropmultiple(@uid,1|2|3|4|5|6,2|4|6)
