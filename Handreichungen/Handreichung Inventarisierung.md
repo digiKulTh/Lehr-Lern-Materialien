@@ -184,18 +184,19 @@ Bei Übergabe der Objekte sollte unbedingt ein Übergabeprotokoll angefertigt we
 
 ## Anhang: Checkliste
 
-- [ ] **Sind Eingangsregistratur und Inventarisierung zu einem Objekt vorhanden?**
+- [ ] **Sind Eingangsregistratur und Inventarisierung zu einem Objekt vorhanden?** (vgl. [Eingangsregistratur](#eingangsregistratur) und
+      [Inventarisierung](#inventarisierung))
       Grundsätzlich gelten beide der Erfassung von Informationen über Objekte, die kurz- oder langfristig in eine Sammlung gekommen sind, und
       der eindeutigen Zuordenbarkeit dieser Informationen. Bei der Eingangsregistratur werden die Objekte nach ihrer Ankunft erstmals und
       schnell erfasst. Für den Vermerk in der Eingangsregistratur sind Dauer und Art des Eingangs irrelevant. Bei der Inventarisierung wird
       ein Objekt in den Bestand einer Sammlung aufgenommen und sollte für die weitere Nutzung möglichst umfassend dokumentiert werden.
 
-- [ ] **Welche Daten sollten in ein Inventar aufgenommen werden?** 
+- [ ] **Welche Daten sollten in ein Inventar aufgenommen werden?** (vgl. [Welche Daten sollten aufgenommen werden?](#welche-daten-sollten-aufgenommen-werden))
       Für die Auffindbarkeit sind Titel, Inventarnummer und Standort besonders zentral, auch ist mindestens eine Fotografie anzufertigen.
       Angaben zu Urheber:innen, Technik, Maßen und Materialien dienen der Ausstellungsvorbereitung oder sind wichtig für eine fachgerechte
       Aufbewahrung. Informationen über Vorbesitzer:innen und Erwerbung sind wichtig für die Provenienzforschung.
 
-- [ ] **Sind Inventarnummern korrekt angebracht?** 
+- [ ] **Sind die Inventarnummern korrekt angebracht?** (vgl. [Wie sind Inventarnummern aufzubringen?](#wie-sind-inventarnummern-aufzubringen))
       Die Anbringungsart von Inventarnummern unterscheidet sich nach dem Material des Objektes. Es gibt 3 verschiedene Arten – die Anbringung
       auf dem Objekt selbst, das Aufbringen der Inventarnummer auf einem Träger der auf dem Objekt angebracht wird oder die Anbringung eines
       Etiketts.
@@ -205,10 +206,10 @@ Bei Übergabe der Objekte sollte unbedingt ein Übergabeprotokoll angefertigt we
       die Art der Aufbringung erst nach Rücksprache mit einem:r Experten:in vorzunehmen, v. a. wenn das Objekt sehr empfindlich oder
       beschädigt ist oder wenn es sich um ein Objekt aus organischem Material handelt.
 
-- [ ] **Was ist bei einem Objektabgang zu tun?** 
+- [ ] **Was ist bei einem Objektabgang zu tun?** (vgl. [Verkauf, Deakzession oder Verlust eines Objektes](#verkauf-deakzession-oder-verlust-eines-objektes))
       Bei Verkauf, Deakzession oder Verlust eines Objektes ist dies im Inventar zu vermerken.
 
-- [ ] **Was ist bei einer Ent-/Verleihung von Objekten zu beachten?** 
+- [ ] **Was ist bei einer Ent-/Verleihung von Objekten zu beachten?** (vgl. [Verleih eines Objektes](#verleih-eines-objektes))
       Für jeden Vorgang ist ein Leihvertrag aufzusetzen, in dem Mindestinformationen
       festgehalten werden müssen. Zudem ist ein Übergabeprotokoll zur Zustandsklärung und für Versicherungsfälle ratsam.
 
