@@ -14,13 +14,12 @@ Anne Hiltscher
    * [Wie sind Inventarnummern aufzubringen?](#wie-sind-inventarnummern-aufzubringen)
 - [Verkauf, Deakzession oder Verlust eines Objektes](#verkauf-deakzession-oder-verlust-eines-objektes)
 - [Verleih eines Objektes](#verleih-eines-objektes)
-- [Anhang Checkliste](#anhang-checkliste)
-- [Anhang Verwendete Literatur](#anhang-verwendete-literatur)
+- [Anhang: Checkliste](#anhang-checkliste)
+- [Anhang: Verwendete Literatur](#anhang-verwendete-literatur)
 
 <!-- TOC end -->
 
-Eine Grundlage der Arbeit mit Sammlungen ist die Erfassung und Verwaltung der Objekte. Die Gesamtheit der Objekte, die in eine Sammlung aufgenommen/ inventarisiert wurden, wird Bestand oder Inventar genannt. Der Bestand umfasst alle Dinge, auch die (noch) nicht inventarisierten. Das Inventar bietet einen rechtlichen
-Nachweis über Herkunft, Art und eventuelle Umstände des Eingangs eines Objektes in die Sammlung, Eingangszeitpunkt/-zeitraum und allgemein über die Existenz des Objektes in der Sammlung. Weiterhin dient es zur eindeutigen Bestimmung und Dokumentation von Sammlungsstücken und ist der Ausgangspunkt für jede interne und externe Verwendung der Objektdaten, etwa bei der Vorbereitung von Ausstellungen.
+Eine Grundlage der Arbeit mit Sammlungen ist die Erfassung und Verwaltung der Objekte. Die Gesamtheit der Objekte, die in eine Sammlung aufgenommen/ inventarisiert wurden, wird Bestand oder Inventar genannt. Der Bestand umfasst alle Dinge, auch die (noch) nicht inventarisierten. Das Inventar bietet einen rechtlichen Nachweis über Herkunft, Art und eventuelle Umstände des Eingangs eines Objektes in die Sammlung, Eingangszeitpunkt/-zeitraum und allgemein über die Existenz des Objektes in der Sammlung. Weiterhin dient es zur eindeutigen Bestimmung und Dokumentation von Sammlungsstücken und ist der Ausgangspunkt für jede interne und externe Verwendung der Objektdaten, etwa bei der Vorbereitung von Ausstellungen.
 
 Die Recherche und Dokumentation der Provenienz der Sammlungsobjekte, also die Herkunft, ggf. Hersteller:innen, Herstellungsort und -jahr(e), sowie Geschichte der Objekte, sollte für jedes einzelne Objekt einer Sammlung erfolgen. Die Provenienz dient der Klärung von Eigentumsverhältnissen und wird für sammlungsethische Entscheidungen etwa zur Frage von Repatriierung benötigt. Forschung zu Provenienzen ist ausgesprochen zeit- und ressourcenaufwändig und die Provenienz einiger Objekte nicht immer lückenlos oder eindeutig zu klären. Auch diese Lücken und jegliche Recherchen zu Objekten sollten dokumentiert werden.
 
@@ -30,8 +29,7 @@ Jede aufnehmende Institution hat Prozesse wie Eingangsregistratur, Inventarisier
 
 ### Was ist das und warum wird das gemacht?
 
-Die Eingangsregistratur dient einer ersten und schnellen Erfassung eines Objektes, mittels Laufzettel, papiernem Eingangsbuch oder Software, bei Eingang in ein Museum oder eine Sammlung. Die Eingangsregistratur zielt auf den ersten Vermerk über den Eingang eines Objektes und die Sicherstellung der Zuordenbarkeit von Objekten und
-Objektdaten ab. Alle eingehenden Objekte werden mit einer vorläufigen laufenden Nummer gekennzeichnet. Dabei spielt es keine Rolle, ob das Objekt in das Inventar (s. u.) der Institution dauerhaft aufgenommen werden soll oder vorübergehend – etwa als Leihgabe für eine Sonderausstellung – in der Sammlung ist.
+Die Eingangsregistratur dient einer ersten und schnellen Erfassung eines Objektes, mittels Laufzettel, papiernem Eingangsbuch oder Software, bei Eingang in ein Museum oder eine Sammlung. Die Eingangsregistratur zielt auf den ersten Vermerk über den Eingang eines Objektes und die Sicherstellung der Zuordenbarkeit von Objekten und Objektdaten ab. Alle eingehenden Objekte werden mit einer vorläufigen laufenden Nummer gekennzeichnet. Dabei spielt es keine Rolle, ob das Objekt in das Inventar (s. u.) der Institution dauerhaft aufgenommen werden soll oder vorübergehend – etwa als Leihgabe für eine Sonderausstellung – in der Sammlung ist.
 
 ### Welche Daten müssen mindestens aufgenommen werden?
 
@@ -58,18 +56,13 @@ Unabhängig von der Form der Erfassung sollten folgende Informationen dokumentie
 
 ## Inventarisierung
 
-Mit der Inventarisierung eines Objektes wird die Sammlung – bei öffentlichen Einrichtungen im Regelfall das Bundesland, in dem sich die Institution der Sammlung (Museum, Universität) befindet) – Eigentümerin oder Besitzerin/Verwalterin des Objektes. Als Eigentümerin gehört der Sammlung das Stück, sofern die Provenienz nicht entgegenspricht. Als Besitzerin/Verwalterin eines Objektes liegen die Eigentumsverhältnisse bei der Leihgeber:in o. ä. und die Sammlung darf das
-Objekt lediglich für die im Leihvertrag benannten Zwecke nutzen, schützen und
-verwalten.
+Mit der Inventarisierung eines Objektes wird die Sammlung – bei öffentlichen Einrichtungen im Regelfall das Bundesland, in dem sich die Institution der Sammlung (Museum, Universität) befindet) – Eigentümerin oder Besitzerin/Verwalterin des Objektes. Als Eigentümerin gehört der Sammlung das Stück, sofern die Provenienz nicht entgegenspricht. Als Besitzerin/Verwalterin eines Objektes liegen die Eigentumsverhältnisse bei der Leihgeber:in o. ä. und die Sammlung darf das Objekt lediglich für die im Leihvertrag benannten Zwecke nutzen, schützen und verwalten.
 
 ### Exkurs Zur Unterscheidung von Besitz und Eigentum
 
-Das **Eigentum** an einer Sache – in den §§ 903-924 des BGB festgelegt – und bedeutet die volle Verfügungsgewalt darüber zu haben mit allen Rechten und Pflichten, die damit verbunden sind. Eigentümer:innen können andere beliebig von jeder Einwirkung
-auf ihr Objekt ausschließen. Der **Besitz** ist in den §§ 854-872 des BGB geregelt und bezeichnet den momentanen Ort des Verbleibs und die momentane tatsächliche Gewalt über ein Objekt, ohne das hieraus Rechte erwachsen, außer die von dem:r Eigentümer:in eingeräumten. Folglich sollte nur Eigentum der Institution/ Sammlung
-inventarisiert werden. Eine Ausnahme bilden Dauerleihnahmen, die von den meisten Einrichtungen im Inventar mitgeführt werden.
+Das **Eigentum** an einer Sache – in den §§ 903-924 des BGB festgelegt – und bedeutet die volle Verfügungsgewalt darüber zu haben mit allen Rechten und Pflichten, die damit verbunden sind. Eigentümer:innen können andere beliebig von jeder Einwirkung auf ihr Objekt ausschließen. Der **Besitz** ist in den §§ 854-872 des BGB geregelt und bezeichnet den momentanen Ort des Verbleibs und die momentane tatsächliche Gewalt über ein Objekt, ohne das hieraus Rechte erwachsen, außer die von dem:r Eigentümer:in eingeräumten. Folglich sollte nur Eigentum der Institution/ Sammlung inventarisiert werden. Eine Ausnahme bilden Dauerleihnahmen, die von den meisten Einrichtungen im Inventar mitgeführt werden.
 
-In der Eingangsregistratur sollte ein knappes Zugangsprotokoll angefertigt werden, welches Informationen zur Eingangsart (z.B. Schenkung, Leihgabe, Ankauf, etc.), Zustand, Dauer des Objektaufenthaltes im Museum/ der Sammlung, Vorbesitzer/ -eigentümer, Einliefernden und zur Rechteübertragung eines Objektes umfasst. Es ist zu empfehlen, dass sowohl die Einliefernden als auch Vertreter:innen der annehmenden
-Institution das Protokoll unterzeichnen. Papiere, wie Schenkungsurkunden, Kauf- oder Leihverträge und Quittungen sind sachgemäß aufzubewahren.
+In der Eingangsregistratur sollte ein knappes Zugangsprotokoll angefertigt werden, welches Informationen zur Eingangsart (z.B. Schenkung, Leihgabe, Ankauf, etc.), Zustand, Dauer des Objektaufenthaltes im Museum/ der Sammlung, Vorbesitzer/ -eigentümer, Einliefernden und zur Rechteübertragung eines Objektes umfasst. Es ist zu empfehlen, dass sowohl die Einliefernden als auch Vertreter:innen der annehmenden Institution das Protokoll unterzeichnen. Papiere, wie Schenkungsurkunden, Kauf- oder Leihverträge und Quittungen sind sachgemäß aufzubewahren.
 
 ### Welche Daten sollten aufgenommen werden?
 
@@ -115,13 +108,11 @@ Es ist sinnvoll Richtlinien für die Inventarisierung zu verfassen, um Pflichtfe
 
 ### Inventarnummern
 
-Alle Objekte, die in das Sammlungsinventar aufgenommen werden, müssen mit einer **individuellen, einmaligen** Inventarnummer versehen werden. In Deutschland gibt es keinen einheitlichen Standard zur Vergabe von Inventarnummer. Jede Institution hat ihr individuelles System. **Inventarnummern** sollten einer **einheitlichen Systematik** folgen, die **durchgängig für alle** **Sammlungsobjekte und dauerhaft beibehalten** wird, z. B. Jahreszahl_fortlaufende Nummer (1913_1235). Auf sprechende Nummern und die Verwendung von Sonderzeichen, z.B. Ku IV 12/4, sollte verzichtet werden. (Sprechende Nummern enthalten zumeist Buchstabenkürzel, die auf die Zugehörigkeit des Objektes zu einem Sammlungsbereich oder einer Sachgruppe verweisen, wie z.B. K
-für Keramik oder G für Grafik o. ä. Da die Einordnung von Objekten aber nicht immer eindeutig ist und sich nach neueren Erkenntnissen auch ändern kann, kann die Vergabe solcher Inventarnummern problematisch werden.) Wenn alte Inventarnummern vorhanden sind, müssen diese im Inventarregister zwingend vermerkt werden.
+Alle Objekte, die in das Sammlungsinventar aufgenommen werden, müssen mit einer **individuellen, einmaligen** Inventarnummer versehen werden. In Deutschland gibt es keinen einheitlichen Standard zur Vergabe von Inventarnummer. Jede Institution hat ihr individuelles System. **Inventarnummern** sollten einer **einheitlichen Systematik** folgen, die **durchgängig für alle** **Sammlungsobjekte und dauerhaft beibehalten** wird, z. B. Jahreszahl_fortlaufende Nummer (1913_1235). Auf sprechende Nummern und die Verwendung von Sonderzeichen, z.B. Ku IV 12/4, sollte verzichtet werden. (Sprechende Nummern enthalten zumeist Buchstabenkürzel, die auf die Zugehörigkeit des Objektes zu einem Sammlungsbereich oder einer Sachgruppe verweisen, wie z.B. K für Keramik oder G für Grafik o. ä. Da die Einordnung von Objekten aber nicht immer eindeutig ist und sich nach neueren Erkenntnissen auch ändern kann, kann die Vergabe solcher Inventarnummern problematisch werden.) Wenn alte Inventarnummern vorhanden sind, müssen diese im Inventarregister zwingend vermerkt werden.
 
 ### Wie sind Inventarnummern aufzubringen?
 
-Inventarnummern sollen gut leserlich und sichtbar am Objekt an-/aufgebracht werden und beständig gegen Ablösen, Verbleichen oder Abreißen sein. Gleichzeitig ist darauf zu achten, dass sie die Ansicht des Objektes nicht beeinträchtigen. Das An-/Aufbringen
-sollte einheitlich geregelt sein und idealerweise direkt mit der Eintragung ins Inventar erfolgen.
+Inventarnummern sollen gut leserlich und sichtbar am Objekt an-/aufgebracht werden und beständig gegen Ablösen, Verbleichen oder Abreißen sein. Gleichzeitig ist darauf zu achten, dass sie die Ansicht des Objektes nicht beeinträchtigen. Das An-/Aufbringen sollte einheitlich geregelt sein und idealerweise direkt mit der Eintragung ins Inventar erfolgen.
 
 Je nach Objektgattung und Materialien ist darauf zu achten, dass die an-/aufgebrachten Inventarnummern das Objekt nicht durch chemische oder mechanische Prozesse schädigen oder seine Ästhetik stören. Das kann etwa bei Klebstoffen (auch selbstklebende Materialien), Metallen, farbigen Bändern, ungeeigneten Lacken (wie Nagellack), säurehaltigen Garnen und Papieren oder Tinten etwa aus Kugelschreibern und Füllern der Fall sein. Inventarschilder müssen rückstandslos abtrennbar bzw. -lösbar sein.
 
@@ -149,11 +140,9 @@ Grundsätzlich gilt, dass immer das beständigste Material zu beschriften ist, f
 
 **Textilien** sind mit einem Stoffstreifen oder Wäscheband zu versehen, auf dem die Inventarnummer aufgestickt oder mittels eines wasserfesten Wäschestiftes aufgebracht wird.
 
-Inventarnummern auf **Papier** werden mit einem Bleistift des Härtegrades 2B auf
-der Rückseite aufgetragen. Der Bleistift sollte nicht zu spitz sein und Kratzer im Papier sind zu vermeiden.
+Inventarnummern auf **Papier** werden mit einem Bleistift des Härtegrades 2B auf der Rückseite aufgetragen. Der Bleistift sollte nicht zu spitz sein und Kratzer im Papier sind zu vermeiden.
 
-**Gemälde auf Leinwand** besitzen einen Keilrahmen, der mit Öl- oder Acrylfarbe auf der Rückseite beschriftet werden kann. **Gemälde, die einen Holzuntergrund** besitzen
-oder **Holztafeln**, sollten dem Material entsprechend (s. o.) beschriftet werden.
+**Gemälde auf Leinwand** besitzen einen Keilrahmen, der mit Öl- oder Acrylfarbe auf der Rückseite beschriftet werden kann. **Gemälde, die einen Holzuntergrund** besitzen oder **Holztafeln**, sollten dem Material entsprechend (s. o.) beschriftet werden.
 
 **Objekte aus Kunststoff** sind aufgrund möglicher Schäden durch Lacke und der verarbeiteten Lösungsmittel idealerweise mit einem angehängten Etikett mittels Blei- oder Tuschestift zu beschriften.
 
@@ -193,7 +182,7 @@ Darin enthalten sein sollte:
 
 Bei Übergabe der Objekte sollte unbedingt ein Übergabeprotokoll angefertigt werden. Auf diesem sollten die Objekte einzeln mit beschreibendem Titel, Inventarnummer, Maßen und Versicherungswert aufgeführt und der Objektzustand zum Zeitpunkt der Übergabe notiert werden. Das Protokoll dient zur Absicherung beider Parteien.
 
-## Anhang Checkliste
+## Anhang: Checkliste
 
 - [ ] **Sind Eingangsregistratur und Inventarisierung zu einem Objekt vorhanden?**
       Grundsätzlich gelten beide der Erfassung von Informationen über Objekte, die kurz- oder langfristig in eine Sammlung gekommen sind, und
@@ -223,7 +212,7 @@ Bei Übergabe der Objekte sollte unbedingt ein Übergabeprotokoll angefertigt we
       Für jeden Vorgang ist ein Leihvertrag aufzusetzen, in dem Mindestinformationen
       festgehalten werden müssen. Zudem ist ein Übergabeprotokoll zur Zustandsklärung und für Versicherungsfälle ratsam.
 
-## Anhang Verwendete Literatur
+## Anhang: Verwendete Literatur
 
 Deutscher Museumsbund e.V. (Hrsg.) (2011): Leitfaden für die Dokumentation von Museumsobjekten. Von der Eingangsdokumentation bis zur wissenschaftlichen Erschließung Berlin, URL: https://www.smb.museum/fileadmin/website/Institute/Institut_fuer_Museumsforschung/Publikationen/Materialien/LeitfadenDokumentation.pdf, (letzter Zugriff 06.12.2024).
 
