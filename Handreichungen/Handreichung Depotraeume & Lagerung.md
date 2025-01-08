@@ -39,7 +39,7 @@ Zur Überprüfung der verschiedenen Lichtparameter, wie Farbspektrum, Helligkeit
 
 ### Nicht Lüften
 
-Schadstoffbelastete oder heiße Luft wirkt sich negativ auf den Zustand der Sammlungsobjekte aus, nichtsdestotrotz darf  ein Depot nicht gelüftet werden. Dies würde gerade in den Sommermonaten dazu führen, dass sich die Luftfeuchtigkeit aus der wärmeren Außenluft auf den kühleren Objekten und Wänden im Depot niederschlägt. Dies kann einem plötzlichen Schimmelbefall hervorrufen. Offene Fenster sind zudem Einfallstor für Schädlinge (s. nächstes Kapitel). Die Regulation von Temperatur und Luftfeuchte sollte daher immer mit entsprechender Technik erfolgen.
+Schadstoffbelastete oder heiße Luft wirkt sich negativ auf den Zustand der Sammlungsobjekte aus, nichtsdestotrotz darf  ein Depot nicht gelüftet werden. Dies würde gerade in den Sommermonaten dazu führen, dass sich die Luftfeuchtigkeit aus der wärmeren Außenluft auf den kühleren Objekten und Wänden im Depot niederschlägt. Dies kann einem plötzlichen Schimmelbefall hervorrufen. Offene Fenster sind zudem Einfallstor für Schädlinge (s. [Integrierte Schädlingsbekämpfung (IPM)](#integrierte-schädlingsbekämpfung-ipm)). Die Regulation von Temperatur und Luftfeuchte sollte daher immer mit entsprechender Technik erfolgen.
 
 ## Integrierte Schädlingsbekämpfung (IPM)
 
