@@ -10,16 +10,7 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
 @dragdroporder
 <div style="width: 100%; max-width: 600px; padding: 20px; border: 1px solid #ccc; border-radius: 8px;">
   <div class="choices-container" style="display: flex; flex-direction: column; gap: 10px;" id="quiz-@0">
-    <script>
-      void (function() {
-        const initialOrder = '@1'.split(';');
-        document.currentScript.insertAdjacentHTML('afterend', 
-          initialOrder.map(item => 
-            `<div class="choice" style="padding: 10px; background-color: #f0f0f0; border: 1px solid #ddd; border-radius: 4px; cursor: move; user-select: none;">${item}</div>`
-          ).join('')
-        );
-      })();
-    </script>
+    @1
   </div>
   <div class="feedback" style="margin-top: 20px; font-size:2em; font-weight: bold; text-align: center;">🤔</div>
 </div>
@@ -48,6 +39,10 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
               feedback.textContent = "❌";
             }
           }
+        });
+        
+        container.querySelectorAll('.choice').forEach(element => {
+          element.setAttribute('style', 'padding: 10px; background-color: #f0f0f0; border: 1px solid #ddd; border-radius: 4px; cursor: move; user-select: none;');
         });
     })();
   }, 100);
@@ -135,11 +130,19 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
 
 Try to order these items correctly by dragging and dropping them!
 
-@dragdroporder(@uid,4;2;3;1,1;2;3;4)
+@dragdroporder(@uid,
+<div class="choice">4</div>
+<div class="choice">2</div>
+<div class="choice">3</div>
+<div class="choice">1</div>,1;2;3;4)
 
 Try to order these items correctly by dragging and dropping them (hint: reverse order)!
 
-@dragdroporder(@uid,4;2;1;3,4;3;2;1)
+@dragdroporder(@uid,
+<div class="choice">4</div>
+<div class="choice">2</div>
+<div class="choice">1</div>
+<div class="choice">3</div>,4;3;2;1)
 
 **Drag and drop multiple choice**
 
