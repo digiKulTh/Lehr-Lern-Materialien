@@ -125,6 +125,6 @@ Um Unfälle zu vermeiden, sollte beim Transport auch über kurze Strecken auf Hi
 
 ## Anhang Verwendete Literatur
 
-Huber, Joachim; Lerber, Karin von (2015): Handhabung und Lagerung von mobilem Kulturgut. Ein Handbuch für Museen, kirchliche Institutionen, Sammler und Archive, Bielefeld, URL: [https://doi.org/10.14361/9783839401408]() (letzter Zugriff 02.12.2024).
+Huber, Joachim; Lerber, Karin von (2015): Handhabung und Lagerung von mobilem Kulturgut. Ein Handbuch für Museen, kirchliche Institutionen, Sammler und Archive, Bielefeld, URL: Frontmatter (letzter Zugriff 02.12.2024).
 
 Waller, Christoph (Hrsg.): Didaktik zur Präventiven Konservierung, URL: [Didaktik](https://llfa.de/didaktik.html) (letzter Zugriff 05.12.2024).
