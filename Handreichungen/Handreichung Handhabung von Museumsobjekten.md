@@ -84,7 +84,7 @@ Jede Bewegung, jede Berührung eines Objektes bedeutet ein potenzielles Risiko f
 
 - [ ] **Welche Dinge müssen vor dem Objekthandling bedacht werden?** (vgl. [Vor dem Objekthandling](#vor-dem-objekthandling))
 
-- [ ] **Welche Reihenfolge der Arbeitse ist sinnvoll?**
+- [ ] **Welche Reihenfolge der Arbeitsschritte ist sinnvoll?**
 
 - [ ] **Sind alle Arbeitsschritte zwingend nötig oder können einige Tätigkeiten entfallen oder kombiniert werden?** (vgl. [Vor dem Objekthandling](#vor-dem-objekthandling))
 
