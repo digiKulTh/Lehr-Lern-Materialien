@@ -86,7 +86,7 @@ Jede Bewegung, jede Berührung eines Objektes bedeutet ein potenzielles Risiko f
 
 - [ ] **Welche Reihenfolge der Arbeitse ist sinnvoll?**
 
-- [ ] **Sind alle Arbeitsschritte zwingend nötig oder können einige Tätigkeiten entfallen oder kombiniert werden?** 
+- [ ] **Sind alle Arbeitsschritte zwingend nötig oder können einige Tätigkeiten entfallen oder kombiniert werden?** (vgl. [Vor dem Objekthandling](#vor-dem-objekthandling))
 
 - [ ] **Sollte das Objekt berührt/ bearbeitet werden?** (vgl. [Vor dem Objekthandling](#vor-dem-objekthandling))
       Könnte eine Berührung Schäden vergrößern? Ist der Zustand des Objektes so, dass er erfasst werden sollte? Wer sollte Kenntnis vom
