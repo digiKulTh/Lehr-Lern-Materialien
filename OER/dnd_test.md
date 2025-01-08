@@ -5,6 +5,8 @@ version:  0.1.0
 language: en
 narrator: US English Female
 
+window.LIA.settings.theme = "yellow"
+
 script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
 
 @dragdroporder
