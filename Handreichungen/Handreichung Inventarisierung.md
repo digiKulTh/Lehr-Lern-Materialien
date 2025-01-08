@@ -15,7 +15,7 @@ Anne Hiltscher
 - [Verkauf, Deakzession oder Verlust eines Objektes](#verkauf-deakzession-oder-verlust-eines-objektes)
 - [Verleih eines Objektes](#verleih-eines-objektes)
 - [Anhang Checkliste](#anhang-checkliste)
-- [Anhang Verwendete Literatur**](#anhang-verwendete-literatur)
+- [Anhang Verwendete Literatur](#anhang-verwendete-literatur)
 
 <!-- TOC end -->
 
@@ -195,30 +195,35 @@ Bei Übergabe der Objekte sollte unbedingt ein Übergabeprotokoll angefertigt we
 
 ## Anhang Checkliste
 
-**Sind Eingangsregistratur und Inventarisierung zu einem Objekt vorhanden?** Grundsätzlich gelten beide der Erfassung von Informationen über Objekte, die kurz- oder langfristig in eine Sammlung gekommen sind, und der eindeutigen Zuordenbarkeit dieser Informationen. Bei der Eingangsregistratur werden die Objekte nach ihrer Ankunft erstmals und schnell erfasst. Für den Vermerk in der Eingangsregistratur sind Dauer und Art des Eingangs irrelevant. Bei der Inventarisierung wird ein Objekt in den Bestand einer Sammlung aufgenommen und sollte für die weitere Nutzung möglichst umfassend dokumentiert werden.
+- [ ] **Sind Eingangsregistratur und Inventarisierung zu einem Objekt vorhanden?**
+      Grundsätzlich gelten beide der Erfassung von Informationen über Objekte, die kurz- oder langfristig in eine Sammlung gekommen sind, und
+      der eindeutigen Zuordenbarkeit dieser Informationen. Bei der Eingangsregistratur werden die Objekte nach ihrer Ankunft erstmals und
+      schnell erfasst. Für den Vermerk in der Eingangsregistratur sind Dauer und Art des Eingangs irrelevant. Bei der Inventarisierung wird
+      ein Objekt in den Bestand einer Sammlung aufgenommen und sollte für die weitere Nutzung möglichst umfassend dokumentiert werden.
 
-**Welche Daten sollten in ein Inventar aufgenommen werden?** 
+- [ ] **Welche Daten sollten in ein Inventar aufgenommen werden?** 
+      Für die Auffindbarkeit sind Titel, Inventarnummer und Standort besonders zentral, auch ist mindestens eine Fotografie anzufertigen.
+      Angaben zu Urheber:innen, Technik, Maßen und Materialien dienen der Ausstellungsvorbereitung oder sind wichtig für eine fachgerechte
+      Aufbewahrung. Informationen über Vorbesitzer:innen und Erwerbung sind wichtig für die Provenienzforschung.
 
-Für die Auffindbarkeit sind Titel, Inventarnummer und Standort besonders zentral, auch ist mindestens eine Fotografie anzufertigen. Angaben zu Urheber:innen, Technik, Maßen und Materialien dienen der Ausstellungsvorbereitung oder sind wichtig für eine fachgerechte Aufbewahrung. Informationen über Vorbesitzer:innen und Erwerbung sind wichtig für die Provenienzforschung.
+- [ ] **Sind Inventarnummern korrekt angebracht?** 
+      Die Anbringungsart von Inventarnummern unterscheidet sich nach dem Material des Objektes. Es gibt 3 verschiedene Arten – die Anbringung
+      auf dem Objekt selbst, das Aufbringen der Inventarnummer auf einem Träger der auf dem Objekt angebracht wird oder die Anbringung eines
+      Etiketts.
 
-**Sind Inventarnummern korrekt angebracht?** 
+- [ ] **Darf ich das überhaupt selbst tun?** 
+      Grundsätzlich ja, wenn die dafür vorgesehenen Materialien (spezielle Lacke, Tuschen, Schilder etc.) vorhanden sind. Im Zweifelsfall ist
+      die Art der Aufbringung erst nach Rücksprache mit einem:r Experten:in vorzunehmen, v. a. wenn das Objekt sehr empfindlich oder
+      beschädigt ist oder wenn es sich um ein Objekt aus organischem Material handelt.
 
-Die Anbringungsart von Inventarnummern unterscheidet sich nach dem Material des Objektes. Es gibt 3 verschiedene Arten – die Anbringung auf dem Objekt selbst, das Aufbringen der Inventarnummer auf einem Träger der auf dem Objekt angebracht wird oder die Anbringung eines Etiketts.
+- [ ] **Was ist bei einem Objektabgang zu tun?** 
+      Bei Verkauf, Deakzession oder Verlust eines Objektes ist dies im Inventar zu vermerken.
 
-**Darf ich das überhaupt selbst tun?** 
+- [ ] **Was ist bei einer Ent-/Verleihung von Objekten zu beachten?** 
+      Für jeden Vorgang ist ein Leihvertrag aufzusetzen, in dem Mindestinformationen
+      festgehalten werden müssen. Zudem ist ein Übergabeprotokoll zur Zustandsklärung und für Versicherungsfälle ratsam.
 
-Grundsätzlich ja, wenn die dafür vorgesehenen Materialien (spezielle Lacke, Tuschen, Schilder etc.) vorhanden sind. Im Zweifelsfall ist die Art der Aufbringung erst nach Rücksprache mit einem:r Experten:in vorzunehmen, v. a. wenn das Objekt sehr empfindlich oder beschädigt ist oder wenn es sich um ein Objekt aus organischem Material handelt.
-
-**Was ist bei einem Objektabgang zu tun?** 
-
-Bei Verkauf, Deakzession oder Verlust eines Objektes ist dies im Inventar zu vermerken.
-
-**Was ist bei einer Ent-/Verleihung von Objekten zu beachten?** 
-
-Für jeden Vorgang ist ein Leihvertrag aufzusetzen, in dem Mindestinformationen
-festgehalten werden müssen. Zudem ist ein Übergabeprotokoll zur Zustandsklärung und für Versicherungsfälle ratsam.
-
-## Anhang Verwendete Literatur**
+## Anhang Verwendete Literatur
 
 Deutscher Museumsbund e.V. (Hrsg.) (2011): Leitfaden für die Dokumentation von Museumsobjekten. Von der Eingangsdokumentation bis zur wissenschaftlichen Erschließung Berlin, URL: https://www.smb.museum/fileadmin/website/Institute/Institut_fuer_Museumsforschung/Publikationen/Materialien/LeitfadenDokumentation.pdf, (letzter Zugriff 06.12.2024).
 
