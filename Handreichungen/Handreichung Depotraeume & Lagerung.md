@@ -21,7 +21,7 @@ Eine Sammlung braucht einen Ort, um Bestände aufzubewahren. Durch falsche Lager
 
 Die Lagerung von Sammlungsgegenständen bedarf zahlreicher Erwägungen etwa von Alter, Zustand und Materialität. Einige Objektarten Objektarten ausschließlich in kalten, dunklen Umgebungen gelagert werden. Andere Gegenstände dürfen ausschließlich in speziell gesicherten oder Brandschutzräumen lagern. Um Diebstähle und Schäden zu verhindern, ist es erforderlich den Zugang zu Räumlichkeiten, in denen Sammlungsobjekte aufbewahrt werden, auf befugtes Personal zu beschränken. Auch sollte ein Notfallkonzept erstellt werden, um bei größeren Schadensereignissen handlungsfähig zu sein.
 
-Depoträume bedürfen einer besonderen Reinigung und Raumpflege durch geschultes Personal (s. zu -Gefahrstoffen Handreichung Gefahrstoffe und Arbeitsschutz).
+Depoträume bedürfen einer besonderen Reinigung und Raumpflege durch geschultes Personal (s. zu Gefahrstoffen Handreichung Gefahrstoffe und Arbeitsschutz https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Handreichungen/Handreichung%20Gefahrstoffe%20und%20Arbeitsschutz.md).
 
 ### Temperatur und Luftfeuchtigkeit
 
