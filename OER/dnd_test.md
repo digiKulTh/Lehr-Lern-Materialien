@@ -8,7 +8,7 @@ narrator: US English Female
 script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
 
 @dragdroporder
-<div style="width: 100%; max-width: 600px; padding: 20px; border: 1px solid #ccc; border-radius: 8px;">
+<div style="width: 100%; max-width: 600px; padding: 20px; border: 1px solid rgb(var(--color-highlight)); border-radius: 8px;">
   <div class="choices-container" style="display: flex; flex-direction: column; gap: 10px;" id="quiz-@0">
   </div>
   <div class="feedback" style="margin-top: 20px; font-size:2em; font-weight: bold; text-align: center;">🤔</div>
@@ -51,16 +51,16 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
 @end
 
 @dragdropmultiple
-<div style="width: 100%; max-width: 600px; padding: 20px; border: 1px solid #ccc; border-radius: 8px;" id="quiz-@0">
+<div style="width: 100%; max-width: 600px; padding: 20px; border: 1px solid rgb(var(--color-highlight)); border-radius: 8px;" id="quiz-@0">
   <div style="display: flex; gap: 20px;">
     <div style="flex: 1;">
       <div style="font-weight: bold; margin-bottom: 10px;">Pool:</div>
-      <div class="pool-container" style="min-height: 50px; padding: 10px; background-color: #f8f8f8; border: 1px dashed #ccc; border-radius: 4px; display: flex; flex-direction: column; gap: 10px;" id="pool-@0">
+      <div class="pool-container lia-code lia-code--inline" style="min-height: 50px; padding: 10px; border: 1px dashed; border-radius: 4px; display: flex; flex-direction: column; gap: 10px;" id="pool-@0">
       </div>
     </div>
     <div style="flex: 1;">
       <div style="font-weight: bold; margin-bottom: 10px;">Your Selection:</div>
-      <div class="target-container" style="min-height: 50px; padding: 10px; background-color: #f8f8f8; border: 1px dashed #ccc; border-radius: 4px; display: flex; flex-direction: column; gap: 10px;" id="target-@0">
+      <div class="target-container lia-code lia-code--inline" style="min-height: 50px; padding: 10px; border: 1px dashed border-radius: 4px; display: flex; flex-direction: column; gap: 10px;" id="target-@0">
       </div>
     </div>
   </div>
