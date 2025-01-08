@@ -78,17 +78,22 @@ Eine Reinigung von Objekten bedarf immer einer vorherigen Begutachtung durch ein
 
 Jede Bewegung, jede Berührung eines Objektes bedeutet ein potenzielles Risiko für das Objekt. Darum sollte jeder Arbeitsschritt genau durchdacht werden, bevor ein Objekt bewegt wird. Folgende Fragen sind im Vorfeld zu stellen:
 
-**Worauf sollte bei geeigneter Kleidung geachtet werden?** Verfügt die Kleidung über scharfkantige Applikationen, Kordeln, Bänder, weite Schnitte? Sollten Schmuckstücke abgelegt werden?
+- [ ] **Worauf sollte bei geeigneter Kleidung geachtet werden?**
+      Verfügt die Kleidung über scharfkantige Applikationen, Kordeln, Bänder, weite Schnitte? Sollten Schmuckstücke abgelegt werden?
 
-**Wie sollten die Räumlichkeiten und der Arbeitsplatz vorbereitet werden?** Was ist zu vermeiden? Ist der Arbeitsplatz sauber und geeignet? Wie sollten Arbeitsflächen idealerweise aussehen? Welche Bedingungen werden an Klima und Licht gestellt? Sind die Transportwege sicher? 
+- [ ] **Wie sollten die Räumlichkeiten und der Arbeitsplatz vorbereitet werden?**
+      Was ist zu vermeiden? Ist der Arbeitsplatz sauber und geeignet? Wie sollten Arbeitsflächen idealerweise aussehen? Welche Bedingungen
+      werden an Klima und Licht gestellt? Sind die Transportwege sicher? 
 
-**Welche Dinge müssen vor dem Objekthandling bedacht werden?** 
+- [ ] **Welche Dinge müssen vor dem Objekthandling bedacht werden?** 
 
-**Welche Reihenfolge der Arbeitsschritte ist sinnvoll?**
+- [ ] **Welche Reihenfolge der Arbeitsschritte ist sinnvoll?**
 
-**Sind alle Arbeitsschritte zwingend nötig oder können einige Tätigkeiten entfallen oder kombiniert werden?** 
+- [ ] **Sind alle Arbeitsschritte zwingend nötig oder können einige Tätigkeiten entfallen oder kombiniert werden?** 
 
-**Sollte das Objekt berührt/ bearbeitet werden?** Könnte eine Berührung Schäden vergrößern? Ist der Zustand des Objektes so, dass er erfasst werden sollte? Wer sollte Kenntnis vom Objektzustand haben?
+- [ ] **Sollte das Objekt berührt/ bearbeitet werden?**
+      Könnte eine Berührung Schäden vergrößern? Ist der Zustand des Objektes so, dass er erfasst werden sollte? Wer sollte Kenntnis vom
+      Objektzustand haben?
 
 ## Anhang Verwendete Literatur
 
