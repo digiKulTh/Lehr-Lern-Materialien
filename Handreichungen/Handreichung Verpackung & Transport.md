@@ -15,24 +15,18 @@ Anne Hiltscher
    * [Transportweg](#transportweg)
    * [Risiken und ihre Minimierung](#risiken-und-ihre-minimierung)
 - [Hilfsmittel](#hilfsmittel)
-- [Anhang Checkliste](#anhang-checkliste)
-- [Anhang Verwendete Literatur](#anhang-verwendete-literatur)
+- [Anhang: Checkliste](#anhang-checkliste)
+- [Anhang: Verwendete Literatur](#anhang-verwendete-literatur)
 
 <!-- TOC end -->
 
 ## Verpacken und Verpackungen
 
-Ziel des Verpackens ist es, Objekte vor äußeren Einflüssen zu schützen und den Zustand fragiler Objekte zu erhalten. Dabei ist auf Merkmale des Gegenstandes zu
-achten, wie Größe, Material, Form, Beschaffenheit, Gewicht, etc. sowie auf das
-Verwenden von im Sammlungsbereich zulässigem Verpackungsmaterial. Das
-Wiederverwenden von Materialien ist möglich, wenn diese nicht mit
-Gefahrenstoffen, Schimmelsporen, Abfärbungen oder Spuren von einem anderen Objekt kontaminiert sind.
+Ziel des Verpackens ist es, Objekte vor äußeren Einflüssen zu schützen und den Zustand fragiler Objekte zu erhalten. Dabei ist auf Merkmale des Gegenstandes zu achten, wie Größe, Material, Form, Beschaffenheit, Gewicht, etc. sowie auf das Verwenden von im Sammlungsbereich zulässigem Verpackungsmaterial. Das Wiederverwenden von Materialien ist möglich, wenn diese nicht mit Gefahrenstoffen, Schimmelsporen, Abfärbungen oder Spuren von einem anderen Objekt kontaminiert sind.
 
 ### Allgemeines
 
-Der Arbeitstisch sollte festgestellt werden, falls er auf Rollen steht. Lockerer Schmuck sowie Schmuck um Hände und Unterarme ist abzulegen (s. Handreichung Handhabung von Museumsobjekten). Es empfiehlt sich, die Verpackungsmaterialien nah am
-Arbeitsplatz anzuordnen, um unnötige Wege und Risiken zu sparen, und die
-Verpackungslagen vor dem Ablegen des Objektes bereitzulegen. Grundsätzlich sollten Objekte nur kurzfristig in Verpackungen lagern, bspw. für den Transport. Eine Ausnahme bilden Grafiken.
+Der Arbeitstisch sollte festgestellt werden, falls er auf Rollen steht. Lockerer Schmuck sowie Schmuck um Hände und Unterarme ist abzulegen (s. Handreichung Handhabung von Museumsobjekten). Es empfiehlt sich, die Verpackungsmaterialien nah am Arbeitsplatz anzuordnen, um unnötige Wege und Risiken zu sparen, und die Verpackungslagen vor dem Ablegen des Objektes bereitzulegen. Grundsätzlich sollten Objekte nur kurzfristig in Verpackungen lagern, bspw. für den Transport. Eine Ausnahme bilden Grafiken.
 
 Hohlräume sind aufzufüllen, damit das Objekt nicht in der Verpackung rutscht oder das Verpackungsmaterial durchhängt. Das Material muss eine angemessene Größe haben. Überschüssiges Material ist passend abzuschneiden.
 
@@ -44,11 +38,9 @@ Die Frage welche Seite bei Tyvek o.ä. Materialien zum Objekt zeigen sollte, ist
 
 **Pergamin**, ein durchscheinendes Papier und eine Alternative zu Klarsichthüllen, die Weichmacher enthalten können. Die Inhalte von Pergaminhüllen, wie Dokumente, Fotoabzüge, Postkarten etc., sind trotz geringerer Transparenz des Materials weiterhin gut erkennbar. Umschläge aus Pergamin sind fett- und spritzwasserdicht. Zudem laden sie sich nicht statisch auf.
 
-**Säurefreie Archivkartonage** nach ISO 16245, die es in vielfältigsten Formaten
-und Formen, wahlweise mit Innenunterteilung etwa für Münzen, gibt. Auch ist es möglich, sich Verpackungen speziell für einen Anwendungsfall anfertigen zu lassen, etwa eine Hutsammlung.
+**Säurefreie Archivkartonage** nach ISO 16245, die es in vielfältigsten Formaten und Formen, wahlweise mit Innenunterteilung etwa für Münzen, gibt. Auch ist es möglich, sich Verpackungen speziell für einen Anwendungsfall anfertigen zu lassen, etwa eine Hutsammlung.
 
-**Seidenpapier, Tyvek** (ein Vliesstoff), ungebleichte (farbechte) **Baumwolllaken** (ohne Weichspüler gewaschen), dichter Batist (leichter, gewebter Stoff), Cretonne (gröberer, gewebter Baumwollstoff), oder Schaumstoff (ohne Weichmacher, säurefrei) zum
-Einschlagen oder Abpolstern. Tyvek ist ein Allrounder, der als Verpackung für jedes Material verwendet werden kann. Ausgenommen sind Grafiken (s. 1.3. Grafiken).
+**Seidenpapier, Tyvek** (ein Vliesstoff), ungebleichte (farbechte) **Baumwolllaken** (ohne Weichspüler gewaschen), dichter Batist (leichter, gewebter Stoff), Cretonne (gröberer, gewebter Baumwollstoff), oder Schaumstoff (ohne Weichmacher, säurefrei) zum Einschlagen oder Abpolstern. Tyvek ist ein Allrounder, der als Verpackung für jedes Material verwendet werden kann. Ausgenommen sind Grafiken (s. 1.3. Grafiken).
 
 **EPS-Kügelchen** gibt es in verschiedenen Größen und Stärken. Sie werden bspw. in Kissen aus Tyvek gefüllt und passen sich optimal der Form des Objektes an.
 
@@ -58,9 +50,7 @@ Einschlagen oder Abpolstern. Tyvek ist ein Allrounder, der als Verpackung für j
 
 **Kunststofffolien/ -behälter** aus Polyester, Polyethylenterephtalat (PET), Polyethylen (PE) oder Polypropylen (PP) wie Luftpolsterfolie. Sie dürfen kein PVC oder mit Weichmachern belastete Kunststoffe enthalten. Luftpolsterfolie ist nie als erste Schicht zu verwenden, da Abdrücke auf der Objektoberfläche die Folge sein können.
 
-**Holz** für die (Transport-)Verpackung. Es sollte sich um Schichtholz- und Tischlerplatten, Pappel- oder Buchenholz handeln. Von stark harzenden (Nadel)-Hölzern ist abzusehen. Grundsätzlich sollte für den direkten Objektkontakt das beste verfügbare Material verwendet werden, etwa Tyvek, gerade wenn Umverpackungen aus
-unkontrollierten Materialien wie handelsüblicher Bläschenfolie geplant sind.
-Die Verpackungsmaterialien müssen aus dem **Fachhandel** stammen.
+**Holz** für die (Transport-)Verpackung. Es sollte sich um Schichtholz- und Tischlerplatten, Pappel- oder Buchenholz handeln. Von stark harzenden (Nadel)-Hölzern ist abzusehen. Grundsätzlich sollte für den direkten Objektkontakt das beste verfügbare Material verwendet werden, etwa Tyvek, gerade wenn Umverpackungen aus unkontrollierten Materialien wie handelsüblicher Bläschenfolie geplant sind. Die Verpackungsmaterialien müssen aus dem **Fachhandel** stammen.
 
 **Unbedingt zu vermeiden** sind Kunststoffverpackungen (Klarsichthüllen, Luftpolsterfolie, Schaumstoff, etc.), die **PVC oder Weichmacher** enthalten, Metallverpackungen, die rosten können, sowie stark harzendes Holz. **Haushaltsübliche Materialien** sind für den Museumsbetrieb ungeeignet, insbesondere weil diese nicht notwendigerweise säurefrei sind und Chemikalien enthalten können, die den Objekten schaden. Es sollten keine Pappkartons aus dem Supermarkt verwendet werden, da diese eine Biozidbelastung aufweisen oder Schädlinge wie Papierfischchen enthalten können. Zeitungspapier ist zum Einschlagen ungeeignet, da die Druckfarbe abfärbt und das Papier säurehaltig ist.
 
@@ -72,10 +62,7 @@ Meistens kann die Bearbeitung und Handhabung von Objekten nicht an deren Lageror
 
 ### Vorüberlegungen
 
-Eine vorherige Planung, welche Abfolge von Arbeitsschritten nötig ist, ermöglicht
-ein minimales Risiko für das Objekt und möglichst kurze Transportwege. Der
-Arbeitsplatz muss eine ausreichende Größe haben. Es sollte genügend Zeit
-eingeplant werden, um die Objekte in Ruhe und mit Bedacht zu bewegen.
+Eine vorherige Planung, welche Abfolge von Arbeitsschritten nötig ist, ermöglicht ein minimales Risiko für das Objekt und möglichst kurze Transportwege. Der Arbeitsplatz muss eine ausreichende Größe haben. Es sollte genügend Zeit eingeplant werden, um die Objekte in Ruhe und mit Bedacht zu bewegen.
 
 ### Objektgattung und Materialität
 
@@ -87,8 +74,7 @@ Grafiken können liegend auf einer ebenen Fläche befördert werden. Gemälde im
 
 ### Objektgewicht und -größe
 
-Ein Objekt sollte immer von einer angemessenen Personenzahl bewegt werden. Bei leichteren Gegenständen ist eine Person ausreichend. Bei schweren sollte sich
-Unterstützung von weiteren Personen und/ oder in Form von technischen Hilfsmitteln organisiert werden.
+Ein Objekt sollte immer von einer angemessenen Personenzahl bewegt werden. Bei leichteren Gegenständen ist eine Person ausreichend. Bei schweren sollte sich Unterstützung von weiteren Personen und/ oder in Form von technischen Hilfsmitteln organisiert werden.
 
 ### Transportweg
 
@@ -96,9 +82,7 @@ Im Idealfall liegt der Transportweg auf einer Etage/ Ebene. Wenn dies nicht der 
 
 ### Risiken und ihre Minimierung
 
-Risiken können verschiedene Arten von Beschädigungen oder Verfall sein, wie Dellen, Risse oder Verfärbungen. Im schlimmsten Fall kann das gesamte Objekt
-zerstört werden und unwiederbringlich für die Nachwelt verloren sein bzw. weder
-digital noch physisch/real zugänglich sein. Zudem können auch Gesundheitsrisiken für den:die Mitarbeiter:in bestehen.
+Risiken können verschiedene Arten von Beschädigungen oder Verfall sein, wie Dellen, Risse oder Verfärbungen. Im schlimmsten Fall kann das gesamte Objekt zerstört werden und unwiederbringlich für die Nachwelt verloren sein bzw. weder digital noch physisch/real zugänglich sein. Zudem können auch Gesundheitsrisiken für den:die Mitarbeiter:in bestehen.
 
 Risiken können minimiert werden, indem eine guteVorbereitung stattfindet. Fragen, die vor dem Transport des Objektes geklärt werden sollten, sind bspw. Um welche Objektgattungen und Materialien handelt es sich? Wie ist der Zustand des Objekts? Wie schwer und wie groß ist das Objekt? Wie sieht derTransportweg aus? Welche Hilfsmittel (s. u.) sind von Nöten? Welche Schutzausrüstung wird benötigt?
 
@@ -109,9 +93,7 @@ Um Unfälle zu vermeiden, sollte beim Transport auch über kurze Strecken auf Hi
 ## Anhang Checkliste
 
 - [ ] **In welchen Materialien sollten die verschiedenen Objektgattungen dauerhaft verpackt werden?**
-      Bei der Verpackung und Lagerung ist auf Materialien zu achten, die keine schädlichen Stoffe, wie Säure, etc. freisetzen oder
-      biozidbelastet sind. Zudem sollte je nach Objektgattung auf eine passgenaue Lagerung, bspw. in einem passenden Karton, Wert gelegt
-      werden.
+      Bei der Verpackung und Lagerung ist auf Materialien zu achten, die keine schädlichen Stoffe, wie Säure, etc. freisetzen oder biozidbelastet sind. Zudem sollte je nach Objektgattung auf eine passgenaue Lagerung, bspw. in einem passenden Karton, Wert gelegt werden.
 
 - [ ] **Welche Dinge müssen vor dem Objekthandling bedacht werden?**
 
