@@ -2,6 +2,24 @@
 
 Anne Hiltscher
 
+<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
+
+- [Verpacken und Verpackungen](#verpacken-und-verpackungen)
+   * [Allgemeines](#allgemeines)
+   * [Übliche Verpackungsmaterialien im Sammlungsbereich](#übliche-verpackungsmaterialien-im-sammlungsbereich)
+- [Objekttransport](#objekttransport)
+   * [Vorüberlegungen](#vorüberlegungen)
+   * [Objektgattung und Materialität](#objektgattung-und-materialität)
+   * [Objektzustand](#objektzustand)
+   * [Objektgewicht und -größe](#objektgewicht-und--größe)
+   * [Transportweg](#transportweg)
+   * [Risiken und ihre Minimierung](#risiken-und-ihre-minimierung)
+- [Hilfsmittel](#hilfsmittel)
+- [Anhang Checkliste](#anhang-checkliste)
+- [Anhang Verwendete Literatur](#anhang-verwendete-literatur)
+
+<!-- TOC end -->
+
 ## Verpacken und Verpackungen
 
 Ziel des Verpackens ist es, Objekte vor äußeren Einflüssen zu schützen und den Zustand fragiler Objekte zu erhalten. Dabei ist auf Merkmale des Gegenstandes zu
@@ -90,20 +108,20 @@ Um Unfälle zu vermeiden, sollte beim Transport auch über kurze Strecken auf Hi
 
 ## Anhang Checkliste
 
-##### In welchen Materialien sollten die verschiedenen Objektgattungen dauerhaft verpackt werden?
+- [ ] **In welchen Materialien sollten die verschiedenen Objektgattungen dauerhaft verpackt werden?**
+      Bei der Verpackung und Lagerung ist auf Materialien zu achten, die keine schädlichen Stoffe, wie Säure, etc. freisetzen oder
+      biozidbelastet sind. Zudem sollte je nach Objektgattung auf eine passgenaue Lagerung, bspw. in einem passenden Karton, Wert gelegt
+      werden.
 
-Bei der Verpackung und Lagerung ist auf Materialien zu achten, die keine schädlichen
-Stoffe, wie Säure, etc. freisetzen oder biozidbelastet sind. Zudem sollte je nach Objektgattung auf eine passgenaue Lagerung, bspw. in einem passenden Karton, Wert gelegt werden.
+- [ ] **Welche Dinge müssen vor dem Objekthandling bedacht werden?**
 
-##### Welche Dinge müssen vor dem Objekthandling bedacht werden?
+- [ ] **Welche Objektdaten sind relevant?** (Objektart, -material, -zustand, -größe, -gewicht)
 
-##### Welche Objektdaten sind relevant? (Objektart, -material, -zustand, -größe, -gewicht)
+- [ ] **Wie sieht der Transportweg aus?**
 
-##### Wie sieht der Transportweg aus?
+- [ ] **Welche Risiken bestehen und wie können sie minimiert werden?**
 
-##### Welche Risiken bestehen und wie können sie minimiert werden?
-
-##### Welche Hilfsmittel werden zum Transport des Objektes benötigt?
+- [ ] **Welche Hilfsmittel werden zum Transport des Objektes benötigt?**
 
 ## Anhang Verwendete Literatur
 
