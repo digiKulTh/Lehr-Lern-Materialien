@@ -79,21 +79,20 @@ Brand ist nicht löschbar. Bei Nitro-Film ist aus diesem Grund eine separate Lag
 
 ## Anhang Checkliste
 
-- [ ] Wie sollten Depoträumebeschaffen sein?
+- [ ] **Wie sollten Depoträume beschaffen sein?**
+      Zugangsbeschränkt, nach Brandschutzvorschriften, ausreichend Platz zur Lagerung der Objekte
 
-Zugangsbeschränkt, nach Brandschutzvorschriften, ausreichend Platz zur Lagerung der Objekte
+- [ ] **Welche Bedingungen muss die Umgebung erfüllen, um das Objekt optimal zu lagern?**
+      Das Raumklima (Temperatur und Luftfeuchtigkeit) müssen stabil und bestmöglich sein. Die Beleuchtung sollte so gering und kurz wie
+      möglich erfolgen. Dauer, Intensität und Spektrum des Lichts sind entscheidende Faktoren für eine optimale Lagerung oder Ausstellung von
+      Objekten. 
 
-##### Welche Bedingungen muss die Umgebung erfüllen, um das Objekt optimal zu lagern?
+- [ ] **Sind Maßnahmen zur Schädlingskontrolle erforderlich**?
 
-Das Raumklima (Temperatur und Luftfeuchtigkeit) müssen stabil und bestmöglich sein. Die Beleuchtung sollte so gering und kurz wie möglich erfolgen. Dauer, Intensität und Spektrum des Lichts sind entscheidende Faktoren für eine optimale Lagerung oder Ausstellung von Objekten. 
+- [ ] **Welche Objektgattung** (Gemälde, Möbel, Textilien, technische Geräte, etc.) **liegt vor und welche Besonderheiten sind zu beachten?**
 
-##### **Sind Maßnahmen zur Schädlingskontrolle erforderlich**?
-
-**Welche Objektgattung** (Gemälde, Möbel, Textilien, technische Geräte, etc.) **liegt vor und welche Besonderheiten sind zu beachten?**
-
-##### In welcher Position sollten Objekte gelagert werden?
-
-Je nach Objekt ist eine hängende oder liegende Lagerung ideal.##  
+- [ ] **In welcher Position sollten Objekte gelagert werden?**
+      Je nach Objekt ist eine hängende oder liegende Lagerung ideal.  
 
 ## Anhang Verwendete Literatur
 
