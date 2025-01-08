@@ -26,7 +26,7 @@ Ziel des Verpackens ist es, Objekte vor äußeren Einflüssen zu schützen und d
 
 ### Allgemeines
 
-Der Arbeitstisch sollte festgestellt werden, falls er auf Rollen steht. Lockerer Schmuck sowie Schmuck um Hände und Unterarme ist abzulegen (s. Handreichung Handhabung von Museumsobjekten). Es empfiehlt sich, die Verpackungsmaterialien nah am Arbeitsplatz anzuordnen, um unnötige Wege und Risiken zu sparen, und die Verpackungslagen vor dem Ablegen des Objektes bereitzulegen. Grundsätzlich sollten Objekte nur kurzfristig in Verpackungen lagern, bspw. für den Transport. Eine Ausnahme bilden Grafiken.
+Der Arbeitstisch sollte festgestellt werden, falls er auf Rollen steht. Lockerer Schmuck sowie Schmuck um Hände und Unterarme ist abzulegen (s. [Handreichung Handhabung von Museumsobjekten](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Handreichungen/Handreichung%20Handhabung%20von%20Museumsobjekten.md)). Es empfiehlt sich, die Verpackungsmaterialien nah am Arbeitsplatz anzuordnen, um unnötige Wege und Risiken zu sparen, und die Verpackungslagen vor dem Ablegen des Objektes bereitzulegen. Grundsätzlich sollten Objekte nur kurzfristig in Verpackungen lagern, bspw. für den Transport. Eine Ausnahme bilden Grafiken.
 
 Hohlräume sind aufzufüllen, damit das Objekt nicht in der Verpackung rutscht oder das Verpackungsmaterial durchhängt. Das Material muss eine angemessene Größe haben. Überschüssiges Material ist passend abzuschneiden.
 
@@ -58,7 +58,7 @@ Eine gute Verpackung ist einer von drei zentralen Bestandteilen für eine ordnun
 
 ## Objekttransport
 
-Meistens kann die Bearbeitung und Handhabung von Objekten nicht an deren Lagerort stattfinden bzw. Objekte werden für Ausstellungen verliehen. Daher werden Transporte notwendig und Transportwege können nicht vermieden werden. Grundsätzlich sollte jedoch danach gefragt werden, ob der Objektzustand eine Handhabung und einen Transport zulässt. Um die Belastung für das Objekt bzw. das Risiko von Beschädigungen so gering wie möglich zu halten, empfiehlt es sich, auch Transporte über kurze Strecken (z. B. innerhalb des Gebäudes) vorher zu planen und Grundregeln der Objekthandhabung einzuhalten (s. Handreichung Handling). Ebenso zu beachten ist, ob der jeweilige Gegenstand einen Schimmelbefall oder eine andere Kontamination aufweist (s. Handreichung Gefahrstoffe und Arbeitsschutz).
+Meistens kann die Bearbeitung und Handhabung von Objekten nicht an deren Lagerort stattfinden bzw. Objekte werden für Ausstellungen verliehen. Daher werden Transporte notwendig und Transportwege können nicht vermieden werden. Grundsätzlich sollte jedoch danach gefragt werden, ob der Objektzustand eine Handhabung und einen Transport zulässt. Um die Belastung für das Objekt bzw. das Risiko von Beschädigungen so gering wie möglich zu halten, empfiehlt es sich, auch Transporte über kurze Strecken (z. B. innerhalb des Gebäudes) vorher zu planen und Grundregeln der Objekthandhabung einzuhalten (s. [Handreichung Handhabung von Museumsobjekten](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Handreichungen/Handreichung%20Handhabung%20von%20Museumsobjekten.md)). Ebenso zu beachten ist, ob der jeweilige Gegenstand einen Schimmelbefall oder eine andere Kontamination aufweist (s. [Handreichung Gefahrstoffe und Arbeitsschutz](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Handreichungen/Handreichung%20Gefahrstoffe%20und%20Arbeitsschutz.md)).
 
 ### Vorüberlegungen
 
@@ -92,18 +92,20 @@ Um Unfälle zu vermeiden, sollte beim Transport auch über kurze Strecken auf Hi
 
 ## Anhang Checkliste
 
-- [ ] **In welchen Materialien sollten die verschiedenen Objektgattungen dauerhaft verpackt werden?**
-      Bei der Verpackung und Lagerung ist auf Materialien zu achten, die keine schädlichen Stoffe, wie Säure, etc. freisetzen oder biozidbelastet sind. Zudem sollte je nach Objektgattung auf eine passgenaue Lagerung, bspw. in einem passenden Karton, Wert gelegt werden.
+- [ ] **In welchen Materialien sollten die verschiedenen Objektgattungen dauerhaft verpackt werden?** (vgl. [Verpacken und Verpackungen](#verpacken-und-verpackungen))
+      Bei der Verpackung und Lagerung ist auf Materialien zu achten, die keine schädlichen Stoffe, wie Säure, etc. freisetzen oder
+      biozidbelastet sind. Zudem sollte je nach Objektgattung auf eine passgenaue Lagerung, bspw. in einem passenden Karton, Wert gelegt
+      werden.
 
-- [ ] **Welche Dinge müssen vor dem Objekthandling bedacht werden?**
+- [ ] **Welche Dinge müssen vor dem Objekthandling bedacht werden?** (vgl. [Vorüberlegungen](#vorüberlegungen))
 
-- [ ] **Welche Objektdaten sind relevant?** (Objektart, -material, -zustand, -größe, -gewicht)
+- [ ] **Welche Objektdaten sind relevant?** (vgl. [Objektgattung und Materialität](#objektgattung-und-materialität), [Objektzustand](#objektzustand) und [Objektgewicht und -größe](#objektgewicht-und--größe)) (Objektart, -material, -zustand, -größe, -gewicht)
 
-- [ ] **Wie sieht der Transportweg aus?**
+- [ ] **Wie sieht der Transportweg aus?** (vgl. [Transportweg](#transportweg))
 
-- [ ] **Welche Risiken bestehen und wie können sie minimiert werden?**
+- [ ] **Welche Risiken bestehen und wie können sie minimiert werden?** (vgl. [Risiken und ihre Minimierung](#risiken-und-ihre-minimierung))
 
-- [ ] **Welche Hilfsmittel werden zum Transport des Objektes benötigt?**
+- [ ] **Welche Hilfsmittel werden zum Transport des Objektes benötigt?** (vgl. [Hilfsmittel](#hilfsmittel))
 
 ## Anhang Verwendete Literatur
 
