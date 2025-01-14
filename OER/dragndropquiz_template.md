@@ -1,8 +1,8 @@
 <!--
-author:   Your Name
-email:    your@email.com
-version:  0.1.0
-language: en
+author:   Michael Markert
+email:    michael.markert@uni-jena.de
+version:  0.1
+language: de
 narrator: US English Female
 
 script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
@@ -127,7 +127,16 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
 
 # Drag and Drop Quizzes
 
-**Drag and drop in order**
+This is a template for JS-based drag and drop quizzes in LiaScript documents.
+
+* See the Github version of this document [here...](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/OER/dragndropquiz_template.md)
+* See the LiaScript version of this document [here...](https://liascript.github.io/course/?https%3A%2F%2Fraw.githubusercontent.com%2FdigiKulTh%2FLehr-Lern-Materialien%2Fmain%2FOER%2Fdragndropquiz_template.md)
+
+To use these macros within your document, simply import it into LiaScript via:
+
+`import: https://liascript.github.io/course/?https%3A%2F%2Fraw.githubusercontent.com%2FdigiKulTh%2FLehr-Lern-Materialien%2Fmain%2FOER%2Fdragndropquiz_template.md`
+
+## Drag and drop order quiz
 
 Try to order these items correctly by dragging and dropping them!
 
@@ -137,7 +146,7 @@ Try to order these items correctly by dragging and dropping them (hint: should b
 
 @dragdroporder(@uid,solution|is|this|the,this|is|the|solution)
 
-**Drag and drop multiple choice**
+## Drag and drop multiple choice quiz
 
 Select the correct numbers from the pool (hint: odd numbers only)!
 
@@ -146,3 +155,21 @@ Select the correct numbers from the pool (hint: odd numbers only)!
 Select the correct numbers from the pool (hint: even numbers only)!
 
 @dragdropmultiple(@uid,1|2|3|4|5|6,2|4|6)
+
+## How to use it in your LiaScript
+
+Just put 
+
+`@dragdroporder(@uid,4|2|3|1,1|2|3|4)`
+
+, or 
+
+`@dragdroporder(@uid,solution|is|this|the,this|is|the|solution)`
+
+, where
+
+* `@uid` generates an id for the quiz which is important for correct implementation
+* parameter after `@uid` is the initial order of elements (separated by `|`), and the
+* second parameter is the correct order of elements (separated by `|`)
+
+I tried to avoid having `@uid`in the script by nesting in the header (`@dragdroporder: @dragdroporder_(@uid,@0)`) but then the second parameter is not written correctly which breaks the quiz. 
