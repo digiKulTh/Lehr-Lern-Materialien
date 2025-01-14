@@ -131,7 +131,6 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
 
 # Drag and Drop Quiz Template
 
-
                                --{{0}}--
 This is a simple template for adding drag and drop quizzes to LiaScript documents.
 
@@ -142,7 +141,7 @@ To use these macros within your document, simply import it into LiaScript via:
 
 `import: https://raw.githubusercontent.com/digiKulTh/Lehr-Lern-Materialien/refs/heads/main/OER/dragndropquiz_template.md`
 
-**Drag and drop in order**
+## Drag and drop in order
 
 Try to order these items correctly by dragging and dropping them!
 
@@ -152,7 +151,7 @@ Try to order these items correctly by dragging and dropping them (hint: should b
 
 @dragdroporder(solution|is|this|the,this|is|the|solution)
 
-**Drag and drop multiple choice**
+## Drag and drop multiple choice
 
 Select the correct numbers from the pool (hint: odd numbers only)!
 
