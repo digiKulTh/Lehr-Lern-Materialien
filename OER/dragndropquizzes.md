@@ -7,7 +7,9 @@ narrator: US English Female
 
 script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
 
-@dragdroporder
+@dragdroporder: @dragdroporder_(@uid,```@0```)
+
+@dragdroporder_
 <div style="width: 100%; max-width: 600px; padding: 20px; border: 1px solid rgb(var(--color-highlight)); border-radius: 8px;">
   <div class="choices-container" style="display: flex; flex-direction: column; gap: 10px;" id="quiz-@0">
   </div>
@@ -131,7 +133,7 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
 
 Try to order these items correctly by dragging and dropping them!
 
-@dragdroporder(@uid,4|2|3|1,1|2|3|4)
+@dragdroporder(4|2|3|1,1|2|3|4)
 
 Try to order these items correctly by dragging and dropping them (hint: should be a sentence)!
 
