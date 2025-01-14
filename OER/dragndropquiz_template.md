@@ -9,7 +9,7 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
 
 @dragdroporder: @dragdroporder_(@uid,```@0```)
 
-@dragdroporder_
+@dragdroporder
 <div style="width: 100%; max-width: 600px; padding: 20px; border: 1px solid rgb(var(--color-highlight)); border-radius: 8px;">
   <div class="choices-container" style="display: flex; flex-direction: column; gap: 10px;" id="quiz-@0">
   </div>
@@ -54,7 +54,7 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
 
 @dragdropmultiple: @dragdropmultiple_(@uid,```@0```)
 
-@dragdropmultiple_
+@dragdropmultiple
 <div style="width: 100%; max-width: 600px; padding: 20px; border: 1px solid rgb(var(--color-highlight)); border-radius: 8px;" id="quiz-@0">
   <div style="display: flex; gap: 20px;">
     <div style="flex: 1;">
@@ -135,18 +135,18 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
 
 Try to order these items correctly by dragging and dropping them!
 
-@dragdroporder(4|2|3|1,1|2|3|4)
+@dragdroporder(@uid,4|2|3|1,1|2|3|4)
 
 Try to order these items correctly by dragging and dropping them (hint: should be a sentence)!
 
-@dragdroporder(solution|is|this|the,this|is|the|solution)
+@dragdroporder(@uid,solution|is|this|the,this|is|the|solution)
 
 **Drag and drop multiple choice**
 
 Select the correct numbers from the pool (hint: odd numbers only)!
 
-@dragdropmultiple(1|2|3|4|5|6,1|3|5)
+@dragdropmultiple(@uid,1|2|3|4|5|6,1|3|5)
 
 Select the correct numbers from the pool (hint: even numbers only)!
 
-@dragdropmultiple(1|2|3|4|5|6,2|4|6)
+@dragdropmultiple(@uid,1|2|3|4|5|6,2|4|6)
