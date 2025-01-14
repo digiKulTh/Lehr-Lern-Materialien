@@ -52,7 +52,7 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
 </script>
 @end
 
-@dragdroporder: @dragdroporder_(@uid,```@0```)
+@dragdropmultiple: @dragdropmultiple_(@uid,```@0```)
 
 @dragdropmultiple_
 <div style="width: 100%; max-width: 600px; padding: 20px; border: 1px solid rgb(var(--color-highlight)); border-radius: 8px;" id="quiz-@0">
