@@ -1,8 +1,8 @@
 <!--
-author:   Your Name
-email:    your@email.com
+author:   Michael Markert
+email:    michael.markert@uni-jena.de
 version:  0.1.0
-language: en
+language: de
 narrator: US English Female
 
 script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
