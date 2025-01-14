@@ -156,7 +156,7 @@ Select the correct numbers from the pool (hint: even numbers only)!
 
 @dragdropmultiple(@uid,1|2|3|4|5|6,2|4|6)
 
-## How to use it in the document
+## How to use it in your LiaScript
 
 Just put 
 
