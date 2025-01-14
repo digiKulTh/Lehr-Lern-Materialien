@@ -139,7 +139,7 @@ Try to order these items correctly by dragging and dropping them!
 
 Try to order these items correctly by dragging and dropping them (hint: should be a sentence)!
 
-@dragdroporder(@uid,solution|is|this|the,this|is|the|solution)
+@dragdroporder(solution|is|this|the,this|is|the|solution)
 
 **Drag and drop multiple choice**
 
@@ -149,4 +149,4 @@ Select the correct numbers from the pool (hint: odd numbers only)!
 
 Select the correct numbers from the pool (hint: even numbers only)!
 
-@dragdropmultiple(@uid,1|2|3|4|5|6,2|4|6)
+@dragdropmultiple(1|2|3|4|5|6,2|4|6)
