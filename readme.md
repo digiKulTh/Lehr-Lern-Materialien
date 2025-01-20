@@ -56,6 +56,8 @@ Von den 6 Niveaustufen der Lernzieltaxonomie nach Bloom werden die Stufen 1 (Wis
 | 2. Woche  | 10-13       | Praxis Aufbau Digitalisierungs&shy;arbeitsplätze             | Praxis Objektfotografie und -katalogisierung                 | Praxis Objektfotografie und -katalogisierung | Abbau der Digitalisierungs&shy;arbeitsplätze | Zusammenfassung und Feedback-Runde  |
 |           | 14-17       | Praxis Objektfotografie und -katalogisierung             | Praxis Objektfotografie und -katalogisierung                 | Praxis Objektfotografie und -katalogisierung | Exkursion Zoologische Sammlung       |                                     |
 
+---
+
 ## Interne Tipps für die Materialerstellung
 - Marcdown-TOC-Generator: https://bitdowntoc.derlin.ch/ (gibt ein Preset für GitHub)
 - `&shy;` ist der (unsichtbare) HTML-Code für ein 'weiches' Trennzeichen (nach Bedarf) und etwa in der Tabellenformatierung hilfreich
