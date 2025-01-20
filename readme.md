@@ -2,10 +2,13 @@
 Hier finden sich die Materialien aus dem Lehrinnovationsprojekt [digitale Kulturwerkstatt Thüringen (digiKulTh)](https://dksm.thulb.uni-jena.de/digikulth/), durchgeführt im Rahmen von [Freiraum2023](https://stiftung-hochschullehre.de/foerderung/freiraum/) der [Stiftung Innovation in der Hochschullehre](https://stiftung-hochschullehre.de/) an der [Thüringer Universitäts- und Landesbibliothek Jena](https://www.thulb.uni-jena.de/home).
 
 ## Inhalt
+- [Inhalt des Repositoriums](#inhalt-des-repositoriums)
 - [Rahmenbedingungen und Konzept](#rahmenbedingungen-und-konzept)
 - [Lernziele](#lernziele)
 - [Exemplarischer Veranstaltungsplan für das SoSe 2024](#exemplarischer-veranstaltungsplan-für-das-sose-2024)
-- [Inhalt des Repositoriums](#inhalt-des-repositoriums)
+
+## Inhalt des Repositoriums
+Dieses Repositorium enthält derzeit als nutzbare Ressourcen einen Ordner mit [Handreichungen](https://github.com/digiKulTh/Lehr-Lern-Materialien/tree/main/Handreichungen), die wir im Rahmen des Praxisseminars als PDFs an die Studierenden ausgeben und die uns als Orientierung über die Inhalte dienen. Weiterhin zu finden ist ein Verzeichnis der im Rahmen der Objektdigitalisierung eingesetzten [Technik](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/digiKulTh-Fototechnik.md) sowie eine [Vereinbarung über die Nachnutzung](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Vorlage_Rechte%C3%BCbertragung.md) der von den Teilnehmenden erzeugten Daten und Metadaten durch die Institution.
 
 ## Rahmenbedingungen und Konzept
 
@@ -53,11 +56,7 @@ Von den 6 Niveaustufen der Lernzieltaxonomie nach Bloom werden die Stufen 1 (Wis
 | 2. Woche  | 10-13       | Praxis Aufbau Digitalisierungs&shy;arbeitsplätze             | Praxis Objektfotografie und -katalogisierung                 | Praxis Objektfotografie und -katalogisierung | Abbau der Digitalisierungs&shy;arbeitsplätze | Zusammenfassung und Feedback-Runde  |
 |           | 14-17       | Praxis Objektfotografie und -katalogisierung             | Praxis Objektfotografie und -katalogisierung                 | Praxis Objektfotografie und -katalogisierung | Exkursion Zoologische Sammlung       |                                     |
 
-
-## Inhalt des Repositoriums
-Dieses Repositorium enthält derzeit als nutzbare Ressourcen einen Ordner mit [Handreichungen](https://github.com/digiKulTh/Lehr-Lern-Materialien/tree/main/Handreichungen), die wir im Rahmen des Praxisseminars als PDFs an die Studierenden ausgeben und die uns als Orientierung über die Inhalte dienen. Weiterhin zu finden ist ein Verzeichnis der im Rahmen der Objektdigitalisierung eingesetzten [Technik](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/digiKulTh-Fototechnik.md) sowie eine [Vereinbarung über die Nachnutzung](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Vorlage_Rechte%C3%BCbertragung.md) der von den Teilnehmenden erzeugten Daten und Metadaten durch die Institution.
-
-#### Interne Tipps für die Materialerstellung
+## Interne Tipps für die Materialerstellung
 - Marcdown-TOC-Generator: https://bitdowntoc.derlin.ch/ (gibt ein Preset für GitHub)
 - `&shy;` ist der (unsichtbare) HTML-Code für ein 'weiches' Trennzeichen (nach Bedarf) und etwa in der Tabellenformatierung hilfreich
 - https://github.com/BaileyJM02/markdown-to-pdf erlaubt die automatische Generierung von PDFs aus Markdown-Dokumenten in einem Ordner via GitHub-Action. Gut gestaltete PDFs, u. a. mit Kopf- und Fußzeilen, generiert der Editor [MarkText](https://github.com/marktext/marktext).
