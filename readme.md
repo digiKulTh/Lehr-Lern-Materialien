@@ -2,16 +2,17 @@
 Hier finden sich die Materialien aus dem Lehrinnovationsprojekt [digitale Kulturwerkstatt Thüringen (digiKulTh)](https://dksm.thulb.uni-jena.de/digikulth/), durchgeführt im Rahmen von [Freiraum2023](https://stiftung-hochschullehre.de/foerderung/freiraum/) der [Stiftung Innovation in der Hochschullehre](https://stiftung-hochschullehre.de/) an der [Thüringer Universitäts- und Landesbibliothek Jena](https://www.thulb.uni-jena.de/home).
 
 ## Inhalt
-- [Inhalt des Repositoriums](#inhalt-des-repositoriums)
+- [Zielgruppe und Inhaltdes Repositoriums](#zielgruppe-und-inhalt-des-repositoriums)
 - [Rahmenbedingungen und Konzept](#rahmenbedingungen-und-konzept)
 - [Lernziele](#lernziele)
 - [Exemplarischer Veranstaltungsplan für das SoSe 2024](#exemplarischer-veranstaltungsplan-für-das-sose-2024)
 
-## Inhalt des Repositoriums
+## Zielgruppe und Inhalt des Repositoriums
+Das Repositorium richtet sich primär an Hochschul-Lehrende im Bereich Kulturgutdigitalisierung und soll Hilfestellung bei der Vorbereitung und Durchführung entsprechender Lehrveranstaltungen bieten. Da museale Standards angewendet und eingehalten werden, ist es auch für den Bereich der Ausbildung an GLAM-Institutionen – etwa bei der Schulung von Volontär:innen – hilfreich. Es besteht sowohl aus Materialien für die Lehrenden als auch für die Lernenden und ist so lizensiert, dass eine Bearbeitung und Veränderung problemlos möglich ist. Es wird zumindest bis zum Ende der Projektlaufzeit im März 2026 beständig erweitert und überarbeitet.
+
 Dieses Repositorium enthält derzeit als nutzbare Ressourcen einen Ordner mit [Handreichungen](https://github.com/digiKulTh/Lehr-Lern-Materialien/tree/main/Handreichungen), die wir im Rahmen des Praxisseminars als PDFs an die Studierenden ausgeben und die uns als Orientierung über die Inhalte dienen. Weiterhin zu finden ist ein Verzeichnis der im Rahmen der Objektdigitalisierung eingesetzten [Technik](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/digiKulTh-Fototechnik.md) sowie eine [Vereinbarung über die Nachnutzung](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Vorlage_Rechte%C3%BCbertragung.md) der von den Teilnehmenden erzeugten Daten und Metadaten durch die Institution.
 
 ## Rahmenbedingungen und Konzept
-
 Die Abteilung Digitales Kultur- und Sammlungsmanagement (DKSM) an der Thüringer Universitäts- und Landesbibliothek (ThULB) betreut weit über 100 Projekte zur Objektdigitalisierung im Kultursektor. Eine zentrale Herausforderung, die sich durch den wachsenden Bedarf an Digital-Know-how weiter verschärft, ist der Mangel an Kompetenzen in den Bereichen Handling, Erschließung, Objektfotografie und Datenanreicherung an den kooperierenden Institutionen.
 
 Ziel des Vorhabens ist der nachhaltige Aufbau eines Praktikumsprogramms zur Objektdigitalisierung vom ersten Objekthandling bis zur Ausspielung in ein öffentlich zugängliches Portal. Wir versprechen uns davon eine stärkere Berufsorientierung für Tätigkeiten an bewahrenden Kulturinstitutionen sowie eine Professionalisierung der Kulturgutdigitalisierung inner- und außerhalb Thüringens. Kernzielgruppe sind Studierende der Kultur- und Geisteswissenschaften, das Programm ist aber offen gestaltet und berücksichtigt mit einem Schwerpunkt auf Datenbanken, Vokabularen und Linked Open Data auch daten- und technologieaffine Studienfächer.
