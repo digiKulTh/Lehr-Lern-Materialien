@@ -92,10 +92,11 @@ Jede Bewegung, jede Berührung eines Objektes bedeutet ein potenzielles Risiko f
       Könnte eine Berührung Schäden vergrößern? Ist der Zustand des Objektes so, dass er erfasst werden sollte? Wer sollte Kenntnis vom
       Objektzustand haben?
 
-## Anhang: Verwendete Literatur
+## Anhang: Verwendete und weiterführende Literatur Literatur
 
-Rangol, Verena (2019): Zum Umgang mit Museumsobjekten. Eine Handreichung der
-LVR-Museumsberatung, (hrsg. v.) Landschaftsverband Rheinland, Köln, URL: https://www.museen-brandenburg.de/fileadmin/Handreichungen/Umgang_mit_Museumsobjekten_LVR-Museumsheft3.pdf, (letzter Zugriff 02.12.2024).  
+Notfallverbund Stuttgart (2022): Pocket Guide Notfall, URL: https://notfallverbund.ub.uni-stuttgart.de/wp-content/uploads/sites/4/2020/05/Pocket_NoVe.pdf (letzter Zugriff 28.01.2025).
+
+Rangol, Verena (2019): Zum Umgang mit Museumsobjekten. Eine Handreichung der LVR-Museumsberatung, (hrsg. v.) Landschaftsverband Rheinland, Köln, URL: https://www.museen-brandenburg.de/fileadmin/Handreichungen/Umgang_mit_Museumsobjekten_LVR-Museumsheft3.pdf (letzter Zugriff 02.12.2024).  
 
 Volkskundliche Beratungs- und Dokumentationsstelle für Thüringen (Hrsg.) (2022): Grundwissen Heimatstube, Kranichfeld, URL: https://www.xn--volkskundliche-beratung-thringen-xmd.de/fileadmin/user_upload/03_aktuelles/Grundwissen_Heimatstube_Ratgeber.pdf (letzter Zugriff 02.12.2024).
 
