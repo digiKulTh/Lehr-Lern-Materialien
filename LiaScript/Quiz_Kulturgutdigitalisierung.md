@@ -31,6 +31,7 @@ Welche Arbeitsschritte sind für die Kulturgutdigitalisierung notwendig?
 *Sie haben ein Verständnis für die grundlegende Struktur musealen Sammlungsmanagements als Verschränkung physischer (z. B. Handling, Konservierung) und digitaler (z. B. Fotografie, Erschließung) Aspekte (2).*
 
 Welche Aussage zur Struktur des musealen Sammlungsmanagements ist korrekt?
+
 [[ ]] Digitale Aspekte haben die physischen weitgehend ersetzt
 [[x]] Digitales Sammlungsmanagement setzt physisches Sammlungsmanagement voraus 
 [[ ]] Physische und digitale Verwaltung erfolgen völlig getrennt
@@ -70,7 +71,6 @@ Welche rechtlichen Aspekte müssen bei der Sammlungsdigitalisierung beachtet wer
 Bei welchen Objekten ist besondere rechtliche Vorsicht geboten?
 
 [[x]] Zeitgenössische Kunstwerke
-[[ ]] 
 [[x]] Fotografien von Personen
 [[ ]] Objekte vor 1900
 [[x]] Personenbezogene Dokumente
@@ -111,6 +111,7 @@ Bei welchen Objektkategorien ist besondere ethische Sensibilität erforderlich?
 [[x]] Objekte aus kolonialem Kontext
 
 Was sind wichtige ethische Maßnahmen bei der digitalen Präsentation sensibler Objekte?
+
 [[x]] Respektvolle Bildauswahl
 [[ ]] Allgemeine Freigabe für die Öffentlichkeitsarbeit, etwa für Social-Media-Kampagnen
 [[x]] Kontextualisierende Beschreibungen
@@ -237,9 +238,9 @@ Wofür steht das Akronym FAIR?
 
 [[x]] Findable (auffindbar)
 [[ ]] Fast (schnell)
-[[]] Annotated (annotiert)
+[[ ]] Annotated (annotiert)
 [[x]] Accessible (zugänglich)
-[[]] International (international)
+[[ ]] International (international)
 [[x]] Interoperable (interoperabel)
 [[x]] Reusable (nachnutzbar)
 [[ ]] Representative (repräsentativ)
