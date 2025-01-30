@@ -143,7 +143,7 @@ Was sind wichtige Eigenschaften von CC-Lizenzen?
 
 Ordnen Sie die folgenden CC-Lizenzen von offen nach geschlossen.
 
-@dragdroporder(@uid,CC-BY-SA,CC0,CC-BY-NC-ND,CC-BY-ND,CC0,CC-BY-SA,CC-BY-ND,CC-BY-NC-ND)
+@dragdroporder(@uid,CC-BY-SA|CC0|CC-BY-NC-ND|CC-BY-ND,CC0|CC-BY-SA|CC-BY-ND|CC-BY-NC-ND)
 
 ## Ethische Herausforderungen
 
