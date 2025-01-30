@@ -4,16 +4,61 @@ email:    michael.markert@uni-jena.de
 version:  0.9
 language: de
 comment:  Quiz Kulturgutdigitalisierung. Fragen aus allen Bereichen rund um Digitalisierungsprojekte an GLAM-Einrichtungen.
+
+script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
+
+@dragdroporder
+<div style="width: 100%; max-width: 600px; padding: 20px; border: 1px solid rgb(var(--color-highlight)); border-radius: 8px;">
+  <div class="choices-container" style="display: flex; flex-direction: column; gap: 10px;" id="quiz-@0">
+  </div>
+  <div class="feedback" style="margin-top: 20px; font-size:2em; font-weight: bold; text-align: center;">🤔</div>
+</div>
+
+<script>
+  void setTimeout(() => {
+    (function(){
+        const quizId = '@0';
+        const container = document.querySelector(`#quiz-${quizId}`);
+
+        const feedback = container.nextElementSibling;
+        const correctAnswers = '@2'.split('|');
+
+        const initialOrder = '@1'.split('|');
+        container.innerHTML = initialOrder.map(item => 
+          `<div class="choice lia-code lia-code--inline" style="padding: 10px; border-radius: 4px; cursor: move; user-select: none;">${item}</div>`
+        ).join('');
+        
+        new Sortable(container, {
+          animation: 150,
+          onEnd: function() {
+            const choices = Array.from(container.querySelectorAll('.choice'));
+            const currentOrder = choices.map(choice => choice.textContent.trim());
+            
+            const isCorrect = currentOrder.length === correctAnswers.length && 
+                             currentOrder.every((answer, index) => answer === correctAnswers[index]);
+            
+            if (isCorrect) {
+              feedback.textContent = "✅";
+            } else {
+              feedback.textContent = "❌";
+            }
+          }
+        });
+        
+    })();
+  }, 100);
+</script>
+@end
+
 -->
 
 # Quiz Kulturgutdigitalisierung
 
 ## Rahmenbedingungen der Kulturgutdigitalisierung
 
-<--
-@@Sie kennen die Relevanz von Kulturgutdigitalisierung, wissen, welche Ziele damit verfolgt werden und welche Arbeitsschritte dafür notwendig sind (1).
+<!--
+Sie kennen die Relevanz von Kulturgutdigitalisierung, wissen, welche Ziele damit verfolgt werden und welche Arbeitsschritte dafür notwendig sind (1).
 -->
-
 
 Was sind Hauptziele der Kulturgutdigitalisierung?
 
@@ -98,14 +143,7 @@ Was sind wichtige Eigenschaften von CC-Lizenzen?
 
 Ordnen Sie die folgenden CC-Lizenzen von offen nach geschlossen.
 
-- CC-BY-SA
-  
-- CC0
-  
-- CC-BY-NC-ND
-  
-- CC-BY-ND
-  
+@dragdroporder(@uid,CC-BY-SA,CC0,CC-BY-NC-ND,CC-BY-ND,CC0,CC-BY-SA,CC-BY-ND,CC-BY-NC-ND)
 
 ## Ethische Herausforderungen
 
