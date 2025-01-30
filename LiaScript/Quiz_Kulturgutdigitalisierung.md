@@ -10,9 +10,8 @@ comment:  Quiz Kulturgutdigitalisierung. Fragen aus allen Bereichen rund um Digi
 
 ## Rahmenbedingungen der Kulturgutdigitalisierung
 
-<!--
-Sie kennen die Relevanz von Kulturgutdigitalisierung, wissen, welche Ziele damit verfolgt werden und welche Arbeitsschritte dafür notwendig sind (1).
--->
+@@Sie kennen die Relevanz von Kulturgutdigitalisierung, wissen, welche Ziele damit verfolgt werden und welche Arbeitsschritte dafür notwendig sind (1).
+
 
 Was sind Hauptziele der Kulturgutdigitalisierung?
 
