@@ -57,7 +57,7 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
 ## Rahmenbedingungen der Kulturgutdigitalisierung
 
 <!--
-Sie kennen die Relevanz von Kulturgutdigitalisierung, wissen, welche Ziele damit verfolgt werden und welche Arbeitsschritte dafür notwendig sind (1).
+Lernziel: Sie kennen die Relevanz von Kulturgutdigitalisierung, wissen, welche Ziele damit verfolgt werden und welche Arbeitsschritte dafür notwendig sind (1).
 -->
 
 Was sind Hauptziele der Kulturgutdigitalisierung?
@@ -77,7 +77,7 @@ Welche Arbeitsschritte sind für die Kulturgutdigitalisierung notwendig?
 [[ ]] Verkaufsvorbereitung
 
 <!--
-Sie haben ein Verständnis für die grundlegende Struktur musealen Sammlungsmanagements als Verschränkung physischer (z. B. Handling, Konservierung) und digitaler (z. B. Fotografie, Erschließung) Aspekte (2).
+Lernziel: Sie haben ein Verständnis für die grundlegende Struktur musealen Sammlungsmanagements als Verschränkung physischer (z. B. Handling, Konservierung) und digitaler (z. B. Fotografie, Erschließung) Aspekte (2).
 -->
 
 Welche Aussage zur Struktur des musealen Sammlungsmanagements ist korrekt?
@@ -109,7 +109,7 @@ Welche Bereiche umfasst das digitale Sammlungsmanagement?
 ## Rechtliche Aspekte
 
 <!--
-Sie kennen zentrale rechtliche Aspekte von Sammlungsdigitalisierung im Bereich Urheber- und Persönlichkeitsrecht (1).
+Lernziel: Sie kennen zentrale rechtliche Aspekte von Sammlungsdigitalisierung im Bereich Urheber- und Persönlichkeitsrecht (1).
 -->
 
 Welche rechtlichen Aspekte müssen bei der Sammlungsdigitalisierung beachtet werden?
@@ -130,7 +130,7 @@ Bei welchen Objekten ist besondere rechtliche Vorsicht geboten?
 ## Lizenzmodelle
 
 <!--
-Sie kennen Lizenzmodelle für die Publikation von (Meta-)Daten (1) und können deren Eigenschaften beschreiben (2).
+Lernziel: Sie kennen Lizenzmodelle für die Publikation von (Meta-)Daten (1) und können deren Eigenschaften beschreiben (2).
 -->
 
 Was sind wichtige Eigenschaften von CC-Lizenzen?
@@ -148,7 +148,7 @@ Ordnen Sie die folgenden CC-Lizenzen von offen nach geschlossen.
 ## Ethische Herausforderungen
 
 <!--
-Sie kennen ethische Herausforderungen der Kulturgutdigitalisierung insbesondere im weiteren Anwendungsbereich der CARE-Prinzipien (sensible Objekte) (1).
+Lernziel: Sie kennen ethische Herausforderungen der Kulturgutdigitalisierung insbesondere im weiteren Anwendungsbereich der CARE-Prinzipien (sensible Objekte) (1).
 -->
 
 Bei welchen Objektkategorien ist besondere ethische Sensibilität erforderlich?
@@ -171,7 +171,7 @@ Was sind wichtige ethische Maßnahmen bei der digitalen Präsentation sensibler 
 ## Nachnutzung von Sammlungsdaten
 
 <!--
-Sie kennen Formen der Nachnutzung von Sammlungsdaten in Forschung, Lehre und Vermittlung (1).
+Lernziel: Sie kennen Formen der Nachnutzung von Sammlungsdaten in Forschung, Lehre und Vermittlung (1).
 -->
 
 Was sind wichtige Formen der Nachnutzung digitalisierter Sammlungen?
@@ -202,7 +202,7 @@ Welche technischen Voraussetzungen sind für die Nachnutzung wichtig?
 ## Expertise und Ansprechpartner
 
 <!--
-Sie haben einen Überblick über relevante Expertisefelder für den Gesamtprozess und können relevante Ansprechpartner benennen (2).
+Lernziel: Sie haben einen Überblick über relevante Expertisefelder für den Gesamtprozess und können relevante Ansprechpartner benennen (2).
 -->
 
 In welchen Bereichen ist spezialisiertes Fachwissen in einem Digitalisierungsprojekt nötig?
@@ -225,7 +225,7 @@ Welche Expertisen sind für Digitalisierungsprojekte relevant?
 ## Objekthandling
 
 <!--
-Sie haben Grundkenntnisse im Handling von Objekten, d. h. kennen die Merkmale geeigneter Handschuhe, Verpackungsmaterialien, Depotmöbel und Räumlichkeiten (1).
+Lernziel: Sie haben Grundkenntnisse im Handling von Objekten, d. h. kennen die Merkmale geeigneter Handschuhe, Verpackungsmaterialien, Depotmöbel und Räumlichkeiten (1).
 -->
 
 Welche Handschuhe sind für welche Objekte geeignet?
@@ -237,7 +237,7 @@ Welche Handschuhe sind für welche Objekte geeignet?
 [[ ]] Fingerlose Handschuhe für besseres Gefühl
 
 <!--
-Sie kennen häufig auftretende Substanzen, Zustände und Bedingungen, die den Objekten oder ihnen selbst bei Exposition schaden können (1).
+Lernziel: Sie kennen häufig auftretende Substanzen, Zustände und Bedingungen, die den Objekten oder ihnen selbst bei Exposition schaden können (1).
 -->
 
 Welche Bedingungen können Objekten schaden?
@@ -270,7 +270,7 @@ Welche Anforderungen gelten für Depoträume?
 ## Konservierung und IPM
 
 <!--
-Sie kennen die Möglichkeiten der Anbringung von Inventarnummern sowie grundlegende Konservierungstechniken und das Konzept des Integrated Pest Management (IPM) (1).
+Lernziel: Sie kennen die Möglichkeiten der Anbringung von Inventarnummern sowie grundlegende Konservierungstechniken und das Konzept des Integrated Pest Management (IPM) (1).
 -->
 
 Welche Aussagen zum Integrated Pest Management (IPM) sind korrekt?
@@ -292,7 +292,7 @@ Welche Methoden der Inventarnummeranbringung sind geeignet?
 ## Metadaten und Datenmanagement
 
 <!--
-Sie haben Grundkenntnisse in den Bereichen Metadaten, Datenmanagement und Linked Open Data (FAIR, LIDO) (1).
+Lernziel: Sie haben Grundkenntnisse in den Bereichen Metadaten, Datenmanagement und Linked Open Data (FAIR, LIDO) (1).
 -->
 
 Wofür steht das Akronym FAIR?
@@ -317,7 +317,7 @@ Was sind wichtige Metadatenstandards im Museumsbereich?
 ## Sammlungsdatenbanken und Erfassung
 
 <!--
-Sie kennen verbreitete Erfassungssysteme, Thesauri/Vokabulare sowie Datenformate (1).
+Lernziel: Sie kennen verbreitete Erfassungssysteme, Thesauri/Vokabulare sowie Datenformate (1).
 -->
 
 Welche Eigenschaften haben verbreitete Erfassungssysteme?
@@ -330,7 +330,7 @@ Welche Eigenschaften haben verbreitete Erfassungssysteme?
 [[ ]] Automatische Objektbewertung
 
 <!--
-Sie wissen, welche Metadaten sie bei der Digitalisierung von Kulturgut erheben sollten und wie dies in einer Erfassungsmaske zu geschehen hat (2).
+Lernziel: Sie wissen, welche Metadaten sie bei der Digitalisierung von Kulturgut erheben sollten und wie dies in einer Erfassungsmaske zu geschehen hat (2).
 -->
 
 Welche grundlegenden Metadaten sollten erfasst werden?
@@ -354,7 +354,7 @@ Was muss bei der Datenerfassung beachtet werden?
 ## Datennutzung für Forschung und Lehre
 
 <!--
-Sie verstehen die Relevanz strukturierter Daten für die Arbeit mit Sammlungen und die Nutzung von Sammlungsdaten für Forschung, Lehre und Vermittlung (2).
+Lernziel: Sie verstehen die Relevanz strukturierter Daten für die Arbeit mit Sammlungen und die Nutzung von Sammlungsdaten für Forschung, Lehre und Vermittlung (2).
 -->
 
 Welche Vorteile bieten strukturierte Sammlungsdaten?
@@ -375,7 +375,7 @@ Wie können digitalisierte Sammlungen in der Lehre eingesetzt werden?
 ## Digitale Objektfotografie
 
 <!--
-Sie kennen relevante Ausrüstung zur Objektfotografie sowie wichtige Kamera- und Objektivparameter (1).
+Lernziel: Sie kennen relevante Ausrüstung zur Objektfotografie sowie wichtige Kamera- und Objektivparameter (1).
 -->
 
 Welche Parameter sind bei der Objektfotografie wichtig?
@@ -387,7 +387,7 @@ Welche Parameter sind bei der Objektfotografie wichtig?
 [[x]] Weißabgleich
 
 <!--
-Sie können die Elemente und Merkmale eines Arbeitsplatzes für Objektfotografie beschreiben (2).
+Lernziel: Sie können die Elemente und Merkmale eines Arbeitsplatzes für Objektfotografie beschreiben (2).
 -->
 
 Was gehört zu einem professionellen Digitalisierungsarbeitsplatz?
@@ -408,7 +408,7 @@ Was muss bei der Aufnahmesituation beachtet werden?
 [[x]] Verwacklungsfreie Aufnahme
 
 <!--
-Sie kennen wesentliche Schritte der digitalen Entwicklung und des Datenexports (1).
+Lernziel: Sie kennen wesentliche Schritte der digitalen Entwicklung und des Datenexports (1).
 -->
 
 Welche Schritte gehören zur digitalen Entwicklung von Objektfotografien?
@@ -422,7 +422,7 @@ Welche Schritte gehören zur digitalen Entwicklung von Objektfotografien?
 ## Qualitätssicherung der Digitalisierung
 
 <!--
-Sie können wesentliche Qualitätskriterien für Objektfotografien benennen (1) und vorgelegte Digitalisate entsprechend einschätzen (2).
+Lernziel: Sie können wesentliche Qualitätskriterien für Objektfotografien benennen (1) und vorgelegte Digitalisate entsprechend einschätzen (2).
 -->
 
 Welche technischen Mindestanforderungen gelten für Digitalisate?
