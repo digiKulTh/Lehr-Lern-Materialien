@@ -52,7 +52,10 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
 
 -->
 
-# Quiz Kulturgutdigitalisierung
+# Quiz Kulturgutdigitalisierung (Beta)
+
+Dieses Quiz deckt Fragestellungen aus allen Lernzielbereichen des Praxisseminars "Vom Ding zum Datensatz. Kulturgut handhaben, erschließen und digitalisieren" ab. 
+Die jeweils vor den Fragen vermerkten Lernziele entsprechen der Übersicht unter https://github.com/digiKulTh/Lehr-Lern-Materialien#lernziele und werden nach Finalisierung des Quizzes entfernt.
 
 ## Rahmenbedingungen der Kulturgutdigitalisierung
 
