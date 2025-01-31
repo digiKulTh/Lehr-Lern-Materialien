@@ -110,7 +110,7 @@ Welche Bereiche umfasst das digitale Sammlungsmanagement?
 [[ ]] Restaurierung
 [[x]] Rechteverwaltung
 [[x]] Digitale Langzeitarchivierung
-[[ ]] IPM
+[[ ]] Integrated Pest Management (IPM)
 
 ## Rechtliche Aspekte
 
@@ -387,9 +387,9 @@ Lernziel: Sie kennen relevante Ausrüstung zur Objektfotografie sowie wichtige K
 Welche Parameter sind bei der Objektfotografie wichtig?
 
 [[x]] Blende
+[[ ]] Tageszeit
 [[x]] ISO-Wert
 [[x]] Belichtungszeit
-[[x]] Bildgröße in Megabyte
 [[x]] Weißabgleich
 
 <!--
