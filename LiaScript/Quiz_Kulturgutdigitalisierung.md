@@ -457,3 +457,9 @@ Welche Informationen müssen in den Metadaten der Digitalisate hinterlegt sein?
 [[x]] Bildurheber:in
 [[ ]] Privatadresse der Bildurheber:in
 [[x]] Lizenz
+
+## Ende
+
+🎉🎆
+Du hast es geschafft und bist hoffentlich zufrieden mit Deinen Antworten!
+💪🥳
