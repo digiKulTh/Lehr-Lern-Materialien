@@ -207,7 +207,7 @@ Wer sind typische Nutzer:innen digitalisierter Sammlungen?
 [[x]] Künstler:innen
 [[x]] Museumspersonal
 
-Welche technischen Voraussetzungen sind für die Nachnutzung wichtig?
+Welche technischen Voraussetzungen erleichtern die Nachnutzung von Sammlungsdaten?
 
 [[x]] Ausreichende Bildauflösung von Digitalisaten
 [[ ]] Kostenpflichtige Zugänge
@@ -234,7 +234,7 @@ Welche Expertisen sind für Digitalisierungsprojekte relevant?
 
 [[x]] Restaurator:innen
 [[x]] Fotograf:innen
-[[x]] Dokumentar:innen
+[[x]] Museolog:innen
 [[x]] IT-Spezialist:innen
 [[ ]] Marketingexpert:innen
 [[x]] Fachwissenschaftler:innen
@@ -423,7 +423,7 @@ Was muss bei der Aufnahmesituation beachtet werden?
 
 Welche Schritte gehören zur digitalen Entwicklung von Objektfotografien?
 
-[[x]] RAW-Konvertierung
+[[x]] RAW-Entwicklung
 [[x]] Kontrolle des Weißabgleichs und Farbraums
 [[ ]] Künstlerische Bildbearbeitung
 [[ ]] Export als GIF
