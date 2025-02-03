@@ -62,6 +62,7 @@ Alle Fragen sind Multiple-Choice-Fragen, außer es ist dahinter ein anderer Frag
 
 ## Rahmenbedingungen der Kulturgutdigitalisierung
 <!--
+@comment
 Lernziel Sie kennen die Relevanz von Kulturgutdigitalisierung, wissen, welche Ziele damit verfolgt werden und welche Arbeitsschritte dafür notwendig sind (1)
 @end
 -->
@@ -84,6 +85,7 @@ Welche Arbeitsschritte sind für die Kulturgutdigitalisierung notwendig?
 
 ## Sammlungsmanagement
 <!--
+@comment
 Lernziel Sie haben ein Verständnis für die grundlegende Struktur musealen Sammlungsmanagements als Verschränkung physischer (z. B. Handling, Konservierung) und digitaler (z. B. Fotografie, Erschließung) Aspekte (2)
 @end
 -->
@@ -116,6 +118,7 @@ Welche Bereiche umfasst das digitale Sammlungsmanagement?
 
 ## Rechtliche Aspekte
 <!--
+@comment
 Lernziel Sie kennen zentrale rechtliche Aspekte von Sammlungsdigitalisierung im Bereich Urheber- und Persönlichkeitsrecht (1)
 @end
 -->
