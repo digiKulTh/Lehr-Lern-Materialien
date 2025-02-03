@@ -58,12 +58,12 @@ Dieses Quiz deckt Fragestellungen aus allen Lernzielbereichen des Praxisseminars
 
 Die jeweils vor den Fragen vermerkten Lernziele entsprechen der Übersicht unter https://github.com/digiKulTh/Lehr-Lern-Materialien#lernziele und werden nach Finalisierung des Quizzes entfernt.
 
-Alle Fragen mit Mehrfach-Auswahl sind Multiple-Choice-Fragen.
+Alle Fragen sind Multiple-Choice-Fragen, außer es ist dahinter ein anderer Fragetyp vermerkt.
 
 ## Rahmenbedingungen der Kulturgutdigitalisierung
-
 <!--
-Lernziel: Sie kennen die Relevanz von Kulturgutdigitalisierung, wissen, welche Ziele damit verfolgt werden und welche Arbeitsschritte dafür notwendig sind (1).
+Lernziel: Sie kennen die Relevanz von Kulturgutdigitalisierung, wissen, welche Ziele damit verfolgt werden und welche Arbeitsschritte dafür notwendig sind (1)
+@end
 -->
 
 Was sind Hauptziele der Kulturgutdigitalisierung?
@@ -82,8 +82,10 @@ Welche Arbeitsschritte sind für die Kulturgutdigitalisierung notwendig?
 [[x]] Qualitätskontrolle
 [[ ]] Verkaufsvorbereitung
 
+## Sammlungsmanagement
 <!--
-Lernziel: Sie haben ein Verständnis für die grundlegende Struktur musealen Sammlungsmanagements als Verschränkung physischer (z. B. Handling, Konservierung) und digitaler (z. B. Fotografie, Erschließung) Aspekte (2).
+Lernziel: Sie haben ein Verständnis für die grundlegende Struktur musealen Sammlungsmanagements als Verschränkung physischer (z. B. Handling, Konservierung) und digitaler (z. B. Fotografie, Erschließung) Aspekte (2)
+@end
 -->
 
 Welche Aussage zur Struktur des musealen Sammlungsmanagements ist korrekt?
@@ -113,9 +115,9 @@ Welche Bereiche umfasst das digitale Sammlungsmanagement?
 [[ ]] Integrated Pest Management (IPM)
 
 ## Rechtliche Aspekte
-
 <!--
-Lernziel: Sie kennen zentrale rechtliche Aspekte von Sammlungsdigitalisierung im Bereich Urheber- und Persönlichkeitsrecht (1).
+Lernziel: Sie kennen zentrale rechtliche Aspekte von Sammlungsdigitalisierung im Bereich Urheber- und Persönlichkeitsrecht (1)
+@end
 -->
 
 Welche rechtlichen Aspekte müssen bei der Sammlungsdigitalisierung beachtet werden?
@@ -147,7 +149,7 @@ Was sind wichtige Eigenschaften von CC-Lizenzen?
 [[ ]] Kostenpflichtige Nutzung
 [[ ]] Zeitliche Begrenzung
 
-Ordnen Sie die folgenden CC-Lizenzen von offen nach geschlossen.
+Ordnen Sie die folgenden CC-Lizenzen von offen (oben) nach geschlossen (unten) (Drag-and-Drop-Quiz).
 
 @dragdroporder(@uid,CC-BY-SA|CC0|CC-BY-NC-ND|CC-BY-ND,CC0|CC-BY-SA|CC-BY-ND|CC-BY-NC-ND)
 
