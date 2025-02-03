@@ -63,7 +63,7 @@ Alle Fragen sind Multiple-Choice-Fragen, außer es ist dahinter ein anderer Frag
 ## Rahmenbedingungen der Kulturgutdigitalisierung
 <!--
 @comment
-Lernziel Sie kennen die Relevanz von Kulturgutdigitalisierung, wissen, welche Ziele damit verfolgt werden und welche Arbeitsschritte dafür notwendig sind (1)
+Lernziel: Sie kennen die Relevanz von Kulturgutdigitalisierung, wissen, welche Ziele damit verfolgt werden und welche Arbeitsschritte dafür notwendig sind (1).
 @end
 -->
 
@@ -85,8 +85,8 @@ Welche Arbeitsschritte sind für die Kulturgutdigitalisierung notwendig?
 
 ## Sammlungsmanagement
 <!--
-@comment
-Lernziel Sie haben ein Verständnis für die grundlegende Struktur musealen Sammlungsmanagements als Verschränkung physischer (z. B. Handling, Konservierung) und digitaler (z. B. Fotografie, Erschließung) Aspekte (2)
+@comment:
+Lernziel Sie haben ein Verständnis für die grundlegende Struktur musealen Sammlungsmanagements als Verschränkung physischer (z. B. Handling, Konservierung) und digitaler (z. B. Fotografie, Erschließung) Aspekte (2).
 @end
 -->
 
@@ -119,7 +119,7 @@ Welche Bereiche umfasst das digitale Sammlungsmanagement?
 ## Rechtliche Aspekte
 <!--
 @comment
-Lernziel Sie kennen zentrale rechtliche Aspekte von Sammlungsdigitalisierung im Bereich Urheber- und Persönlichkeitsrecht (1)
+Lernziel: Sie kennen zentrale rechtliche Aspekte von Sammlungsdigitalisierung im Bereich Urheber- und Persönlichkeitsrecht (1).
 @end
 -->
 
@@ -141,7 +141,9 @@ Bei welchen Objekten ist besondere rechtliche Vorsicht geboten?
 ## Lizenzmodelle
 
 <!--
+@comment
 Lernziel: Sie kennen Lizenzmodelle für die Publikation von (Meta-)Daten (1) und können deren Eigenschaften beschreiben (2).
+@end
 -->
 
 Was sind wichtige Eigenschaften von CC-Lizenzen?
@@ -159,7 +161,9 @@ Ordnen Sie die folgenden CC-Lizenzen von offen (oben) nach geschlossen (unten) (
 ## Ethische Herausforderungen
 
 <!--
+@comment
 Lernziel: Sie kennen ethische Herausforderungen der Kulturgutdigitalisierung insbesondere im weiteren Anwendungsbereich der CARE-Prinzipien (sensible Objekte) (1).
+@end
 -->
 
 Bei welchen Objektkategorien ist besondere ethische Sensibilität erforderlich?
