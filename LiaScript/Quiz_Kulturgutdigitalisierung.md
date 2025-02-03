@@ -60,6 +60,8 @@ Die jeweils vor den Fragen vermerkten Lernziele entsprechen der Übersicht unter
 
 Alle Fragen sind Multiple-Choice-Fragen, außer es ist dahinter ein anderer Fragetyp vermerkt.
 
+Durch Klicken auf `Prüfen` werden die Antworten abgeglichen, der Haken daneben gibt die korrekte Lösung vor, sollte man nicht darauf kommen.
+
 ## Rahmenbedingungen der Kulturgutdigitalisierung
 <!--
 @comment
@@ -90,7 +92,7 @@ Lernziel: Sie haben ein Verständnis für die grundlegende Struktur musealen Sam
 @end
 -->
 
-Welche Aussage zur Struktur des musealen Sammlungsmanagements ist korrekt?
+Welche Aussagen zur Struktur des musealen Sammlungsmanagements sind korrekt?
 
 [[ ]] Digitale Aspekte haben die physischen weitgehend ersetzt
 [[x]] Digitales Sammlungsmanagement setzt physisches Sammlungsmanagement voraus 
@@ -248,10 +250,9 @@ Lernziel: Sie kennen häufig auftretende Substanzen, Zustände und Bedingungen, 
 Welche Handschuhe sind für welche Objekte geeignet?
 
 [[x]] Baumwollhandschuhe für unempfindliche Objekte
-[[x]] Nitrilhandschuhe für chemisch sensible Objekte
 [[ ]] Fleece-Fäustlinge für Metallobjekte
-[[x]] Latexfreie Handschuhe bei Allergien
 [[ ]] Fingerlose Handschuhe für besseres Gefühl
+[[x]] Nitrilhandschuhe für chemisch sensible Objekte
 
 Welche Bedingungen können Objekten schaden?
 
