@@ -58,11 +58,11 @@ Dieses Quiz deckt Fragestellungen aus allen Lernzielbereichen des Praxisseminars
 
 Die jeweils vor den Fragen vermerkten Lernziele entsprechen der Übersicht unter https://github.com/digiKulTh/Lehr-Lern-Materialien#lernziele und werden nach Finalisierung des Quizzes entfernt.
 
-Alle Fragen sind Multiple-Choice-Fragen, außer es ist dahinter ein anderer Fragetyp vermerkt.
+Alle Fragen sind Multiple-Choice-Fragen, außer es ist dahinter ein anderer Fragetyp vermerkt. Die Antwort wird nur dann als richtig gewertet, wenn alle Haken korrekt gesetzt sind.
 
 Durch Klicken auf `Prüfen` werden die Antworten abgeglichen, der Haken daneben gibt die korrekte Lösung vor, sollte man nicht darauf kommen.
 
-## Rahmenbedingungen der Kulturgutdigitalisierung
+## 1. Rahmenbedingungen der Kulturgutdigitalisierung
 <!--
 @comment
 Lernziel: Sie kennen die Relevanz von Kulturgutdigitalisierung, wissen, welche Ziele damit verfolgt werden und welche Arbeitsschritte dafür notwendig sind (1).
@@ -80,12 +80,12 @@ Was sind Hauptziele der Kulturgutdigitalisierung?
 Welche Arbeitsschritte sind für die Kulturgutdigitalisierung notwendig?
 
 [[x]] Objektauswahl und -vorbereitung
+[[ ]] Verkaufsvorbereitung
 [[x]] Fotografische Dokumentation
 [[x]] Metadatenerfassung
 [[x]] Qualitätskontrolle
-[[ ]] Verkaufsvorbereitung
 
-## Sammlungsmanagement
+## 2. Sammlungsmanagement
 <!--
 @comment
 Lernziel: Sie haben ein Verständnis für die grundlegende Struktur musealen Sammlungsmanagements als Verschränkung physischer (z. B. Handling, Konservierung) und digitaler (z. B. Fotografie, Erschließung) Aspekte (2).
@@ -99,6 +99,13 @@ Welche Aussagen zur Struktur des musealen Sammlungsmanagements sind korrekt?
 [[ ]] Physische und digitale Verwaltung erfolgen völlig getrennt
 [[x]] Physische und digitale Aspekte sind eng miteinander verschränkt
 [[ ]] Nur große Museen benötigen digitales Sammlungsmanagement
+
+Was bedeutet die Abkürzung DAM?
+
+[[ ]] Digital Archive Master
+[[x]] Digital Asset Management
+[[ ]] Dog Assasinates Man (Mathcore Band)
+[[ ]] Digital Archive Management
 
 Welche Bereiche umfasst das physische Sammlungsmanagement?
 
@@ -118,7 +125,7 @@ Welche Bereiche umfasst das digitale Sammlungsmanagement?
 [[x]] Digitale Langzeitarchivierung
 [[ ]] Integrated Pest Management (IPM)
 
-## Rechtliche Aspekte
+## 3. Rechtliche Aspekte
 <!--
 @comment
 Lernziel: Sie kennen zentrale rechtliche Aspekte von Sammlungsdigitalisierung im Bereich Urheber- und Persönlichkeitsrecht (1).
@@ -140,7 +147,9 @@ Bei welchen Objekten ist besondere rechtliche Vorsicht geboten?
 [[ ]] Objekte vor 1900
 [[x]] Personenbezogene Dokumente
 
-## Lizenzmodelle
+> vgl. [Handreichung Rechtliche Aspekte](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Handreichungen/Handreichung%20Rechtliche%20Aspekte.md)
+
+## 4. Lizenzmodelle
 <!--
 @comment
 Lernziel: Sie kennen Lizenzmodelle für die Publikation von (Meta-)Daten (1) und können deren Eigenschaften beschreiben (2).
@@ -159,7 +168,9 @@ Ordnen Sie die folgenden CC-Lizenzen von offen (oben) nach geschlossen (unten) (
 
 @dragdroporder(@uid,CC-BY-SA|CC0|CC-BY-NC-ND|CC-BY-ND,CC0|CC-BY-SA|CC-BY-ND|CC-BY-NC-ND)
 
-## Ethische Herausforderungen
+> vgl. [Handreichung Rechtliche Aspekte](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Handreichungen/Handreichung%20Rechtliche%20Aspekte.md)
+
+## 5. Ethische Herausforderungen
 <!--
 @comment
 Lernziel: Sie kennen ethische Herausforderungen der Kulturgutdigitalisierung insbesondere im weiteren Anwendungsbereich der CARE-Prinzipien (sensible Objekte) (1).
@@ -183,7 +194,9 @@ Was sind wichtige ethische Maßnahmen bei der digitalen Präsentation sensibler 
 [[x]] Einbindung relevanter Gemeinschaften
 [[x]] Zugangsbeschränkungen für besonders sensible Inhalte
 
-## Nachnutzung von Sammlungsdaten
+> vgl. [Handreichung Ethische Dimensionen](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Handreichungen/Handreichung%20Ethische%20Dimensionen.md)
+
+## 6. Nachnutzung von Sammlungsdaten
 <!--
 @comment
 Lernziel: Sie kennen Formen der Nachnutzung von Sammlungsdaten in Forschung, Lehre und Vermittlung (1).
@@ -195,7 +208,7 @@ Was sind wichtige Formen der Nachnutzung digitalisierter Sammlungen?
 [[x]] Wissenschaftliche Forschungsprojekte
 [[x]] Digitale Ausstellungen
 [[x]] Machine Learning und KI-Training
-[[ ]] Verkauf der Originalobjekte
+[[ ]] Ersatz für Originalobjekte nach Versteigerung
 [[x]] Lehrmaterialien für Schule und Universität
 [[x]] Vermittlungsarbeit
 
@@ -215,7 +228,7 @@ Welche technischen Voraussetzungen erleichtern die Nachnutzung von Sammlungsdate
 [[x]] Stabile Links auf Datenbestände (URIs)
 [[ ]] Fehlende Schnittstellendokumentation
 
-## Expertise und Ansprechpartner
+## 7. Expertise und Ansprechpartner
 <!--
 @comment
 Lernziel: Sie haben einen Überblick über relevante Expertisefelder für den Gesamtprozess und können relevante Ansprechpartner benennen (2).
@@ -226,9 +239,9 @@ In welchen Bereichen ist spezialisiertes Fachwissen in einem Digitalisierungspro
 
 [[x]] Objekthandling und Konservierung
 [[x]] Digitale Fotografie
+[[ ]] Museumspädagogik
 [[x]] Metadatenstandards
 [[x]] Rechtliche Aspekte
-[[ ]] Verkaufsstrategie
 
 Welche Expertisen sind für Digitalisierungsprojekte relevant?
 
@@ -239,7 +252,7 @@ Welche Expertisen sind für Digitalisierungsprojekte relevant?
 [[ ]] Marketingexpert:innen
 [[x]] Fachwissenschaftler:innen
 
-## Objekthandling
+## 8. Objekthandling
 <!--
 @comment
 Lernziel: Sie haben Grundkenntnisse im Handling von Objekten, d. h. kennen die Merkmale geeigneter Handschuhe, Verpackungsmaterialien, Depotmöbel und Räumlichkeiten (1).
@@ -281,7 +294,9 @@ Welche Anforderungen gelten für Depoträume?
 [[ ]] Essen und Trinken stehen am Arbeitsplatz
 [[x]] Verschlossener Zugang
 
-## Konservierung und IPM
+> vgl. [Handreichung Handhabung von Museumsobjekten](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Handreichungen/Handreichung%20Handhabung%20von%20Museumsobjekten.md)
+
+## 9. Konservierung und Integrated Pest Management (IPM)
 <!--
 @comment
 Lernziel: Sie kennen die Möglichkeiten der Anbringung von Inventarnummern sowie grundlegende Konservierungstechniken und das Konzept des Integrated Pest Management (IPM) (1).
@@ -304,7 +319,9 @@ Welche Methoden der Inventarnummeranbringung sind geeignet?
 [[ ]] Aufkleben von Post-Its an Objektunter- oder -rückseite
 [[x]] Anhängen von säurefreien Etiketten
 
-## Metadaten und Datenmanagement
+> vgl. [Handreichung Depoträume und Lagerung](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Handreichungen/Handreichung%20Depotraeume%20%26%20Lagerung.md)
+
+## 10. Metadaten und Datenmanagement
 <!--
 @comment
 Lernziel: Sie haben Grundkenntnisse in den Bereichen Metadaten, Datenmanagement und Linked Open Data (FAIR, LIDO) (1).
@@ -322,6 +339,13 @@ Wofür steht das Akronym FAIR?
 [[x]] Reusable (nachnutzbar)
 [[ ]] Representative (repräsentativ)
 
+Welche dieser Abkürzungen ist kein Vokabular (single choice)?
+
+[[ ]] AAT
+[[ ]] Wikidata
+[[x]] API
+[[ ]] GND
+
 Was sind wichtige Metadatenstandards im Museumsbereich?
 
 [[x]] LIDO
@@ -330,7 +354,9 @@ Was sind wichtige Metadatenstandards im Museumsbereich?
 [[x]] CIDOC CRM
 [[ ]] PNG Format
 
-## Sammlungsdatenbanken und Erfassung
+> vgl. [Handreichung Ethische Dimensionen](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Handreichungen/Handreichung%20Ethische%20Dimensionen.md)
+
+## 11. Sammlungsdatenbanken und Erfassung
 <!--
 @comment
 Lernziel: Sie kennen verbreitete Erfassungssysteme, Thesauri/Vokabulare sowie Datenformate (1).
@@ -365,7 +391,9 @@ Was muss bei der Datenerfassung beachtet werden?
 [[x]] Verwendung kontrollierter Vokabulare 
 [[ ]] Nichtssagender Objekttitel ("Vase")
 
-## Datennutzung für Forschung und Lehre
+> vgl. [Handreichung Inventarisierung](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Handreichungen/Handreichung%20Inventarisierung.md)
+
+## 12. Datennutzung für Forschung und Lehre
 <!--
 @comment
 Lernziel: Sie verstehen die Relevanz strukturierter Daten für die Arbeit mit Sammlungen und die Nutzung von Sammlungsdaten für Forschung, Lehre und Vermittlung (2).
@@ -380,6 +408,13 @@ Welche Vorteile bieten strukturierte Sammlungsdaten?
 [[x]] Automatisierte Analysemöglichkeiten
 [[ ]] Vereinfachte Verkaufsprozesse
 
+Was ist eine PID (single choice)?
+
+[[ ]] ein Datenaustauschformat (portable interoperable data)
+[[ ]] ein 3D-Datenformat (product image 3D)
+[[x]] die eindeutige Benennung einer digitalen Ressource (persistent identifier)
+[[ ]] eine Lizenzangabe (public international domain)
+
 Wie können digitalisierte Sammlungen in der Lehre eingesetzt werden?
 
 [[x]] Zur Erstellung virtueller Vermittlungsformate
@@ -387,7 +422,7 @@ Wie können digitalisierte Sammlungen in der Lehre eingesetzt werden?
 [[ ]] Als Ersatz von Präsenzveranstaltungen
 [[x]] Für Lehrforschungsprojekte
 
-## Digitale Objektfotografie
+## 13. Digitale Objektfotografie
 <!--
 @comment
 Lernziel: Sie kennen relevante Ausrüstung zur Objektfotografie sowie wichtige Kamera- und Objektivparameter (1).
@@ -429,7 +464,9 @@ Welche Schritte gehören zur digitalen Entwicklung von Objektfotografien?
 [[ ]] Export als GIF
 [[x]] Export als TIFF
 
-## Qualitätssicherung der Digitalisierung
+> vgl. [Checkliste Objektfotografie](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Handreichungen/Checkliste%20Objektfotografie.md)
+
+## 14. Qualitätssicherung der Digitalisierung
 <!--
 @comment
 Lernziel: Sie können wesentliche Qualitätskriterien für Objektfotografien benennen (1) und vorgelegte Digitalisate entsprechend einschätzen (2).
@@ -444,10 +481,11 @@ Welche technischen Mindestanforderungen gelten für Digitalisate?
 [[x]] Mehrere Ansichten pro Objekt
 [[ ]] Maximale Dateikomprimierung
 
-Was ist bei der Qualitätskontrolle von Digitalisaten wichtig?
+Was sollte bei der Qualitätskontrolle von Digitalisaten geprüft werden?
 
 [[x]] Schärfe der Aufnahme
 [[x]] Korrekte Belichtung
+[[ ]] Dramatische Ausleuchtung
 [[x]] Farbtreue
 [[x]] Vollständigkeit der Ansichten
 
@@ -457,6 +495,8 @@ Welche Informationen müssen in den Metadaten der Digitalisate hinterlegt sein?
 [[x]] Bildurheber:in
 [[ ]] Privatadresse der Bildurheber:in
 [[x]] Lizenz
+
+> vgl. [Checkliste Objektfotografie](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Handreichungen/Checkliste%20Objektfotografie.md)
 
 ## Ende
 
