@@ -262,12 +262,12 @@ Lernziel: Sie kennen häufig auftretende Substanzen, Zustände und Bedingungen, 
 
 Welche Handschuhe sind für welche Objekte geeignet?
 
-[[x]] Baumwollhandschuhe für unempfindliche Objekte
+[[x]] Baumwollhandschuhe für unempfindliche Objekte (nach entsprechender Beurteilung durch Fachpersonal)
 [[ ]] Fleece-Fäustlinge für Metallobjekte
 [[ ]] Fingerlose Handschuhe für besseres Gefühl
 [[x]] Nitrilhandschuhe für chemisch sensible Objekte
 
-Welche Bedingungen können Objekten schaden?
+Welche Umweltbedingungen können Objekten schaden?
 
 [[x]] Sonnenlicht
 [[x]] Hohe Luftfeuchtigkeit
@@ -292,7 +292,7 @@ Welche Anforderungen gelten für Depoträume?
 [[ ]] Tägliches Stoßlüften
 [[x]] Schädlingsmonitoring
 [[ ]] Essen und Trinken stehen am Arbeitsplatz
-[[x]] Verschlossener Zugang
+[[x]] Zugang nur für eingewiesene Personen
 
 > vgl. [Handreichung Handhabung von Museumsobjekten](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Handreichungen/Handreichung%20Handhabung%20von%20Museumsobjekten.md)
 
@@ -305,11 +305,11 @@ Lernziel: Sie kennen die Möglichkeiten der Anbringung von Inventarnummern sowie
 
 Welche Aussagen zum Integrated Pest Management (IPM) sind korrekt?
 
-[[x]] Es ist ein ganzheitlicher Ansatz zur Schädlingsprävention
+[[x]] Ist ein ganzheitlicher Ansatz zur Schädlingsprävention
 [[x]] Regelmäßige Kontrollen sind ein zentraler Bestandteil
-[[ ]] Es ist nur für Naturkundemuseen relevant
-[[x]] Es umfasst präventive und reaktive Maßnahmen
-[[x]] Sollte in allen Sammlungen mit organischen Materialien angewendet werden.
+[[ ]] Ist nur für Naturkundemuseen relevant
+[[x]] Umfasst präventive und reaktive Maßnahmen
+[[x]] Sollte in allen Sammlungen mit organischen Materialien angewendet werden
 
 Welche Methoden der Inventarnummeranbringung sind geeignet?
 
@@ -317,7 +317,7 @@ Welche Methoden der Inventarnummeranbringung sind geeignet?
 [[ ]] Direktes Beschriften von Holzobjekten mit dem Kugelschreiber
 [[x]] Direktes Beschriften mit Bleistift rückseitig auf Zeichungen und Drucken
 [[ ]] Aufkleben von Post-Its an Objektunter- oder -rückseite
-[[x]] Anhängen von säurefreien Etiketten
+[[x]] Anhängen von säurefreien Etiketten mittels Baumwollfaden
 
 > vgl. [Handreichung Depoträume und Lagerung](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Handreichungen/Handreichung%20Depotraeume%20%26%20Lagerung.md)
 
@@ -378,8 +378,8 @@ Welche grundlegenden Metadaten sollten erfasst werden?
 [[x]] Eindeutige Inventarnummer
 [[x]] Objektbezeichnung und Objektart
 [[ ]] Beliebtheit bei Personal und Besucher:innen
-[[ ]] Farbe
-[[x]] mindestens ein Datum, etwa zu Herstellungszeit oder Ankauf
+[[ ]] Objektfarbe(n)
+[[x]] Datierung (z. B. Herstellungszeit und/oder Ankauf)
 [[x]] Standort
 [[ ]] Aktueller Versicherungswert
 
@@ -410,16 +410,16 @@ Welche Vorteile bieten strukturierte Sammlungsdaten?
 
 Was ist eine PID (single choice)?
 
-[[ ]] ein Datenaustauschformat (portable interoperable data)
-[[ ]] ein 3D-Datenformat (product image 3D)
-[[x]] die eindeutige Benennung einer digitalen Ressource (persistent identifier)
-[[ ]] eine Lizenzangabe (public international domain)
+[[ ]] Ein Datenaustauschformat (portable interoperable data)
+[[ ]] Ein 3D-Datenformat (product image 3D)
+[[x]] Die eindeutige Benennung einer digitalen Ressource (persistent identifier)
+[[ ]] Eine Lizenzangabe (public international domain)
 
 Wie können digitalisierte Sammlungen in der Lehre eingesetzt werden?
 
 [[x]] Zur Erstellung virtueller Vermittlungsformate
 [[x]] In digitalen Seminarmaterialien
-[[ ]] Als Ersatz von Präsenzveranstaltungen
+[[ ]] Als Ersatz für Präsenzveranstaltungen
 [[x]] Für Lehrforschungsprojekte
 
 ## 13. Digitale Objektfotografie
@@ -446,6 +446,7 @@ Was gehört zu einem professionellen Digitalisierungsarbeitsplatz?
 [[x]] Farbkarte mit Maßstab für Weißabgleich und als Größenreferenz
 [[x]] Hochauflösende Kamera
 [[x]] Hochwertige Objektive
+[[x]] Hintergrundsystem
 
 Was muss bei der Aufnahmesituation beachtet werden?
 
