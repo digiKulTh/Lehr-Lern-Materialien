@@ -91,7 +91,7 @@ Kamerasysteme mit Objektiven
 ## Nach der Veranstaltung
 
 - Evaluation
-- Vorbesprechung der sich anschließenden Praktik
+- Vorbesprechung der sich anschließenden Praktika
 - ggf. Batch-Bildupload zur Verknüpfung mit den Datensätzen, wenn nicht während der Veranstaltung geschehen (Wer, Wie, Wann?)
 - Betreuung der Praktika
   - Umzug der Technik
