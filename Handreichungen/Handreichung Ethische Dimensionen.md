@@ -135,6 +135,8 @@ Imeri, S. & Rizzolli, M. (2022). ‘CARE Principles for Indigenous Data Governan
 
 Jütte, R. (2011). ‘Die Stuttgarter Empfehlungen zum Umgang mit Präparaten aus menschlichem Gewebe in Sammlungen, Museen und öffentlichen Räumen’, In Weber, C. & Mauersberger, K. (Hrsg.) *Universitätsmussen und -sammlungen im Hochschulalltag*. Berlin, S. 43–47. Abgerufen von https://edoc.hu-berlin.de/handle/18452/1976 (10/12/2019).
 
+Kaiser, I. (2021). ‘Digitalisierung menschlicher Überreste als besondere Herausforderung’. In Hahn, H. P. et al. (Hrsg.) *Digitalisierung ethnologischer Sammlungen. Perspektiven aus Theorie und Praxis*. Bielefeld, S. 199–214. Aberufen von https://www.transcript-open.de/doi/10.14361/9783839457900-012 (11/02/2025).
+
 Local Contexts (2024). Abgerufen von https://localcontexts.org/ (02/12/2024).
 
 Mähr, M. & Schnegg, N. (2024). ‘Handbuch zur Erstellung diskriminierungsfreier Metadaten für historische Quellen und Forschungsdaten’. Abgerufen von https://maehr.github.io/diskriminierungsfreie-metadaten/ (29/07/2024).
