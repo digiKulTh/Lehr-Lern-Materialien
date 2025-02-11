@@ -20,7 +20,7 @@ Ziel des Vorhabens ist der nachhaltige Aufbau eines Praktikumsprogramms zur Obje
 Umgesetzt wird dies als Lehrprogramm bestehend aus einer zertifizierten ‘Grundausbildung’ als zweiwöchiges Praxisseminar, ergänzt um – je nach Bedarf seitens der Studierenden – studienbegleitende Praktika mit einer Laufzeit von vier bis acht Wochen. Die Ausbildung erfolgt durch Mitarbeitende in der Abteilung DKSM mit langjähriger Erfahrung und umfangreicher Expertise sowie anhand der Bestände Jenaer Universitätssammlungen. Damit lässt sich das gesamte Spektrum von ‚Flachware‘ wie Grafik über kulturhistorische Objekte wie Gemälde und Skulpturen bis hin zu naturwissenschaftlichen Objekten wie Herbarbögen, Präparaten oder Forschungsinstrumenten abbilden. 
 
 ## Lernziele
-Von den 6 Niveaustufen der Lernzieltaxonomie nach Bloom werden die Stufen 1 (Wissen: Fakten und Informationen wiedergeben), 2 (Verstehen: Informationen erklären, interpretieren und in eigenen Worten wiedergeben) und 3 (Anwenden: Gelerntes Wissen in neuen Situationen anwenden) adressiert.
+Von den 6 Niveaustufen der Lernzieltaxonomie nach Bloom werden die Stufen 1 (Wissen: Fakten und Informationen wiedergeben), 2 (Verstehen: Informationen erklären, interpretieren und in eigenen Worten wiedergeben) und 3 (Anwenden: Gelerntes Wissen in neuen Situationen anwenden) adressiert, das Niveau ist immmer in Klammern hinter dem Lernziel angegeben.
 
 ### Die TN kennen wesentliche Rahmenbedingungen von Kulturgutdigitalisierung.
 - Sie kennen die Relevanz von Kulturgutdigitalisierung, wissen, welche Ziele damit verfolgt werden und welche Arbeitsschritte dafür notwendig sind (1). 
@@ -36,7 +36,7 @@ Von den 6 Niveaustufen der Lernzieltaxonomie nach Bloom werden die Stufen 1 (Wis
 - Sie kennen die Möglichkeiten der Anbringung von Inventarnummern sowie grundlegende Konservierungstechniken und das Konzept des Integrated Pest Management (IPM) (1).
 - Sie haben diese Kenntnisse auf einen abgegrenzten Sammlungsbestand unter Anleitung praktisch angewendet (3).
 ### Die TN können objektbezogene Daten erheben und strukturiert ablegen.
-- Sie haben Grundkenntnisse in den Bereichen Metadaten, Datenmanagement und Linked Open Data (FAIR, LIDO) (1). 
+- Sie haben Grundkenntnisse in den Bereichen Metadaten, Datenmanagement und Linked Open Data (1). 
 - Sie kennen verbreitete Erfassungssysteme, Thesauri/Vokabulare sowie Datenformate (1).
 - Sie verstehen die Relevanz strukturierter Daten für die Arbeit mit Sammlungen und die Nutzung von Sammlungsdaten für Forschung, Lehre und Vermittlung (2).
 - Sie wissen, welche Metadaten sie bei der Digitalisierung von Kulturgut erheben sollten und wie dies in einer Erfassungsmaske zu geschehen hat (2).
