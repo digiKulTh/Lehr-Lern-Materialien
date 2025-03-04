@@ -1,5 +1,7 @@
 # digiCult.web-Schreibanweisung für die Bestände der Sammlung wissenschaftlicher und technischer Geräte zur Physik an der FSU Jena
 
+**Elea Koop, Martin Schumacher**
+
 ## Vorbemerkung
 
 Nur die erwähnten Felder sind auszufüllen. Kursiv geschriebenes sind feste Schreibweisen für Felder. Bezeichnungen der Felder werden in Kapitälchen angegeben (sind im Leerzustand des Feldes sichtbar). Beispiele werden in eckigen Klammern [ ] angegeben.
