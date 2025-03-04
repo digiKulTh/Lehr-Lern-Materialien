@@ -90,7 +90,7 @@ GESAMT wird für das Gesamtobjekt verwendet.
 
 **Erläuterung:**
 
-Hier wird ergänzt um welchen Objektteil es sich genau handelt, wenn z. B. mehrere Bauteile und Zubehör Teil eines Objektes sind (`Sockel`, `Korpus`, `Transportkiste`). Die Identifikation des bemaßten (Teil-)Objektes kann auch anhand von Herstellerkatalogen (Literaturangabe mit Seitenzahl) und den dort ggf. vermerkten Nummerierungen erfolgen oder anhand eventuell auf den Objekten vorhandenen Nummern bei mehreren Objekten mit gleichen Maßen (`1-3,5-6,10-12`).
+Hier wird ergänzt um welchen Objektteil es sich genau handelt, wenn z. B. mehrere Bauteile und Zubehör Teil eines Objektes sind (`Sockel`, `Korpus`, `Transportkiste`). Zur Identifizierung des bemaßten (Teil-)Objekts können Herstellerkataloge genutzt werden (bitte Literaturangabe mit Seitenzahl angeben), in denen die Teile ggf. auch nummeriert sind. Zudem kann die Identifikation auch mittels Nummern erfolgen, die möglicherweise auf den Objekten selbst angebracht sind, insbesondere wenn mehrere Objekte mit identischen Maßen vorhanden sind (`1-3,5-6,10-12`).
 
 **Typ:**
 
