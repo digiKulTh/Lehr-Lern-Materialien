@@ -56,7 +56,7 @@ script:   https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js
 
 Dieses Quiz deckt Fragestellungen aus allen Lernzielbereichen des Praxisseminars "Vom Ding zum Datensatz. Kulturgut handhaben, erschließen und digitalisieren" ab. 
 
-Die jeweils vor den Fragen vermerkten Lernziele entsprechen der Übersicht unter https://github.com/digiKulTh/Lehr-Lern-Materialien#lernziele und werden nach Finalisierung des Quizzes entfernt.
+Die im Quellcode jeweils vor den Fragen vermerkten Lernziele entsprechen der Übersicht unter https://github.com/digiKulTh/Lehr-Lern-Materialien#lernziele.
 
 Alle Fragen sind Multiple-Choice-Fragen, außer es ist dahinter ein anderer Fragetyp vermerkt. Die Antwort wird nur dann als richtig gewertet, wenn alle Haken korrekt gesetzt sind.
 
@@ -321,12 +321,20 @@ Welche Methoden der Inventarnummeranbringung sind geeignet?
 
 > vgl. [Handreichung Depoträume und Lagerung](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Handreichungen/Handreichung%20Depotraeume%20%26%20Lagerung.md)
 
-## 10. Metadaten und Datenmanagement
+## 10. Datenmanagement und FAIR
 <!--
 @comment
-Lernziel: Sie haben Grundkenntnisse in den Bereichen Metadaten, Datenmanagement und Linked Open Data (FAIR, LIDO) (1).
+Sie haben Grundkenntnisse über Datenmanagement und kennen die FAIR-Prinzipien (1).
 @end
 -->
+
+Wie sollten Digitalisate abgelegt werden?
+
+[[ ]] Nur auf einem USB-Stick in meiner Schreibtischschublade
+[[x]] Mit einem Backup an einem anderen Ort
+[[ ]] In einem Ordner "Alle Bilder", benannt "Bild1", "Bild2", "Bild3"
+[[x]] Auf einem Netzlaufwerk der jeweiligen Institution
+[[x]] So, dass sie auch nach vielen Jahren noch wiedergefunden und zugeordnet werden können
 
 Wofür steht das Akronym FAIR?
 
@@ -339,39 +347,14 @@ Wofür steht das Akronym FAIR?
 [[x]] Reusable (nachnutzbar)
 [[ ]] Representative (repräsentativ)
 
-Welche dieser Abkürzungen ist kein Vokabular (single choice)?
-
-[[ ]] AAT
-[[ ]] Wikidata
-[[x]] API
-[[ ]] GND
-
-Was sind wichtige Metadatenstandards im Museumsbereich?
-
-[[x]] LIDO
-[[x]] Dublin Core
-[[ ]] HTML5
-[[x]] CIDOC CRM
-[[ ]] PNG Format
-
 > vgl. [Handreichung Ethische Dimensionen](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Handreichungen/Handreichung%20Ethische%20Dimensionen.md)
 
 ## 11. Sammlungsdatenbanken und Erfassung
 <!--
 @comment
-Lernziel: Sie kennen verbreitete Erfassungssysteme, Thesauri/Vokabulare sowie Datenformate (1).
 Lernziel: Sie wissen, welche Metadaten sie bei der Digitalisierung von Kulturgut erheben sollten und wie dies in einer Erfassungsmaske zu geschehen hat (2).
 @end
 -->
-
-Welche Eigenschaften haben verbreitete Erfassungssysteme?
-
-[[x]] Hierarchische Datenstrukturen
-[[x]] Standardisierte Eingabemasken
-[[ ]] Word-basierte Oberfläche
-[[x]] Thesaurusanbindung
-[[x]] Exportfunktionen
-[[ ]] Automatische Objektbewertung
 
 Welche grundlegenden Metadaten sollten erfasst werden?
 
