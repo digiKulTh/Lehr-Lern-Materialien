@@ -57,7 +57,7 @@ Viele vor allem kleinere Institutionen verfügen über kein Personal dediziert f
 
 #### Budget
 
-Neben den Kosten für Digitalisierungstechnik und Softwarelizenzen sowie Personal sollten ggf. auch Ausgaben für Reinigung, Konservierung, Restaurierung, Verpackungsmaterial und Transport eingeplant werden. Für eine Veröffentlichung ist unter Umständen die Einholung von Nutzungslizenzen etwa bei der VG Bild-Kunst nötig (s. a. [nächster Abschnitt] #rechtslage).
+Neben den Kosten für Digitalisierungstechnik und Softwarelizenzen sowie Personal sollten ggf. auch Ausgaben für Reinigung, Konservierung, Restaurierung, Verpackungsmaterial und Transport eingeplant werden. Für eine Veröffentlichung ist unter Umständen die Einholung von Nutzungslizenzen etwa bei der VG Bild-Kunst nötig (s. a. [nächster Abschnitt](#rechtslage).
 
 ### Rechtslage
 
