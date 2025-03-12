@@ -36,8 +36,7 @@ Von den 6 Niveaustufen der Lernzieltaxonomie nach Bloom werden die Stufen 1 (Wis
 - Sie kennen die Möglichkeiten der Anbringung von Inventarnummern sowie grundlegende Konservierungstechniken und das Konzept des Integrated Pest Management (IPM) (1).
 - Sie haben diese Kenntnisse auf einen abgegrenzten Sammlungsbestand unter Anleitung praktisch angewendet (3).
 ### Die TN können objektbezogene Daten erheben und strukturiert ablegen.
-- Sie haben Grundkenntnisse in den Bereichen Metadaten, Datenmanagement und Linked Open Data (1). 
-- Sie kennen verbreitete Erfassungssysteme, Thesauri/Vokabulare sowie Datenformate (1).
+- Sie haben Grundkenntnisse in den Bereichen Metadaten sowie Datenmanagement und kennen die FAIR-Prinzipien (1). 
 - Sie verstehen die Relevanz strukturierter Daten für die Arbeit mit Sammlungen und die Nutzung von Sammlungsdaten für Forschung, Lehre und Vermittlung (2).
 - Sie wissen, welche Metadaten sie bei der Digitalisierung von Kulturgut erheben sollten und wie dies in einer Erfassungsmaske zu geschehen hat (2).
 - Sie können objektbezogene Daten in einem musealen Erfassungssystem strukturiert erfassen (3).
