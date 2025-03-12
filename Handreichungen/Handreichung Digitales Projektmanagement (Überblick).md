@@ -17,6 +17,8 @@ Die folgende Darstellung versucht, alle wesentlichen Aspekte eines generischen W
 | [Rechtslage](#rechtslage) | [Hinterlegen von Digitalisat-Metadaten](#hinterlegen-von-digitalisat-metadaten) |     |
 | [Arbeitsanweisung](#arbeitsanweisung) | [Speichern, Derivate, Backup](#speichern-derivate-backup) |     |
 
+---
+
 ## Vorbereitungen
 
 ### Projektplanung
@@ -114,6 +116,8 @@ Selbst wenn kein formaler Projektbericht etwa durch einen Drittmittelgeber gefor
 ### Datenpublikation
 
 Bei einer Datenpublikation ist darauf zu achten, dass die Datensätze Mindeststandards wie die FAIR-Prinzipien (vgl. [Handreichung Ethische Dimensionen](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Handreichungen/Handreichung%20Ethische%20Dimensionen.md)) einhalten, um nachnutzbar zu sein und auf Portalen wie der [Deutsche Digitale Bibliothek](https://www.deutsche-digitale-bibliothek.de/) oder [Europeana](https://www.europeana.eu/) veröffentlicht werden zu können – etwa nach der [Minimaldatensatz-Empfehlung für Museen und Sammlungen (v1.0.1)](https://wiki.deutsche-digitale-bibliothek.de/pages/viewpage.action?pageId=120422678). Auch wenn Bilddaten beispielsweise auf Wikimedia Commons mit sehr rudimentären Rumpfdatensätzen veröffentlicht werden können, sollten soweit möglich Zusatzinformationen angelegt werden, um die Auffindbarkeit zu erleichtern und die Nutzung zu befördern (s. [Commons:Structured data](https://commons.wikimedia.org/wiki/Commons:Structured_data)).
+
+---
 
 ## Literatur
 
