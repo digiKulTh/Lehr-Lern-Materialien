@@ -1,4 +1,4 @@
-# Digitales Projektmanagement
+# Projektmanagement in der Kulturgutdigitalisierung
 
 **Michael Markert**
 
