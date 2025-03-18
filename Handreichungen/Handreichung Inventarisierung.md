@@ -8,7 +8,7 @@ Anne Hiltscher
    * [Was ist das und warum wird das gemacht?](#was-ist-das-und-warum-wird-das-gemacht)
    * [Welche Daten müssen mindestens aufgenommen werden?](#welche-daten-müssen-mindestens-aufgenommen-werden)
 - [Inventarisierung](#inventarisierung)
-   * [Exkurs Zur Unterscheidung von Besitz und Eigentum](#exkurs-zur-unterscheidung-von-besitz-und-eigentum)
+   * [Exkurs zur Unterscheidung von Besitz und Eigentum](#exkurs-zur-unterscheidung-von-besitz-und-eigentum)
    * [Welche Daten sollten aufgenommen werden?](#welche-daten-sollten-aufgenommen-werden)
    * [Inventarnummern](#inventarnummern)
    * [Wie sind Inventarnummern aufzubringen?](#wie-sind-inventarnummern-aufzubringen)
@@ -61,7 +61,7 @@ Unabhängig von der Form der Erfassung sollten folgende Informationen dokumentie
 
 Mit der Inventarisierung eines Objektes wird die Sammlung – bei öffentlichen Einrichtungen im Regelfall das Bundesland, in dem sich die Institution der Sammlung (Museum, Universität) befindet) – Eigentümerin oder Besitzerin/Verwalterin des Objektes. Als Eigentümerin gehört der Sammlung das Stück, sofern die Provenienz nicht entgegenspricht. Als Besitzerin/Verwalterin eines Objektes liegen die Eigentumsverhältnisse bei der Leihgeber:in o. ä. und die Sammlung darf das Objekt lediglich für die im Leihvertrag benannten Zwecke nutzen, schützen und verwalten.
 
-### Exkurs Zur Unterscheidung von Besitz und Eigentum
+### Exkurs zur Unterscheidung von Besitz und Eigentum
 
 Das **Eigentum** an einer Sache – in den §§ 903-924 des BGB festgelegt – und bedeutet die volle Verfügungsgewalt darüber zu haben mit allen Rechten und Pflichten, die damit verbunden sind. Eigentümer:innen können andere beliebig von jeder Einwirkung auf ihr Objekt ausschließen. Der **Besitz** ist in den §§ 854-872 des BGB geregelt und bezeichnet den momentanen Ort des Verbleibs und die momentane tatsächliche Gewalt über ein Objekt, ohne das hieraus Rechte erwachsen, außer die von dem:r Eigentümer:in eingeräumten. Folglich sollte nur Eigentum der Institution/ Sammlung inventarisiert werden. Eine Ausnahme bilden Dauerleihnahmen, die von den meisten Einrichtungen im Inventar mitgeführt werden.
 
