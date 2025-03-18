@@ -31,6 +31,8 @@ Jede aufnehmende Institution hat Prozesse wie Eingangsregistratur, Inventarisier
 
 Die Eingangsregistratur dient einer ersten und schnellen Erfassung eines Objektes, mittels Laufzettel, papiernem Eingangsbuch oder Software, bei Eingang in ein Museum oder eine Sammlung. Die Eingangsregistratur zielt auf den ersten Vermerk über den Eingang eines Objektes und die Sicherstellung der Zuordenbarkeit von Objekten und Objektdaten ab. Alle eingehenden Objekte werden mit einer vorläufigen laufenden Nummer gekennzeichnet. Dabei spielt es keine Rolle, ob das Objekt in das Inventar (s. u.) der Institution dauerhaft aufgenommen werden soll oder vorübergehend – etwa als Leihgabe für eine Sonderausstellung – in der Sammlung ist.
 
+In der Eingangsregistratur sollte ein knappes Zugangsprotokoll angefertigt werden, welches Informationen zur Eingangsart (z.B. Schenkung, Leihgabe, Ankauf, etc.), Zustand, Dauer des Objektaufenthaltes im Museum/ der Sammlung, Vorbesitzer/ -eigentümer, Einliefernden und zur Rechteübertragung eines Objektes umfasst. Es ist zu empfehlen, dass sowohl die Einliefernden als auch Vertreter:innen der annehmenden Institution das Protokoll unterzeichnen. Papiere, wie Schenkungsurkunden, Kauf- oder Leihverträge und Quittungen sind sachgemäß aufzubewahren.
+
 ### Welche Daten müssen mindestens aufgenommen werden?
 
 Unabhängig von der Form der Erfassung sollten folgende Informationen dokumentiert werden:
@@ -44,6 +46,7 @@ Unabhängig von der Form der Erfassung sollten folgende Informationen dokumentie
 - **Einliefernde/Vorbesitzende** (Name und idealerweise Kontaktdaten)
 
 - **Objektbezeichnung**
+  
 - **Preis**
 
 - **Bemerkungen** (z.B. nachträgliche Informationen)
@@ -61,8 +64,6 @@ Mit der Inventarisierung eines Objektes wird die Sammlung – bei öffentlichen 
 ### Exkurs Zur Unterscheidung von Besitz und Eigentum
 
 Das **Eigentum** an einer Sache – in den §§ 903-924 des BGB festgelegt – und bedeutet die volle Verfügungsgewalt darüber zu haben mit allen Rechten und Pflichten, die damit verbunden sind. Eigentümer:innen können andere beliebig von jeder Einwirkung auf ihr Objekt ausschließen. Der **Besitz** ist in den §§ 854-872 des BGB geregelt und bezeichnet den momentanen Ort des Verbleibs und die momentane tatsächliche Gewalt über ein Objekt, ohne das hieraus Rechte erwachsen, außer die von dem:r Eigentümer:in eingeräumten. Folglich sollte nur Eigentum der Institution/ Sammlung inventarisiert werden. Eine Ausnahme bilden Dauerleihnahmen, die von den meisten Einrichtungen im Inventar mitgeführt werden.
-
-In der Eingangsregistratur sollte ein knappes Zugangsprotokoll angefertigt werden, welches Informationen zur Eingangsart (z.B. Schenkung, Leihgabe, Ankauf, etc.), Zustand, Dauer des Objektaufenthaltes im Museum/ der Sammlung, Vorbesitzer/ -eigentümer, Einliefernden und zur Rechteübertragung eines Objektes umfasst. Es ist zu empfehlen, dass sowohl die Einliefernden als auch Vertreter:innen der annehmenden Institution das Protokoll unterzeichnen. Papiere, wie Schenkungsurkunden, Kauf- oder Leihverträge und Quittungen sind sachgemäß aufzubewahren.
 
 ### Welche Daten sollten aufgenommen werden?
 
