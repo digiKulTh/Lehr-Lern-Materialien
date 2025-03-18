@@ -120,7 +120,7 @@ Die Beschriftung kann auf drei verschiedene Weisen erfolgen:
 
 1. Die Inventarnummer kann **direkt** auf das Objekt aufgebracht werden. Je nachdem aus welchem Material das Objekt/ der Teil besteht, auf dem die Nummer aufgetragen werden soll, wird zum Objektschutz eine Lackschicht zwischen Objekt und Beschriftungstinte gebracht.
 
-2. Die Inventarnummer kann **auf einem Träger dem Objekt angefügt** werden (etwa durch Annähen)
+2. Die Inventarnummer kann **auf einem Träger dem Objekt angefügt** werden (etwa durch Annähen).
 
 3. Die Inventarnummer kann auf einem **angehängten oder beigefügten Träger**, wie einem Etikett, Verpackungshüllen, etc. angebracht sein.
 
