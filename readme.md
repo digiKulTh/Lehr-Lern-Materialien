@@ -29,7 +29,7 @@ Von den 6 Niveaustufen der Lernzieltaxonomie nach Bloom werden die Stufen 1 (Wis
 - Sie kennen Lizenzmodelle für die Publikation von (Meta-)Daten (1) und können deren Eigenschaften beschreiben (2).
 - Sie kennen ethische Herausforderungen der Kulturgutdigitalisierung insbesondere im weiteren Anwendungsbereich der CARE-Prinzipien (sensible Objekte) (1).
 - Sie kennen Formen der Nachnutzung von Sammlungsdaten in Forschung, Lehre und Vermittlung (1).
-- Sie haben einen Überblick über relevante Expertisefelder für den Gesamtprozess und können relevante Ansprechpartner benennen (2).
+- Sie haben einen Überblick über relevante Expertisefelder für den Gesamtprozess und können relevante Ansprechpersonen benennen (1).
 ### Die TN haben theoretische Kenntnisse und praktische Erfahrungen im Umgang mit Objekten.
 - Sie haben Grundkenntnisse im Handling von Objekten, d. h. kennen die Merkmale geeigneter Handschuhe, Verpackungsmaterialien, Depotmöbel und Räumlichkeiten (1).
 - Sie kennen häufig auftretende Substanzen, Zustände und Bedingungen, die den Objekten oder ihnen selbst bei Exposition schaden können (1). 
