@@ -2,7 +2,12 @@
 
 **Michael Markert**
 
-[KI-Podcast, experimentell](https://digikulth.github.io/Lehr-Lern-Materialien/Handreichungen/podcast/?p=https://github.com/digiKulTh/Lehr-Lern-Materialien/raw/refs/heads/main/Handreichungen/podcast/Projektmanagement_in_der_Kulturgutdigitalisierung.mp3)
+> ## Experimenteller KI-Podcast
+> Erstellt mit https://notebooklm.google.com/ (Stimmen nicht konsistent, etwas zu detailliert, aber vielleicht ein sinnvolles Angebot)
+
+> https://github.com/user-attachments/assets/48788807-85c3-4b68-a141-b92efe92a024
+
+## Einleitung
 
 Es ist herausfordernd, allgemeine Regeln für Digitalisierungsprojekte im Sammlungs- und Museumsbereich festzulegen. Je nach institutionellen und technischen Rahmenbedigungen sowie Ressourcen, der Digitalisierungskompetenz der Mitarbeitenden und eventuellen externen Dienstleister:innen, sowie natürlich abhängig von den zu digitalisierenden Objekten und ihren Anforderungen können sich die Workflows und eingesetzten Werkzeuge stark unterscheiden. Zudem werden Projekte in zunehmendem Maße und in verschiedenen Phasen mit Machine Learning und Künstlicher Intelligenz unterstützt – so bei der 3D-Bildgebung (z. B. [Gaussian Splatting](https://de.wikipedia.org/wiki/Gaussian_Splatting)), der strukturierten Texterkennung von Inventarkarten, der Verschlagwortung von Bildern und Übersetzung von Inhalten für digitale Ausstellungen.
 
