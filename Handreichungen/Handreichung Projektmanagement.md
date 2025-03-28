@@ -3,7 +3,7 @@
 **Michael Markert**
 
 > ## Experimenteller KI-Podcast
-> Erstellt mit https://notebooklm.google.com/ (Stimmen nicht konsistent, etwas zu detailliert, aber vielleicht ein sinnvolles Angebot)
+> Erstellt mit https://notebooklm.google.com/
 
 > https://github.com/user-attachments/assets/48788807-85c3-4b68-a141-b92efe92a024
 
