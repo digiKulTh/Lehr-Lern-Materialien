@@ -104,7 +104,7 @@ Jedes entstehende Digitalisat verfügt als menschengemachtes Objekt über eigene
 
 Für bestmögliche Qualität sollte man unkomprimierte Versionen von Bilddaten archivieren (meist TIFF). Für Vorschaubilder in der Erschließungssoftware und auf Webseiten werden immer auch Derivate (JPEG, PNG) benötigt, die je nach Software automatisch oder manuell erzeugt werden. Schon während der Arbeit am Projekt ist darauf zu achten, dass Sicherungskopien der Daten angelegt und idealerweise an einem anderen Ort gelagert werden. Bei Datenverlust etwa durch Hardwareausfall können enorme Mehraufwände entstehen – etwa wenn dadurch noch einmal aufwändige Objekttransporte zum Digitalisierungsarbeitsplatz nötig sind.
 
->Beispielhafte Objektdigitalisierung am Übersee-Museum Bremen:
+>Beispielhafte Objektdigitalisierung am Übersee-Museum Bremen (Link zu Youtube-Video):
 >
 >[![Digitalsierung am Übersee-Museum Bremen](https://img.youtube.com/vi/nyM1c1GsLi4/mqdefault.jpg)](https://youtu.be/nyM1c1GsLi4)
 
