@@ -3,6 +3,27 @@
 Anne Hiltscher & Michael Markert
 
 ## Inhalt
+<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
+- [Konzept und didaktische Überlegungen](#konzept-und-didaktische-überlegungen)
+   * [Lernziele](#lernziele)
+      + [Die TN kennen wesentliche Rahmenbedingungen von Kulturgutdigitalisierung.](#die-tn-kennen-wesentliche-rahmenbedingungen-von-kulturgutdigitalisierung)
+      + [Die TN haben theoretische Kenntnisse und praktische Erfahrungen im Umgang mit Objekten.](#die-tn-haben-theoretische-kenntnisse-und-praktische-erfahrungen-im-umgang-mit-objekten)
+      + [Die TN können objektbezogene Daten erheben und strukturiert ablegen.](#die-tn-können-objektbezogene-daten-erheben-und-strukturiert-ablegen)
+      + [Die TN können an Museumsstandards orientierte Digitalisate anfertigen.](#die-tn-können-an-museumsstandards-orientierte-digitalisate-anfertigen)
+   * [Themenauswahl](#themenauswahl)
+      + [Wo sind 3D-Digitalisierung und Provenienzforschung?](#wo-sind-3d-digitalisierung-und-provenienzforschung)
+- [Rahmenbedingungen](#rahmenbedingungen)
+   * [Räumliche Gegebenheiten](#räumliche-gegebenheiten)
+   * [Personelle Ressourcen und Teilnehmerbegrenzung](#personelle-ressourcen-und-teilnehmerbegrenzung)
+   * [Zeitlicher Rahmen](#zeitlicher-rahmen)
+      + [Bewerbung des Praxisseminars](#bewerbung-des-praxisseminars)
+   * [Format](#format)
+      + [Exkusionen](#exkusionen)
+      + [Praktika](#praktika)
+      + [Beispiel: Plan des Praxisseminars im Sommersemester 2024](#beispiel-plan-des-praxisseminars-im-sommersemester-2024)
+   * [Soft- und Hardware](#soft--und-hardware)
+   * [Arbeitsatmosphäre](#arbeitsatmosphäre)
+<!-- TOC end -->
 
 ## Konzept und didaktische Überlegungen
 
@@ -26,19 +47,19 @@ Von den 6 Niveaustufen der Lernzieltaxonomie nach Bloom werden die Stufen 1 (Wis
 - Sie kennen Formen der Nachnutzung von Sammlungsdaten in Forschung, Lehre und Vermittlung (1).
 - Sie haben einen Überblick über relevante Expertisefelder für den Gesamtprozess und können relevante Ansprechpersonen benennen (1).
   
-  #### Die TN haben theoretische Kenntnisse und praktische Erfahrungen im Umgang mit Objekten.
+#### Die TN haben theoretische Kenntnisse und praktische Erfahrungen im Umgang mit Objekten.
 - Sie haben Grundkenntnisse im Handling von Objekten, d. h. kennen die Merkmale geeigneter Handschuhe, Verpackungsmaterialien, Depotmöbel und Räumlichkeiten (1).
 - Sie kennen häufig auftretende Substanzen, Zustände und Bedingungen, die den Objekten oder ihnen selbst bei Exposition schaden können (1). 
 - Sie kennen die Möglichkeiten der Anbringung von Inventarnummern sowie grundlegende Konservierungstechniken und das Konzept des Integrated Pest Management (IPM) (1).
 - Sie haben diese Kenntnisse auf einen abgegrenzten Sammlungsbestand unter Anleitung praktisch angewendet (3).
   
-  #### Die TN können objektbezogene Daten erheben und strukturiert ablegen.
+#### Die TN können objektbezogene Daten erheben und strukturiert ablegen.
 - Sie haben Grundkenntnisse über Datenmanagement und kennen die FAIR-Prinzipien (1). 
 - Sie verstehen die Relevanz strukturierter Daten für die Arbeit mit Sammlungen und die Nutzung von Sammlungsdaten für Forschung, Lehre und Vermittlung (2).
 - Sie wissen, welche Metadaten sie bei der Digitalisierung von Kulturgut erheben sollten und wie dies in einer Erfassungsmaske zu geschehen hat (2).
 - Sie können objektbezogene Daten in einem musealen Erfassungssystem strukturiert erfassen (3).
   
-  #### Die TN können an Museumsstandards orientierte Digitalisate anfertigen.
+#### Die TN können an Museumsstandards orientierte Digitalisate anfertigen.
 - Sie kennen relevante Ausrüstung zur Objektfotografie sowie wichtige Kamera- und Objektivparameter (1).
 - Sie kennen wesentliche Schritte der digitalen Entwicklung und des Datenexports (1).
 - Sie können die Elemente und Merkmale eines Arbeitsplatzes für Objektfotografie beschreiben (2).
@@ -67,11 +88,9 @@ Die Räumlichkeiten sollten so gewählt werden, dass ausreichend Platz für die 
 Die Teilnehmerbegrenzung wurde aufgrund der folgenden Faktoren festgelegt:
 
 1. Umfang der Technik
-
 2. oft begrenzter Platz in Sammlungen
-
 3. aufwändige Betreuung mit mehreren Lehrenden
-
+   
 In unserem Fall ist der Grenzwert 16, d. h. vier Studierende je Fotosetup, betreut von jeweils mindestens einer Lehrperson, um die häufigen und vielfältigen Fragen auf mehrere Schultern Expertisen zu verteilen.
 
 ### Zeitlicher Rahmen
@@ -123,13 +142,8 @@ Da das Praxisseminar keine Pflichtveranstaltung ist und zudem in der vorlesungsf
 Von den Studierenden in Feedback und Evaluation mehrfach positiv erwähnt Faktoren sind u. a.
 
 - eine gute Vorbereitung auf den Umgang mit Sammlungsobjekten und dem Equipment 
-
 - kein zu großer Workload an den einzelnen Tagen, v. a. in Anbetracht der hohen Temperaturen an den Nachmittagen
-
 - angenehmes soziales Klima zwischen Lehrpersonen und Teilnehmenden und Teilnehmenden untereinander
-
 - keine Erwartungen wie viele Datensätze und Objektfotos entstehen -> Qualität statt Quantität
-
 - regelmäßige Pausen in ausreichender Länge
-
 - Angebot von Süßigkeiten in der Praxisphase des Digitalisierens
