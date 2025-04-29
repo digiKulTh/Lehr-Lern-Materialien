@@ -6,7 +6,6 @@ Das Repositorium richtet sich primär an Hochschul-Lehrende im Bereich Kulturgut
 
 Dieses Repositorium enthält derzeit als nutzbare Ressourcen einen Ordner mit [Handreichungen](https://github.com/digiKulTh/Lehr-Lern-Materialien/tree/main/Handreichungen), die wir im Rahmen des Praxisseminars als PDFs an die Studierenden ausgeben und die uns als Orientierung über die Inhalte dienen. In einem Ordner mit [Lehrendenmaterial](https://github.com/digiKulTh/Lehr-Lern-Materialien/tree/main/Lehrendenmaterial) findet sich etwa eine Checkliste zur Vorbereitung eines digiKulTh-Praxisseminars, ein Verzeichnis der im Rahmen der Objektdigitalisierung eingesetzten Technik sowie eine Vereinbarung über die Nachnutzung der von den Teilnehmenden erzeugten Daten und Metadaten durch die Institution.
 
-## Materialüberblick
 ### Lehrendenmaterial
 1. Warum gibt es dieses Kursangebot, wer ist die Zielgruppe, was sind die Lernziele? <br> => [Einführung](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Lehrendenmaterial/Einf%C3%BChrung.md)
 2. Was ist bei der **Planung, Durchführung und Nachbereitung** eines Praxisseminar zur Kulturgutdigitalisierung grundsätzlich zu beachten? <br> => *Vorüberlegungen & Beweggründe*, *Mindmap*, [Checkliste Vorbereitung](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Lehrendenmaterial/Checkliste%20Vorbereitung.md)
