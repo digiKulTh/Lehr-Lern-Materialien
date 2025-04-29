@@ -1,6 +1,11 @@
 # Digitale Kulturwerkbank Thüringen@ThULB. 
 Hier finden sich die Materialien aus dem Lehrinnovationsprojekt [digitale Kulturwerkstatt Thüringen (digiKulTh)](https://dksm.thulb.uni-jena.de/digikulth/), durchgeführt im Rahmen von [Freiraum2023](https://stiftung-hochschullehre.de/foerderung/freiraum/) der [Stiftung Innovation in der Hochschullehre](https://stiftung-hochschullehre.de/) an der [Thüringer Universitäts- und Landesbibliothek Jena](https://www.thulb.uni-jena.de/home).
 
+## Zielgruppe und Inhalt des Repositoriums
+Das Repositorium richtet sich primär an Hochschul-Lehrende im Bereich Kulturgutdigitalisierung und soll Hilfestellung bei der Vorbereitung und Durchführung entsprechender Lehrveranstaltungen bieten. Da museale Standards angewendet und eingehalten werden, ist es auch für den Bereich der Ausbildung an GLAM-Institutionen – etwa bei der Schulung von Volontär:innen – hilfreich. Es besteht sowohl aus Materialien für die Lehrenden als auch für die Lernenden und ist so lizensiert, dass eine Bearbeitung und Veränderung problemlos möglich ist. Es wird zumindest bis zum Ende der Projektlaufzeit im März 2026 beständig erweitert und überarbeitet.
+
+Dieses Repositorium enthält derzeit als nutzbare Ressourcen einen Ordner mit [Handreichungen](https://github.com/digiKulTh/Lehr-Lern-Materialien/tree/main/Handreichungen), die wir im Rahmen des Praxisseminars als PDFs an die Studierenden ausgeben und die uns als Orientierung über die Inhalte dienen. In einem Ordner mit [Lehrendenmaterial](https://github.com/digiKulTh/Lehr-Lern-Materialien/tree/main/Lehrendenmaterial) findet sich etwa eine Checkliste zur Vorbereitung eines digiKulTh-Praxisseminars, ein Verzeichnis der im Rahmen der Objektdigitalisierung eingesetzten Technik sowie eine Vereinbarung über die Nachnutzung der von den Teilnehmenden erzeugten Daten und Metadaten durch die Institution.
+
 ## Materialüberblick
 ### Lehrendenmaterial
 1. Warum gibt es dieses Kursangebot, wer ist die Zielgruppe, was sind die Lernziele? <br> => [Einführung](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Lehrendenmaterial/Einf%C3%BChrung.md)
