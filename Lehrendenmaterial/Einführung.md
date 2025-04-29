@@ -1,3 +1,9 @@
+## Inhalt
+- [Zielgruppe und Inhalt des Repositoriums](#zielgruppe-und-inhalt-des-repositoriums)
+- [Rahmenbedingungen und Konzept](#rahmenbedingungen-und-konzept)
+- [Lernziele](#lernziele)
+- [Exemplarischer Veranstaltungsplan für das SoSe 2024](#exemplarischer-veranstaltungsplan-für-das-sose-2024)
+
 ## Zielgruppe und Inhalt des Repositoriums
 Das Repositorium richtet sich primär an Hochschul-Lehrende im Bereich Kulturgutdigitalisierung und soll Hilfestellung bei der Vorbereitung und Durchführung entsprechender Lehrveranstaltungen bieten. Da museale Standards angewendet und eingehalten werden, ist es auch für den Bereich der Ausbildung an GLAM-Institutionen – etwa bei der Schulung von Volontär:innen – hilfreich. Es besteht sowohl aus Materialien für die Lehrenden als auch für die Lernenden und ist so lizensiert, dass eine Bearbeitung und Veränderung problemlos möglich ist. Es wird zumindest bis zum Ende der Projektlaufzeit im März 2026 beständig erweitert und überarbeitet.
 
