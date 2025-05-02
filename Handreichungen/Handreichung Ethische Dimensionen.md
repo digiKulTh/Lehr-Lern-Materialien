@@ -17,7 +17,7 @@ Michael Markert
 > KI-Podcast
 > Erstellt mit https://notebooklm.google.com/, geprüft auf inhaltliche Fehler
 
-> https://digikulth.github.io/Lehr-Lern-Materialien/Handreichungen/podcast/?p=https://github.com/digiKulTh/Lehr-Lern-Materialien/raw/refs/heads/main/Handreichungen/podcast/Handreichung_Ethische_Dimensionen.mp3
+> https://github.com/user-attachments/assets/8e77045a-972d-4afe-851b-a169d499611b
 
 ## Einleitung
 
