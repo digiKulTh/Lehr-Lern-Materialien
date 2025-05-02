@@ -19,6 +19,11 @@ Anne Hiltscher & Michael Markert (Bearb.)
 
 <!-- TOC end -->
 
+## KI-Podcast
+> Erstellt mit https://notebooklm.google.com/, geprüft auf inhaltliche Fehler
+
+> https://github.com/user-attachments/assets/84cb4c5c-1165-459f-997e-aaecaf89c620
+
 ## Gefahrstoffe
 
 Gefahrstoffe sind alle Substanzen, die Menschen und der Umwelt schaden (z. B. reizende, giftige, krebserregende, radioaktive Stoffe) oder die gefährliche physikalische Eigenschaften (z. B. explosive, entzündliche oder oxidierende Stoffe) besitzen. Schadstoffe sind NICHT an einem starken Geruch zu erkennen! Risiken bestehen für alle Personen, die sich in der Nähe von entsprechend belasteten Sammlungsobjekten oder Depoträumen aufhalten, insbesondere für Mitarbeitende (Sammlungs- und Digitalisierungsangestellte und Mitarbeitende in Reinigungsfirmen, Sicherheitspersonal), Sammlungs- und Ausstellungsbesucher:innen oder Forschende, die sich oft in Depots aufhalten. Gefahrstoffe können unmittelbare, kurzzeitige oder dauerhafte Schädigungen des Körpers und des Nervensystems verursachen oder Spätfolgen haben, die sich erst nach vielen Jahren zeigen. 
