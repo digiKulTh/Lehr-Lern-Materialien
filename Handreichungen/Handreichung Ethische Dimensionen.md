@@ -14,6 +14,11 @@ Michael Markert
 
 <!-- TOC end -->
 
+> KI-Podcast
+> Erstellt mit https://notebooklm.google.com/, geprüft auf inhaltliche Fehler
+
+https://digikulth.github.io/Lehr-Lern-Materialien/Handreichungen/podcast/?p=https://github.com/digiKulTh/Lehr-Lern-Materialien/raw/refs/heads/main/Handreichungen/podcast/Handreichung%20Ethische%20Dimensionen.mp4
+
 ## Einleitung
 
 Die Digitalisierung von Kulturgütern und insbesondere die Veröffentlichung entsprechender Digitalisate und der zugehörigen Objektmetadaten hat neben der rechtlichen auch eine ethische Komponente. Einerseits gibt es zahlreiche Aspekte, die juristisch nicht reguliert sind, etwa die Form einer Datenveröffentlichung, die Zugangsmöglichkeiten dazu sowie die indirekt darin codierten Machtverhältnisse zwischen einer bereitstellenden Institution und den Nutzenden in Wissenschaft und Gesellschaft. Andererseits muss nicht alles, was juristisch abgesichert ist, auch gerecht und angemessen sein. Es gibt zahlreiche Fälle, in denen etwas aus guten Gründen nicht veröffentlicht wird, obgleich es möglich wäre, insbesondere im Bereich ‚sensibler Objekte‘ wie menschlicher Überreste oder bei Artefakten aus kolonialen Kontexten.
