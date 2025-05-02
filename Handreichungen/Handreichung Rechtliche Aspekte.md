@@ -18,6 +18,11 @@ Michael Markert
 
 <!-- TOC end -->
 
+## KI-Podcast
+> Erstellt mit https://notebooklm.google.com/, geprüft auf inhaltliche Fehler
+
+> https://github.com/user-attachments/assets/7c78d323-6f85-4906-80d1-0b67a842b9dd
+
 ## Urheberrechtliche Aspekte
 
 In Deutschland regelt das Urheberrechtsgesetz (UrhG), was als kreatives, künstlerisches Werk gilt und wer es unter welchen Bedingungen nutzen darf. Bei der Digitalisierung von Museumsobjekten, insbesondere von Kunstwerken, gibt es verschiedene Ebenen des Urheberrechts zu beachten. Diese haben Auswirkungen auf die Möglichkeiten und Grenzen einer Publikation in Druckveröffentlichungen wie Flyern, Postern und Ausstellungskatalogen, in Webportalen usw. Im Grundsatz gilt, dass alle Nutzungen eines „Werkes“ (s. Kap. 1.1) mit dessen Urheber:innen abzustimmen sind – dazu gehört auch das „Vervielfältigen“ und damit z. B. Fotografieren. Allerdings ist es Kultureinrichtungen, wie Bibliotheken und Museen ohne Rücksprache gestattet, Vervielfältigungen etwa zur Bestandsdokumentation und für die Recherche durch Nutzer:innen in Datenbanken vor Ort anzufertigen (s. Kap. 1.6.).
