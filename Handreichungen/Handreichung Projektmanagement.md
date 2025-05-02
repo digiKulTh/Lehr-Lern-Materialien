@@ -2,7 +2,37 @@
 
 **Michael Markert**
 
-> ## Experimenteller KI-Podcast
+<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
+
+- [Einleitung](#einleitung)
+- [Vorbereitungen](#vorbereitungen)
+   * [Projektplanung](#projektplanung)
+   * [Einbezug relevanter Stakeholder](#einbezug-relevanter-stakeholder)
+   * [Zustand der Sammlung](#zustand-der-sammlung)
+      + [Datenebene](#datenebene)
+      + [Dingebene](#dingebene)
+   * [Ressourcen](#ressourcen)
+      + [Raum](#raum)
+      + [Technik](#technik)
+      + [Personal](#personal)
+      + [Budget](#budget)
+   * [Rechtslage](#rechtslage)
+   * [Arbeitsanweisung](#arbeitsanweisung)
+- [Digitalisierungsprozess](#digitalisierungsprozess)
+   * [Objekttransport](#objekttransport)
+   * [Vorbereitung der Objekte](#vorbereitung-der-objekte)
+   * [Inventarisierung und Basisdatenerfassung](#inventarisierung-und-basisdatenerfassung)
+   * [Anfertigen von Digitalisaten](#anfertigen-von-digitalisaten)
+   * [Hinterlegen von Digitalisat-Metadaten](#hinterlegen-von-digitalisat-metadaten)
+   * [Speichern, Derivate, Backup](#speichern-derivate-backup)
+- [Projektabschluss](#projektabschluss)
+   * [Qualitätsmanagement](#qualitätsmanagement)
+   * [Langfristige Datenhaltung](#langfristige-datenhaltung)
+   * [Evaluierung und Dokumentation](#evaluierung-und-dokumentation)
+   * [Datenpublikation](#datenpublikation)
+- [Literatur](#literatur)
+
+> ## KI-Podcast
 > Erstellt mit https://notebooklm.google.com/, geprüft auf inhaltliche Fehler
 
 > https://github.com/user-attachments/assets/48788807-85c3-4b68-a141-b92efe92a024
