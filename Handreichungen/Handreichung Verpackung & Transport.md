@@ -20,6 +20,11 @@ Anne Hiltscher
 
 <!-- TOC end -->
 
+> KI-Podcast
+> Erstellt mit https://notebooklm.google.com/, geprüft auf inhaltliche Fehler
+
+> https://github.com/user-attachments/assets/8de8602f-b28a-4280-88c4-edaaff4183f1
+
 ## Verpacken und Verpackungen
 
 Ziel des Verpackens ist es, Objekte vor äußeren Einflüssen zu schützen und den Zustand fragiler Objekte zu erhalten. Dabei ist auf Merkmale des Gegenstandes zu achten, wie Größe, Material, Form, Beschaffenheit, Gewicht, etc. sowie auf das Verwenden von im Sammlungsbereich zulässigem Verpackungsmaterial. Das Wiederverwenden von Materialien ist möglich, wenn diese nicht mit Gefahrenstoffen, Schimmelsporen, Abfärbungen oder Spuren von einem anderen Objekt kontaminiert sind.
