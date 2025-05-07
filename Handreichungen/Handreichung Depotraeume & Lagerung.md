@@ -15,6 +15,11 @@ Anne Hiltscher & Rebecca Wulke
 
 <!-- TOC end -->
 
+> KI-Podcast
+> Erstellt mit https://notebooklm.google.com/, geprüft auf inhaltliche Fehler
+
+> https://github.com/user-attachments/assets/2695fb5c-d7fd-40f9-be70-f9d274f22d5e
+
 ## Depoträume
 
 Eine Sammlung braucht einen Ort, um Bestände aufzubewahren. Durch falsche Lagerung oder schlechte Depotbedingungen können irreparable Schäden am Objekt entstehen. Jede Objektgattung und Materialität hat eigene Ansprüche an optimale räumliche Gegebenheiten, Lagerung, Klima und Licht. Allen gleich ist jedoch, dass ausreichend Platz zur Verfügung stehen sollte, sowie ein möglichst konstanter Zustand aller Parameter. Starke Schwankungen beanspruchen die Materialien sehr und lassen die Objekte schneller altern. Zudem können sie Schimmelbildung oder Schädlingsbefall begünstigen. Abhängig von den vorhandenen Gegebenheiten können die Raumbedingungen mit verschiedenen Hilfsmitteln einem bestmöglichen Zustand zugeführt werden.
