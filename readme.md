@@ -15,7 +15,7 @@ Dieses Repositorium enthält derzeit als nutzbare Ressourcen einen Ordner mit [H
   
 ### Studierendenmaterial
 - Über welche **Grundkenntnisse** zur Kulturgutdigitalisierung sollte ich verfügen? <br> => [Ordner Handreichungen](https://github.com/digiKulTh/Lehr-Lern-Materialien/tree/main/Handreichungen)
-- Wie können die **wichtigsten Inhalte in kurzer Zeit** erfasst werden? <br> => in den Handreichungen jeweils hinter dem Inhaltsverzeichnis verlinkte Podcasts
+- Wie können die **wichtigsten Inhalte in kurzer Zeit** erfasst werden? <br> => in den Handreichungen jeweils hinter dem Inhaltsverzeichnis verlinkte Podcasts 
 - Wie kann ich **mein Wissen prüfen**? <br> => [Quiz Kulturgutdigitalisierung](https://liascript.github.io/course/?https://raw.githubusercontent.com/digiKulTh/Lehr-Lern-Materialien/refs/heads/main/Interaktives/Quiz_Kulturgutdigitalisierung.md)
 - Wie kann ich ein **Foto-Setup aufbauen**? <br> => *Aufbau-Tutorial 1, 2*
 - Wie sollte ich die **Technik einstellen**? <br> => [Checkliste Objektfotografie](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Handreichungen/Checkliste%20Objektfotografie.md), *Tutorial 3*
