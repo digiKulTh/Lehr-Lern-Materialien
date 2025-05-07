@@ -19,6 +19,11 @@ Anne Hiltscher
 
 <!-- TOC end -->
 
+> KI-Podcast
+> Erstellt mit https://notebooklm.google.com/, geprüft auf inhaltliche Fehler
+
+> https://github.com/user-attachments/assets/d13242e1-73d6-463c-97dd-afbb328f5600
+
 Eine Grundlage der Arbeit mit Sammlungen ist die Erfassung und Verwaltung der Objekte. Die Gesamtheit der Objekte, die in eine Sammlung aufgenommen/ inventarisiert wurden, wird Bestand oder Inventar genannt. Der Bestand umfasst alle Dinge, auch die (noch) nicht inventarisierten. Das Inventar bietet einen rechtlichen Nachweis über Herkunft, Art und eventuelle Umstände des Eingangs eines Objektes in die Sammlung, Eingangszeitpunkt/-zeitraum und allgemein über die Existenz des Objektes in der Sammlung. Weiterhin dient es zur eindeutigen Bestimmung und Dokumentation von Sammlungsstücken und ist der Ausgangspunkt für jede interne und externe Verwendung der Objektdaten, etwa bei der Vorbereitung von Ausstellungen.
 
 Die Recherche und Dokumentation der Provenienz der Sammlungsobjekte, also die Herkunft, ggf. Hersteller:innen, Herstellungsort und -jahr(e), sowie Geschichte der Objekte, sollte für jedes einzelne Objekt einer Sammlung erfolgen. Die Provenienz dient der Klärung von Eigentumsverhältnissen und wird für sammlungsethische Entscheidungen etwa zur Frage von Repatriierung benötigt. Forschung zu Provenienzen ist ausgesprochen zeit- und ressourcenaufwändig und die Provenienz einiger Objekte nicht immer lückenlos oder eindeutig zu klären. Auch diese Lücken und jegliche Recherchen zu Objekten sollten dokumentiert werden.
