@@ -1,5 +1,6 @@
-## Wissensüberprüfung
-[Quiz zur Kulturgutdigitalisierung](https://liascript.github.io/course/?https://raw.githubusercontent.com/digiKulTh/Lehr-Lern-Materialien/refs/heads/main/Interaktives/Quiz_Kulturgutdigitalisierung.md)
+## Inhalt
+- [KI-generierte Podcasts zu den Handreichungen](#ki-generierte-podcasts-zu-den-handreichungen)
+- [Wissensüberprüfung](#wissensüberprüfung)
 
 ## KI-generierte Podcasts zu den Handreichungen
 1. **Allgemeines Projektmanagement**
@@ -18,3 +19,6 @@
    > https://github.com/user-attachments/assets/7c78d323-6f85-4906-80d1-0b67a842b9dd
 8. **Ethische Dimensionen**
    > https://github.com/user-attachments/assets/8e77045a-972d-4afe-851b-a169d499611b
+
+## Wissensüberprüfung
+[Quiz zur Kulturgutdigitalisierung](https://liascript.github.io/course/?https://raw.githubusercontent.com/digiKulTh/Lehr-Lern-Materialien/refs/heads/main/Interaktives/Quiz_Kulturgutdigitalisierung.md)
