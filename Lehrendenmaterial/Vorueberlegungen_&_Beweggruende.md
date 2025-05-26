@@ -120,7 +120,7 @@ Das Angebot von Praktika im Anschluss an das Projektseminar erlaubt es den Studi
 | 1. Woche  | 10-13       | Grundlagen des Sammlungs­managements                     | Exkursion Kustodie der Universität Jena                        | Praxis Objekterfassung und Metadaten         | Input Objektfotografie                   | Input Recht,<br> Ethik, Nachnutzung        |
 |           | 14-17       | Input Objekthandling, Verpackung, Lagerung, Gefahrstoffe | Exkursion Restaurierungs­werkstatt der Universitäts­bibliothek | Exkursion Antikensammlung                    | Exkursion Hausknecht Herbarium           | Vorführung Aufbau Digitalisierungs­technik |
 | 2. Woche  | 10-13       | Praxis Aufbau Digitalisierungs­arbeitsplätze             | Praxis Objektfotografie und -katalogisierung                   | Praxis Objektfotografie und -katalogisierung | Abbau der Digitalisierungs­arbeitsplätze | Zusammenfassung und Feedback-Runde         |
-|           | 14-17       | Praxis Objektfotografie und -katalogisierung             | Praxis Objektfotografie und -katalogisierung                   | Praxis Objektfotografie und -katalogisierung | Exkursion Zoologische Sammlung           |                                            |
+|           | 14-17       | Praxis Objektfotografie und -katalogisierung             | Praxis Objektfotografie und -katalogisierung                   | Praxis Objektfotografie und -katalogisierung | Exkursion Zoologische Lehrsammlung           |                                            |
 
 ### Soft- und Hardware
 
