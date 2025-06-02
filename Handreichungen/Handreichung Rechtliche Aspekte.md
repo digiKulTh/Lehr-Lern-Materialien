@@ -158,7 +158,7 @@ Klimpel, Paul (2023): 3D-Scans und das Recht. Abgerufen von https://irights.info
 Klimpel, Paul (2022). In Bewegung. Die Rechtsfibel für Digitalisierungsprojekte in Kulturerbe-Einrichtungen. Abgerufen von https://opus4.kobv.de/opus4-zib/frontdoor/index/index/docId/8648 (11/04/2024).
 
 Sächsische Landesstelle für Museumswesen (Hrsg.) (2020): Handreichungen für die Museumsarbeit. Nr. 5
-Bildrechte im Museum, Chemnitz, URL: https://museumswesen.skd.museum/fileadmin/userfiles/Saechsische_Landesstelle_fuer_Museumswesen/Dateien/Digiteam/HR_Dokumentation_5_Bildrechte_neu.pdf (letzter Zugriff 02.06.2025).
+Bildrechte im Museum, Chemnitz, URL: https://museumswesen.skd.museum/fileadmin/userfiles/Saechsische_Landesstelle_fuer_Museumswesen/Dateien/Digiteam/HR_Dokumentation_5_Bildrechte_neu.pdf (02/06/2025).
 
 Strafgesetzbuch. Abgerufen von https://www.gesetze-im-internet.de/stgb/ (02/12/2024).
 
