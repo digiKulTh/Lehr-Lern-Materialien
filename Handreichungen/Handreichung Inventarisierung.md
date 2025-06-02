@@ -227,4 +227,10 @@ Deutscher Museumsbund e.V. (Hrsg.) (2011): Nachhaltiges Sammeln. Ein Leitfaden z
 
 Rangol, Verena (2019): Zum Umgang mit Museumsobjekten. Eine Handreichung der LVR-Museumsberatung, (hrsg. v.) Landschaftsverband Rheinland, Köln, URL: https://www.museen-brandenburg.de/fileadmin/Handreichungen/Umgang_mit_Museumsobjekten_LVR-Museumsheft3.pdf, (letzter Zugriff 02.12.2024).
 
+Sächsische Landesstelle für Museumswesen (Hrsg.) (2020): Handreichungen
+für die Museumsarbeit. Nr. 1 Objekteingang und Erfassung im Inventarbuch, Chemnitz, URL: https://museumswesen.skd.museum/fileadmin/userfiles/Saechsische_Landesstelle_fuer_Museumswesen/Dateien/HR_Dokumentation_1_ErsteErfassung_neu.pdf (letzter Zugriff 02.06.2025).
+
+Sächsische Landesstelle für Museumswesen (Hrsg.) (2020): Handreichungen
+für die Museumsarbeit. Nr. 2 Vergabe und Aufbringen von Inventarnummern, Chemnitz, URL: https://museumswesen.skd.museum/fileadmin/userfiles/Saechsische_Landesstelle_fuer_Museumswesen/Dateien/HR_Dokumentation_2_Inventarnummern_neu.pdf (letzter Zugriff 02.06.2025).
+
 Verband der Museen der Schweiz (Hrsg.) (2015): Inventar im Museum. Das A und O der Inventarisierung, URL: https://wissenschaftliche-sammlungen.de/files/7815/3484/9123/VMS_Inventar_D_web.pdf, (letzter Zugriff 06.12.2024).
