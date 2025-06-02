@@ -6,6 +6,7 @@
 - [Einstellung Kamera und Objektiv](#einstellung-kamera-und-objektiv)
 - [Vorbereitung des Fotografierens](#vorbereitung-des-fotografierens)
 - [Fotos anfertigen](#fotos-anfertigen)
+- [Literatur](#literatur)
 
 <!-- TOC end -->
 
@@ -82,3 +83,9 @@
 - [ ] RAW-Bilder in TIFF-Bilder (unkomprimiert, Farbraum Adobe RGB(1998), 16 Bit) umwandeln
 
 - [ ] Dateiname aus Objektinventarnummer und laufender Nummer bilden, z. B. ```003456#01```
+
+
+## Literatur
+
+Sächsische Landesstelle für Museumswesen (Hrsg.) (2020): Handreichungen für die Museumsarbeit. Nr. 3
+Objektfotografie im Museum, Chemnitz, URL: https://museumswesen.skd.museum/fileadmin/userfiles/Saechsische_Landesstelle_fuer_Museumswesen/Dateien/HR_Dokumentation_3_Objektfotografie_neu.pdf (letzter Zugriff 02.06.2025).
