@@ -1,5 +1,20 @@
 # Checkliste Praxisseminar
 
+<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
+
+- [Vorlauf ab 9 Monate](#vorlauf-ab-9-monate)
+   * [Organisation](#organisation)
+   * [Bewerbung](#bewerbung)
+- [Vorlauf ab 6 Monate](#vorlauf-ab-6-monate)
+- [Vorlauf ab 3 Monate](#vorlauf-ab-3-monate)
+   * [Veranstaltung betreffend](#veranstaltung-betreffend)
+   * [Studierende betreffend](#studierende-betreffend)
+   * [Vorlauf 1 Woche](#vorlauf-1-woche)
+- [Während der Veranstaltung](#während-der-veranstaltung)
+- [Nach der Veranstaltung](#nach-der-veranstaltung)
+
+<!-- TOC end -->
+
 ## Vorlauf ab 9 Monate
 
 ### Organisation
