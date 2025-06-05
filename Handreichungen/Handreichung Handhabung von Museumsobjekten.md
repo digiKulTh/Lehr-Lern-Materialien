@@ -83,8 +83,7 @@ Jede Bewegung, jede Berührung eines Objektes bedeutet ein potenzielles Risiko f
       Verfügt die Kleidung über scharfkantige Applikationen, Kordeln, Bänder, weite Schnitte? Sollten Schmuckstücke abgelegt werden?
 
 - [ ] **Wie sollten die Räumlichkeiten und der Arbeitsplatz vorbereitet werden?** (vgl. [Grundvoraussetzungen am Arbeitsplatz](#grundvoraussetzungen-am-arbeitsplatz))
-      Was ist zu vermeiden? Ist der Arbeitsplatz sauber und geeignet? Wie sollten Arbeitsflächen idealerweise aussehen? Welche Bedingungen
-      werden an Klima und Licht gestellt? Sind die Transportwege sicher? 
+      Was ist zu vermeiden? Ist der Arbeitsplatz sauber und geeignet? Wie sollten Arbeitsflächen idealerweise aussehen? Welche Bedingungen werden an Klima und Licht gestellt? Sind die Transportwege sicher? 
 
 - [ ] **Welche Dinge müssen vor dem Objekthandling bedacht werden?** (vgl. [Vor dem Objekthandling](#vor-dem-objekthandling))
 
@@ -93,8 +92,7 @@ Jede Bewegung, jede Berührung eines Objektes bedeutet ein potenzielles Risiko f
 - [ ] **Sind alle Arbeitsschritte zwingend nötig oder können einige Tätigkeiten entfallen oder kombiniert werden?** (vgl. [Vor dem Objekthandling](#vor-dem-objekthandling))
 
 - [ ] **Sollte das Objekt berührt/ bearbeitet werden?** (vgl. [Vor dem Objekthandling](#vor-dem-objekthandling))
-      Könnte eine Berührung Schäden vergrößern? Ist der Zustand des Objektes so, dass er erfasst werden sollte? Wer sollte Kenntnis vom
-      Objektzustand haben?
+      Könnte eine Berührung Schäden vergrößern? Ist der Zustand des Objektes so, dass er erfasst werden sollte? Wer sollte Kenntnis vom Objektzustand haben?
 
 ## Anhang: Verwendete und weiterführende Literatur Literatur
 
