@@ -98,9 +98,7 @@ Um Unfälle zu vermeiden, sollte beim Transport auch über kurze Strecken auf Hi
 ## Anhang Checkliste
 
 - [ ] **In welchen Materialien sollten die verschiedenen Objektgattungen dauerhaft verpackt werden?** (vgl. [Verpacken und Verpackungen](#verpacken-und-verpackungen))
-      Bei der Verpackung und Lagerung ist auf Materialien zu achten, die keine schädlichen Stoffe, wie Säure, etc. freisetzen oder
-      biozidbelastet sind. Zudem sollte je nach Objektgattung auf eine passgenaue Lagerung, bspw. in einem passenden Karton, Wert gelegt
-      werden.
+      Bei der Verpackung und Lagerung ist auf Materialien zu achten, die keine schädlichen Stoffe, wie Säure, etc. freisetzen oder biozidbelastet sind. Zudem sollte je nach Objektgattung auf eine passgenaue Lagerung, bspw. in einem passenden Karton, Wert gelegt werden.
 
 - [ ] **Welche Dinge müssen vor dem Objekthandling bedacht werden?** (vgl. [Vorüberlegungen](#vorüberlegungen))
 
