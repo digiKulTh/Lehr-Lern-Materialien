@@ -20,7 +20,7 @@ Dieses Repositorium enthält derzeit als nutzbare Ressourcen einen Ordner mit [H
 - Wie kann ich ein **Foto-Setup aufbauen**? <br> => [Poster Objektfotografie I](https://github.com/user-attachments/files/20589074/Poster.Objektfotografie.pdf), [Aufbau-Tutorial 1 (Setting und Beleuchtung)](https://www.youtube.com/watch?v=YNlT-KAWyGc), 2*
 - Wie sollte ich die **Technik einstellen**? <br> => [Poster Objektfotografie I-III](https://github.com/user-attachments/files/20589074/Poster.Objektfotografie.pdf), [Checkliste Objektfotografie](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Handreichungen/Checkliste%20Objektfotografie.md), *Tutorial 3*
 - Wie kann man mit dem Setup **Objekte fotografieren**? <br> => [Poster Objektfotografie III](https://github.com/user-attachments/files/20589074/Poster.Objektfotografie.pdf), *Workflow-Tutorial*
-- Wie kann ich in digiCult.web **Objektinformationen eintragen**? <br> => *Screencast*
+- Wie kann ich in digiCult.web **Objektinformationen eintragen**? <br> => [Screencast zur Anlage eines Datensatzes](https://www.youtube.com/watch?v=R3o4tdLhXHI)
 
 ---
 
