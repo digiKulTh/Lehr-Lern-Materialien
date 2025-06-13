@@ -1,4 +1,4 @@
-# digiCult.web-Schreibanweisung für die Bestände der Sammlung wissenschaftlicher und technischer Geräte zur Physik an der FSU Jena
+# digiCULT.web-Schreibanweisung für die Bestände der Sammlung wissenschaftlicher und technischer Geräte zur Physik an der FSU Jena
 
 **Elea Koop, Martin Schumacher**
 
