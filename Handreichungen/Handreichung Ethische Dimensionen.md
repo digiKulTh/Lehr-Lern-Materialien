@@ -66,7 +66,7 @@ Der Minimaldatensatz zeigt, was eine umfassende Implementierung datenethischer S
 
 ## Jenseits von FAIR und CARE
 
-Die im Minimaldatensatz der DDB als Normvokabular empfohlene und für Linked Open Data im deutschsprachigen Raum zentrale GND ist nicht unproblematisch. Die aktuellen Diskurse fokussieren insbesondere die in den westlichen Wissensordnungen kodierten Machtungleichgewichte und Stereotype. Insbesondere werden sprachliche Diskriminierungen marginalisierter Gruppen thematisiert, die sich in vermeintlich sachlichen (Fremd-)Bezeichnungen von geographischen Regionen oder Ethnien niederschlagen und so in Bibliothekskatalogen und Webportalen reproduziert werden (vgl. etwa [Mähr & Schnegg 2024](https://maehr.github.io/diskriminierungsfreie-metadaten/)).
+Die im Minimaldatensatz der DDB als Normvokabular empfohlene und für Linked Open Data im deutschsprachigen Raum zentrale GND ist nicht unproblematisch. Die aktuellen Diskurse fokussieren insbesondere die in den westlichen Wissensordnungen kodierten Machtungleichgewichte und Stereotype. Insbesondere werden sprachliche Diskriminierungen marginalisierter Gruppen thematisiert, die sich in vermeintlich sachlichen (Fremd-)Bezeichnungen von geographischen Regionen oder Ethnien niederschlagen und so in Bibliothekskatalogen und Webportalen reproduziert werden (vgl. etwa [Bruckmann et al. 2024](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/691291/Leitfaden_AG_Dekolonialisierung.pdf), [Mähr & Schnegg 2024](https://maehr.github.io/diskriminierungsfreie-metadaten/)).
 
 Viele ethische Aspekte von Sammlungsdaten werden von FAIR gar nicht thematisiert, etwa die Verantwortlichkeit für Daten nach der Veröffentlichung oder eben trotz des Namens tatsächlich die Frage der Fairness: FAIR sind die Daten aufgrund bestimmter technischer Voraussetzungen. Wer über diese spezifische Technologie und die nötige Kompetenz nicht verfügt, kann die Daten weder verstehen noch nutzen, was bei aller Offenheit neue Machtungleichgewichte schafft. CARE hingegen adressiert ausdrücklich nur Institutionen, die Objekte und Daten indigener Communities betreuen.
 
@@ -110,6 +110,8 @@ Es ist ein naheliegender Impuls sich auf das Recht als vermeintlich sicheren Haf
 
 ## Anhang: Verwendete und weiterführende Literatur
 
+Bruckmann, Z. *et al.* (2024). Dekolonialisierung der Sammlungen und Archive der ETH Zürich – ein Leitfaden aus der Praxis. Abgerufen von https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/691291/Leitfaden_AG_Dekolonialisierung.pdf (14/07/2025).
+
 Bundesärztekammer (2003). Mitteilungen: Empfehlungen zum Umgang mit Präparaten aus menschlichem Gewebe in Sammlungen, Museen und öffentlichen Räumen, *Deutsches Ärzteblatt*, 100 (28–29), S. A 1960-A1965.
 
 Cornwall, J. *et al.* (2024). IFAA recommendations for the ethical use of anatomical images, Anatomical Sciences Education, 17 (1), S. 7–10. Abgerufen von https://anatomypubs.onlinelibrary.wiley.com/doi/10.1002/ase.2349 (25/04/24).
@@ -126,7 +128,7 @@ Global Indigenous Data Alliance (2024). CARE Principles for Indigenous Data Gove
 
 Deutsche Nationalbibliothek (2024). gnd.network. Abgerufen von https://gnd.network/Webs/gnd/DE/Home/home_node.html (02/12/2024).
 
-Fuchs, J.Gabler, D.& Markert, M. (2021). ‘Menschliche Überreste im Depot. Empfehlungen für Betreuung und Nutzung. 2. Fassung’. Abgerufen von https://wissenschaftliche-sammlungen.de/download_file/view/2206/ (03/03/2020).
+Fuchs, J.Gabler, D. & Markert, M. (2021). ‘Menschliche Überreste im Depot. Empfehlungen für Betreuung und Nutzung. 2. Fassung’. Abgerufen von https://wissenschaftliche-sammlungen.de/download_file/view/2206/ (03/03/2020).
 
 Geonames (2024). Abgerufen von https://www.geonames.org/ (02/12/2024).
 
