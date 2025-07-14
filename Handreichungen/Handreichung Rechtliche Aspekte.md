@@ -157,6 +157,8 @@ Klimpel, Paul (2023): 3D-Scans und das Recht. Abgerufen von https://irights.info
 
 Klimpel, Paul (2022). In Bewegung. Die Rechtsfibel für Digitalisierungsprojekte in Kulturerbe-Einrichtungen. Abgerufen von https://opus4.kobv.de/opus4-zib/frontdoor/index/index/docId/8648 (11/04/2024).
 
+Markert, Michael (2024). Entscheidungsbaum zu urheberrechtlichen Aspekten der Nutzung von Digitalisaten durch Kulturinstitutionen wie Universitätssammlungen. Abgerufen von https://liascript.github.io/course/?https://api.allorigins.win/raw?url=https%3A%2F%2Fraw.githubusercontent.com%2FMichaelMarkert%2FSODa%2Fmain%2Fdocs%2Furhg_baum.md (14/07/25).
+
 Sächsische Landesstelle für Museumswesen (Hrsg.) (2020): Handreichungen für die Museumsarbeit. Nr. 5
 Bildrechte im Museum, Chemnitz, URL: https://museumswesen.skd.museum/fileadmin/userfiles/Saechsische_Landesstelle_fuer_Museumswesen/Dateien/Digiteam/HR_Dokumentation_5_Bildrechte_neu.pdf (02/06/2025).
 
