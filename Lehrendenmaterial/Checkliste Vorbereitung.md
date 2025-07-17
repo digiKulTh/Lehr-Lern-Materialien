@@ -83,7 +83,7 @@ Kamerasysteme mit Objektiven
   - ggf. Staubwedel mit Marabu- oder Straußenfedern
   - ggf. Staubsauger mit HEPA-Filter, Staubsaugerbürste Naturhaar
 - Box mit benötigtem Equipment zusammenstellen
-  - Klammern
+  - Befestigungs- bzw. Klemmklammern
   - ausreichend Verlängerungskabel
   - Messmittel (Gliedermaßstab, Maßband, Lineal, ggf. Waage)
   - Cuttermesser
