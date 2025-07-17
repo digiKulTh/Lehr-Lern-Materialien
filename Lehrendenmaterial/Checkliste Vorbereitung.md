@@ -80,21 +80,21 @@ Kamerasysteme mit Objektiven
   - Pinsel (verschiedene Größen und Stärken)
   - Staubtücher
   - FFP2- und FFP3-Masken
-  - Staubwedel aus Straußenfedern)
+  - ggf. Staubwedel mit Marabu- oder Straußenfedern
   - ggf. Staubsauger mit HEPA-Filter, Staubsaugerbürste Naturhaar
 - Box mit benötigtem Equipment zusammenstellen
   - Klammern
   - ausreichend Verlängerungskabel
-  - Messmittel (Waage, Gliedermaßstab, Maßband, Lineale)
+  - Messmittel (Gliedermaßstab, Maßband, Lineal, ggf. Waage)
   - Cuttermesser
   - Krepp- und Klebeband
-  - Spatel
-  - Pinzetten
-  - Taschenlampe
   - Lupe
   - Tuschestifte
-  - Schreibmaterialien
+  - Bleistifte (2B)
+  - Schreibpapier
   - Radiergummi
+  - ggf. Pinzetten
+  - ggf. Taschenlampe
 
 ## Während der Veranstaltung
 
