@@ -8,13 +8,10 @@ Studiengang:
 
 ### § 1 Geltungsbereich
 (1) Gegenstand dieser Vereinbarung ist die Übertragung von Nutzungsrechten an folgenden Werkarten:
-- Objekte aus Jenaer Universitätssammlungen, darunter physikalische Apparate und andere Lehrmittel.
-
-(2) Die Übertragung der Nutzungsrechte betrifft insbesondere folgende Werke:
-- Fotografische Digitalisate der Objekte
+- Fotografische Digitalisate von Objekten aus Jenaer Universitätssammlungen, darunter physikalische Apparate und andere Lehrmittel.
 - Objektmetadaten
 
-(3) Die Rechteinhaber:in versichert, dass sie dazu berechtigt ist, die vertragsgegenständlichen Nutzungsrechte an den aufgeführten
+(2) Die Rechteinhaber:in versichert, dass sie dazu berechtigt ist, die vertragsgegenständlichen Nutzungsrechte an den aufgeführten
 Werken einzuräumen.
 
 ### § 2 Nutzungsrechte
