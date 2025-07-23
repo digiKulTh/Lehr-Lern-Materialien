@@ -11,7 +11,9 @@ Studiengang:
 - Fotografische Digitalisate von Objekten aus Jenaer Universitätssammlungen, darunter physikalische Apparate und andere Lehrmittel.
 - Objektmetadaten zu den entsprechenden Objekten
 
-(2) Die Rechteinhaber:in versichert, dass sie dazu berechtigt ist, die vertragsgegenständlichen Nutzungsrechte an den aufgeführten
+(2) Die Rechteübertragung gilt für alle Digitalisate, die während des Praxisseminars und ggf. eines anschließenden Praktikums der Rechteinhaber:in in Jenaer Universitätssammlungen entstanden sind oder noch entstehen werden.
+
+(3) Die Rechteinhaber:in versichert, dass sie dazu berechtigt ist, die vertragsgegenständlichen Nutzungsrechte an den aufgeführten
 Werken einzuräumen.
 
 ### § 2 Nutzungsrechte
