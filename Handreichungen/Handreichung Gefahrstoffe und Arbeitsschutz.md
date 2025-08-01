@@ -107,12 +107,12 @@ Jeder Kontakt mit einem Objekt bedeutet ein potenzielles Risiko für die Person,
 
 ## Anhang: Verwendete und weiterführende Literatur
 
-Deutsche Gesetzliche Unfallversicherung (2023: Gefahrstoffliste 2023. Gefahrstoffe am Arbeitsplatz. Abgerufen von https://publikationen.dguv.de/widgets/pdf/download/article/4801 (03/12/2024).
+Deutsche Gesetzliche Unfallversicherung (2023: Gefahrstoffliste 2023. Gefahrstoffe am Arbeitsplatz. Abgerufen von https://publikationen.dguv.de/widgets/pdf/download/article/4801 (letzter Zugriff 03.12.2024).
 
-Deutscher Museumsbund (2018): Tagungsdokumentation Achtung! Gefahrgut im Museum – vom Umgang mit schadstoffbelastetem Kulturgut. Abgerufen von https://www.museumsbund.de/wp-content/uploads/2018/04/tagung-schadstoffe-beitraege-gesamt-16042018.pdf (03/12/2024).
+Deutscher Museumsbund (2018): Tagungsdokumentation Achtung! Gefahrgut im Museum – vom Umgang mit schadstoffbelastetem Kulturgut. Abgerufen von https://www.museumsbund.de/wp-content/uploads/2018/04/tagung-schadstoffe-beitraege-gesamt-16042018.pdf (letzter Zugriff 03.12.2024).
 
-Unfallkasse Nordrhein-Westfalen (2020): Handlungshilfe für die Gefährdungsbeurteilung durch gefahrstoffhaltige Exponate in Museen und Restaurierungswerkstätten in NRW. Teil 1: Anorganische Stoffe Abgerufen von https://www.unfallkasse-nrw.de/fileadmin/server/download/PDF_2022/Anorgan_GefStoffgemisch_151221.pdf
+Unfallkasse Nordrhein-Westfalen (2020): Handlungshilfe für die Gefährdungsbeurteilung durch gefahrstoffhaltige Exponate in Museen und Restaurierungswerkstätten in NRW. Teil 1: Anorganische Stoffe Abgerufen von https://www.unfallkasse-nrw.de/fileadmin/server/download/PDF_2022/Anorgan_GefStoffgemisch_151221.pdf (letzter Zugriff 04.12.2024)
 
-Unfallkasse Nordrhein-Westfalen (2020): Handlungshilfe für die Gefährdungsbeurteilung durch gefahrstoffhaltige Exponate in Museen und Restaurierungswerkstätten in NRW. Teil 2: Pestizide. Abgerufen von https://www.unfallkasse-nrw.de/fileadmin/server/download/PDF_2022/Organ_GefStoffgemisch_141221.pdf 
+Unfallkasse Nordrhein-Westfalen (2020): Handlungshilfe für die Gefährdungsbeurteilung durch gefahrstoffhaltige Exponate in Museen und Restaurierungswerkstätten in NRW. Teil 2: Pestizide. Abgerufen von https://www.unfallkasse-nrw.de/fileadmin/server/download/PDF_2022/Organ_GefStoffgemisch_141221.pdf (letzter Zugriff 04.12.2024) 
 
 Hintergrundinformation: Der Umgang mit Gefahrstoffen ist für Arbeitgeber und -nehmer in Deutschland im [Arbeitsschutzgesetz (ArbSchG)](https://www.gesetze-im-internet.de/arbschg/BJNR124610996.html) und in der [Gefahrstoffverordnung (GefStoffV](https://www.gesetze-im-internet.de/gefstoffv_2010/BJNR164400010.html)) geregelt. Aktuellste wissenschaftliche und technische Informationen über die Arbeit mit Gefahrstoffen bieten die [Technischen Regeln für Gefahrstoffe (TRGS)](https://www.baua.de/DE/Angebote/Regelwerk/TRGS/TRGS). Gefahrstoffe werden im EWR (Europäischer Wirtschaftraum, umfasst alle EU-Mitgliedsstaaten sowie Island, Norwegen und Liechtentein) in der [CLP(Classification, Labelling and Packaging of Chemicals )-Verordnung Nr. 1272/2008](https://echa.europa.eu/de/regulations/clp/understanding-clp) aufgeführt. 
