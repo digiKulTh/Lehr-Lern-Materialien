@@ -107,7 +107,7 @@ Jeder Kontakt mit einem Objekt bedeutet ein potenzielles Risiko für die Person,
 
 ## Anhang: Verwendete und weiterführende Literatur
 
-Deutsche Gesetzliche Unfallversicherung (2023: Gefahrstoffliste 2023. Gefahrstoffe am Arbeitsplatz. Abgerufen von https://publikationen.dguv.de/widgets/pdf/download/article/4801 (letzter Zugriff 03.12.2024).
+Deutsche Gesetzliche Unfallversicherung (2023): Gefahrstoffliste 2023. Gefahrstoffe am Arbeitsplatz. Abgerufen von https://publikationen.dguv.de/widgets/pdf/download/article/4801 (letzter Zugriff 03.12.2024).
 
 Deutscher Museumsbund (2018): Tagungsdokumentation Achtung! Gefahrgut im Museum – vom Umgang mit schadstoffbelastetem Kulturgut. Abgerufen von https://www.museumsbund.de/wp-content/uploads/2018/04/tagung-schadstoffe-beitraege-gesamt-16042018.pdf (letzter Zugriff 03.12.2024).
 
