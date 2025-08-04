@@ -112,7 +112,7 @@ Es ist ein naheliegender Impuls sich auf das Recht als vermeintlich sicheren Haf
 
 Bruckmann, Z. *et al.* (2024). Dekolonialisierung der Sammlungen und Archive der ETH Zürich – ein Leitfaden aus der Praxis. Abgerufen von https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/691291/Leitfaden_AG_Dekolonialisierung.pdf (14/07/2025).
 
-Bundesärztekammer (2003). Mitteilungen: Empfehlungen zum Umgang mit Präparaten aus menschlichem Gewebe in Sammlungen, Museen und öffentlichen Räumen, *Deutsches Ärzteblatt*, 100 (28–29), S. A 1960-A1965.
+Bundesärztekammer (2003). Mitteilungen: Empfehlungen zum Umgang mit Präparaten aus menschlichem Gewebe in Sammlungen, Museen und öffentlichen Räumen, *Deutsches Ärzteblatt*, 100 (28–29), S. A 1960-A1965. Abgerufen von https://wissenschaftliche-sammlungen.de/files/8213/7275/6102/EmpfehlungenAeB.pdf (04/08/2025).
 
 Cornwall, J. *et al.* (2024). IFAA recommendations for the ethical use of anatomical images, Anatomical Sciences Education, 17 (1), S. 7–10. Abgerufen von https://anatomypubs.onlinelibrary.wiley.com/doi/10.1002/ase.2349 (25/04/24).
 
