@@ -12,7 +12,7 @@ Anne Hiltscher & Rebecca Wulke
 * [Handling von Objekten](#handling-von-objekten)
 * [Reinigung von Objekten](#reinigung-von-objekten)
 * [Anhang: Checkliste](#anhang-checkliste)
-* [Anhang: Verwendete Literatur](#anhang-verwendete-literatur)
+* [Anhang: Verwendete Literatur](#anhang-verwendete-und-weiterführende-literatur)
 
 > KI-Podcast
 > Erstellt mit https://notebooklm.google.com/, geprüft auf inhaltliche Fehler
@@ -94,7 +94,7 @@ Jede Bewegung, jede Berührung eines Objektes bedeutet ein potenzielles Risiko f
 - [ ] **Sollte das Objekt berührt/ bearbeitet werden?** (vgl. [Vor dem Objekthandling](#vor-dem-objekthandling))
       Könnte eine Berührung Schäden vergrößern? Ist der Zustand des Objektes so, dass er erfasst werden sollte? Wer sollte Kenntnis vom Objektzustand haben?
 
-## Anhang: Verwendete und weiterführende Literatur Literatur
+## Anhang: Verwendete und weiterführende Literatur
 
 Notfallverbund Stuttgart (2022): Pocket Guide Notfall, URL: https://notfallverbund.ub.uni-stuttgart.de/wp-content/uploads/sites/4/2020/05/Pocket_NoVe.pdf (letzter Zugriff 28.01.2025).
 
