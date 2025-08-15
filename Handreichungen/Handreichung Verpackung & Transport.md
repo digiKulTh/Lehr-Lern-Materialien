@@ -75,7 +75,7 @@ Grafiken können liegend auf einer ebenen Fläche befördert werden. Gemälde im
 
 ### Objektzustand
 
- Kann es überhaupt transportiert werden ohne Schaden zu nehmen oder sollte es ausnahmsweise an Ort und Stelle bearbeitet werden?
+Kann es überhaupt transportiert werden ohne Schaden zu nehmen oder sollte es ausnahmsweise an Ort und Stelle bearbeitet werden?
 
 ### Objektgewicht und -größe
 
