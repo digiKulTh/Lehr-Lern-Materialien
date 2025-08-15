@@ -35,7 +35,7 @@ Der Arbeitstisch sollte festgestellt werden, falls er auf Rollen steht. Lockerer
 
 Hohlräume sind aufzufüllen, damit das Objekt nicht in der Verpackung rutscht oder das Verpackungsmaterial durchhängt. Das Material muss eine angemessene Größe haben. Überschüssiges Material ist passend abzuschneiden.
 
-Beim Auspacken eines Objektes, das bereits fachgerecht verpackt ist – etwa im Rahmen einer Ausstellungsleihe – bietet es sich an Arbeitsfotos von der Polsterung und Verpackung zu machen, damit im Anschluss an die Bearbeitung der Gegenstand wieder genauso verpackt werden kann. Aufkleber, die bereits am Objekt sind, möglichst nur Dokumentieren und nicht entfernen, weil Klebespuren zurückbleiben könnten.
+Beim Auspacken eines Objektes, das bereits fachgerecht verpackt ist – etwa im Rahmen einer Ausstellungsleihe – bietet es sich an, Arbeitsfotos von der Polsterung und Verpackung zu machen, damit im Anschluss an die Bearbeitung der Gegenstand wieder genauso verpackt werden kann. Aufkleber, die bereits am Objekt sind, möglichst nur Dokumentieren und nicht entfernen, weil Klebespuren zurückbleiben könnten.
 
 Die Frage welche Seite bei Tyvek o.ä. Materialien zum Objekt zeigen sollte, ist nicht leicht zu beantworten. Bei der rauen/strukturierten Seite von Materialien, die als erste Lage der Verpackung dienen, könnte eine direkte Objektberührung die Struktur ins Objekt prägen. Jedoch dient beim Tyvek die strukturierte Seite zum Luftaustausch. D.h. wird die raue Seite am Objekt angelegt, kann Feuchtigkeit nach außen dringen, jedoch keine Feuchtigkeit von außen nach innen. 
 
