@@ -41,7 +41,7 @@ Die Frage welche Seite bei Tyvek o.ä. Materialien zum Objekt zeigen sollte, ist
 
 ### Übliche Verpackungsmaterialien im Sammlungsbereich
 
-**Pergamin**, ein durchscheinendes Papier und eine Alternative zu Klarsichthüllen, die Weichmacher enthalten können. Die Inhalte von Pergaminhüllen, wie Dokumente, Fotoabzüge, Postkarten etc., sind trotz geringerer Transparenz des Materials weiterhin gut erkennbar. Umschläge aus Pergamin sind fett- und spritzwasserdicht. Zudem laden sie sich nicht statisch auf.
+**Pergamin** ist ein durchscheinendes Papier und eine Alternative zu Klarsichthüllen, die Weichmacher enthalten können. Die Inhalte von Pergaminhüllen, wie Dokumente, Fotoabzüge, Postkarten etc., sind trotz geringerer Transparenz des Materials weiterhin gut erkennbar. Umschläge aus Pergamin sind fett- und spritzwasserdicht. Zudem laden sie sich nicht statisch auf.
 
 **Säurefreie Archivkartonage** nach ISO 16245, die es in vielfältigsten Formaten und Formen, wahlweise mit Innenunterteilung etwa für Münzen, gibt. Auch ist es möglich, sich Verpackungen speziell für einen Anwendungsfall anfertigen zu lassen, etwa eine Hutsammlung.
 
