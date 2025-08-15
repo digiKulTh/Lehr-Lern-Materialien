@@ -71,7 +71,7 @@ Eine vorherige Planung, welche Abfolge von Arbeitsschritten nötig ist, ermögli
 
 ### Objektgattung und Materialität
 
-Grafiken können liegend auf einer ebenen Fläche befördert werden. Gemälde im Rahmen sollten möglichst hängend transportiert werden oder liegend mit abgepolstertem Rahmen. Leicht zerbrechliche Objekte sind abgepolstert in einer Transportbox zu bewegen. Glas- oder Nasspräparate sind nach Möglichkeit durch ein darauf spezialisiertes Speditionsunternehmen zu transportieren, da oft leicht brennbare und giftige Substanzen enthalten sind. Nitro-Film darf nur von speziellen Transportunternehmen
+Grafiken können liegend auf einer ebenen Fläche befördert werden. Gemälde im Rahmen sollten möglichst hängend transportiert werden oder liegend mit abgepolstertem Rahmen. Leicht zerbrechliche Objekte sind abgepolstert in einer Transportbox zu bewegen. Glas- oder Nasspräparate sind nach Möglichkeit durch ein darauf spezialisiertes Speditionsunternehmen zu transportieren, da oft leicht brennbare und giftige Substanzen enthalten sind. Nitro-Film darf nur von speziellen Transportunternehmen transportiert werden.
 
 ### Objektzustand
 
