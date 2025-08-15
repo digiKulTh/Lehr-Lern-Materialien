@@ -130,7 +130,7 @@ Die Beschriftung kann auf drei verschiedene Weisen erfolgen:
 
 3. Die Inventarnummer kann auf einem **angehängten oder beigefügten Träger**, wie einem Etikett, Verpackungshüllen, etc. angebracht sein.
 
-Da die letzte Variante Risiken wie Verlust oder Verwechslung birgt, sind die ersten beiden zu bevorzugen. Um eine Zuordnung bei Verlust oder Verwechslung zu erleichtern ist es sinnvoll, ein Foto vom Objekt anzufertigen, auf dem die Inventarnummer gut zu erkennen ist.
+Da die letzte Variante Risiken wie Verlust oder Verwechslung birgt, sind die ersten beiden zu bevorzugen. Um eine Zuordnung bei Verlust oder Verwechslung zu erleichtern, ist es sinnvoll, ein Foto vom Objekt anzufertigen, auf dem die Inventarnummer gut zu erkennen ist.
 
 Die Platzierung der Inventarnummer sollte möglichst nicht auf der Vorder- oder Schauseite, sondern auf der Rückseite, dem Sockel, etc. angebracht werden. Bei großen, schweren oder unhandlichen Objekten empfiehlt es sich die Nummer, ohne Bewegung des Objektes gut sichtbar anzubringen.
 
