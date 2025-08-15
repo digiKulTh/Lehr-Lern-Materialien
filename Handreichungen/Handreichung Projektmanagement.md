@@ -1,6 +1,6 @@
 # Projektmanagement in der Kulturgutdigitalisierung
 
-**Michael Markert**
+Michael Markert
 
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
