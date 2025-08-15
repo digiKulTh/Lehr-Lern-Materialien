@@ -156,7 +156,7 @@ Inventarnummern auf **Papier** werden mit einem Bleistift des Härtegrades 2B au
 
 ## Verkauf, Deakzession oder Verlust eines Objektes
 
-Wenn ein Objekt verkauft wird, es verloren geht, eine Deakzession (Aussortieren eines Objektes aus dem Sammlungsbestand, z. B. aufgrund von Platzmangel, Restitution, Defekten oder Anpassung des Sammlungskonzeptes) stattfindet oder der Leihvorgang abgeschlossen ist, so ist dies in den Unterlagen zu kennzeichnen. Der Eintrag sollte so durchgestrichen werden, dass er weiterhin lesbar ist, aber gleichzeitig ersichtlich wird, dass das Bezugsobjekt sich nicht mehr in der Institution/im Bestand befindet. Weiterhin sollte vermerkt werden, welche Art des Abgangs vorliegt. Ausführliche Informationen bietet der [Leitfaden des DMB zum nachhaltigen Sammeln](https://www.museumsbund.de/wp-content/uploads/2011/01/2011-leitfaden-nachhaltiges-sammeln.pdf)<u><span>.</span></u>
+Wenn ein Objekt verkauft wird, es verloren geht, eine Deakzession (Aussortieren eines Objektes aus dem Sammlungsbestand, z. B. aufgrund von Platzmangel, Restitution, Defekten oder Anpassung des Sammlungskonzeptes) stattfindet oder der Leihvorgang abgeschlossen ist, so ist dies in den Unterlagen zu kennzeichnen. Der Eintrag sollte so durchgestrichen werden, dass er weiterhin lesbar ist, aber gleichzeitig ersichtlich wird, dass sich das Bezugsobjekt nicht mehr in der Institution/im Bestand befindet. Weiterhin sollte vermerkt werden, welche Art des Abgangs vorliegt. Ausführliche Informationen bietet der [Leitfaden des DMB zum nachhaltigen Sammeln](https://www.museumsbund.de/wp-content/uploads/2011/01/2011-leitfaden-nachhaltiges-sammeln.pdf)<u><span>.</span></u>
 
 ## Verleih eines Objektes
 
