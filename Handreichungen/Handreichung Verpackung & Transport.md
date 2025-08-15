@@ -89,7 +89,7 @@ Im Idealfall liegt der Transportweg auf einer Etage/ Ebene. Wenn dies nicht der 
 
 Risiken können verschiedene Arten von Beschädigungen oder Verfall sein, wie Dellen, Risse oder Verfärbungen. Im schlimmsten Fall kann das gesamte Objekt zerstört werden und unwiederbringlich für die Nachwelt verloren sein bzw. weder digital noch physisch/real zugänglich sein. Zudem können auch Gesundheitsrisiken für den:die Mitarbeiter:in bestehen.
 
-Risiken können minimiert werden, indem eine guteVorbereitung stattfindet. Fragen, die vor dem Transport des Objektes geklärt werden sollten, sind bspw. Um welche Objektgattungen und Materialien handelt es sich? Wie ist der Zustand des Objekts? Wie schwer und wie groß ist das Objekt? Wie sieht derTransportweg aus? Welche Hilfsmittel (s. u.) sind von Nöten? Welche Schutzausrüstung wird benötigt?
+Risiken können minimiert werden, indem eine gute Vorbereitung stattfindet. Fragen, die vor dem Transport des Objektes geklärt werden sollten, sind bspw. Um welche Objektgattungen und Materialien handelt es sich? Wie ist der Zustand des Objekts? Wie schwer und wie groß ist das Objekt? Wie sieht der Transportweg aus? Welche Hilfsmittel (s.u.) sind von Nöten? Welche Schutzausrüstung wird benötigt?
 
 ## Hilfsmittel
 
