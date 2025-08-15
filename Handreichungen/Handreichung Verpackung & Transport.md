@@ -45,7 +45,7 @@ Die Frage welche Seite bei Tyvek o.ä. Materialien zum Objekt zeigen sollte, ist
 
 **Säurefreie Archivkartonage** nach ISO 16245, die es in vielfältigsten Formaten und Formen, wahlweise mit Innenunterteilung etwa für Münzen, gibt. Auch ist es möglich, sich Verpackungen speziell für einen Anwendungsfall anfertigen zu lassen, etwa eine Hutsammlung.
 
-**Seidenpapier, Tyvek** (ein Vliesstoff), ungebleichte (farbechte) **Baumwolllaken** (ohne Weichspüler gewaschen), dichter Batist (leichter, gewebter Stoff), Cretonne (gröberer, gewebter Baumwollstoff), oder Schaumstoff (ohne Weichmacher, säurefrei) zum Einschlagen oder Abpolstern. Tyvek ist ein Allrounder, der als Verpackung für jedes Material verwendet werden kann. Ausgenommen sind Grafiken.
+**Seidenpapier, Tyvek** (ein Vliesstoff), ungebleichte (farbechte) **Baumwolllaken** (ohne Weichspüler gewaschen), **dichter Batist** (leichter, gewebter Stoff), **Cretonne** (gröberer, gewebter Baumwollstoff), oder **Schaumstoff** (ohne Weichmacher, säurefrei) dienen zum Einschlagen oder Abpolstern. Tyvek ist ein Allrounder, der als Verpackung für jedes Material verwendet werden kann. Ausgenommen sind Grafiken.
 
 **EPS-Kügelchen** gibt es in verschiedenen Größen und Stärken. Sie werden bspw. in Kissen aus Tyvek gefüllt und passen sich optimal der Form des Objektes an.
 
