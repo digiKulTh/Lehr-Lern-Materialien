@@ -64,7 +64,7 @@ Unabhängig von der Form der Erfassung sollten folgende Informationen dokumentie
 
 ## Inventarisierung
 
-Mit der Inventarisierung eines Objektes wird die Sammlung – bei öffentlichen Einrichtungen im Regelfall das Bundesland, in dem sich die Institution der Sammlung (Museum, Universität) befindet) – Eigentümerin oder Besitzerin/Verwalterin des Objektes. Als Eigentümerin gehört der Sammlung das Stück, sofern die Provenienz nicht entgegenspricht. Als Besitzerin/Verwalterin eines Objektes liegen die Eigentumsverhältnisse bei der Leihgeber:in o. ä. und die Sammlung darf das Objekt lediglich für die im Leihvertrag benannten Zwecke nutzen, schützen und verwalten.
+Mit der Inventarisierung eines Objektes wird die Sammlung – bei öffentlichen Einrichtungen im Regelfall das Bundesland, in dem sich die Institution der Sammlung (Museum, Universität) befindet – Eigentümerin oder Besitzerin/Verwalterin des Objektes. Als Eigentümerin gehört der Sammlung das Stück, sofern die Provenienz nicht entgegenspricht. Als Besitzerin/Verwalterin eines Objektes liegen die Eigentumsverhältnisse bei der Leihgeber:in o. ä. und die Sammlung darf das Objekt lediglich für die im Leihvertrag benannten Zwecke nutzen, schützen und verwalten.
 
 ### Exkurs zur Unterscheidung von Besitz und Eigentum
 
