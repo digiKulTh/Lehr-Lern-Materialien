@@ -54,7 +54,7 @@ Der Grundsatz sollte immer sein: Die eigene Gesundheit geht vor! Besteht Verdach
 
 Um sich nicht unnötigen Risiken auszusetzen, sollten im Vorfeld Informationen über die Sammlungsobjekte eingeholt werden – Um welche Objektgattungen aus welcher (ungefähren) Zeit handelt es sich? Gibt es eine Gefährdungsbeurteilung, die nähere Details zu Gefahrstoffen in der Sammlung enthält? Können Kustod:innen, Sammlungsverantwortliche, Restaurator:innen oder Gefahrenstoffbeauftragten hinzugezogen werden? Welche Stoffe wurden damals zur Verarbeitung, Konservierung und zum Schutz vor Schädlingen und Schimmel verwendet? Gibt es eine Dokumentation zum Objekt und finden sich darin oder in Gesprächen Hinweise etwa auf „Spritzen“ oder „Tauchen“, was auf eine Behandlung mit Schadstoffen hinweisen kann?
 
-Zweitens sollte geprüft werden, welche Schutzmaßnamen getroffen wurden, um Risiken einzudämmen. Die Objekte, die gefährliche Substanzen enthalten, sollten besonders gekennzeichnet werden, speziell verpackt und/ oder ggf. an speziellen Orten gelagert werden. Auch verdächtige Objekte und Materialien sind Belastete sorgfältig zu kennzeichnen und zu dokumentieren. 
+Zweitens sollte geprüft werden, welche Schutzmaßnamen getroffen wurden, um Risiken einzudämmen. Die Objekte, die gefährliche Substanzen enthalten, sollten besonders gekennzeichnet werden, speziell verpackt und/ oder ggf. an speziellen Orten gelagert werden. Auch verdächtige Objekte und Materialien sind als Belastete sorgfältig zu kennzeichnen und zu dokumentieren. 
 
 Zuletzt ist zu prüfen, ob aus einer eventuell vorhandenen Gefährdungsbeurteilung spezifische Schutzmaßnahmen und Schutzausrüstung (z. B. Maske mit bestimmtem Filtertyp) abgeleitet wurden (s. auch nächster Abschnitt). 
 
