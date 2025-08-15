@@ -68,7 +68,7 @@ Bei der Arbeit mit Sammlungsobjekten sollten im Regelfall puderfreie Nitrilhands
 
 Besonders beim Umgang mit Textilien oder anderen stark staubbelasteten Objekten sollten Partikelfiltermasken wie FFP2-Masken getragen werden, da der eingelagerte Staub zu Lungenreizungen/-schädigungen führen kann. Bei bekannter oder vermuteter Belastung mit (inaktivem) Schimmel und anderen Feinstäuben sind FFP3-Masken zu verwenden. 
 
-Generell ist festes Schuhwerk zu tragen, um den Körper vor Gefahrenstoffen am Boden zu schützen und Komplikationen beim Objekthandling zu vermeiden. Weitere Schutzkleidung wie Schutzmasken mit Spezialfiltern, Schutzbrillen, Kittel oder Schutzanzüge sind in Abstimmung mit Sicherheitsbeauftragten und anderem Fachpersonal anzulegen. Kontamination privater Kleidung ist in jedem Fall zu vermeiden! 
+Generell ist festes Schuhwerk zu tragen, um den Körper vor Gefahrenstoffen am Boden zu schützen und Komplikationen beim Objekthandling zu vermeiden. Weitere Schutzkleidung wie Schutzmasken mit Spezialfiltern, Schutzbrillen, Kittel oder Schutzanzüge sind in Abstimmung mit Sicherheitsbeauftragten und anderem Fachpersonal anzulegen. Die Kontamination privater Kleidung ist in jedem Fall zu vermeiden! 
 
 Es ist darauf zu achten, dass Schutzkleidung entsprechend den Herstellerangaben getragen wird. So gibt es sowohl bei Handschuhen als auch Atemschutzmasken eine Begrenzung der maximalen Tragedauer, bevor die Ausstattung auszutauschen ist.
 
