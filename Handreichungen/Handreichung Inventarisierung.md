@@ -134,7 +134,7 @@ Da die letzte Variante Risiken wie Verlust oder Verwechslung birgt, sind die ers
 
 Die Platzierung der Inventarnummer sollte möglichst nicht auf der Vorder- oder Schauseite, sondern auf der Rückseite, dem Sockel, etc. angebracht werden. Bei großen, schweren oder unhandlichen Objekten empfiehlt es sich die Nummer, ohne Bewegung des Objektes gut sichtbar anzubringen.
 
-Gehören zu einem Objekt mehrere Fragmente oder Teile so sind alle Stücke einzeln zu beschriften. Alle vorherigen Inventarnummern sollen erhalten bleiben, sofern sie aufgrund ihres Materials nicht das Objekt beschädigen. Es ist auf eine leserliche Schrift zu achten.
+Gehören zu einem Objekt mehrere Fragmente oder Teile, so sind alle Stücke einzeln zu beschriften. Alle vorherigen Inventarnummern sollen erhalten bleiben, sofern sie aufgrund ihres Materials nicht das Objekt beschädigen. Es ist auf eine leserliche Schrift zu achten.
 
 **Hinweise zur [Anbringung von Inventarnummern auf verschiedenen Materialarten](https://www.museen-brandenburg.de/fileadmin/Handreichungen/Umgang_mit_Museumsobjekten_LVR-Museumsheft3.pdf)**
 
