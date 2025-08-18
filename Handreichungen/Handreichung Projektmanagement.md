@@ -112,7 +112,7 @@ Digitalisierung ist ein vielschrittiger Prozess, der oft für einen spezifischen
 
 ### Objekttransport
 
-Ganz gleich ob im Haus oder an einem anderen Ort fotografiert wird, sollten der meist nötige Transport – eventuell gar mit einer Kunstspedition – und eine geeignete Objektverpackung eingeplant werden. Auch wenn es nur über den Flur geht, muss der Weg vorbereitet und das Personal etwa mit Transportwägen ausgestattet sein (vgl. [Handreichung Verpackung & Transport](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Handreichungen/Handreichung%20Verpackung%C2%A0%26%20Transport.md)).
+Ganz gleich ob im Haus oder an einem anderen Ort fotografiert wird, sollten der meist nötige Transport – eventuell gar mit einer Kunstspedition – und eine geeignete Objektverpackung eingeplant werden. Auch wenn es nur über den Flur geht, muss der Weg vorbereitet und das Personal etwa mit Transportwagen ausgestattet sein (vgl. [Handreichung Verpackung & Transport](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Handreichungen/Handreichung%20Verpackung%C2%A0%26%20Transport.md)).
 
 ### Vorbereitung der Objekte
 
