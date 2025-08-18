@@ -152,7 +152,7 @@ Die oft großen Datenmengen aus Digitalisierungsprojekten müssen sicher abgeleg
 
 ### Evaluierung und Dokumentation
 
-Selbst wenn kein formaler Projektbericht etwa durch einen Drittmittelgeber gefordert ist, sollten die Projekterfahrungen in Berichtsform festgehalten werden. Schwerpunkte der Darstellung sind Herausforderungen, Lösungen, Verbesserungsmöglichkeiten und Workflows , um spätere Digitalisierungsprojekte zu unterstützen und reproduzierbare Ergebnisse sicherzustellen. Der Bericht sollte auch den finalen Arbeitsstand festhalten, um bei einer Fortsetzung der Arbeiten am Bestand die Einarbeitungszeit zu verkürzen.
+Selbst wenn kein formaler Projektbericht etwa durch einen Drittmittelgeber gefordert ist, sollten die Projekterfahrungen in Berichtsform festgehalten werden. Schwerpunkte der Darstellung sind Herausforderungen, Lösungen, Verbesserungsmöglichkeiten und Workflows, um spätere Digitalisierungsprojekte zu unterstützen und reproduzierbare Ergebnisse sicherzustellen. Der Bericht sollte auch den finalen Arbeitsstand festhalten, um bei einer Fortsetzung der Arbeiten am Bestand die Einarbeitungszeit zu verkürzen.
 
 ### Datenpublikation
 
