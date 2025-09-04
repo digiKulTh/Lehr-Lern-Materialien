@@ -1,6 +1,10 @@
 # Digitale Kulturwerkbank Thüringen@ThULB. 
 Hier finden sich die Materialien aus dem Lehrinnovationsprojekt [digitale Kulturwerkstatt Thüringen (digiKulTh)](https://dksm.thulb.uni-jena.de/digikulth/), durchgeführt im Rahmen von [Freiraum2023](https://stiftung-hochschullehre.de/foerderung/freiraum/) der [Stiftung Innovation in der Hochschullehre](https://stiftung-hochschullehre.de/) an der [Thüringer Universitäts- und Landesbibliothek Jena](https://www.thulb.uni-jena.de/home).
 
+**Einblick in das Praxisseminar 2024 (Link zu Youtube)**
+
+[![Seminarteaser](https://img.youtube.com/vi/1C-9tCVCY-M/0.jpg)](https://youtu.be/1C-9tCVCY-M)
+
 ## Zielgruppe und Inhalt des Repositoriums
 Das Repositorium richtet sich primär an Hochschul-Lehrende im Bereich Kulturgutdigitalisierung und soll Hilfestellung bei der Vorbereitung und Durchführung entsprechender Lehrveranstaltungen bieten. Da museale Standards angewendet und eingehalten werden, ist es auch für den Bereich der Ausbildung an GLAM-Institutionen – etwa bei der Schulung von Volontär:innen – hilfreich. Es besteht sowohl aus Materialien für die Lehrenden als auch für die Lernenden und ist so lizensiert, dass eine Bearbeitung und Veränderung problemlos möglich ist. Es wird zumindest bis zum Ende der Projektlaufzeit im März 2026 beständig erweitert und überarbeitet.
 
