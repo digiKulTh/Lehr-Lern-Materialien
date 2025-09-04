@@ -62,6 +62,8 @@ Alle Fragen sind Multiple-Choice-Fragen, außer es ist dahinter ein anderer Frag
 
 Durch Klicken auf `Prüfen` werden die Antworten abgeglichen, der Haken daneben gibt die korrekte Lösung vor, sollte man nicht darauf kommen.
 
+> [Start des interaktiven Quiz](https://liascript.github.io/course/?https://raw.githubusercontent.com/digiKulTh/Lehr-Lern-Materialien/refs/heads/main/Interaktives/Quiz_Kulturgutdigitalisierung.md)
+
 ## 1. Rahmenbedingungen der Kulturgutdigitalisierung
 <!--
 @comment
