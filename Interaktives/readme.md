@@ -1,5 +1,5 @@
 ## Video-Tutorials und Screencasts zu Objektfotografie und Erschließung
-[Liste der verfügbaren Videos](https://github.com/digiKulTh/Lehr-Lern-Materialien/tree/main/Interaktives)
+[Liste der verfügbaren Videos](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Interaktives/Video-Tutorials%20und%20Screencasts.md)
 
 ## KI-genierte Podcasts
 [Liste der verfügbaren Podcasts](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Interaktives/KI-generierte%20Podcasts.md)
