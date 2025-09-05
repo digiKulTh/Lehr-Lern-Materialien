@@ -1,1 +1,1 @@
-
+Diese Poster sind lizensiert unter [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) und können problemlos im Format A0 gedruckt werden.
