@@ -8,7 +8,7 @@
 
 ## Digitale Fotografie Teil 1: Einführung ##
 
-[![Digitale Fotografie 1](https://youtu.be/zAy0TGYMUWI/0.jpg)](https://youtu.be/zAy0TGYMUWI)
+[![Digitale Fotografie 1](https://img.youtube.com/vi/zAy0TGYMUWI/0.jpg)](https://youtu.be/zAy0TGYMUWI)
 
 ## Digitale Fotografie Teil 2: Workflow ##
 
