@@ -4,7 +4,7 @@
 
 **(Arbeits-)Titel des Vorhabens:**
 
-**ggf. Name der objekthaltenden InstitutionÖ**
+**ggf. Name der objekthaltenden Institution:**
 
 **Zeitraum der Lehrveranstaltung/des Projektes:**
 
