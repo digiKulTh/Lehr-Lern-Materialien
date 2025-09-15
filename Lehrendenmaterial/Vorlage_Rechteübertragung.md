@@ -1,8 +1,15 @@
-Name: 
+**Name:** 
 
 (nachfolgend Rechteinhaber:in)
 
-Studiengang:
+**(Arbeits-)Titel des Vorhabens:**
+
+**ggf. Name der objekthaltenden InstitutionÖ**
+
+**Zeitraum der Lehrveranstaltung/des Projektes:**
+
+**Betreuer:in an der ThULB:**
+
 
 # Vertrag über die CC-Lizensierung und Nutzungsrechteeinräumung im Rahmen einer Tätigkeit an der Thüringer Universitäts- und Landesbibliothek (ThULB), Abteilung Digitales Kultur- und Sammlungsmanagment (DKSM)
 
@@ -11,27 +18,39 @@ Diese Vereinbarung regelt die Rechte an im Rahmen von Tätigkeiten für die Abte
 
 ## § 1 Geltungsbereich
 (1) Gegenstand dieser Vereinbarung ist die Lizensierung folgender Werkarten:
-- Lichtbildwerke und Lichtbilder 
-- Objektmetadaten, sofern sie Schöpfungshöhe erreichen (z. B. textuelle Objektbeschreibungen, kuratorische Texte)
+- Lichtbildwerke und Lichtbilder, einschließlich Reproduktionsfotografien, Scans, 3D-Modelle und Bearbeitungen
+- Objekt- und Kontextmetadaten, sofern sie Schöpfungshöhe erreichen
 - Software-Skripte
+- Beiträge zu Datenbanken/Sammlwerken
 
-(2) Die Lizensierung gilt für alle Daten nach Abs. 1, die während der zeitlich vorab festgelegten Tätigkeit der Rechteinhaber:in in der Abteilung DKSM während einer Lehrveranstaltung, einem Praktikum oder Forschungsaufenthaltes entstanden sind oder noch entstehen werden. Urheber- und sonstige Rechte an den Sammlungsobjekten selbst bleiben unberührt.
+(2) Die Lizensierung gilt für alle Daten nach Abs. 1, die während der oben beschriebenen Tätigkeit der Rechteinhaber:in entstehen oder entstanden sind. Urheber- und sonstige Rechte an den Sammlungsobjekten selbst bleiben unberührt.
 
 ## § 2 Umfang der übertragenen Nutzungsrechte
 (1) Die/der Urheber:in veröffentlicht sämtliche im Rahmen der Tätigkeit für die DKSM entstehenden Werke unter der [Creative‑Commons‑Lizenz CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/). Die Freigabe ist weltweit, unentgeltlich, zeitlich unbeschränkt und unwiderruflich. CC0 berührt keine Patent‑ oder Markenrechte sowie keine Datenschutz‑, Persönlichkeits- oder Veröffentlichungsrechte Dritter und enthält keine Gewährleistungen oder stillschweigende Billigung/Endorsement.
 
 (2) Unabhängig davon räumt die/der Urheber:in der ThULB ein einfaches, übertragbares, unterlizenzierbares, zeitlich und räumlich unbeschränktes Nutzungsrecht in allen Nutzungsarten ein (Vervielfältigung, Verbreitung, öffentliche Zugänglichmachung, Bearbeitung, Archivierung, Datenbanknutzung). Dieses Nutzungsrecht dient als Absicherung, falls CC0 rechtlich angegriffen oder angezweifelt wird.
 
-## § 3 Vergütung
-Die Rechteübertragung erfolgt freiwillig und unentgeltlich. Etwaige Ansprüche auf weitere Vergütung sind abgegolten.
+## § 3 Institutionelle Clearance und Freigabebedingung
+(1) Voraussetzung jeder externen Nutzung (einschließlich Veröffentlichung unter CC‑Lizenzen, Open‑Data‑Bereitstellung, Unterlizenzierung, Bereitstellung in Repositorien) ist die vorherige Rechte- und Freigabeprüfung („institutionelle Clearance“) durch die ThULB/DKSM sowie – soweit erforderlich – die objekthaltende Einrichtung. Die Clearance umfasst u. a. Urheber-, Leistungsschutz-, Datenbank-, Marken-, Patent-, Eigentums-/Haus- sowie Persönlichkeits- und Datenschutzrechte sowie vertragliche Bindungen.
 
-## § 4 Notwendigkeit institutioneller Clearance
-Neben der Rechtegarantie der Mitwirkenden bedarf jede externe Nutzung (insb. Veröffentlichung unter CC‑Lizenzen, Open‑Data‑Bereitstellung, Unterlizenzierung, Bereitstellung in Repositorien) einer gesonderten Freigabe durch die objekthaltende Kultureinrichtung. Diese kann die Freigabe ganz oder teilweise versagen oder mit Auflagen versehen, wenn Rechte Dritter, schutzwürdige Belange (etwa Persönlichkeits‑/Datenschutz), konservatorische Interessen, Hausrechte oder vertragliche Vorgaben der Objekt gebenden Einrichtung entgegenstehen.
+(2) Die CC0‑Freigabe nach § 2 tritt erst mit Erteilung der institutionellen Clearance in Kraft. Bis dahin ist ausschließlich interne Nutzung zu Arbeits- und Prüfzwecken zulässig.
+
+(3) Die ThULB bzw. die objekthaltende Einrichtung kann die Freigabe ganz oder teilweise versagen oder mit Auflagen versehen, wenn Rechte Dritter, schutzwürdige Belange (insbesondere Persönlichkeits-/Datenschutz), konservatorische Interessen, Hausrechte oder vertragliche Vorgaben entgegenstehen.
+
+## § 4 Urheberpersönlichkeitsrechte und Namensnennung
+(1) Urheberpersönlichkeitsrechte bleiben unberührt. Die/der Studierende willigt in solche Bearbeitungen ein, die im Rahmen offener Nach- und Weiternutzung üblich sind.
+
+(2) Obwohl CC0 keine Namensnennung verlangt, wird sich die ThULB nach Möglichkeit um eine angemessene Nennung in kuratorischen und projektinternen Kontexten bemühen; ein Rechtsanspruch hierauf besteht nicht.
+
+## § 5 Vergütung
+Die Rechteübertragung erfolgt freiwillig und unentgeltlich; es entsteht kein Anspruch auf zusätzliche Vergütung. Studien- und Prüfungsleistungen bleiben hiervon unberührt.
   
-## § 3 Schlussbestimmugnen
-Die Vereinbarung gilt für die Dauer meiner Tätigkeit in der Abteilung DKSM der ThULB. Änderungen bedürfen der Schriftform. Soweit eine Bestimmung aus diesem Vertrag unwirksam ist oder wird, bleiben die übrigen Bestimmungen davon unberührt.
+## § 6 Laufzeit, Form, Schlussbestimmungen
+(1) Diese Vereinbarung gilt für den in der Präambel bezeichneten Tätigkeitszeitraum. Die CC0‑Freigabe sowie die in § 2 Abs. 2 eingeräumten Nutzungsrechte gelten unbefristet. Eine Beendigung der Tätigkeit lässt die bereits erteilten Lizenzen unberührt.
 
----
+(2) Änderungen und Ergänzungen können in Textform (z. B. E‑Mail) vereinbart werden.
+
+(3) Sollten einzelne Bestimmungen unwirksam sein oder werden, bleibt die Wirksamkeit der übrigen Bestimmungen unberührt.
 
 Ort, Datum
 <br><br>
