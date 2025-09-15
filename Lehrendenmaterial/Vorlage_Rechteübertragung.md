@@ -11,7 +11,7 @@
 **Betreuer:in an der ThULB:**
 
 
-# Vertrag über die CC-Lizensierung und Nutzungsrechteeinräumung im Rahmen einer Tätigkeit an der Thüringer Universitäts- und Landesbibliothek (ThULB), Abteilung Digitales Kultur- und Sammlungsmanagment (DKSM)
+# Vertrag über die CC-Lizensierung und Nutzungsrechteeinräumung im Rahmen einer Tätigkeit an der ThULB, Abteilung DKSM
 
 ## Präambel
 Diese Vereinbarung regelt die Rechte an im Rahmen von Tätigkeiten für die Abteilung Digitales Kultur- und Sammlungsmanagement (DKSM) der Thüringer Landes- und Universitätsbibliothek (ThULB) entstehenden oder entstandenen Werken und Leistungen. 
