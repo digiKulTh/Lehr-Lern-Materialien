@@ -52,6 +52,8 @@ Die Rechteübertragung erfolgt freiwillig und unentgeltlich; es entsteht kein An
 
 (3) Sollten einzelne Bestimmungen unwirksam sein oder werden, bleibt die Wirksamkeit der übrigen Bestimmungen unberührt.
 
+---
+
 Ort, Datum
 <br><br>
 Unterschrift Rechteinhaber:in
