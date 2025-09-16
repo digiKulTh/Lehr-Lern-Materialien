@@ -23,8 +23,8 @@ Diese Vereinbarung regelt die Rechte an im Rahmen von Tätigkeiten für die Abte
 
 (1) Gegenstand dieser Vereinbarung ist die Lizenzierung folgender Werkarten:
 
-- Lichtbildwerke und Lichtbilder, einschließlich Reproduktionsfotografien und bearbeiteten Bildern
-- Objekt- und Kontextmetadaten, sofern sie Schöpfungshöhe erreichen
+- Lichtbildwerke und Lichtbilder, einschließlich Reproduktionsfotografien (sofern sie Schutzrechte genießen) und bearbeiteten Bildern
+- Objekt- und Kontextmetadaten, sofern sie Schöpfungshöhe erreichen (z. B. Bildbeschreibungen, Kurzbiographien)
 - Beiträge zu Datenbanken/Sammelwerken
 - Software-Skripte (streichen, wenn unzutreffend)
 
@@ -32,13 +32,15 @@ Diese Vereinbarung regelt die Rechte an im Rahmen von Tätigkeiten für die Abte
 
 ## § 2 Umfang der übertragenen Nutzungsrechte
 
-(1) Die/der Urheber:in veröffentlicht sämtliche im Rahmen der Tätigkeit für die DKSM entstehenden Werke unter der [Creative‑Commons‑Lizenz CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/deed.de). Die Freigabe erfolgt weltweit, unentgeltlich, zeitlich unbeschränkt und unwiderruflich. CC0 berührt in keiner Weise Patent- oder Markenrechte sowie Rechte Dritter (insbes. Datenschutzrechte und Recht am eigenen Bild) in Bezug auf die Nutzung des Werkes. Sofern nicht ausdrücklich anders angegeben, werden keine Gewährleistungen übernommen und jede Haftung für Nutzungen des Werkes wird im gesetzlich zulässigen Umfang ausgeschlossen; eine Gutheißung (Endorsement) darf durch Nutzungen nicht suggeriert werden. Maßgeblich ist der [CC0 1.0 Universal Lizenzvertrag](https://creativecommons.org/publicdomain/zero/1.0/legalcode.de).
+(1) Der/die Urheber:in räumt der ThULB mit sofortiger Wirkung ein einfaches, übertragbares, unterlizenzierbares, zeitlich und räumlich unbeschränktes Nutzungsrecht in allen Nutzungsarten ein (Vervielfältigung, Verbreitung, öffentliche Zugänglichmachung, Bearbeitung, Archivierung, Datenbanknutzung, einschließlich etwaiger Datenbankherstellerrechte).
 
-(2) Unabhängig davon räumt der/die Urheber:in der ThULB ein einfaches, übertragbares, unterlizenzierbares, zeitlich und räumlich unbeschränktes Nutzungsrecht in allen Nutzungsarten ein (Vervielfältigung, Verbreitung, öffentliche Zugänglichmachung, Bearbeitung, Archivierung, Datenbanknutzung).
+(2) Nach erfolgter vollständiger institutioneller Clearance gemäß § 4 erklärt der/die Urheber:in für die freigegebenen Werke den Verzicht auf alle Urheberrechte und verwandten Schutzrechte gemäß [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/deed.de). Die Freigabe erfolgt weltweit, unentgeltlich, zeitlich unbeschränkt und unwiderruflich. CC0 berührt in keiner Weise Patent- oder Markenrechte sowie Rechte Dritter (insbes. Datenschutzrechte und Recht am eigenen Bild) in Bezug auf die Nutzung des Werkes. Sofern nicht ausdrücklich anders angegeben, werden keine Gewährleistungen übernommen und jede Haftung für Nutzungen des Werkes wird im gesetzlich zulässigen Umfang ausgeschlossen; eine Gutheißung (Endorsement) darf durch Nutzungen nicht suggeriert werden. Maßgeblich ist der [CC0 1.0 Universal Lizenzvertrag](https://creativecommons.org/publicdomain/zero/1.0/legalcode.de).
+
+(3) Sollte die CC0-Verzichtserklärung ganz oder teilweise unwirksam sein, gelten die in Abs. 1 eingeräumten Rechte fort.
 
 ## § 3 Vergütung und Namensnennung
 
-(1) Die Rechteübertragung erfolgt freiwillig und unentgeltlich; es entsteht kein Anspruch auf zusätzliche Vergütung. Studien- und Prüfungsleistungen bleiben hiervon unberührt.
+(1) Die Rechteübertragung erfolgt freiwillig und unentgeltlich soweit die Tätigkeit nicht anderweitig vergütet wird. Es entsteht kein Anspruch auf zusätzliche Vergütung. Studien- und Prüfungsleistungen bleiben hiervon unberührt.
 
 (2) Unbeschadet von § 2 Abs. 1 bemüht sich die ThULB nach Möglichkeit um eine angemessene Nennung in kuratorischen und projektinternen Kontexten; ein Rechtsanspruch hierauf besteht nicht.
 
