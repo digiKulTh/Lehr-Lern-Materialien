@@ -26,7 +26,7 @@ Diese Vereinbarung regelt die Rechte an im Rahmen von Tätigkeiten für die Abte
 - Lichtbildwerke und Lichtbilder, einschließlich Reproduktionsfotografien und bearbeiteten Bildern
 - Objekt- und Kontextmetadaten, sofern sie Schöpfungshöhe erreichen
 - Beiträge zu Datenbanken/Sammelwerken
-- Software-Skripte
+- Software-Skripte (streichen, wenn unzutreffend)
 
 (2) Die Lizensierung gilt für alle Daten nach Abs. 1, die während der in der Präambel beschriebenen Tätigkeit der Rechteinhaber:in entstehen oder entstanden sind. Urheber- und sonstige Rechte an den Sammlungsobjekten selbst bleiben unberührt.
 
