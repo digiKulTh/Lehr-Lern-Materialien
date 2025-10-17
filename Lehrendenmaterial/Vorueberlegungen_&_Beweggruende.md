@@ -20,7 +20,7 @@ Anne Hiltscher & Michael Markert
    * [Format](#format)
       + [Exkusionen](#exkusionen)
       + [Praktika](#praktika)
-      + [Beispiel: Plan des Praxisseminars im Sommersemester 2024](#beispiel-plan-des-praxisseminars-im-sommersemester-2024)
+      + [Beispiel: Plan des Praxisseminars im Sommersemester 2025](#beispiel-plan-des-praxisseminars-im-sommersemester-2025)
    * [Soft- und Hardware](#soft--und-hardware)
    * [Arbeitsatmosphäre](#arbeitsatmosphäre)
 <!-- TOC end -->
@@ -114,14 +114,14 @@ Die Exkursionen in verschiedene Universitätssammlungen der FSU bieten mehrere V
 
 Das Angebot von Praktika im Anschluss an das Projektseminar erlaubt es den Studierenden, Ihre Kenntnisse weiter zu vertiefen, denn in den Evaluationen wird regelmäßig der Praxisteil im Seminar als zu kurz empfunden. Je nach Studienmodell haben die Praktika einen Umfang von 4 bis 8 Wochen. Interesse an der Belegung eines Praktikums wird bei einer Vorbesprechung etwa 2 Monate vor Praxisseminarbeginn abgefragt, um die nötigen Praktikumsverträge auf den Weg bringen zu können. Das Interesse an Praktika ist auch seitens der Sammlungsbetreuer:innen hoch, die oft nicht über die personellen und technischen Ressourcen für Digitalisierungskampagnen verfügen.
 
-#### Beispiel: Plan des Praxisseminars im Sommersemester 2024
+#### Beispiel: Plan des Praxisseminars im Sommersemester 2025
 
-| **Woche** | **Uhrzeit** | **Montag**                                               | **Dienstag**                                                   | **Mittwoch**                                 | **Donnerstag**                           | **Freitag**                                |
-| --------- | ----------- | -------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------- | ---------------------------------------- | ------------------------------------------ |
-| 1. Woche  | 10-13       | Grundlagen des Sammlungs­managements                     | Exkursion Kustodie der Universität Jena                        | Praxis Objekterfassung und Metadaten         | Input Objektfotografie                   | Input Recht,<br> Ethik, Nachnutzung        |
-|           | 14-17       | Input Objekthandling, Verpackung, Lagerung, Gefahrstoffe | Exkursion Restaurierungs­werkstatt der Universitäts­bibliothek | Exkursion Antikensammlung                    | Exkursion Hausknecht Herbarium           | Vorführung Aufbau Digitalisierungs­technik |
-| 2. Woche  | 10-13       | Praxis Aufbau Digitalisierungs­arbeitsplätze             | Praxis Objektfotografie und -katalogisierung                   | Praxis Objektfotografie und -katalogisierung | Abbau der Digitalisierungs­arbeitsplätze | Zusammenfassung und Feedback-Runde         |
-|           | 14-17       | Praxis Objektfotografie und -katalogisierung             | Praxis Objektfotografie und -katalogisierung                   | Praxis Objektfotografie und -katalogisierung | Exkursion Zoologische Lehrsammlung           |                                            |
+| **Woche** | **Uhrzeit** | **Montag**                                               | **Dienstag**                                        | **Mittwoch**                                  | **Donnerstag**                                      | **Freitag**                                          |
+| --------- | ----------- | -------------------------------------------------------- | --------------------------------------------------- | --------------------------------------------- | --------------------------------------------------- | ---------------------------------------------------- |
+| 1. Woche  | 10-12:30    | Grundlagen des Sammlungs­managements                     | Exkursion Antikensammlung                           | Input/Praxis Digitales Inventar und Metadaten | Input Objektfotografie                              | Exkursion  Herbarium Haussknecht                     |
+|           | 14-16:30    | Input Objekthandling, Verpackung, Lagerung, Gefahrstoffe | Input Erfassungssoftware, Vokabulare, Recht & Ethik | Exkursion Kunstsammlung der Universität Jena  | Exkursion Zoologische Sammlung                      | Praxis Aufbau und Einrichtung der Fotosetups         |
+| 2. Woche  | 10-12:30    | Praxis Objektfotografie und Inventarisierung             | Praxis Objektfotografie und Inventarisierung        | Praxis Objektfotografie und Inventarisierung  | Praxis Abschluss der Arbeiten, Abbau der Fotosetups | Input Kulturportale <br>Zusammenfassung und Feedback |
+|           | 13:30-16    | Praxis Objektfotografie und Inventarisierung             | Praxis Objektfotografie und Inventarisierung        | Praxis Objektfotografie und Inventarisierung  | Praxis 3D-Digitalisierung                           |                                                      |
 
 ### Soft- und Hardware
 
