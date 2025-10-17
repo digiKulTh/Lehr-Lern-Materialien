@@ -79,7 +79,7 @@ Jede Teilnehmer:in antwortet auf mindestens eine der drei Fragen:
 - Kustodenführung (60 min), Themen:
   - Sammlungsgeschichte, 
   - geschichtlicher Überblick über Antike, Aktuelles 
-  - Sammlungsumzüge, Objekt(-rück-)transporte, a
+  - Sammlungsumzüge, Objekt(-rück-)transporte, 
   - aktuelle Forschungsfragen
 - Pause (10 min)
 - Input zu Restaurierung durch die Restauratorin der Sammlung (60 min), Themen:
