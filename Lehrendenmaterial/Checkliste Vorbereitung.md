@@ -40,8 +40,15 @@
 
 - Feinplanung des Ablaufs 
 - Anfrage Sammlungen/Exkursionsziele/ Partner (andere Lehrende, Sammlungsverantwortliche, Abteilungsleiter/ Sammlungsbeauftragter, etc.) für konkrete Termine
-- mit den Partner:innen Ziele, Digitalisierungsbedarfe und genauen Ablauf vorbesprechen
-- Räumlichkeiten für Digitalisierungsteil finden, die Räume dafür begehen
+- mit den Partner:innen Ziele, Digitalisierungsbedarfe und Ablauf vorbesprechen
+- Abklären, ob geeignete Objekte in hinreichender Zahl verfügbar sind. Anforderungen an die Objekte:
+  - stabil und ohne Schadstoffe
+  - tragbar und nicht zu groß oder zu klein für das Setup
+  - möglichst geeignet für ein 2-Punkt-Licht-Setup ohne besondere Einrichtungen wie Polarisationsfilter, d. h. eher keine Glasgegenstände oder stark spiegelnde Oberflächen
+- Räumlichkeiten für Digitalisierungsteil finden, die Räume dafür begehen. Anforderungen:
+  - ausreichend Platz für Fotoarbeitsplätze (Minimum 2x3m), Objekthandling und Erschließung
+  - abschließ- und verdunkelbar, ausreichend Steckdosen und WIFI-Empfang
+  - je zwei Tische pro Station für Objektfotografie sowie Handling/Anlegen von Datensätzen
 - Raumreservierungen tätigen
 - Betreuung für Studierende in anschließenden Praktika abklären (Betreuungsaufwand nicht zu unterschätzen)
 - Reservierung bzw. Beschaffung Fototechnik (s. [digiKulTh-Fototechnik](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/digiKulTh-Fototechnik.md))
@@ -51,6 +58,7 @@ Kamerasysteme mit Objektiven
 ## Vorlauf ab 3 Monate
 
 ### Veranstaltung betreffend
+- Zeitplan fixieren, genügend Zeit für Ortswechsel einplanen
 - Prüfung und ggf. Überarbeitung der Materialien/Linklisten + Abstimmung über Bearbeitung
 - Schreibanweisung für die Datenbankarbeit in der jeweiligen Sammlung verfassen und auf Lernplattform zur Verfügung stellen
 - Einrichtung der Laptops (Eduroam-Zugang und Adobe-Lizenzen, Installation der Software, u. a. Firefox oder Chrome für Online-Erfassung)
@@ -77,7 +85,7 @@ Kamerasysteme mit Objektiven
 - Erinnerungsmail an Studierende über Materialien auf Lernplattform
 - Objekte und Demomaterialien (Handschuhe, Masken, Papiere, Farbkarten in verschiedenen Größen...) zusammenstellen
 - ggf. Abholung Sammlungsobjekte für den Kursteil
-- Kiste mit Putzmitteln zusammenstellen
+- Kiste mit Schutzausrüstung und Putzmitteln zusammenstellen
   - Nitrilhandschuhe 100xS, 200xM, 100xL
   - Pinsel (verschiedene Größen und Stärken)
   - Staubtücher
@@ -105,6 +113,11 @@ Kamerasysteme mit Objektiven
 - ggf. Anpassung der Schreibanweisung
 - stetige Kommunikation und Absprache mit allen Beteilgten/betroffenen Akteur:innen bspw. über Änderung von Zeiten, Schlüsselabholungen, Techniktransporte, Fahrzeug- und Raumbuchungen, etc., ggf. flexible Anpassung bei Krankheit, Stromausfall u. ä.
 - Dokumentation der Tätigkeit und des Standes zum Ende des Digitalisierungsteils für die Übergabe
+- Tägliche Feedbackrunden am Nachmittag oder folgenden Morgen:
+  - Was fand ich besonders wichtig?
+  - Was vergesse ich sofort wieder?
+  - Was war überraschend?
+  - Im Digitalisierungsteil zusätzlich: Was sollten die anderen Teams wissen oder möchte ich mit ihnen diskutieren?
 
 ## Nach der Veranstaltung
 
