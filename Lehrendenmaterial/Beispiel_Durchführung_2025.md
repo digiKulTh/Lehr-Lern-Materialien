@@ -71,7 +71,7 @@ Anne Hiltscher & Michael Markert
 
 ## Rahmenbedingungen
 
-Bei der Vorbereitung der Lehrveranstaltung konnte auf die langjährige Erfahrung mit Jenaer Universitätssammlungen und persönliche Bekanntschaft mit vielen Sammlungsbetreuer:innen aufgebaut werden. Zudem hatten wir den Luxus einer umfangreichen Projektfinanzierung, die es erlaubte, in größerem Umfang Technik und anderes Equipment anzuschaffen, die komplexe Vorbereitung auf zwei Schultern zu verteilen und während der Praxisteile viel Personal einsetzen zu können, ohne Sammlungspersonal oder Kolleg:innen aus der ThULB dauerhaft zu binden. 
+Bei der Vorbereitung der Lehrveranstaltung konnte auf die langjährige Erfahrung mit Jenaer Universitätssammlungen und persönliche Bekanntschaft mit vielen Sammlungsbetreuer:innen aufgebaut werden. Zudem hatten wir den Luxus einer umfangreichen Projektfinanzierung, die es erlaubte, in größerem Umfang Technik und anderes Equipment anzuschaffen, die komplexe Vorbereitung auf zwei Schultern zu verteilen und während der Praxisteile viel Personal einsetzen zu können, ohne Mitarbeiter:innen in den Sammlungen oder Kolleg:innen aus der ThULB dauerhaft zu binden. 
 
 Während der Exkursionsteile musste die Gruppe teilweise geteilt werden, da nicht alle in Räume passten bzw. dafür aus Brandschutzgründen zugelassen waren. Der Digitalisierungsraum für den Praxisteil bot Platz für 3 Setups à 4 Personen. Bei mehr als 12 Teilnehmenden hätten wir jeden Tag eine weitere Station in einem nicht abschließbaren Hörsaal auf- und abgebaut. In diesem Teil waren immer anwesend:
 
