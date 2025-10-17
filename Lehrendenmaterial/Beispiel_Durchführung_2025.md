@@ -93,7 +93,7 @@ Jede Teilnehmer:in antwortet auf mindestens eine der drei Fragen:
 #### 14:00 Uhr-16:30 Uhr
 
 ##### Input: Systeme, Datenmodellierung, Linked Open Data (75 min)
-- 5min Einführung in die Realiensammlung der ThULB
+- Einführung in die Realiensammlung der ThULB (5 min)
 - Gruppenarbeit Datenmodellierung (30 min)
   - Jede Gruppe hat an einem Tisch ein Sammlungsobjekt aus der Sammlung liegen und soll sich anhand dessen in 20 min überlegen, in welche Kategorien sie es einordnen, welche Eigenschaften sie in ein Datenmodell aufnehmen würden und was der Inhalt wäre (z. B. Farbe: Blau)
   - Abgleich der Datenmodelle miteinander (20 min)
