@@ -89,13 +89,14 @@ Die Teilnehmerbegrenzung wurde aufgrund der folgenden Faktoren festgelegt:
 
 1. Umfang der Technik
 2. oft begrenzter Platz in Sammlungen
-3. aufwändige Betreuung mit mehreren Lehrenden
+3. Betreuung durch mehrere Lehrende
    
 In unserem Fall ist der Grenzwert 16, d. h. vier Studierende je Fotosetup, betreut von jeweils mindestens einer Lehrperson, um die häufigen und vielfältigen Fragen auf mehrere Schultern Expertisen zu verteilen.
 
 ### Zeitlicher Rahmen
 
 Im digiKulTh-Projekt führen wir die Ausbildung als zweiwöchige Blockveranstaltung durch. Für die Wahl eines zusammenhängenden Zeitraums spricht insbesondere, dass im Praxisteil die Fototechnik einmalig an- und abtransportiert sowie die Fotostationen einmalig auf- und wieder abgebaut werden müssen. Ein weiterer Vorteil ist, dass die Teilnehmenden direkt das Erlernte anwenden und in der Praxis festigen können. Aus Gründen der Machbarkeit wurde ein Zeitraum innerhalb der vorlesungsfreien Zeit und außerhalb der Schulferien gewählt – letzteres, damit Lehrende und Studierende mit schulpflichtigen Kindern zur Verfügung stehen bzw. teilnehmen können. Bis zum Beginn des Vorlesungsbetriebs im Wintersemester sollte genug Zeit verbleiben, um ein anschließendes mehrwöchiges Praktikum absolvieren zu können. 
+Der Vorbereitungsaufwand für eine solche Lehrveranstaltung mit vielen Exkursionen, Technik- und Objektverlagerung kann nicht überschätzt werden.
 
 #### Bewerbung des Praxisseminars
 
