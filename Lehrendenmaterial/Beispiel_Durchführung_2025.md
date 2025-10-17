@@ -27,9 +27,7 @@ Im Rahmen von Inputblöcken und Exkursionen waren insgesamt 11 weitere Lehrende 
 
 ### Montag 18.08.
 
-#### 10:00 Uhr-12:30 Uhr
-
-##### Einführung (90 min)
+#### Einführung (90 min)
 benötigte Materialien:
 - Laptop mit PowerPointPräsentation, 
 - falls vorhanden Methodenkoffer oder digitale Tools bspw. zum Abfragen von Erwartungen, 
@@ -43,9 +41,9 @@ Ablauf:
 - Anschauen und klären, welche Erwartungen erfüllt werden können und welche nicht
 - Hinweis geben auf Überforderung und viel Input (v. a. in der 1. Woche), übliche Platzverhältnisse, Gegebenheiten in Sammlungen, sowie vieles Stehen in den kommenden 2 Wochen
 
-##### Kurze Pause
+#### Kurze Pause
 
-##### Übung: Planung eines Digitalisierungsprojektes (60 min)
+#### Übung: Planung eines Digitalisierungsprojektes (60 min)
 - In 3er- bis 4er-Gruppen (Abzählen beschleunigt das Erstellen der Gruppen)
 - Vorstellen der Aufgabenstellung mit einem bestenfalls aktuellen/ praxisnahen Beispiel: 
   Sie sollen in den nächsten 30min in Ihren Gruppen ein Digitalisierungsprojekt anhand des Beispiels XY planen. Entwickeln Sie einen Projektplan, wie Sie vorgehen würden! - Wann würden Sie, welche Tätigkeit einplanen (und mit welchem Personal- und Technikaufwand)?
@@ -54,28 +52,24 @@ Ablauf:
 
 #### Mittagspause
 
-#### 14:00 Uhr-16:30 Uhr
-
-##### Exkursion: Sammlung wissenschaftlicher und technischer Geräte zur Physik (120 min)
+#### Exkursion: Sammlung wissenschaftlicher und technischer Geräte zur Physik (120 min)
 - ca. 45-minütige Führung durch die Sammlung wissenschaftlicher und technischer Geräte zur Physik (Zeigen der verschiedenen Räumlichkeiten und Objekte, Beschreiben der aktuellen Situation sowohl für die Sammlung an sich, als auch organisatorischer Dinge, Sammlungskonzept, Inventarlisten, etc.) durch die Betreuerin der Sammlung
 - 15min Vorstellen der Materialien aus der Demo-Box (= Box mit Utensilien zum Reinigen, Vermessen, beschriften, Arbeitsschutz und verschiedenen Materialien zum Verpacken)
 - 20min Gruppenarbeit (in den Gruppen vom Vormittag) zu den Themen der Handreichungen: Verpackung & Transport (Gruppe 1), Depoträume & Lagerung (Gruppe 2), Gefahrstoffe & Arbeitsschutz (Gruppe 3), Handhabung von Museumsobjekten (Gruppe 4)
   Arbeitsauftrag: Bewerten Sie die Sammlung bezüglich Ihres Gruppenthemas! Was wäre bei einem Digitalisierungsprojekt zu beachten bzw. zu verändern?
 - 30min für gemeinsame Vorstellung der Gruppenergebnisse & Auswertung (Bei weniger verbleibender Zeit bietet sich das direkte Besprechen der Handreichungsthemen zeitgleich mit dem Vorstellen der Demo-Box im Plenum an)
 
-##### Feedbackrunde (15 min)
+#### Feedbackrunde (15 min)
 Jede Teilnehmer:in antwortet auf mindestens eine der drei Fragen:
 - Was fand ich besonders wichtig?
 - Was vergesse ich sofort wieder?
 - Was war überraschend?
 
 ### Dienstag 19.08.
-
-#### 10:00 Uhr-12:30 Uhr
 - Kurzer Blick in die Runde: Bestehen Fragen?
 - Ablauf des heutigen Tages durchgehen
 
-##### Exkursion: Sammlung Antiker Kleinkunst (120 min)
+#### Exkursion: Sammlung Antiker Kleinkunst (120 min)
 - Kustodenführung (60 min), Themen:
   - Sammlungsgeschichte, 
   - geschichtlicher Überblick über Antike, Aktuelles 
@@ -90,9 +84,7 @@ Jede Teilnehmer:in antwortet auf mindestens eine der drei Fragen:
 
 #### Mittagspause
 
-#### 14:00 Uhr-16:30 Uhr
-
-##### Input: Systeme, Datenmodellierung, Linked Open Data (75 min)
+#### Input: Systeme, Datenmodellierung, Linked Open Data (75 min)
 - Einführung in die Realiensammlung der ThULB (5 min)
 - Gruppenarbeit Datenmodellierung (30 min)
   - Jede Gruppe hat an einem Tisch ein Sammlungsobjekt aus der Sammlung liegen und soll sich anhand dessen in 20 min überlegen, in welche Kategorien sie es einordnen, welche Eigenschaften sie in ein Datenmodell aufnehmen würden und was der Inhalt wäre (z. B. Farbe: Blau)
@@ -102,9 +94,9 @@ Jede Teilnehmer:in antwortet auf mindestens eine der drei Fragen:
     - Wie verhalten sich die Datenmodelle zur [Minimaldatensatzempfehlung](https://www.smb.museum/museen-einrichtungen/institut-fuer-museumsforschung/forschung/forschungsprojekte/minimaldatensatz/)? Was fehlt in der Minimaldatensatzempfehlung (Standort, Zustand, Restaurierungsinformationen, Versicherungswerte, ...)?
 - Demonstrieren und diskutieren der Unterschiede zwischen der Erfassung in Excel (wiederholbare Felder kaum möglich, kontrollierte Vokabulare nur über komplizierte Tabellenstrukturen) mit der in einer Erschließungssoftware wie [CollectiveAccess](https://demo.collectiveaccess.org/) (standardisierte und funktionale Oberfläche, optimiert für museale Nutzung) und [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page) (sofort öffentlich zugänglich, stark vernetzte Daten, aber unübersichtlich und ohne festes Datenmodell) (20 min)
 
-##### Kurze Pause
+#### Kurze Pause
 
-##### Input: Recht (60 min)
+#### Input: Recht (60 min)
 - Gruppenarbeit Rechtsfragen (35 min)
   - 3 Gruppen (15 min) mit je einem Objekt:  
     - Büro-Schnappschuss mit Mitarbeiterin der ThULB, 
@@ -114,7 +106,7 @@ Jede Teilnehmer:in antwortet auf mindestens eine der drei Fragen:
   - Auswertung (20 min)
 - Diskussion von Lizenzmodellen und konkreten Urheberrechtsfragen der Teilnehmenden
 
-##### Feedbackrunde (15 min)
+#### Feedbackrunde (15 min)
 Jede Teilnehmer:in antwortet auf mindestens eine der drei Fragen:
 - Was fand ich besonders wichtig?
 - Was vergesse ich sofort wieder?
@@ -122,14 +114,13 @@ Jede Teilnehmer:in antwortet auf mindestens eine der drei Fragen:
 
 ### Mittwoch 20.08.
 
-#### 10:00 Uhr-12:30 Uhr
 - Kurzer Blick in die Runde: Bestehen Fragen?
 - Ablauf des heutigen Tages durchgehen
 
-##### Input: Erfassung mit digiCULT.web (45 min)
+#### Input: Erfassung mit digiCULT.web (45 min)
 - Vorstellung von digiCULT.web und der Erfassungsmaske(n) sowie Ausfüllhinweise für Felder mit hinterlegten Vokabularen u. ä. durch eine Mitarbeiterin der Abteilung DKSM der ThULB
 
-##### Übung: Erfassung eines Objektes (90 min)
+#### Übung: Erfassung eines Objektes (90 min)
 Vorbereitung: 
 - Raumausstattung idealerweise mit ausreichend Desktop-PCs/Laptop sowie Beamer/Smartboard für Vorführung
 - Testzugänge zu digiCULT.web für Teilnehmendengruppen (pro 2er-Gruppe ein Zugang)
@@ -144,9 +135,7 @@ Ablauf:
 
 #### Mittagspause
 
-#### 14:00 Uhr-16:30 Uhr
-
-##### Exkursion: Kunstsammlung der Kustodie (2 x 75 min)
+#### Exkursion: Kunstsammlung der Kustodie (2 x 75 min)
 Vorbereitung:
 - Wegen Platzmangel auf 2 Gruppen à 7 Personen aufgeteilt (14 Uhr-15:15 Uhr und 15:15 Uhr-16:30 Uhr)
 - 3 Tische für Gruppenarbeit
@@ -161,28 +150,24 @@ Durchführung:
   - Auswertung pro Durchgang zu Herausforderungen und Problemen (15 min)
   - Nach der Auswertung alles wieder auspacken und zurücklegen (10 min)
 
-##### Feedbackrunde (15 min)
+#### Feedbackrunde (15 min)
 Jede Teilnehmer:in antwortet auf mindestens eine der drei Fragen:
 - Was fand ich besonders wichtig?
 - Was vergesse ich sofort wieder?
 - Was war überraschend?
 
 ### Donnerstag 21.08.
-
-#### 10:00 Uhr-12:30 Uhr
 - Kurzer Blick in die Runde: Bestehen Fragen?
 - Ablauf des heutigen Tages durchgehen
 
-##### Einführung in die 2D-Objektfotografie (120 min)
+#### Einführung in die 2D-Objektfotografie (120 min)
 - Einführung/Wiederholung (wenn die Tutorials im Vorfeld angesehen wurden) zur Objektfotografie, durchgeführt vom Fotografen der Abteilung DKSM der ThULB
 - Diskussion von Sonderfällen und den dafür nötigen Strategien (besonders große/kleine/durchscheinende/spiegelnde Objekte, etc.)
 - Vorstellung des Workflows für Fokus-Stacking und Stiching in Affinity Photo als ggf. in der Praxis hilfreiche Ergänzung
 
 #### Mittagspause
 
-#### 14:00 Uhr-16:30 Uhr
-
-##### Exkursion: Zoologische Sammlung (120 min)
+#### Exkursion: Zoologische Sammlung (120 min)
 - Führung durch die beiden Präparatoren der Sammlung in zwei Gruppen parallel aufgrund der Platzverhältnisse
 - Themen 
   - Konservierung/Präparierung, 
@@ -191,19 +176,17 @@ Jede Teilnehmer:in antwortet auf mindestens eine der drei Fragen:
   - Herausforderungen der Digitalisierung in Form von besonderen Digitalisierungsverfahren wie Computertomographie und Rasterelektronenmikroskopie
   - Herausforderungen bei der Speicherung/Datenablage
 
-##### Feedbackrunde (15 min)
+#### Feedbackrunde (15 min)
 Jede Teilnehmer:in antwortet auf mindestens eine der drei Fragen:
 - Was fand ich besonders wichtig?
 - Was vergesse ich sofort wieder?
 - Was war überraschend?
 
 ### Freitag 22.08.
-
-#### 10:00 Uhr-12:30 Uhr
 - Kurzer Blick in die Runde: Bestehen Fragen?
 - Ablauf des heutigen Tages durchgehen
 
-##### Exkursion: Herbarium Hausknecht (75 min)
+#### Exkursion: Herbarium Hausknecht (75 min)
 - Führung durch die Kustodin 
 - Themen:
   - Geschichte der Sammlung,
@@ -212,9 +195,9 @@ Jede Teilnehmer:in antwortet auf mindestens eine der drei Fragen:
   - Inventarisierung in [Jacq](https://jacq.org/),
   - hochauflösende Digitalisierung der Herbarbelege mit einer [PhaseOne](https://www.phaseone.com/)-Reprostation
 
-##### Pause/Weg (15 min)
+#### Pause/Weg (15 min)
 
-##### Praxis: Aufbau der Fotostationen Medizinhistorische Sammlung (60 min)
+#### Praxis: Aufbau der Fotostationen Medizinhistorische Sammlung (60 min)
 Vorbereitung:
 - Bereitstellung der Technik und Ausrüstung entsprechend der [Checkliste](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Lehrendenmaterial/Checkliste%20Vorbereitung.md)
   
@@ -225,13 +208,11 @@ Ablauf:
 
 #### Mittagspause
 
-#### 13:30 Uhr-16:00 Uhr
-
-##### Praxis: Aufbau der Fotostationen (120 min)
+#### Praxis: Aufbau der Fotostationen (120 min)
 - Fortsetzung des Aufbaus
 - Einstellen der von Beleuchtung, Kamera und Objektiv anhand bereitgestellter und zu digitalisierender Sammlungsobjekte
 
-##### Feedbackrunde (15 min)
+#### Feedbackrunde (15 min)
 Jede Teilnehmer:in antwortet auf mindestens eine der drei Fragen:
 - Was fand ich besonders wichtig?
 - Was vergesse ich sofort wieder?
@@ -241,14 +222,12 @@ Jede Teilnehmer:in antwortet auf mindestens eine der drei Fragen:
 
 ### Montag 25.08.
 
-#### 10:00 Uhr-12:30 Uhr
-
-##### Einführung
+#### Einführung
 - Teilnehmende noch einmal auf Chaosphase (ca. halber bis 1 Tag) vorbereiten
 - Poster mit den Checklisten zu Objektfotografie nochmals zeigen und erläutern
 - Wissenschaftliche Assistent:innen nochmals als Ansprechpartner:innen vorstellen und stärken
 
-##### Führung durch die Medizinhistorische Sammlung am Universitätsklinikum Jena (2x 75 min)
+#### Führung durch die Medizinhistorische Sammlung am Universitätsklinikum Jena (2x 75 min)
 - Führung durch einen ehrenamtlichen Betreuer der Sammlung
 - Themen:
   - Geschichte der Sammlung
@@ -261,55 +240,43 @@ Jede Teilnehmer:in antwortet auf mindestens eine der drei Fragen:
 
 #### Mittagspause
 
-#### 13:30 Uhr-16:00 Uhr
-
-##### Erschließung und Digitalisierung (150 min)
+#### Erschließung und Digitalisierung (150 min)
 - selbstständig durch die Teilnehmer:innen, das Lehrpersonal steht für Fragen und bei technischen Problemen zur Verfügung und kontrollliert die Einhaltung der Workflows
 
 ### Dienstag 26.08.
 
-#### 10:00 Uhr-12:30 Uhr
-
-##### Erweiterte Feedbackrunde (15 min)
+#### Erweiterte Feedbackrunde (15 min)
 Jede Teilnehmer:in antwortet auf mindestens eine der vier Fragen:
 - Gibt es etwas, dass alle wissen sollten (spezielle Herausforderungen bei Erschließung und Fotografie)?
 - Was fand ich besonders wichtig?
 - Was vergesse ich sofort wieder?
 - Was war überraschend?
 
-##### Eigenständige Digitalisierung (120 min)
+#### Eigenständige Digitalisierung (120 min)
 
 #### Mittagspause
 
-#### 13:30 Uhr-16:00 Uhr
-
-##### Eigenständige Digitalisierung (150 min)
+#### Eigenständige Digitalisierung (150 min)
 
 ### Mittwoch 27.08.
 
-#### 10:00 Uhr-12:30 Uhr
-
-##### Erweiterte Feedbackrunde (15 min)
+#### Erweiterte Feedbackrunde (15 min)
 Jede Teilnehmer:in antwortet auf mindestens eine der vier Fragen:
 - Gibt es etwas, dass alle wissen sollten (spezielle Herausforderungen bei Erschließung und Fotografie)?
 - Was fand ich besonders wichtig?
 - Was vergesse ich sofort wieder?
 - Was war überraschend?
 
-##### Eigenständige Digitalisierung (120 min)
+#### Eigenständige Digitalisierung (120 min)
 - Zu Beginn des Tages wurden die Gruppen neu gemischt, damit Unterschiede in den inzwischen eingespielten Arbeitsweisen sichtbar und neue Abstimmungsprozesse ausgelöst werden
 
 #### Mittagspause
 
-#### 13:30 Uhr-16:00 Uhr
-
-##### Eigenständige Digitalisierung (150 min)
+#### Eigenständige Digitalisierung (150 min)
 
 ### Donnerstag 28.08.
 
-#### 10:00 Uhr-12:30 Uhr
-
-##### Beenden der letzten Arbeitsschritte, Kontrolle der Arbeitsergebnisse, Abbau der Stationen (120 min)
+#### Beenden der letzten Arbeitsschritte, Kontrolle der Arbeitsergebnisse, Abbau der Stationen (120 min)
 - prüfen, ob
   - alle fotografierten Objekte Datensätze und ggf. ausgefüllte Karteikarten haben, 
   - die Bilddateien korrekt benannt sind,
@@ -317,12 +284,12 @@ Jede Teilnehmer:in antwortet auf mindestens eine der vier Fragen:
 - Rücktransport der Objekte in das Sammlungsdepot
 - Abbau und Verpackung der Fotostationen ("Auslieferungszustand")
 
-##### Erweiterte Feedbackrunde (15 min)
+#### Erweiterte Feedbackrunde (15 min)
 - Wie fandet ihr den Block 2D-Digitalisierung insgesamt? Hat euch etwas gefehlt? Fandet ihr etwas besonders toll? Was könnte man verbessern?
 
 #### 13:30 Uhr-16:00 Uhr
 
-##### Kennenlernen von 3D-Digitalisierung (Photogrammetrie) (120 min)
+#### Kennenlernen von 3D-Digitalisierung (Photogrammetrie) (120 min)
 Vorbereitung:
 - Installation von [LocalSend](https://localsend.org/de), um schnell Bilder von den Android-Mobiltelefonen der Teilnehmenden auf die bereitgestellten MacBooks zu bekommen
 - Installation von [Photocatch](https://www.photocatch.app/), um 3D-Modelle auf den bereitgestellten MacBooks zu erzeugen (einfache Oberfläche, kostenlos, keine Internetanbindung nötig)
@@ -341,9 +308,7 @@ Ablauf:
 
 ### Freitag 29.08.
 
-#### 10:00 Uhr-12:30 Uhr
-
-##### Input: Nachnutzung - Einblick in Kulturportale (URMEL, Kulthura, DDB, Eurpeana & Co) (90 min)
+#### Input: Nachnutzung - Einblick in Kulturportale (URMEL, Kulthura, DDB, Eurpeana & Co) (90 min)
 - durchgeführt von einem Museumsberater der Abteilung DKSM der ThULB‚ anschließend Fragerunde
 - Themen dabei: 
   - Quell- und Zielsysteme am Beispiel der Thüringer Sammlungslandschaft, 
@@ -351,11 +316,11 @@ Ablauf:
   - Standards und Schnittstellen, LIDO-XML, 
   - technische und institutionelle Herausforderungen
 
-##### Abschlussfeedback (45 min)
+#### Abschlussfeedback (45 min)
 - Anonyme [ULe](https://www.ule.uni-jena.de/)-Evaluation
 - Möglichkeit zum direkten Feedback, z. B. Verbesserungsvorschläge (freiwillig)
 
-##### Organisatorische Fragen (15 min)
+#### Organisatorische Fragen (15 min)
 - Erläuterung der Rahmenbedingungen für freiwillige Praktika, ggf. Leistungsnachweise
 - Erläuterung der Ausstellung der Zertifikate zur Veranstaltung
 - Verabschiedung der Teilnehmer:innen
