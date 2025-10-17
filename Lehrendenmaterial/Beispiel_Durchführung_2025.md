@@ -328,13 +328,7 @@ Vorbereitung:
 - Installation von [Photocatch](https://www.photocatch.app/), um 3D-Modelle auf den bereitgestellten MacBooks zu erzeugen (einfache Oberfläche, kostenlos, keine Internetanbindung nötig)
 - Installation der Software für den [CR-Scan Otter 3D-Scanner](https://store.creality.com/de/products/cr-scan-otter) auf einem der MacBooks 
 
-Ablauf:| **Woche** | **Uhrzeit** | **Montag**                                               | **Dienstag**                                        | **Mittwoch**                                  | **Donnerstag**                                      | **Freitag**                                          |
-| --------- | ----------- | -------------------------------------------------------- | --------------------------------------------------- | --------------------------------------------- | --------------------------------------------------- | ---------------------------------------------------- |
-| 1. Woche  | 10-12:30    | Grundlagen des Sammlungs­managements                     | Exkursion Antikensammlung                           | Input/Praxis Digitales Inventar und Metadaten | Input Objektfotografie                              | Exkursion  Herbarium Haussknecht                     |
-|           | 14-16:30    | Input Objekthandling, Verpackung, Lagerung, Gefahrstoffe | Input Erfassungssoftware, Vokabulare, Recht & Ethik | Exkursion Kunstsammlung der Universität Jena  | Exkursion Zoologische Sammlung                      | Praxis Aufbau und Einrichtung der Fotosetups         |
-| 2. Woche  | 10-12:30    | Praxis Objektfotografie und Inventarisierung             | Praxis Objektfotografie und Inventarisierung        | Praxis Objektfotografie und Inventarisierung  | Praxis Abschluss der Arbeiten, Abbau der Fotosetups | Input Kulturportale <br>Zusammenfassung und Feedback |
-|           | 13:30-16    | Praxis Objektfotografie und Inventarisierung             | Praxis Objektfotografie und Inventarisierung        | Praxis Objektfotografie und Inventarisierung  | Praxis 3D-Digitalisierung                           |                                                      |
-
+Ablauf:
 - Kurze Vorstellung des Verfahrens der Photogrammetrie
 - anhand mitgebrachter Objekte, Gegenständen aus dem Raum oder Objekten im Außenbereich (Bänke, Brunnen, Fassaden)
 - 2 mögliche Wege im Seminar: 
