@@ -39,8 +39,9 @@
 ## Vorlauf ab 6 Monate
 
 - Feinplanung des Ablaufs 
-- Anfrage Sammlungen/Exkursionsziele/ Partner (andere Lehrende, Sammlungsverantwortliche, Abteilungsleiter/ Sammlungsbeauftragter, etc.) für konkrete Termine & Ablauf vorbesprechen
-- Räumlichkeiten für Digitalisierungsteil finden
+- Anfrage Sammlungen/Exkursionsziele/ Partner (andere Lehrende, Sammlungsverantwortliche, Abteilungsleiter/ Sammlungsbeauftragter, etc.) für konkrete Termine
+- mit den Partner:innen Ziele, Digitalisierungsbedarfe und genauen Ablauf vorbesprechen
+- Räumlichkeiten für Digitalisierungsteil finden, die Räume dafür begehen
 - Raumreservierungen tätigen
 - Betreuung für Studierende in anschließenden Praktika abklären (Betreuungsaufwand nicht zu unterschätzen)
 - Reservierung bzw. Beschaffung Fototechnik (s. [digiKulTh-Fototechnik](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/digiKulTh-Fototechnik.md))
@@ -53,6 +54,7 @@ Kamerasysteme mit Objektiven
 - Prüfung und ggf. Überarbeitung der Materialien/Linklisten + Abstimmung über Bearbeitung
 - Schreibanweisung für die Datenbankarbeit in der jeweiligen Sammlung verfassen und auf Lernplattform zur Verfügung stellen
 - Einrichtung der Laptops (Eduroam-Zugang und Adobe-Lizenzen, Installation der Software, u. a. Firefox oder Chrome für Online-Erfassung)
+- Überprüfung der Technik, Schäden können auch durch Lagerung entstehen.
 - Transporte der Technik für die Digitalisierung organisieren
 - ggf. Exkursionsanmeldung und Dienstreiseanträge für die Lehrenden über das Personaldezernat
 - Namenssticker/ Rohlinge zum Selbstbeschriften für alle bestellen
@@ -72,11 +74,11 @@ Kamerasysteme mit Objektiven
 ### Vorlauf 1 Woche
 
 - Reminder per Mail an Exkursionsziele
-- Erinnerung an Studierende über Materialien auf Lernplattform
+- Erinnerungsmail an Studierende über Materialien auf Lernplattform
 - Objekte und Demomaterialien (Handschuhe, Masken, Papiere, Farbkarten in verschiedenen Größen...) zusammenstellen
 - ggf. Abholung Sammlungsobjekte für den Kursteil
 - Kiste mit Putzmitteln zusammenstellen
-  - biologisch abbaubare Nitrilhandschuhe M und L
+  - Nitrilhandschuhe 100xS, 200xM, 100xL
   - Pinsel (verschiedene Größen und Stärken)
   - Staubtücher
   - FFP2- und FFP3-Masken
@@ -99,8 +101,9 @@ Kamerasysteme mit Objektiven
 ## Während der Veranstaltung
 
 - Rechteübertragung (Nutzungsrechte) und Fotoerlaubnisse einholen
+- jeden Tag 30min Vor- und Nachlauf für Problemklärung einplanen
 - ggf. Anpassung der Schreibanweisung
-- regelmäßiger Austausch über Abläufe und Herausforderungen
+- stetige Kommunikation und Absprache mit allen Beteilgten/betroffenen Akteur:innen bspw. über Änderung von Zeiten, Schlüsselabholungen, Techniktransporte, Fahrzeug- und Raumbuchungen, etc., ggf. flexible Anpassung bei Krankheit, Stromausfall u. ä.
 - Dokumentation der Tätigkeit und des Standes zum Ende des Digitalisierungsteils für die Übergabe
 
 ## Nach der Veranstaltung
