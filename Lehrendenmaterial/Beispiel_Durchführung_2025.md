@@ -94,8 +94,8 @@ Im Rahmen von Inputblöcken und Exkursionen waren insgesamt 11 weitere Lehrende 
 
 #### Einführung (90 min)
 benötigte Materialien:
-- Laptop mit PowerPointPräsentation, 
-- Moderationskoffer sowie digitale Tools bspw. zum Abfragen von Erwartungen, 
+- Laptop mit PowerPointPräsentation ,
+- Moderationskoffer sowie digitale Tools bspw. zum Abfragen von Erwartungen,
 - Kreppband & Stift für Namensschilder
 - Hinweis: Nicht zu oft die Kanäle (analog - digital) wechseln. Das kostet Zeit und überfordert schnell.
 
@@ -104,16 +104,16 @@ Ablauf:
 - Vorstellungsrunde der Teilnehmenden inkl. der Lehrenden durch soziometrisches Aufstellen & Abfragen der Ergebnisse, 3-5 Fragen insgesamt, z. B.
   - In welchem Umfang haben Sie Vorerfahrung im Bereich Kulturgutdigitalisierung (schon dazu gelesen, schon eine Lehrveranstaltung besucht, schon selbst Datensätze angelegt oder Fotos erstellt)?
   - Welcher Materialientyp hat Ihnen das Lernen besonders erleichtert (Text, Podcast, Poster, Videos)?
-- Erwartungen abfragen, auf auf kleine Kärtchen schreiben lassen und an die Wand/Tafel bringen 
+- Erwartungen abfragen, auf kleine Kärtchen schreiben lassen und an die Wand/Tafel bringen 
 - Anschauen und klären, welche Erwartungen erfüllt werden können und welche nicht
-- Hinweis geben auf Überforderung und viel Input (v. a. in der 1. Woche), sowie die Gegebenheiten in den Sammlungen (schwierige Platzverhältnisse, viel Stehen in den kommenden 2 Wochen, Hände waschen nach dem Sammlungsbesuch und vor dem Essen)
+- Hinweis geben auf Überforderung und viel Input (v. a. in der 1. Woche) sowie die Gegebenheiten in den Sammlungen (schwierige Platzverhältnisse, viel Stehen in den kommenden 2 Wochen, Hände waschen nach dem Sammlungsbesuch und vor dem Essen)
 
 #### Kurze Pause
 
 #### Übung: Planung eines Digitalisierungsprojektes (60 min)
 - In 3er- bis 4er-Gruppen (Abzählen beschleunigt das Erstellen der Gruppen)
 - Vorstellen der Aufgabenstellung mit einem bestenfalls aktuellen/praxisnahen Beispiel <br>
-  Arbeitsauftrag: Planen Sie in den nächsten 30 min in Ihren Gruppen ein Digitalisierungsprojekt anhand des Beispiels XY (z. B. Herbarbögen). Entwickeln Sie einen Projektplan, wie Sie vorgehen würden! Wann würden Sie, welche Tätigkeit einplanen und mit welchem Personal- und Technikaufwand)? Schreiben Sie jeden Schritt auf eine Moderationskarte!
+  Arbeitsauftrag: Planen Sie in den nächsten 30 min in Ihren Gruppen ein Digitalisierungsprojekt anhand des Beispiels XY (z. B. Herbarbögen). Entwickeln Sie einen Projektplan, wie Sie vorgehen würden! Wann würden Sie welche Tätigkeit einplanen und mit welchem Personal- und Technikaufwand? Schreiben Sie jeden Schritt auf eine Moderationskarte!
 - Wichtig ist den Teilnehmenden Informationen mitzuteilen (bspw. Wie viele Objekte sind im Bestand? etc.) (am besten auf einer PPT-Folie zum stetigen Nachlesen bereitstellen)
 - Anschließend ca. 25 min vergleichen z. B. mit Kärtchen auf einem Tisch und die Gruppen fügen alles zusammen/ergänzen sich gegenseitig
 
@@ -123,7 +123,7 @@ Ablauf:
 - Führung durch die Sammlung wissenschaftlicher und technischer Geräte zur Physik (45 min), Themen:
   - Zeigen der verschiedenen Räumlichkeiten und Objekte
   - Beschreiben der aktuellen Situation in der Sammlung sowie deren Dokumentation
-- 15 min Vorstellen der Materialien aus der Demo-Box (= Box mit Utensilien zum Reinigen, Vermessen, beschriften, Arbeitsschutz und verschiedenen Materialien zum Verpacken)
+- 15 min Vorstellen der Materialien aus der Demo-Box (= Box mit Utensilien zum Reinigen, Vermessen, Beschriften, Arbeitsschutz und verschiedenen Materialien zum Verpacken)
 - 20 min Gruppenarbeit (in den Gruppen vom Vormittag) zu den Themen der Handreichungen: Verpackung & Transport (Gruppe 1), Depoträume & Lagerung (Gruppe 2), Gefahrstoffe & Arbeitsschutz (Gruppe 3), Handhabung von Museumsobjekten (Gruppe 4) <br>
   Arbeitsauftrag: Bewerten Sie die Sammlung bezüglich Ihres Gruppenthemas! Was wäre bei einem Digitalisierungsprojekt zu beachten bzw. zu verändern?
 - 30 min für gemeinsame Vorstellung der Gruppenergebnisse & Auswertung
@@ -146,9 +146,9 @@ Jede Teilnehmer:in antwortet auf mindestens eine der drei Fragen:
   - aktuelle Forschungsfragen
 - Pause (10 min)
 - Input zu Restaurierung durch die Restauratorin der Sammlung (60 min), Themen:
-  - Materialien, Ausrüstung, Arbeits- und Objektschutz eräutert anhand von Beispielobjekten und Materialproben
+  - Materialien, Ausrüstung, Arbeits- und Objektschutz erläutert anhand von Beispielobjekten und Materialproben
 - darin Übung: Objektgewicht unterschiedlicher Materialien in ungefähr der gleichen Größe veranschaulichen
-  - Tisch mit unterschiedlich großen Objekten aus verschiedenen Materialien, die man ggf. nicht auf den 1. Blick unterscheiden kann (Marmor, Gips, etc) und den unterschiedlichen Gewichten
+  - Tisch mit unterschiedlich großen Objekten aus verschiedenen Materialien, die man ggf. nicht auf den 1. Blick unterscheiden kann (Marmor, Gips, etc.) und den unterschiedlichen Gewichten
   - Studierende mit Handschuhen vorsichtig probieren lassen, welche (nicht sichtbaren) Gewichtsunterschiede die Objekte haben und wo sie angehoben werden sollten
 
 #### Mittagspause
@@ -157,7 +157,7 @@ Jede Teilnehmer:in antwortet auf mindestens eine der drei Fragen:
 - Einführung in die Realiensammlung der ThULB (5 min)
 - Gruppenarbeit Datenmodellierung (30 min)
   - Jede Gruppe hat an einem Tisch ein Sammlungsobjekt aus der Sammlung liegen. <br>
-  Arbeitsauftrag: Überlegen Sie, welche Eigenschaften des Objektes relevant für ein Datenmodell sind. Benennen Sie das entsprechende Feld und geben Sie den Inhalt an (z. B. Farbe: Blau)! (20 Min
+  Arbeitsauftrag: Überlegen Sie, welche Eigenschaften des Objektes relevant für ein Datenmodell sind. Benennen Sie das entsprechende Feld und geben Sie den Inhalt an (z. B. Farbe: Blau)! (20 Min)
   - Abgleich der Datenmodelle miteinander (20 min)
     - Welche Felder haben alle vorgesehen, welche nur einzelne Gruppen? 
     - Was wurde ausführlich und ggf. ohne Einigung diskutiert? 
