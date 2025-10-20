@@ -114,7 +114,7 @@ Ablauf:
 
 #### Übung: Planung eines Digitalisierungsprojektes (60 min)
 - In 3er- bis 4er-Gruppen (Abzählen beschleunigt das Erstellen der Gruppen)
-- Vorstellen der Aufgabenstellung mit einem bestenfalls aktuellen/ praxisnahen Beispiel <br>
+- Vorstellen der Aufgabenstellung mit einem bestenfalls aktuellen/praxisnahen Beispiel <br>
   Arbeitsauftrag: Planen Sie in den nächsten 30 min in Ihren Gruppen ein Digitalisierungsprojekt anhand des Beispiels XY (z. B. Herbarbögen). Entwickeln Sie einen Projektplan, wie Sie vorgehen würden! Wann würden Sie, welche Tätigkeit einplanen und mit welchem Personal- und Technikaufwand)? Schreiben Sie jeden Schritt auf eine Moderationskarte!
 - Wichtig ist den Teilnehmenden Informationen mitzuteilen (bspw. Wie viele Objekte sind im Bestand? etc.) (am besten auf einer PPT-Folie zum stetigen Nachlesen bereitstellen)
 - Anschließend ca. 25 min vergleichen z. B. mit Kärtchen auf einem Tisch und die Gruppen fügen alles zusammen/ergänzen sich gegenseitig
@@ -122,11 +122,13 @@ Ablauf:
 #### Mittagspause
 
 #### Exkursion: Sammlung wissenschaftlicher und technischer Geräte zur Physik (120 min)
-- ca. 45-minütige Führung durch die Sammlung wissenschaftlicher und technischer Geräte zur Physik (Zeigen der verschiedenen Räumlichkeiten und Objekte, Beschreiben der aktuellen Situation sowohl für die Sammlung an sich, als auch organisatorischer Dinge, Sammlungskonzept, Inventarlisten, etc.) durch die Betreuerin der Sammlung
-- 15min Vorstellen der Materialien aus der Demo-Box (= Box mit Utensilien zum Reinigen, Vermessen, beschriften, Arbeitsschutz und verschiedenen Materialien zum Verpacken)
-- 20min Gruppenarbeit (in den Gruppen vom Vormittag) zu den Themen der Handreichungen: Verpackung & Transport (Gruppe 1), Depoträume & Lagerung (Gruppe 2), Gefahrstoffe & Arbeitsschutz (Gruppe 3), Handhabung von Museumsobjekten (Gruppe 4) <br>
+- Führung durch die Sammlung wissenschaftlicher und technischer Geräte zur Physik (45 min), Themen:
+  - Zeigen der verschiedenen Räumlichkeiten und Objekte
+  - Beschreiben der aktuellen Situation in der Sammlung sowie deren Dokumentation
+- 15 min Vorstellen der Materialien aus der Demo-Box (= Box mit Utensilien zum Reinigen, Vermessen, beschriften, Arbeitsschutz und verschiedenen Materialien zum Verpacken)
+- 20 min Gruppenarbeit (in den Gruppen vom Vormittag) zu den Themen der Handreichungen: Verpackung & Transport (Gruppe 1), Depoträume & Lagerung (Gruppe 2), Gefahrstoffe & Arbeitsschutz (Gruppe 3), Handhabung von Museumsobjekten (Gruppe 4) <br>
   Arbeitsauftrag: Bewerten Sie die Sammlung bezüglich Ihres Gruppenthemas! Was wäre bei einem Digitalisierungsprojekt zu beachten bzw. zu verändern?
-- 30min für gemeinsame Vorstellung der Gruppenergebnisse & Auswertung (Bei weniger verbleibender Zeit bietet sich das direkte Besprechen der Handreichungsthemen zeitgleich mit dem Vorstellen der Demo-Box im Plenum an)
+- 30 min für gemeinsame Vorstellung der Gruppenergebnisse & Auswertung
 
 #### Feedbackrunde (15 min)
 Jede Teilnehmer:in antwortet auf mindestens eine der drei Fragen:
@@ -156,7 +158,8 @@ Jede Teilnehmer:in antwortet auf mindestens eine der drei Fragen:
 #### Input: Systeme, Datenmodellierung, Linked Open Data (75 min)
 - Einführung in die Realiensammlung der ThULB (5 min)
 - Gruppenarbeit Datenmodellierung (30 min)
-  - Jede Gruppe hat an einem Tisch ein Sammlungsobjekt aus der Sammlung liegen und soll sich anhand dessen in 20 min überlegen, in welche Kategorien sie es einordnen, welche Eigenschaften sie in ein Datenmodell aufnehmen würden und was der Inhalt wäre (z. B. Farbe: Blau)
+  - Jede Gruppe hat an einem Tisch ein Sammlungsobjekt aus der Sammlung liegen. <br>
+  Arbeitsauftrag: Überlegen Sie, welche Eigenschaften des Objektes relevant für ein Datenmodell sind. Benennen Sie das entsprechende Feld und geben Sie den Inhalt an (z. B. Farbe: Blau)! (20 Min
   - Abgleich der Datenmodelle miteinander (20 min)
     - Welche Felder haben alle vorgesehen, welche nur einzelne Gruppen? 
     - Was wurde ausführlich und ggf. ohne Einigung diskutiert? 
@@ -170,8 +173,8 @@ Jede Teilnehmer:in antwortet auf mindestens eine der drei Fragen:
   - 3 Gruppen (15 min) mit je einem Objekt:  
     - Büro-Schnappschuss mit Mitarbeiterin der ThULB, 
     - Ergebnisse einer Umfrage mit Adressdaten der Teilnehmenden, 
-    - von einer Mitarbeiterin verfasste Handreichung zu den intern verwendeten Stempeltypen
-    Frage: Sie planen die Veröffentlichung von Digitalisaten dieser Objekte: Welche Rechte müssen beachtet werden und wen müssen sie ggf. fragen? 
+    - von einer Mitarbeiterin verfasste Handreichung zu den intern verwendeten Stempeltypen <br>
+    Arbeitsauftrag: Sie planen die Veröffentlichung von Digitalisaten dieser Objekte: Welche Rechte müssen beachtet werden und wen müssen sie ggf. fragen? 
   - Auswertung (20 min)
 - Diskussion von Lizenzmodellen und konkreten Urheberrechtsfragen der Teilnehmenden
 
@@ -194,10 +197,9 @@ Vorbereitung:
 - Raumausstattung idealerweise mit ausreichend Desktop-PCs/Laptop sowie Beamer/Smartboard für Vorführung
 - Testzugänge zu digiCULT.web für Teilnehmendengruppen (pro 2er-Gruppe ein Zugang)
 - Sammlungsobjekte (pro 2er-Gruppe ein Objekt)
-
 Ablauf:
 - Gruppenarbeit in 2er-Gruppen (30 min)
-  - Jede Gruppe darf sich aus einem Pool von analogen Sammlungsobjekten ein Objekt auswählen und selbst erfassen
+  - Jede Gruppe darf sich aus einem Pool von bereitgestellten Sammlungsobjekten (aus einer realen Sammlung oder einfach Büroausstattung) ein Objekt auswählen und selbst erfassen
 - kurze Pause
 - Besprechung von Herausforderungen im Plenum an den erfassten Objekten (45 min)
   - z. B. Wo vermisst man? Welche Beschriftungen werden wörtlich eingetragen? Wie erfasst man den Zustand?
@@ -208,14 +210,13 @@ Ablauf:
 Vorbereitung:
 - Wegen Platzmangel auf 2 Gruppen à 7 Personen aufgeteilt (14 Uhr-15:15 Uhr und 15:15 Uhr-16:30 Uhr)
 - 3 Tische für Gruppenarbeit
-  - 1 Tisch mit unterschiedlichen Objekten aus unterschiedlichen Materialien und Platz zum Objekthandling/ -verpacken
-  - 1 Tisch mit Verpackungmaterial, Handschuhen, Scheren, etc. und Platz zum Objekthandling/ -verpacken
-  - 1 ggf. kleinerer Tisch nur mit Platz zum Objekthandling/ -verpacken
-
+  - 1 Tisch mit unterschiedlichen Objekten aus unterschiedlichen Materialien und Platz zum Objekthandling/-verpacken
+  - 1 Tisch mit Verpackungmaterial, Handschuhen, Scheren, etc. und Platz zum Objekthandling/-verpacken
+  - 1 ggf. kleinerer Tisch nur mit Platz zum Objekthandling/-verpacken
 Durchführung:
 - Kustodinnenführung zur Sammlungsgeschichte und den Beständen (Gemälde, Grafik, Skulptur) (30min)
-- Gruppenarbeit zum Objekthandling (3 Gruppen pro Durchgang), angeleitet von der Kustodin
-  - Auftrag: Wählen Sie sich eines der Objekte aus und verpacken Sie es nach den gängigen Standards, damit es unbeschadet gelagert werden kann. (20 min)
+- Gruppenarbeit zum Objekthandling (3 Gruppen pro Durchgang), angeleitet von der Kustodin <br>
+Arbeitsauftrag: Wählen Sie sich eines der Objekte aus und verpacken Sie es nach den gängigen Standards, damit es unbeschadet gelagert werden kann. (20 min)
   - Auswertung pro Durchgang zu Herausforderungen und Problemen (15 min)
   - Nach der Auswertung alles wieder auspacken und zurücklegen (10 min)
 
@@ -230,15 +231,14 @@ Jede Teilnehmer:in antwortet auf mindestens eine der drei Fragen:
 - Ablauf des heutigen Tages durchgehen
 
 #### Einführung in die 2D-Objektfotografie (120 min)
-- Einführung/Wiederholung (wenn die Tutorials im Vorfeld angesehen wurden) zur Objektfotografie, durchgeführt vom Fotografen der Abteilung DKSM der ThULB
+- Einführung bzw. Wiederholung (wenn die Tutorials im Vorfeld angesehen wurden) zur Objektfotografie, durchgeführt vom Fotografen der Abteilung DKSM der ThULB
 - Diskussion von Sonderfällen und den dafür nötigen Strategien (besonders große/kleine/durchscheinende/spiegelnde Objekte, etc.)
-- Vorstellung des Workflows für Fokus-Stacking und Stiching in Affinity Photo als ggf. in der Praxis hilfreiche Ergänzung
+- Vorstellung des Workflows für Fokus-Stacking und Image-Stiching in Affinity Photo als hilfreiche Ergänzung für die Praxis
 
 #### Mittagspause
 
 #### Exkursion: Zoologische Sammlung (120 min)
-- Führung durch die beiden Präparatoren der Sammlung in zwei Gruppen parallel aufgrund der Platzverhältnisse
-- Themen 
+- Führung durch die beiden Präparatoren der Sammlung in zwei Gruppen parallel aufgrund der Platzverhältnisse, Themen:
   - Konservierung/Präparierung, 
   - Handling und Lagerung, 
   - Nutzung in der Forschung und Forschungsnetzwerke, 
@@ -256,8 +256,7 @@ Jede Teilnehmer:in antwortet auf mindestens eine der drei Fragen:
 - Ablauf des heutigen Tages durchgehen
 
 #### Exkursion: Herbarium Hausknecht (75 min)
-- Führung durch die Kustodin 
-- Themen:
+- Führung durch die Kustodin, Themen:
   - Geschichte der Sammlung,
   - Forschungsinteressen,
   - physisches Sammlungsmanagement, 
@@ -269,7 +268,6 @@ Jede Teilnehmer:in antwortet auf mindestens eine der drei Fragen:
 #### Praxis: Aufbau der Fotostationen Medizinhistorische Sammlung (60 min)
 Vorbereitung:
 - Bereitstellung der Technik und Ausrüstung entsprechend der [Checkliste](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Lehrendenmaterial/Checkliste%20Vorbereitung.md)
-  
 Ablauf:
 - Ankündigen, dass es vermutlich 1 bis 2 Tage dauern wird, bis alles eingespielt ist ("Chaosphase")
 - Selbstständiges Zusammenfinden lassen in 4er-Gruppen und Zuweisen der Technikkits
@@ -297,8 +295,7 @@ Jede Teilnehmer:in antwortet auf mindestens eine der drei Fragen:
 - Wissenschaftliche Assistent:innen nochmals als Ansprechpartner:innen vorstellen und stärken
 
 #### Führung durch die Medizinhistorische Sammlung am Universitätsklinikum Jena (2x 75 min)
-- Führung durch einen ehrenamtlichen Betreuer der Sammlung
-- Themen:
+- Führung durch einen ehrenamtlichen Betreuer der Sammlung, Themen:
   - Geschichte der Sammlung
   - ehrenamtliche Sammlungsbetreuung
   - Bestände und besondere Objekte
@@ -363,7 +360,6 @@ Vorbereitung:
 - Installation von [LocalSend](https://localsend.org/de), um schnell Bilder von den Android-Mobiltelefonen der Teilnehmenden auf die bereitgestellten MacBooks zu bekommen
 - Installation von [Photocatch](https://www.photocatch.app/), um 3D-Modelle auf den bereitgestellten MacBooks zu erzeugen (einfache Oberfläche, kostenlos, keine Internetanbindung nötig)
 - Installation der Software für den [CR-Scan Otter 3D-Scanner](https://store.creality.com/de/products/cr-scan-otter) auf einem der MacBooks 
-
 Ablauf:
 - Kurze Vorstellung des Verfahrens der Photogrammetrie
 - anhand mitgebrachter Objekte, Gegenständen aus dem Raum oder Objekten im Außenbereich (Bänke, Brunnen, Fassaden)
