@@ -4,8 +4,6 @@ Anne Hiltscher & Michael Markert
 
 ## Inhalt
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
-
-- [Beispiel: Durchführung des Praxisseminars "Vom Ding zum Datensatz" 2025](#beispiel-durchführung-des-praxisseminars-vom-ding-zum-datensatz-2025)
    * [Rahmenbedingungen](#rahmenbedingungen)
       + [Überblick](#überblick)
    * [Woche 1](#woche-1)
