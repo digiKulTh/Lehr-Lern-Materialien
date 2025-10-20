@@ -206,7 +206,7 @@ Ablauf:
 
 #### Exkursion: Kunstsammlung der Kustodie (2 x 75 min)
 Vorbereitung:
-- Wegen Platzmangel auf 2 Gruppen à 7 Personen aufgeteilt (14 Uhr-15:15 Uhr und 15:15 Uhr-16:30 Uhr)
+- Wegen Platzmangel auf 2 Gruppen à 7 Personen aufgeteilt (14:00 Uhr-15:15 Uhr und 15:15 Uhr-16:30 Uhr)
 - 3 Tische für Gruppenarbeit
   - 1 Tisch mit unterschiedlichen Objekten aus unterschiedlichen Materialien und Platz zum Objekthandling/-verpacken
   - 1 Tisch mit Verpackungmaterial, Handschuhen, Scheren, etc. und Platz zum Objekthandling/-verpacken
@@ -275,7 +275,7 @@ Ablauf:
 
 #### Praxis: Aufbau der Fotostationen (120 min)
 - Fortsetzung des Aufbaus
-- Einstellen der von Beleuchtung, Kamera und Objektiv anhand bereitgestellter und zu digitalisierender Sammlungsobjekte
+- Einstellen von Beleuchtung, Kamera und Objektiv anhand bereitgestellter und zu digitalisierender Sammlungsobjekte
 
 #### Feedbackrunde (15 min)
 Jede Teilnehmer:in antwortet auf mindestens eine der drei Fragen:
@@ -326,7 +326,7 @@ Jede Teilnehmer:in antwortet auf mindestens eine der vier Fragen:
 
 #### Erweiterte Feedbackrunde (15 min)
 Jede Teilnehmer:in antwortet auf mindestens eine der vier Fragen:
-- Gibt es etwas, dass alle wissen sollten (spezielle Herausforderungen bei Erschließung und Fotografie)?
+- Gibt es etwas, das alle wissen sollten (spezielle Herausforderungen bei Erschließung und Fotografie)?
 - Was fand ich besonders wichtig?
 - Was vergesse ich sofort wieder?
 - Was war überraschend?
@@ -362,7 +362,7 @@ Ablauf:
 - Kurze Vorstellung des Verfahrens der Photogrammetrie
 - anhand mitgebrachter Objekte, Gegenständen aus dem Raum oder Objekten im Außenbereich (Bänke, Brunnen, Fassaden)
 - 2 mögliche Wege im Seminar: 
-  - Photos von individuellen Mobiltelefonen oder den Sony A7RV aus dem Prakikumsbetrieb 
+  - Fotos von individuellen Mobiltelefonen oder den Sony A7RV aus dem Prakikumsbetrieb 
     - viele Bilder aus unterschiedlichen Perspektiven nötig, alle sollten mindestens 1/3 überlappen
     - Modellerstellung in Photocatch
   - Einsatz des Handscanners CR-Scan Otter
