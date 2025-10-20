@@ -97,32 +97,34 @@ Im Rahmen von Inputblöcken und Exkursionen waren insgesamt 11 weitere Lehrende 
 #### Einführung (90 min)
 benötigte Materialien:
 - Laptop mit PowerPointPräsentation, 
-- falls vorhanden Methodenkoffer oder digitale Tools bspw. zum Abfragen von Erwartungen, 
+- Moderationskoffer sowie digitale Tools bspw. zum Abfragen von Erwartungen, 
 - Kreppband & Stift für Namensschilder
-- <u>Hinweis: </u>Nicht zu oft die Kanäle (analog - digital) wechseln. Das kostet Zeit und überfordert schnell.
+- Hinweis: Nicht zu oft die Kanäle (analog - digital) wechseln. Das kostet Zeit und überfordert schnell.
 
 Ablauf:
 - Kurzes Vorstellen der Lehrenden/des Teams, der Abteilung, der universitären Sammlungen, des Projektes und des Praxisseminars
-- Vorstellungsrunde der Teilnehmenden inkl. der Lehrenden durch soziometrisches Aufstellen & Abfragen der Ergebnisse (ca. 5 Fragen insgesamt - eine Frage zu Vorerfahrungen/ -wissen im Bereich Kulturgutdigitalisierung und ein Frage dazu, welcher Materialientyp (Text, Video, Podcast) bevorzugt wurde)
-- Erwartungen abfragen, auf auf kleine Kärtchen schreiben lassen und an die Wand/ Tafel bringen 
+- Vorstellungsrunde der Teilnehmenden inkl. der Lehrenden durch soziometrisches Aufstellen & Abfragen der Ergebnisse, 3-5 Fragen insgesamt, z. B.
+  - In welchem Umfang haben Sie Vorerfahrung im Bereich Kulturgutdigitalisierung (schon dazu gelesen, schon eine Lehrveranstaltung besucht, schon selbst Datensätze angelegt oder Fotos erstellt)?
+  - Welcher Materialientyp hat Ihnen das Lernen besonders erleichtert (Text, Podcast, Poster, Videos)?
+- Erwartungen abfragen, auf auf kleine Kärtchen schreiben lassen und an die Wand/Tafel bringen 
 - Anschauen und klären, welche Erwartungen erfüllt werden können und welche nicht
-- Hinweis geben auf Überforderung und viel Input (v. a. in der 1. Woche), übliche Platzverhältnisse, Gegebenheiten in Sammlungen, sowie vieles Stehen in den kommenden 2 Wochen
+- Hinweis geben auf Überforderung und viel Input (v. a. in der 1. Woche), sowie die Gegebenheiten in den Sammlungen (schwierige Platzverhältnisse, viel Stehen in den kommenden 2 Wochen, Hände waschen nach dem Sammlungsbesuch und vor dem Essen)
 
 #### Kurze Pause
 
 #### Übung: Planung eines Digitalisierungsprojektes (60 min)
 - In 3er- bis 4er-Gruppen (Abzählen beschleunigt das Erstellen der Gruppen)
-- Vorstellen der Aufgabenstellung mit einem bestenfalls aktuellen/ praxisnahen Beispiel: 
-  Sie sollen in den nächsten 30min in Ihren Gruppen ein Digitalisierungsprojekt anhand des Beispiels XY planen. Entwickeln Sie einen Projektplan, wie Sie vorgehen würden! - Wann würden Sie, welche Tätigkeit einplanen (und mit welchem Personal- und Technikaufwand)?
+- Vorstellen der Aufgabenstellung mit einem bestenfalls aktuellen/ praxisnahen Beispiel <br>
+  Arbeitsauftrag: Planen Sie in den nächsten 30 min in Ihren Gruppen ein Digitalisierungsprojekt anhand des Beispiels XY (z. B. Herbarbögen). Entwickeln Sie einen Projektplan, wie Sie vorgehen würden! Wann würden Sie, welche Tätigkeit einplanen und mit welchem Personal- und Technikaufwand)? Schreiben Sie jeden Schritt auf eine Moderationskarte!
 - Wichtig ist den Teilnehmenden Informationen mitzuteilen (bspw. Wie viele Objekte sind im Bestand? etc.) (am besten auf einer PPT-Folie zum stetigen Nachlesen bereitstellen)
-- Anschließend ca. 25min vergleichen z. B. mit Kärtchen auf dem Boden und die Gruppen fügen alles zusammen/ergänzen sich gegenseitig
+- Anschließend ca. 25 min vergleichen z. B. mit Kärtchen auf einem Tisch und die Gruppen fügen alles zusammen/ergänzen sich gegenseitig
 
 #### Mittagspause
 
 #### Exkursion: Sammlung wissenschaftlicher und technischer Geräte zur Physik (120 min)
 - ca. 45-minütige Führung durch die Sammlung wissenschaftlicher und technischer Geräte zur Physik (Zeigen der verschiedenen Räumlichkeiten und Objekte, Beschreiben der aktuellen Situation sowohl für die Sammlung an sich, als auch organisatorischer Dinge, Sammlungskonzept, Inventarlisten, etc.) durch die Betreuerin der Sammlung
 - 15min Vorstellen der Materialien aus der Demo-Box (= Box mit Utensilien zum Reinigen, Vermessen, beschriften, Arbeitsschutz und verschiedenen Materialien zum Verpacken)
-- 20min Gruppenarbeit (in den Gruppen vom Vormittag) zu den Themen der Handreichungen: Verpackung & Transport (Gruppe 1), Depoträume & Lagerung (Gruppe 2), Gefahrstoffe & Arbeitsschutz (Gruppe 3), Handhabung von Museumsobjekten (Gruppe 4)
+- 20min Gruppenarbeit (in den Gruppen vom Vormittag) zu den Themen der Handreichungen: Verpackung & Transport (Gruppe 1), Depoträume & Lagerung (Gruppe 2), Gefahrstoffe & Arbeitsschutz (Gruppe 3), Handhabung von Museumsobjekten (Gruppe 4) <br>
   Arbeitsauftrag: Bewerten Sie die Sammlung bezüglich Ihres Gruppenthemas! Was wäre bei einem Digitalisierungsprojekt zu beachten bzw. zu verändern?
 - 30min für gemeinsame Vorstellung der Gruppenergebnisse & Auswertung (Bei weniger verbleibender Zeit bietet sich das direkte Besprechen der Handreichungsthemen zeitgleich mit dem Vorstellen der Demo-Box im Plenum an)
 
