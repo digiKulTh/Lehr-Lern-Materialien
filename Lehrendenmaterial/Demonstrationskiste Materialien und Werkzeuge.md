@@ -18,13 +18,14 @@ Die Demonstrationskiste ist ein flacher Eurobehälter mit transparentem Deckel u
 - Bleistift 2B
 - Radiergummi
 - säurefreie Papieretiketten mit ungebleichten Baumwollfäden
-- für die direkte Beschriftung dafür freigegebener Materialien
+- für die direkte Beschriftung freigegebene Materialien
 	- Schmincke Acryl Firnis bzw. Paraloid B 72 in Lösung als Grund- und Deckschicht der Beschriftung
 	- Synthetik-Künstlerpinsel (Gr. 4, 8) zum Auftragen von Acrylfirnis oder Paraloid-Film
 - Messschieber aus Kunststoff (um Objektbeschädigungen zu vermeiden)
 - Zollstock aus Kunststoff
 - Maßband
 - Lupe
+- ggf. Küchenwaage
 
 ## Materialien für die Objektverpackung
 - Tyvek (für Objektkontakt geeignet)
