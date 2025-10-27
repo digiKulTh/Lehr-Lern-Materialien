@@ -8,7 +8,7 @@ Die Demonstrationskiste ist ein flacher Eurobehälter mit transparentem Deckel u
 
 ## Materialien für die Reinigung
 - Einweg-Staubtücher 
-- Naturhaarpinsel zur Objektreinigung (Marabu Federpinsel, Ziegenhaarpinsel, Kamelhaarpinsel)
+- Naturhaarpinsel zur Objektreinigung (Marabufederpinsel, Ziegenhaarpinsel, Kamelhaarpinsel)
 - Handbesen bzw. breite Synthetikpinsel zur Reinigung des (Foto-)Arbeitsplatzes
 
 ## Materialien für Inventarisierung/Datenerfassung
