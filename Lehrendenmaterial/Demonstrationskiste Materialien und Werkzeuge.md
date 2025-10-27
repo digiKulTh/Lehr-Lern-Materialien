@@ -1,5 +1,5 @@
 ## Einleitung
-Die Demonstrationskiste ist ein flacher Eurobehälter mit transparentem Deckel und enthält übliche Materialien für Handling und Verpackung, Reinigung und Inventarisierung von Objekten, um sie in Lehrveranstaltungen vorzustellen und von ungeeigneten Alltagsmaterialien abgrenzen zu können. Hier eine Liste des im Jenaer Praxisseminar eingesetzten Kisteninhalts.
+Die Demonstrationskiste ist ein flacher Eurobehälter mit transparentem Deckel und enthält übliche Materialien für Handling und Verpackung, Reinigung und Inventarisierung von Objekten, sowie Arbeits- und Objektschutz, um sie in Lehrveranstaltungen vorzustellen und von ungeeigneten Alltagsmaterialien abgrenzen zu können. Hier eine Liste des im Jenaer Praxisseminar eingesetzten Kisteninhalts.
 
 ## Materialien für das Handling
 - Nitril-Handschuhe
