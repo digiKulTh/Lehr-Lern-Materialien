@@ -13,78 +13,41 @@ Anne Hiltscher
       + [Welche Beleuchtung ist die beste?](#welche-beleuchtung-ist-die-beste)
          - [Blitze](#blitze)
          - [LEDs](#leds)
-
-- [Warum mit dem Laptop fotografieren?](#warum-mit-dem-laptop-fotografieren)
-
-- [Welche Technik benutzt digiKulTh?](#welche-technik-benutzt-digiKulTh)
-
-- [Wie wird alles aufgebaut?](#wie-wird-alles-aufgebaut)
-
-[Software](#software)
-
-- [Welche Software benutzt digiKulTh?](#welche-software-benutzt-digiKulTh)
-
-- [Warum große TIFFs (unkomprimiert, Farbraum Adobe RGB (1998), 16 Bit) und nicht kleine JPEGs? – Speicherformate](#warum-große-tiffs-(unkomprimiert,-farbraum-adobe-rgb-(1998),-16-bit)-und-nicht-kleine-jpgs–speicherformate)
-
-[Wie werden Kamera und Objektiv eingestellt?](#wie-werden-kamera-und-objektiv-eingestellt)
-
-- [Warum wird im manuellen Modus der Kamera fotografiert?](#warum-wird-im-manuellen-modus-der-kamera-fotografiert)
-
-- [Warum wird das Objektiv auf manuellen Fokus eingestellt?](#warum-wird-das-objektiv-auf-manuellen-fokus-eingestellt)
-
-- [Warum wird ein Weißabgleich gemacht?](#warum-wird-ein-weißabgleich-gemacht)
-
-- [Was ist Brennweite und welche Brennweite ist optimal?](#was-ist-eine-brennweite-und-welche-brennweite-ist-optimal)
-
-- [Was ist eine Blende und wo liegt der optimale Blendenwert?](#was-ist-eine-blende-und-wo-liegt-der-optimale-blendenwert)
-
-- [Was ist ISO und was ist der optimale ISO-Wert?](#was-ist-iso-und-was-ist-der-optimale-iso-wert)
-
-- [Was ist die optimale Belichtungszeit?](#was-ist-die-optimale-belichtungszeit)
-
-[Wie sollte ein Objekt fotografiert werden?](#wie-sollte-ein-objekt-fotografiert-werden)
-
-- [Wo sollte ein Objekt auf dem Foto platziert werden?](#wo-sollte-ein-objekt-auf-dem-foto-platziert-werden)
-
-- [Wie viele Ansichten sollten fotografiert werden?](#wie-viele-ansichten-sollten-fotografiert-werden)
-
-- [Wie wird das ganze Objekt auf allen Fotos scharf? - Focus Stacking](#wie-wird-das-ganze-objekt-auf-allen-fotos-scharf?-(focus-stacking))
-
-- [Wie sollten durchscheinende und glänzende Objekte und Objekte mit stark spiegelnden Oberflächen fotografiert werden?](#wie-sollten-durchscheinende-und-glänzende-objekte-und-objekte-mit-stark-spiegelnden-oberflächen-fotografiert-werden)
-
-[Durchscheinende Objekte/ Glasobjekte (z.B. Nasspräparate, technische Instrumente)](#durchscheinende-objekte/-glasobjekte-(z.B.-nasspräparate,-technische-instrumente))
-
-[Objekte mit stark spiegelnden Oberflächen (bspw. beschichtetes Glas, Metall, Keramik, Kunststoff, etc.)](#objekte-mit-stark-spiegelnden-oberflächen-(bspw.-beschichtetes-glas,-metall,-keramik,-kunststoff,-etc.))
-
-- [Wie sollten Objekte in Vitrinen am besten fotografiert werden?](#wie-sollten-objekte-in-vitrinen-am-besten-fotografiert-werden)
-
-- [Wie sollten besonders kleine Objekte fotografiert werden?](#wie-sollten-besonders-kleine-objekte-fotografiert-werden)
-
-- [Wie sollten besonders große Objekte, Gebäude u.ä. fotografiert werden?](#wie-sollten-besonders-große-objekte,-gebäude-u.-ä.-fotografiert-werden)
-
-[Fall a)](#fall-a))
-
-[Fall b)](#fall-b))
-
-[Architekturfotografie](#architekturfotografie)
-
-- [Was ist sonst noch zu beachten?](#was-ist-sonst-noch-zu-beachten)
-
-[Was geschieht mit den Bildern im Anschluss ans Fotografieren?](#was-geschieht-mit-den-bildern-im-anschluss-ans-fotografieren)
-
-- [Wie sollten die Bilder (nach-)bearbeitet werden?](#wie-sollten-die-bilder-(nach-)bearbeitet-werden)
-
-- [Wie werden die Bilder benannt und gespeichert?](#wie-werden-die-bilder-benannt-und-gespeichert)
-
-[Benennung](#benennung)
-
-[Speicherung/Export](#speicherung/export)
-
-- [Braucht es eine Archivierung?](#braucht-es-eine-archivierung)
-
-[Anhang: Verwendete Literatur](#anhang:-verwendete-literatur)
-
-
+      + [Warum mit dem Laptop fotografieren?](#warum-mit-dem-laptop-fotografieren)
+      + [Welche Technik benutzt digiKulTh?](#welche-technik-benutzt-digiKulTh)
+      + [Wie wird alles aufgebaut?](#wie-wird-alles-aufgebaut)
+   * [Software](#software)
+      + [Welche Software benutzt digiKulTh?](#welche-software-benutzt-digiKulTh)
+      + [Warum große TIFFs (unkomprimiert, Farbraum Adobe RGB (1998), 16 Bit) und nicht kleine JPEGs? – Speicherformate](#warum-große-tiffs-(unkomprimiert,-farbraum-adobe-rgb-(1998),-16-bit)-und-nicht-kleine-jpgs–speicherformate)
+   * [Wie werden Kamera und Objektiv eingestellt?](#wie-werden-kamera-und-objektiv-eingestellt)
+      + [Warum wird im manuellen Modus der Kamera fotografiert?](#warum-wird-im-manuellen-modus-der-kamera-fotografiert)
+      + [Warum wird das Objektiv auf manuellen Fokus eingestellt?](#warum-wird-das-objektiv-auf-manuellen-fokus-eingestellt)
+      + [Warum wird ein Weißabgleich gemacht?](#warum-wird-ein-weißabgleich-gemacht)
+      + [Was ist Brennweite und welche Brennweite ist optimal?](#was-ist-eine-brennweite-und-welche-brennweite-ist-optimal)
+      + [Was ist eine Blende und wo liegt der optimale Blendenwert?](#was-ist-eine-blende-und-wo-liegt-der-optimale-blendenwert)
+      + [Was ist ISO und was ist der optimale ISO-Wert?](#was-ist-iso-und-was-ist-der-optimale-iso-wert)
+      + [Was ist die optimale Belichtungszeit?](#was-ist-die-optimale-belichtungszeit)
+* [Wie sollte ein Objekt fotografiert werden?](#wie-sollte-ein-objekt-fotografiert-werden)
+      + [Wo sollte ein Objekt auf dem Foto platziert werden?](#wo-sollte-ein-objekt-auf-dem-foto-platziert-werden)
+      + [Wie viele Ansichten sollten fotografiert werden?](#wie-viele-ansichten-sollten-fotografiert-werden)
+      + [Wie wird das ganze Objekt auf allen Fotos scharf? - Focus Stacking](#wie-wird-das-ganze-objekt-auf-allen-fotos-scharf?-(focus-stacking))
+      + [Wie sollten durchscheinende und glänzende Objekte und Objekte mit stark spiegelnden Oberflächen fotografiert werden?](#wie-sollten-durchscheinende-und-glänzende-objekte-und-objekte-mit-stark-spiegelnden-oberflächen-fotografiert-werden)
+         - [Durchscheinende Objekte/ Glasobjekte (z.B. Nasspräparate, technische Instrumente)](#durchscheinende-objekte/-glasobjekte-(z.B.-nasspräparate,-technische-instrumente))
+         - [Objekte mit stark spiegelnden Oberflächen (bspw. beschichtetes Glas, Metall, Keramik, Kunststoff, etc.)](#objekte-mit-stark-spiegelnden-oberflächen-(bspw.-beschichtetes-glas,-metall,-keramik,-kunststoff,-etc.))
+      + [Wie sollten Objekte in Vitrinen am besten fotografiert werden?](#wie-sollten-objekte-in-vitrinen-am-besten-fotografiert-werden)
+      + [Wie sollten besonders kleine Objekte fotografiert werden?](#wie-sollten-besonders-kleine-objekte-fotografiert-werden)
+      + [Wie sollten besonders große Objekte, Gebäude u.ä. fotografiert werden?](#wie-sollten-besonders-große-objekte,-gebäude-u.-ä.-fotografiert-werden)
+         - [Fall a)](#fall-a))
+         - [Fall b)](#fall-b))
+         - [Architekturfotografie](#architekturfotografie)
+      + [Was ist sonst noch zu beachten?](#was-ist-sonst-noch-zu-beachten)
+   * [Was geschieht mit den Bildern im Anschluss ans Fotografieren?](#was-geschieht-mit-den-bildern-im-anschluss-ans-fotografieren)
+      + [Wie sollten die Bilder (nach-)bearbeitet werden?](#wie-sollten-die-bilder-(nach-)bearbeitet-werden)
+      + [Wie werden die Bilder benannt und gespeichert?](#wie-werden-die-bilder-benannt-und-gespeichert)
+         - [Benennung](#benennung)
+         - [Speicherung/Export](#speicherung/export)
+      + [Braucht es eine Archivierung?](#braucht-es-eine-archivierung)
+   * [Anhang: Verwendete Literatur](#anhang:-verwendete-literatur)
 
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
