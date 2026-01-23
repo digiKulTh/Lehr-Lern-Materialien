@@ -88,7 +88,7 @@ Anne Hiltscher
 
 [Anhang: Verwendete Literatur](#anhang:-verwendete-literatur)
 
-[Upstage](https://github.com/upstage/ "Visit Upstage!")
+
 
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
