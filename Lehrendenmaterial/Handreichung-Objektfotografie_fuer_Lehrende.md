@@ -42,10 +42,10 @@ Anne Hiltscher
          - [Architekturfotografie](#architekturfotografie)
       + [Was ist sonst noch zu beachten?](#was-ist-sonst-noch-zu-beachten)
    * [Was geschieht mit den Bildern im Anschluss ans Fotografieren?](#was-geschieht-mit-den-bildern-im-anschluss-ans-fotografieren)
-      + [Wie sollten die Bilder (nach-)bearbeitet werden?](#wie-sollten-die-bilder-(nach-)bearbeitet-werden)
+      + [Wie sollten die Bilder (nach-)bearbeitet werden?](#wie-sollten-die-bilder-nach-bearbeitet-werden)
       + [Wie werden die Bilder benannt und gespeichert?](#wie-werden-die-bilder-benannt-und-gespeichert)
          - [Benennung](#benennung)
-         - [Speicherung/Export](#speicherung/export)
+         - [Speicherung/Export](#speicherung-export)
       + [Braucht es eine Archivierung?](#braucht-es-eine-archivierung)
    * [Anhang: Verwendete Literatur](#anhang-verwendete-literatur)
 
