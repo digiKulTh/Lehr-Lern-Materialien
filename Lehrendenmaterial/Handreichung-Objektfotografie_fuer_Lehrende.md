@@ -18,7 +18,7 @@ Anne Hiltscher
       + [Wie wird alles aufgebaut?](#wie-wird-alles-aufgebaut)
    * [Software](#software)
       + [Welche Software benutzt digiKulTh?](#welche-software-benutzt-digiKulTh)
-      + [Warum große TIFFs (unkomprimiert, Farbraum Adobe RGB (1998), 16 Bit) und nicht kleine JPEGs? – Speicherformate](#warum-große-tiffs-(unkomprimiert,-farbraum-adobe-rgb-(1998),-16-bit)-und-nicht-kleine-jpgs–speicherformate)
+      + [Warum große TIFFs (unkomprimiert, Farbraum Adobe RGB (1998), 16 Bit) und nicht kleine JPEGs? – Speicherformate](#warum-große-tiffs-unkomprimiert,-farbraum-adobe-rgb-1998,-16-bit-und-nicht-kleine-jpgs–speicherformate)
    * [Wie werden Kamera und Objektiv eingestellt?](#wie-werden-kamera-und-objektiv-eingestellt)
       + [Warum wird im manuellen Modus der Kamera fotografiert?](#warum-wird-im-manuellen-modus-der-kamera-fotografiert)
       + [Warum wird das Objektiv auf manuellen Fokus eingestellt?](#warum-wird-das-objektiv-auf-manuellen-fokus-eingestellt)
