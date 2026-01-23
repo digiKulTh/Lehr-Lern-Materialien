@@ -28,9 +28,13 @@ Anne Hiltscher
       + [Was ist ISO und was ist der optimale ISO-Wert?](#was-ist-iso-und-was-ist-der-optimale-iso-wert)
       + [Was ist die optimale Belichtungszeit?](#was-ist-die-optimale-belichtungszeit)
 * [Wie sollte ein Objekt fotografiert werden?](#wie-sollte-ein-objekt-fotografiert-werden)
+  
       + [Wo sollte ein Objekt auf dem Foto platziert werden?](#wo-sollte-ein-objekt-auf-dem-foto-platziert-werden)
+  
       + [Wie viele Ansichten sollten fotografiert werden?](#wie-viele-ansichten-sollten-fotografiert-werden)
+  
       + [Wie wird das ganze Objekt auf allen Fotos scharf? - Focus Stacking](#wie-wird-das-ganze-objekt-auf-allen-fotos-scharf?-(focus-stacking))
+  
       + [Wie sollten durchscheinende und glänzende Objekte und Objekte mit stark spiegelnden Oberflächen fotografiert werden?](#wie-sollten-durchscheinende-und-glänzende-objekte-und-objekte-mit-stark-spiegelnden-oberflächen-fotografiert-werden)
          - [Durchscheinende Objekte/ Glasobjekte (z.B. Nasspräparate, technische Instrumente)](#durchscheinende-objekte/-glasobjekte-(z.B.-nasspräparate,-technische-instrumente))
          - [Objekte mit stark spiegelnden Oberflächen (bspw. beschichtetes Glas, Metall, Keramik, Kunststoff, etc.)](#objekte-mit-stark-spiegelnden-oberflächen-(bspw.-beschichtetes-glas,-metall,-keramik,-kunststoff,-etc.))
