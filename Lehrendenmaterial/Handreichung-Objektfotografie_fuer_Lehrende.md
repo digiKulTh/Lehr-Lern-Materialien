@@ -2,21 +2,17 @@
 
 Anne Hiltscher
 
+## Inhalt
+
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
-[Hardware](#hardware)
-
-- [Fotoapparat oder Handy?](#fotoapparat-oder-handy)
-
-- [Warum so eine teure Kamera?](#warum-so-eine-teure-kamera)
-
-- [Warum künstliche Beleuchtung und nicht Tageslicht?](#warum-künstliche-beleuchtung-und-nicht-tageslicht)
-
-- [Welche Beleuchtung ist die beste?](#welche-beleuchtung-ist-die-beste)
-
-[Blitze](#blitze)
-
-[LEDs](#leds)
+   * [Hardware](#hardware)
+      + [Fotoapparat oder Handy?](#fotoapparat-oder-handy)
+      + [Warum so eine teure Kamera?](#warum-so-eine-teure-kamera)
+      + [Warum künstliche Beleuchtung und nicht Tageslicht?](#warum-künstliche-beleuchtung-und-nicht-tageslicht)
+      + [Welche Beleuchtung ist die beste?](#welche-beleuchtung-ist-die-beste)
+         - [Blitze](#blitze)
+         - [LEDs](#leds)
 
 - [Warum mit dem Laptop fotografieren?](#warum-mit-dem-laptop-fotografieren)
 
