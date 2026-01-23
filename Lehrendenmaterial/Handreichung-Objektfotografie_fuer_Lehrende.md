@@ -33,16 +33,7 @@ Anne Hiltscher
       + [Wie wird das ganze Objekt auf allen Fotos scharf? - Focus Stacking](#wie-wird-das-ganze-objekt-auf-allen-fotos-scharf?-(focus-stacking))
       + [Wie sollten durchscheinende und glänzende Objekte und Objekte mit stark spiegelnden Oberflächen fotografiert werden?](#wie-sollten-durchscheinende-und-glänzende-objekte-und-objekte-mit-stark-spiegelnden-oberflächen-fotografiert-werden)
          - [Durchscheinende Objekte/ Glasobjekte (z.B. Nasspräparate, technische Instrumente)](#durchscheinende-objekte/-glasobjekte-z.B.-nasspräparate,-technische-instrumente)
-         - [LEDs](#leds)
-      + [Warum mit dem Laptop fotografieren?](#warum-mit-dem-laptop-fotografieren)
-    
-
-
-* 
-  
-      + 
-         - 
-         - [Objekte mit stark spiegelnden Oberflächen (bspw. beschichtetes Glas, Metall, Keramik, Kunststoff, etc.)](#objekte-mit-stark-spiegelnden-oberflächen-(bspw.-beschichtetes-glas,-metall,-keramik,-kunststoff,-etc.))
+         - [Objekte mit stark spiegelnden Oberflächen (bspw. beschichtetes Glas, Metall, Keramik, Kunststoff, etc.)](#objekte-mit-stark-spiegelnden-oberflächen-bspw.-beschichtetes-glas,-metall,-keramik,-kunststoff,-etc.)
       + [Wie sollten Objekte in Vitrinen am besten fotografiert werden?](#wie-sollten-objekte-in-vitrinen-am-besten-fotografiert-werden)
       + [Wie sollten besonders kleine Objekte fotografiert werden?](#wie-sollten-besonders-kleine-objekte-fotografiert-werden)
       + [Wie sollten besonders große Objekte, Gebäude u.ä. fotografiert werden?](#wie-sollten-besonders-große-objekte,-gebäude-u.-ä.-fotografiert-werden)
