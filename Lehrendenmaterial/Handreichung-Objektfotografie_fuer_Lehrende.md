@@ -47,7 +47,7 @@ Anne Hiltscher
          - [Benennung](#benennung)
          - [Speicherung/Export](#speicherung/export)
       + [Braucht es eine Archivierung?](#braucht-es-eine-archivierung)
-   * [Anhang: Verwendete Literatur](#anhang:-verwendete-literatur)
+   * [Anhang: Verwendete Literatur](#anhang-verwendete-literatur)
 
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
