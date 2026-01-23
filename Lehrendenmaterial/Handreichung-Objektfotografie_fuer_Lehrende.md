@@ -193,7 +193,7 @@ Zur Vorbereitung der Fotografie von Kulturgut und zu Anforderungen an den Arbeit
 
 Ein Objekt sollte optimalerweise so platziert werden, dass auf allen Seiten darum ausreichend Bildrand vorhanden ist, sodass zu erkennen ist, welche Form das Objekt besitzt. Um gleichmäßige Ansichten nach jeder Drehung des Objektes zu gewährleisten ist es möglichst mittig zu positionieren.
 
-Für die Wahl des Hintergrunds siehe Abschnitt [Durchscheinende Objekte/ Glasobjekte (z.B. Nasspräparate, technische Instrumente)]().
+Für die Wahl des Hintergrunds siehe Abschnitt [Durchscheinende Objekte/ Glasobjekte (z.B. Nasspräparate, technische Instrumente)](#durchscheinende-objekte/-glasobjekte-z.B.-nasspr%C3%A4parate,-technische-instrumente).
 
 Mit der Gitteransicht lässt sich leicht überprüfen, ob das Objekt beim Drehen für Aufnahmen in verschiedenen Ansichten lediglich um die Achse rotiert wird und sich nicht verschiebt. Dies ist der Idealfall und sollte gleichzeitig der Normalfall sein. Die Aktivierung der Gitteransicht wird im Video [Digitale Fotografie Teil 2 – Workflow](https://youtu.be/mAjWm4rSCuE?si=Q-gvL4Y3wNYoA4Kt&t=54) erklärt.
 
