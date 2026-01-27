@@ -18,7 +18,7 @@ Anne Hiltscher
       + [Wie wird alles aufgebaut?](#wie-wird-alles-aufgebaut)
    * [Software](#software)
       + [Welche Software benutzt digiKulTh?](#welche-software-benutzt-digiKulTh)
-      + [Warum große TIFFs und nicht kleine JPEGs?](#warum-gro%C3%9Fe-tiffs-und-nicht-kleine-jpegs)
+      + [Warum große TIFFs und nicht kleine JPEGs?](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Lehrendenmaterial/Handreichung-Objektfotografie_fuer_Lehrende.md#warum-gro%C3%9Fe-tiffs-und-nicht-kleine-jpegs--speicherformate))
    * [Wie werden Kamera und Objektiv eingestellt?](#wie-werden-kamera-und-objektiv-eingestellt)
       + [Warum wird im manuellen Modus der Kamera fotografiert?](#warum-wird-im-manuellen-modus-der-kamera-fotografiert)
       + [Warum wird das Objektiv auf manuellen Fokus eingestellt?](#warum-wird-das-objektiv-auf-manuellen-fokus-eingestellt)
@@ -37,15 +37,15 @@ Anne Hiltscher
       + [Wie sollten Objekte in Vitrinen am besten fotografiert werden?](#wie-sollten-objekte-in-vitrinen-am-besten-fotografiert-werden)
       + [Wie sollten besonders kleine Objekte fotografiert werden?](#wie-sollten-besonders-kleine-objekte-fotografiert-werden)
       + [Wie sollten besonders große Objekte, Gebäude u.ä. fotografiert werden?](#wie-sollten-besonders-gro%C3%9Fe-objekte-geb%C3%A4ude-u-%C3%A4-fotografiert-werden)
-         - [Fall a)](#fall-a))
-         - [Fall b)](#fall-b))
+         - [Fall a)](#fall-a)
+         - [Fall b)](#fall-b)
          - [Architekturfotografie](#architekturfotografie)
       + [Was ist sonst noch zu beachten?](#was-ist-sonst-noch-zu-beachten)
    * [Was geschieht mit den Bildern im Anschluss ans Fotografieren?](#was-geschieht-mit-den-bildern-im-anschluss-ans-fotografieren)
       + [Wie sollten die Bilder (nach-)bearbeitet werden?](#wie-sollten-die-bilder-nach-bearbeitet-werden)
       + [Wie werden die Bilder benannt und gespeichert?](#wie-werden-die-bilder-benannt-und-gespeichert)
          - [Benennung](#benennung)
-         - [Speicherung/Export](#speicherung-export)
+         - [Speicherung und Export](#speicherung-und-export)
       + [Braucht es eine Archivierung?](#braucht-es-eine-archivierung)
    * [Anhang: Verwendete Literatur](#anhang-verwendete-literatur)
 
@@ -337,7 +337,7 @@ Alle Dateien/ Bilder sind eindeutig und nach einem einheitlichen System zu benen
 
 Der Dateiname ergibt sich idealerweise aus der Objektinventarnummer und der laufenden Nummer der einzelnen Objektansichten z.B. 003456_1 (Frontansicht), 003456_2 (45°-Ansicht im Uhrzeigersinn), etc. Eine weitere Ergänzung in der Benennung könnte das Erstelldatum oder Erstellmonat und -jahr sein. Auch hier gilt wieder Einheitlichkeit und Eindeutigkeit in der Benennung.
 
-##### Speicherung/Export
+##### Speicherung und Export
 
 Für Erläuterungen zur Speicherung/ zum Export der Bilder siehe Tutorial "Digitale Fotografie Teil 2 - Workflow" Abschnitt [Export](https://youtu.be/mAjWm4rSCuE?si=aztXLWTG3oRhgznV&t=827).
 
