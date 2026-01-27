@@ -18,7 +18,7 @@ Anne Hiltscher
       + [Wie wird alles aufgebaut?](#wie-wird-alles-aufgebaut)
    * [Software](#software)
       + [Welche Software benutzt digiKulTh?](#welche-software-benutzt-digiKulTh)
-      + [Warum große TIFFs und nicht kleine JPEGs?](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Lehrendenmaterial/Handreichung-Objektfotografie_fuer_Lehrende.md#warum-gro%C3%9Fe-tiffs-und-nicht-kleine-jpegs--speicherformate))
+      + [Warum große TIFFs und nicht kleine JPEGs?](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Lehrendenmaterial/Handreichung-Objektfotografie_fuer_Lehrende.md#warum-gro%C3%9Fe-tiffs-und-nicht-kleine-jpegs--speicherformate)
    * [Wie werden Kamera und Objektiv eingestellt?](#wie-werden-kamera-und-objektiv-eingestellt)
       + [Warum wird im manuellen Modus der Kamera fotografiert?](#warum-wird-im-manuellen-modus-der-kamera-fotografiert)
       + [Warum wird das Objektiv auf manuellen Fokus eingestellt?](#warum-wird-das-objektiv-auf-manuellen-fokus-eingestellt)
