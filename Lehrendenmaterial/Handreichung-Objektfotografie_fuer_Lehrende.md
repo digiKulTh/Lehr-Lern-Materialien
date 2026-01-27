@@ -18,7 +18,7 @@ Anne Hiltscher
       + [Wie wird alles aufgebaut?](#wie-wird-alles-aufgebaut)
    * [Software](#software)
       + [Welche Software benutzt digiKulTh?](#welche-software-benutzt-digiKulTh)
-      + [Warum große TIFFs und nicht kleine JPEGs? – Speicherformate](#warum-große-tiffs-und-nicht-kleine-jpegs–speicherformate)
+      + [Warum große TIFFs und nicht kleine JPEGs?](#warum-gro%C3%9Fe-tiffs-und-nicht-kleine-jpegs)
    * [Wie werden Kamera und Objektiv eingestellt?](#wie-werden-kamera-und-objektiv-eingestellt)
       + [Warum wird im manuellen Modus der Kamera fotografiert?](#warum-wird-im-manuellen-modus-der-kamera-fotografiert)
       + [Warum wird das Objektiv auf manuellen Fokus eingestellt?](#warum-wird-das-objektiv-auf-manuellen-fokus-eingestellt)
