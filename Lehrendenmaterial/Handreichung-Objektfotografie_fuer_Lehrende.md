@@ -32,7 +32,7 @@ Anne Hiltscher
       + [Wie viele Ansichten sollten fotografiert werden?](#wie-viele-ansichten-sollten-fotografiert-werden)
       + [Wie wird das ganze Objekt auf allen Fotos scharf? (Focus Stacking)](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Lehrendenmaterial/Handreichung-Objektfotografie_fuer_Lehrende.md#wie-wird-das-ganze-objekt-auf-allen-fotos-scharf-focus-stacking)
       + [Wie sollten durchscheinende und glänzende Objekte und Objekte mit stark spiegelnden Oberflächen fotografiert werden?](#wie-sollten-durchscheinende-und-gl%C3%A4nzende-objekte-und-objekte-mit-stark-spiegelnden-oberfl%C3%A4chen-fotografiert-werden)
-         - [Durchscheinende Objekte/ Glasobjekte (z.B. Nasspräparate, technische Instrumente)](#durchscheinende-objekte/-glasobjekte-z.B.-nasspr%C3%A4parate,-technische-instrumente)
+         - [Durchscheinende Objekte/ Glasobjekte (z.B. Nasspräparate, technische Instrumente)](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Lehrendenmaterial/Handreichung-Objektfotografie_fuer_Lehrende.md#durchscheinende-objekte-glasobjekte-zb-nasspr%C3%A4parate-technische-instrumente)
          - [Objekte mit stark spiegelnden Oberflächen (bspw. beschichtetes Glas, Metall, Keramik, Kunststoff, etc.)](#objekte-mit-stark-spiegelnden-oberfl%C3%A4chen-bspw.-beschichtetes-glas,-metall,-keramik,-kunststoff,-etc.)
       + [Wie sollten Objekte in Vitrinen am besten fotografiert werden?](#wie-sollten-objekte-in-vitrinen-am-besten-fotografiert-werden)
       + [Wie sollten besonders kleine Objekte fotografiert werden?](#wie-sollten-besonders-kleine-objekte-fotografiert-werden)
@@ -193,7 +193,7 @@ Zur Vorbereitung der Fotografie von Kulturgut und zu Anforderungen an den Arbeit
 
 Ein Objekt sollte optimalerweise so platziert werden, dass auf allen Seiten darum ausreichend Bildrand vorhanden ist, sodass zu erkennen ist, welche Form das Objekt besitzt. Um gleichmäßige Ansichten nach jeder Drehung des Objektes zu gewährleisten ist es möglichst mittig zu positionieren.
 
-Für die Wahl des Hintergrunds siehe Abschnitt [Durchscheinende Objekte/ Glasobjekte (z.B. Nasspräparate, technische Instrumente)](#durchscheinende-objekte/-glasobjekte-z.B.-nasspr%C3%A4parate,-technische-instrumente).
+Für die Wahl des Hintergrunds siehe Abschnitt [Durchscheinende Objekte/ Glasobjekte (z.B. Nasspräparate, technische Instrumente)](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Lehrendenmaterial/Handreichung-Objektfotografie_fuer_Lehrende.md#durchscheinende-objekte-glasobjekte-zb-nasspr%C3%A4parate-technische-instrumente)).
 
 Mit der Gitteransicht lässt sich leicht überprüfen, ob das Objekt beim Drehen für Aufnahmen in verschiedenen Ansichten lediglich um die Achse rotiert wird und sich nicht verschiebt. Dies ist der Idealfall und sollte gleichzeitig der Normalfall sein. Die Aktivierung der Gitteransicht wird im Video [Digitale Fotografie Teil 2 – Workflow](https://youtu.be/mAjWm4rSCuE?si=Q-gvL4Y3wNYoA4Kt&t=54) erklärt.
 
@@ -242,7 +242,7 @@ Die Kamera (mit Stativ) sollte so platziert werden, dass eine gute, formatfülle
 
 Die Beleuchtung ist so aufzustellen, dass keine Reflexionen im Glas der Vitrine sichtbar sind. Dabei sollten externe Lichtquellen im Raum (Raumbeleuchtung, Fenster) so weit wie nötig eliminiert werden. Notfalls kann ein Polfilter (am Objektiv und vor den Lichtquellen) verwendet werden. Dieser muss drehbar gelagert sein.
 
-Die Kameraparameter sind so einzustellen, dass Belichtung, Weißabgleich und genug Tiefenschärfe vorhanden sind. Ggf. muss auf Focus Stacking zurückgegriffen werden (siehe Abschnitt zu [(Focus Stacking)](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Lehrendenmaterial/Handreichung-Objektfotografie_fuer_Lehrende.md#wie-wird-das-ganze-objekt-auf-allen-fotos-scharf-focus-stacking)).
+Die Kameraparameter sind so einzustellen, dass Belichtung, Weißabgleich und genug Tiefenschärfe vorhanden sind. Ggf. muss auf Focus Stacking zurückgegriffen werden (siehe Abschnitt zu [Focus Stacking)](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Lehrendenmaterial/Handreichung-Objektfotografie_fuer_Lehrende.md#wie-wird-das-ganze-objekt-auf-allen-fotos-scharf-focus-stacking)).
 
 ### Wie sollten besonders kleine Objekte fotografiert werden?
 
