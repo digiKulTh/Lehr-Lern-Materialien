@@ -30,7 +30,7 @@ Anne Hiltscher
    * [Wie sollte ein Objekt fotografiert werden?](#wie-sollte-ein-objekt-fotografiert-werden)
       + [Wo sollte ein Objekt auf dem Foto platziert werden?](#wo-sollte-ein-objekt-auf-dem-foto-platziert-werden)
       + [Wie viele Ansichten sollten fotografiert werden?](#wie-viele-ansichten-sollten-fotografiert-werden)
-      + [Wie wird das ganze Objekt auf allen Fotos scharf? - Focus Stacking](#wie-wird-das-ganze-objekt-auf-allen-fotos-scharf?-focus-stacking)
+      + [Wie wird das ganze Objekt auf allen Fotos scharf? (Focus Stacking)](#wie-wird-das-ganze-objekt-auf-allen-fotos-scharf-(focus-stacking))
       + [Wie sollten durchscheinende und glänzende Objekte und Objekte mit stark spiegelnden Oberflächen fotografiert werden?](#wie-sollten-durchscheinende-und-gl%C3%A4nzende-objekte-und-objekte-mit-stark-spiegelnden-oberfl%C3%A4chen-fotografiert-werden)
          - [Durchscheinende Objekte/ Glasobjekte (z.B. Nasspräparate, technische Instrumente)](#durchscheinende-objekte/-glasobjekte-z.B.-nasspr%C3%A4parate,-technische-instrumente)
          - [Objekte mit stark spiegelnden Oberflächen (bspw. beschichtetes Glas, Metall, Keramik, Kunststoff, etc.)](#objekte-mit-stark-spiegelnden-oberfl%C3%A4chen-bspw.-beschichtetes-glas,-metall,-keramik,-kunststoff,-etc.)
