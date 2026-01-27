@@ -101,7 +101,7 @@ Zusätzlich erleichtert der Einsatz eines Laptops beim Fotografieren die Bildver
 
 ### Welche Technik benutzt digiKulTh?
 
-Eine Übersicht über die bei digiKulTh verwendete Technik finden Sie in der [Technikliste]([Lehr-Lern-Materialien/Lehrendenmaterial/digiKulTh-Fototechnik.md at 352583bbc4f28e2eafd6ccc71075fa1b207db986 · digiKulTh/Lehr-Lern-Materialien · GitHub](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/352583bbc4f28e2eafd6ccc71075fa1b207db986/Lehrendenmaterial/digiKulTh-Fototechnik.md)).
+Eine Übersicht über die bei digiKulTh verwendete Technik finden Sie in der [Technikliste](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/352583bbc4f28e2eafd6ccc71075fa1b207db986/Lehrendenmaterial/digiKulTh-Fototechnik.md).
 
 ### Wie wird alles aufgebaut?
 
