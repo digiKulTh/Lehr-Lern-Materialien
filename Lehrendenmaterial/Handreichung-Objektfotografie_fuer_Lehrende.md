@@ -18,7 +18,7 @@ Anne Hiltscher
       + [Wie wird alles aufgebaut?](#wie-wird-alles-aufgebaut)
    * [Software](#software)
       + [Welche Software benutzt digiKulTh?](#welche-software-benutzt-digiKulTh)
-      + [Warum große TIFFs (unkomprimiert, Farbraum Adobe RGB (1998), 16 Bit) und nicht kleine JPEGs? – Speicherformate](#warum-große-tiffs-unkomprimiert,-farbraum-adobe-rgb-1998,-16-bit-und-nicht-kleine-jpgs–speicherformate)
+      + [Warum große TIFFs und nicht kleine JPEGs? – Speicherformate](#warum-gro%C3%9Fe-tiffs-und-nicht-kleine-jpegs–speicherformate)
    * [Wie werden Kamera und Objektiv eingestellt?](#wie-werden-kamera-und-objektiv-eingestellt)
       + [Warum wird im manuellen Modus der Kamera fotografiert?](#warum-wird-im-manuellen-modus-der-kamera-fotografiert)
       + [Warum wird das Objektiv auf manuellen Fokus eingestellt?](#warum-wird-das-objektiv-auf-manuellen-fokus-eingestellt)
@@ -117,9 +117,9 @@ Bei digiKulTh wird Capture One genutzt, da eine Dauerlizenz angeboten wird. Alte
 
 Für weitere Informationen und Links steht die [Technikliste](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/352583bbc4f28e2eafd6ccc71075fa1b207db986/Lehrendenmaterial/digiKulTh-Fototechnik.md) zur Verfügung.
 
-### Warum große TIFFs (unkomprimiert, Farbraum Adobe RGB (1998), 16 Bit) und nicht kleine JPEGs? – Speicherformate
+### Warum große TIFFs und nicht kleine JPEGs? – Speicherformate
 
-Im RAW-Format werden alle Sensorinformationen gespeichert. Um daraus ein nachnutzbares Dateiformat zu erstellen, muss es mit einer Software „entwickelt“ werden. Bei der „Entwicklung“ können Dateiformate wie JPEG ausgewählt werden, die das Bild komprimieren (z.B. dunkle und helle Bereiche sowie einzelne Pixel in größere Blöcke zusammenfassen, etc.), wodurch wichtige Informationen und kleine Details verloren gehen könnten. Außerdem sind die meisten RAW-Formate und JPEG proprietär (keine freie Software, sondern Eigentum eines bestimmten Herstellers) und benötigen bestimmte Software, um geöffnet zu werden. Dadurch könnte die langfristige Nutzung der Daten gefährdet sein. TIFF ist ein offeneres Format, bei dem dieses Risiko nicht besteht. Die Bilder können unkomprimiert gespeichert werden und werden auch in vielen Jahren noch nutzbar sein – selbst wenn durch Fehler im Datenträger einzelne Pixel nicht mehr lesbar sind.
+Im RAW-Format werden alle Sensorinformationen gespeichert. Um daraus ein nachnutzbares Dateiformat zu erstellen, muss es mit einer Software „entwickelt“ werden. Bei der „Entwicklung“ können Dateiformate wie JPEG ausgewählt werden, die das Bild komprimieren (z.B. dunkle und helle Bereiche sowie einzelne Pixel in größere Blöcke zusammenfassen, etc.), wodurch wichtige Informationen und kleine Details verloren gehen könnten. Außerdem sind die meisten RAW-Formate und JPEG proprietär (keine freie Software, sondern Eigentum eines bestimmten Herstellers) und benötigen bestimmte Software, um geöffnet zu werden. Dadurch könnte die langfristige Nutzung der Daten gefährdet sein. TIFF (im digiKulTh-Projekt mit Auswahl unkomprimiert, Farbraum Adobe RGB (1998), 16 Bit) ist ein offeneres Format, bei dem dieses Risiko nicht besteht. Die Bilder können unkomprimiert gespeichert werden und werden auch in vielen Jahren noch nutzbar sein – selbst wenn durch Fehler im Datenträger einzelne Pixel nicht mehr lesbar sind.
 
 Der Farbraum RGB wird für digitale Abbildungsformate gewählt, CMYK bspw. für Printformate.
 
