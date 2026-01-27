@@ -167,7 +167,7 @@ Bei einer kleineren Blendenzahl wird die Blendenöffnung größer und lässt meh
 
 Bei größerer Blendenzahl >f16 wird die Blendenöffnung kleiner - lässt also weniger Licht an den Sensor. Dies kann zu dunklen Bildern führen.
 
-Der Blendenwert f8-f16, der im Praxisseminar für die Objektfotografie verwendet wird, ist optimal, da die Objekte im Fotosetup mit Blitzen stark ausgeleuchtet werden und somit ausreichend Licht auf eine kleine Blendenöffnung fallen kann. Zudem wird ein großer Teil bzw. das gesamte Objekt fokussiert. Für Objekte, die nicht rotationssymmetrisch sind, bietet sich Focus Stacking an (siehe Abschnitt zu [Focus Stacking](#wie-wird-das-ganze-objekt-auf-allen-Fotos-scharf?-(focus-stacking))).
+Der Blendenwert f8-f16, der im Praxisseminar für die Objektfotografie verwendet wird, ist optimal, da die Objekte im Fotosetup mit Blitzen stark ausgeleuchtet werden und somit ausreichend Licht auf eine kleine Blendenöffnung fallen kann. Zudem wird ein großer Teil bzw. das gesamte Objekt fokussiert. Für Objekte, die nicht rotationssymmetrisch sind, bietet sich Focus Stacking an (siehe Abschnitt zu [Focus Stacking](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Lehrendenmaterial/Handreichung-Objektfotografie_fuer_Lehrende.md#wie-wird-das-ganze-objekt-auf-allen-fotos-scharf-focus-stacking)).
 
 Bei einer kleineren Blende wie z.B. f16 bleibt ein größerer Teil des Motivs im Fokus.
 
@@ -242,7 +242,7 @@ Die Kamera (mit Stativ) sollte so platziert werden, dass eine gute, formatfülle
 
 Die Beleuchtung ist so aufzustellen, dass keine Reflexionen im Glas der Vitrine sichtbar sind. Dabei sollten externe Lichtquellen im Raum (Raumbeleuchtung, Fenster) so weit wie nötig eliminiert werden. Notfalls kann ein Polfilter (am Objektiv und vor den Lichtquellen) verwendet werden. Dieser muss drehbar gelagert sein.
 
-Die Kameraparameter sind so einzustellen, dass Belichtung, Weißabgleich und genug Tiefenschärfe vorhanden sind. Ggf. muss auf Focus Stacking zurückgegriffen werden (siehe Abschnitt zu [Focus Stacking](#wie-wird-das-ganze-objekt-auf-allen-Fotos-scharf?-(focus-stacking))).
+Die Kameraparameter sind so einzustellen, dass Belichtung, Weißabgleich und genug Tiefenschärfe vorhanden sind. Ggf. muss auf Focus Stacking zurückgegriffen werden (siehe Abschnitt zu [(Focus Stacking)](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Lehrendenmaterial/Handreichung-Objektfotografie_fuer_Lehrende.md#wie-wird-das-ganze-objekt-auf-allen-fotos-scharf-focus-stacking)).
 
 ### Wie sollten besonders kleine Objekte fotografiert werden?
 
@@ -252,7 +252,7 @@ Bei der Makrofotografie ist die Einstellung der Schärfentiefe meist herausforde
 
 Für erschütterungsfreie Aufnahmen bieten sich ein Stativ und eine Fernbedienung zum Auslösen der Kamera an. Falls die Bilder dennoch verwackelt sind, kann die zusätzliche Einstellung der verzögerten Selbstauslösefunktion Abhilfe schaffen. Zudem sollte der manuelle Fokus als Einstellung gewählt werden.
 
-Es sollte ein Blendenwert im Schärfehotspot (f8-f16) eingestellt werden. Wenn das Objekt nicht komplett scharf wird, bietet sich das [Focus Stacking](#wie-wird-das-ganze-objekt-auf-allen-Fotos-scharf?-(focus-stacking)) an.
+Es sollte ein Blendenwert im Schärfehotspot (f8-f16) eingestellt werden. Wenn das Objekt nicht komplett scharf wird, bietet sich das [Focus Stacking](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Lehrendenmaterial/Handreichung-Objektfotografie_fuer_Lehrende.md#wie-wird-das-ganze-objekt-auf-allen-fotos-scharf-focus-stacking) an.
 
 Zudem bietet sich, um einen evtl. Schattenwurf der Kamera zu verhindern, die Beleuchtung mittels eines Ringlichts an, die ans Objektiv geschraubt wird. Auch Lichtzelte könnten eine gute Lösung bieten, v.a. wenn Objekte bereits durch Schattenwurf von der Kamera beeinträchtigt werden. (Für vertiefende Informationen zum Thema Lichtqualität und Fotografie von v.a. naturkundlichen Objekten, in kleinen Formaten, von Schaukästen mit Glasdeckeln und Objekten/ Subjekten mit reflektierenden Oberflächen ist Gunnar Brehms Paper [Light in standardised insect photography and description of lighting devices, including the UV range](https://nl.pensoft.net/article/145444/) mit drei selbst konstruierten Beleuchtungsgeräten für verschiedene Anwendungsfälle zu empfehlen.)
 
