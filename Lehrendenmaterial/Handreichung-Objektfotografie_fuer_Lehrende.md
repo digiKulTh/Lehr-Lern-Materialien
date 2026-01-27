@@ -36,7 +36,7 @@ Anne Hiltscher
          - [Objekte mit stark spiegelnden Oberflächen (bspw. beschichtetes Glas, Metall, Keramik, Kunststoff, etc.)](#objekte-mit-stark-spiegelnden-oberfl%C3%A4chen-bspw.-beschichtetes-glas,-metall,-keramik,-kunststoff,-etc.)
       + [Wie sollten Objekte in Vitrinen am besten fotografiert werden?](#wie-sollten-objekte-in-vitrinen-am-besten-fotografiert-werden)
       + [Wie sollten besonders kleine Objekte fotografiert werden?](#wie-sollten-besonders-kleine-objekte-fotografiert-werden)
-      + [Wie sollten besonders große Objekte, Gebäude u.ä. fotografiert werden?](#wie-sollten-besonders-große-objekte,-geb%C3%A4ude-u.-%C3%A4.-fotografiert-werden)
+      + [Wie sollten besonders große Objekte, Gebäude u.ä. fotografiert werden?](#wie-sollten-besonders-gro%C3%9Fe-objekte-geb%C3%A4ude-u-%C3%A4-fotografiert-werden)
          - [Fall a)](#fall-a))
          - [Fall b)](#fall-b))
          - [Architekturfotografie](#architekturfotografie)
