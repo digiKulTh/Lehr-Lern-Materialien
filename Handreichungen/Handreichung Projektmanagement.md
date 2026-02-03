@@ -144,7 +144,7 @@ Für bestmögliche Qualität sollte man unkomprimierte Versionen von Bilddaten a
 
 ### Qualitätsmanagement
 
-Gerade bei mehrjährigen Projekten und wechselndem Personal sollte immer wieder geprüft werden, ob alle Daten – sowohl bezüglich der Digitalisate als auch der Metadaten – der Arbeitsanweisung entsprechen und die notwendigen Merkmale aufweisen. So kann es passieren, dass Digitalisate nicht korrekt mit den Datensätzen verknüpft werden, weil sich Fehler in Dateinamen eingeschlichen haben (z. B. `00558–01.tiff` statt `00558-01.tiff`). Vielleicht wurde auch zwischenzeitlich die Beleuchtung ausgetauscht, aber der Weißabgleich nicht angepasst, sodass ein Farbshift aufgetreten ist, der unbemerkt blieb.
+Gerade bei mehrjährigen Projekten und wechselndem Personal sollte immer wieder geprüft werden, ob alle Daten – sowohl bezüglich der Digitalisate als auch der Metadaten – der Arbeitsanweisung entsprechen und die notwendigen Merkmale aufweisen. So kann es passieren, dass Digitalisate nicht korrekt mit den Datensätzen verknüpft werden, weil sich Fehler in Dateinamen eingeschlichen haben (z. B. `00558–01.tiff` (Trennzeichen Gedankenstrich) statt `00558-01.tiff`(Trennzeichen Bindestrich)). Vielleicht wurde auch zwischenzeitlich die Beleuchtung ausgetauscht, aber der Weißabgleich nicht angepasst, sodass ein Farbshift aufgetreten ist, der unbemerkt blieb.
 
 ### Langfristige Datenhaltung
 
