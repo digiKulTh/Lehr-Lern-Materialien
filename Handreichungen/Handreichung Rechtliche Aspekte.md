@@ -143,29 +143,29 @@ Fragen zum Thema Urheberrecht werden zentral, sobald es zur "Vervielfältigung" 
 
 ## Anhang: Verwendete und weiterführende Literatur
 
-Bertelsmann Stiftung (Hrsg.) (2016): Freie Lizenzen - einfach erklärt. Abgerufen von https://www.bertelsmann-stiftung.de/de/publikationen/publikation/did/freie-lizenzen-einfach-erklaert (27/05/2024).
+Bertelsmann Stiftung (Hrsg.) (2016): Freie Lizenzen - einfach erklärt. Abgerufen von https://www.bertelsmann-stiftung.de/de/publikationen/publikation/did/freie-lizenzen-einfach-erklaert (letzter Zugriff 27.05.2024).
 
-Creative Commons Germany (2024). Abgerufen von https://de.creativecommons.net/ (02/12/2024).
+Creative Commons Germany (2024). Abgerufen von https://de.creativecommons.net/ (letzter Zugriff 02.12.2024).
 
-Creative Commons (2024): About CC licenses. Abgerufen von https://creativecommons.org/share-your-work/cclicenses/ (02/12/2024).
+Creative Commons (2024): About CC licenses. Abgerufen von https://creativecommons.org/share-your-work/cclicenses/ (letzter Zugriff 02.12.2024).
 
-Deutsche Digitale Bibliothek (2024): Die Digitalisierung nicht verfügbarer Werke. Abgerufen von https://pro.deutsche-digitale-bibliothek.de/daten-liefern/teilnahmekriterien/rechtliches/digitalisierung-noch-urheberrechtlich-geschuetzter-materialien (02/12/2024).
+Deutsche Digitale Bibliothek (2024): Die Digitalisierung nicht verfügbarer Werke. Abgerufen von https://pro.deutsche-digitale-bibliothek.de/daten-liefern/teilnahmekriterien/rechtliches/digitalisierung-noch-urheberrechtlich-geschuetzter-materialien (letzter Zugriff 02.12.2024).
 
-Gesetz über Urheberrecht und verwandte Schutzrechte (Urheberrechtsgesetz). Abgerufen von  https://www.gesetze-im-internet.de/urhg/ (02/12/2024).
+Gesetz über Urheberrecht und verwandte Schutzrechte (Urheberrechtsgesetz). Abgerufen von  https://www.gesetze-im-internet.de/urhg/ (letzter Zugriff 02.12.2024).
 
-Klimpel, Paul (2023): 3D-Scans und das Recht. Abgerufen von https://irights.info/artikel/3d-scans-und-das-recht/32063 (02/12/2024).
+Klimpel, Paul (2023): 3D-Scans und das Recht. Abgerufen von https://irights.info/artikel/3d-scans-und-das-recht/32063 (letzter Zugriff 02.12.2024).
 
-Klimpel, Paul (2022). In Bewegung. Die Rechtsfibel für Digitalisierungsprojekte in Kulturerbe-Einrichtungen. Abgerufen von https://opus4.kobv.de/opus4-zib/frontdoor/index/index/docId/8648 (11/04/2024).
+Klimpel, Paul (2022). In Bewegung. Die Rechtsfibel für Digitalisierungsprojekte in Kulturerbe-Einrichtungen. Abgerufen von https://opus4.kobv.de/opus4-zib/frontdoor/index/index/docId/8648 (letzter Zugriff 11.04.2024).
 
-Markert, Michael (2024). Entscheidungsbaum zu urheberrechtlichen Aspekten der Nutzung von Digitalisaten durch Kulturinstitutionen wie Universitätssammlungen. Abgerufen von https://liascript.github.io/course/?https://api.allorigins.win/raw?url=https%3A%2F%2Fraw.githubusercontent.com%2FMichaelMarkert%2FSODa%2Fmain%2Fdocs%2Furhg_baum.md (14/07/25).
+Markert, Michael (2024). Entscheidungsbaum zu urheberrechtlichen Aspekten der Nutzung von Digitalisaten durch Kulturinstitutionen wie Universitätssammlungen. Abgerufen von https://liascript.github.io/course/?https://api.allorigins.win/raw?url=https%3A%2F%2Fraw.githubusercontent.com%2FMichaelMarkert%2FSODa%2Fmain%2Fdocs%2Furhg_baum.md (letzter Zugriff 14.07.2025).
 
 Sächsische Landesstelle für Museumswesen (Hrsg.) (2020): Handreichungen für die Museumsarbeit. Nr. 5
-Bildrechte im Museum, Chemnitz, URL: https://museumswesen.skd.museum/fileadmin/userfiles/Saechsische_Landesstelle_fuer_Museumswesen/Dateien/Digiteam/HR_Dokumentation_5_Bildrechte_neu.pdf (02/06/2025).
+Bildrechte im Museum, Chemnitz, URL: https://museumswesen.skd.museum/fileadmin/userfiles/Saechsische_Landesstelle_fuer_Museumswesen/Dateien/Digiteam/HR_Dokumentation_5_Bildrechte_neu.pdf (letzter Zugriff 02.06.2025).
 
-Strafgesetzbuch. Abgerufen von https://www.gesetze-im-internet.de/stgb/ (02/12/2024).
+Strafgesetzbuch. Abgerufen von https://www.gesetze-im-internet.de/stgb/ (letzter Zugriff 02.12.2024).
 
-Verfassungsschutz (2024): Übersichten verbotener Kennzeichen und Symbole erweitert. Abgerufen von https://www.verfassungsschutz.de/SharedDocs/kurzmeldungen/DE/2024/2024-06-07-auflistung-verbotener-zeichen-und-symbole.html (02/12/2024).
+Verfassungsschutz (2024): Übersichten verbotener Kennzeichen und Symbole erweitert. Abgerufen von https://www.verfassungsschutz.de/SharedDocs/kurzmeldungen/DE/2024/2024-06-07-auflistung-verbotener-zeichen-und-symbole.html (letzter Zugriff 02.12.2024).
 
-VG Bild-Kunst (2023) Internet-Tarife. Abgerufen von  https://www.bildkunst.de/download.2496c0f5cd21917ad981f1ac2233b460_1/ (02/12/2024).
+VG Bild-Kunst (2023) Internet-Tarife. Abgerufen von  https://www.bildkunst.de/download.2496c0f5cd21917ad981f1ac2233b460_1/ (letzter Zugriff 02.12.2024).
 
-VG Bild-Kunst (2024): Künstlersuche. Abgerufen von https://www.bildkunst.de/lizenzen/bildrechte_klaeren/kuenstlersuche/ (02/12/2024).
+VG Bild-Kunst (2024): Künstlersuche. Abgerufen von https://www.bildkunst.de/lizenzen/bildrechte_klaeren/kuenstlersuche/ (letzter Zugriff 02.12.2024).
