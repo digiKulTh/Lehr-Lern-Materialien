@@ -162,14 +162,14 @@ Bei einer Datenpublikation ist darauf zu achten, dass die Datensätze Mindeststa
 
 ## Literatur
 
-AG Minimaldatensatz: Minimaldatensatz-Empfehlung für Museen und Sammlungen v1.0.1. 2024, URL: http://www.minimaldatensatz.de/
+AG Minimaldatensatz: Minimaldatensatz-Empfehlung für Museen und Sammlungen v1.0.1. 2024, URL: http://www.minimaldatensatz.de/ (letzer Zugriff 05/02/2025).
 
-Deutsche Digitale Bibliothek: Homepage, 2025, URL: https://www.deutsche-digitale-bibliothek.de/
+Deutsche Digitale Bibliothek: Homepage, 2025, URL: https://www.deutsche-digitale-bibliothek.de/ (letzer Zugriff 05/02/2025).
 
-Europeana: Homepage, 2025, URL: https://www.europeana.eu/
+Europeana: Homepage, 2025, URL: https://www.europeana.eu/ (letzer Zugriff 05/02/2025).
 
-Knaus, Gudrun: Leitfaden für digitales Sammlungsmanagement an Kunstmuseen. Heidelberg 2019, URL: https://archiv.ub.uni-heidelberg.de/artdok/6413/
+Knaus, Gudrun: Leitfaden für digitales Sammlungsmanagement an Kunstmuseen. Heidelberg 2019, URL: https://archiv.ub.uni-heidelberg.de/artdok/6413/ (letzer Zugriff 06/02/2025).
 
-Wikimedia: Commons:Structured data, 2025, URL: <https://commons.wikimedia.org/wiki/Commons:Structured_data>
+Wikimedia: Commons:Structured data, 2025, URL: <https://commons.wikimedia.org/wiki/Commons:Structured_data> (letzer Zugriff 06/02/2025).
 
-Wikipedia: Gaussian Splatting, 2025, URL: <https://de.wikipedia.org/wiki/Gaussian_Splatting>
+Wikipedia: Gaussian Splatting, 2025, URL: <https://de.wikipedia.org/wiki/Gaussian_Splatting> (letzer Zugriff 06/02/2025).
