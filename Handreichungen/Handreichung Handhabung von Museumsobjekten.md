@@ -14,7 +14,8 @@ Anne Hiltscher & Rebecca Wulke
 * [Anhang: Checkliste](#anhang-checkliste)
 * [Anhang: Verwendete Literatur](#anhang-verwendete-und-weiterführende-literatur)
 
-> KI-Podcast
+
+## KI-Podcast
 > Erstellt mit https://notebooklm.google.com/, geprüft auf inhaltliche Fehler
 
 > https://github.com/user-attachments/assets/6ab7beab-063e-49b1-a6b8-c3658ce10b00
