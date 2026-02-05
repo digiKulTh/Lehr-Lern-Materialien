@@ -110,44 +110,44 @@ Es ist ein naheliegender Impuls sich auf das Recht als vermeintlich sicheren Haf
 
 ## Anhang: Verwendete und weiterführende Literatur
 
-Bruckmann, Z. *et al.* (2024). Dekolonialisierung der Sammlungen und Archive der ETH Zürich – ein Leitfaden aus der Praxis. Abgerufen von https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/691291/Leitfaden_AG_Dekolonialisierung.pdf (14/07/2025).
+Bruckmann, Z. *et al.* (2024). Dekolonialisierung der Sammlungen und Archive der ETH Zürich – ein Leitfaden aus der Praxis. Abgerufen von https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/691291/Leitfaden_AG_Dekolonialisierung.pdf (letzter Zugriff 14.07.2025).
 
-Bundesärztekammer (2003). Mitteilungen: Empfehlungen zum Umgang mit Präparaten aus menschlichem Gewebe in Sammlungen, Museen und öffentlichen Räumen, *Deutsches Ärzteblatt*, 100 (28–29), S. A 1960-A1965. Abgerufen von https://wissenschaftliche-sammlungen.de/files/8213/7275/6102/EmpfehlungenAeB.pdf (04/08/2025).
+Bundesärztekammer (2003). Mitteilungen: Empfehlungen zum Umgang mit Präparaten aus menschlichem Gewebe in Sammlungen, Museen und öffentlichen Räumen, *Deutsches Ärzteblatt*, 100 (28–29), S. A 1960-A1965. Abgerufen von https://wissenschaftliche-sammlungen.de/files/8213/7275/6102/EmpfehlungenAeB.pdf (letzter Zugriff 04.08.2025).
 
-Cornwall, J. *et al.* (2024). IFAA recommendations for the ethical use of anatomical images, Anatomical Sciences Education, 17 (1), S. 7–10. Abgerufen von https://anatomypubs.onlinelibrary.wiley.com/doi/10.1002/ase.2349 (25/04/24).
+Cornwall, J. *et al.* (2024). IFAA recommendations for the ethical use of anatomical images, Anatomical Sciences Education, 17 (1), S. 7–10. Abgerufen von https://anatomypubs.onlinelibrary.wiley.com/doi/10.1002/ase.2349 (letzter Zugriff 25.04.2024).
 
-Datenschutz-Grundverordnung (DSGVO). Abgerufen von https://dsgvo-gesetz.de/ (02/12/2024).
+Datenschutz-Grundverordnung (DSGVO). Abgerufen von https://dsgvo-gesetz.de/ (letzter Zugriff 02.12.2024).
 
-Deutscher Museumsbund e. V. (2019). *Leitfaden Umgang mit Sammlungsgut aus kolonialen Kontexten*. 2. Berlin. Abgerufen von https://www.museumsbund.de/wp-content/uploads/2019/08/dmb-leitfaden-kolonialismus-2019.pdf.
+Deutscher Museumsbund e. V. (2019). *Leitfaden Umgang mit Sammlungsgut aus kolonialen Kontexten*. 2. Berlin. Abgerufen von https://www.museumsbund.de/wp-content/uploads/2019/08/dmb-leitfaden-kolonialismus-2019.pdf. (letzter Zugriff 03.03.2024).
 
-Deutscher Museumsbund e. V. (Hrsg.) (2021). *Leitfaden Umgang mit menschlichen Überresten in Museen und Sammlungen*. Abgerufen von https://www.museumsbund.de/wp-content/uploads/2021/06/dmb-leitfaden-umgang-menschl-ueberr-de-web-20210623.pdf (26/09/2022).
+Deutscher Museumsbund e. V. (Hrsg.) (2021). *Leitfaden Umgang mit menschlichen Überresten in Museen und Sammlungen*. Abgerufen von https://www.museumsbund.de/wp-content/uploads/2021/06/dmb-leitfaden-umgang-menschl-ueberr-de-web-20210623.pdf (letzter Zugriff 26.09.2024).
 
-Deutsches Zentrum Kulturgutverluste (2024). NS-Raubgut: Grundlagen und Übersicht. Abgerufen von https://kulturgutverluste.de/kontexte/ns-raubgut (02/12/2024).
+Deutsches Zentrum Kulturgutverluste (2024). NS-Raubgut: Grundlagen und Übersicht. Abgerufen von https://kulturgutverluste.de/kontexte/ns-raubgut (letzter Zugriff 02.12.2024).
 
-Global Indigenous Data Alliance (2024). CARE Principles for Indigenous Data Governance. Abgerufen von https://www.gida-global.org/care (02/12/2024).
+Global Indigenous Data Alliance (2024). CARE Principles for Indigenous Data Governance. Abgerufen von https://www.gida-global.org/care (letzter Zugriff 02.12.2024).
 
-Deutsche Nationalbibliothek (2024). gnd.network. Abgerufen von https://gnd.network/Webs/gnd/DE/Home/home_node.html (02/12/2024).
+Deutsche Nationalbibliothek (2024). gnd.network. Abgerufen von https://gnd.network/Webs/gnd/DE/Home/home_node.html (letzter Zugriff 02.12.2024).
 
-Fuchs, J.Gabler, D. & Markert, M. (2021). ‘Menschliche Überreste im Depot. Empfehlungen für Betreuung und Nutzung. 2. Fassung’. Abgerufen von https://wissenschaftliche-sammlungen.de/download_file/view/2206/ (03/03/2020).
+Fuchs, J.Gabler, D. & Markert, M. (2021). ‘Menschliche Überreste im Depot. Empfehlungen für Betreuung und Nutzung. 2. Fassung’. Abgerufen von https://wissenschaftliche-sammlungen.de/download_file/view/2206/ (letzter Zugriff 03.03.2024).
 
-Geonames (2024). Abgerufen von https://www.geonames.org/ (02/12/2024).
+Geonames (2024). Abgerufen von https://www.geonames.org/ (letzter Zugriff 02.12.2024).
 
-Getty Research Institute (2024). Art & Architexture Thesaurus Online. Abgerufen von https://www.getty.edu/research/tools/vocabularies/aat/ (02/12/2024).
+Getty Research Institute (2024). Art & Architexture Thesaurus Online. Abgerufen von https://www.getty.edu/research/tools/vocabularies/aat/ (letzter Zugriff 02.12.2024).
 
-Go Fair (2024). FAIR Principles. Abgerufen von https://www.go-fair.org/fair-principles/ (02/12/2024).
+Go Fair (2024). FAIR Principles. Abgerufen von https://www.go-fair.org/fair-principles/ (letzter Zugriff 02.12.2024).
 
-ICOM-CIDOC (2024). LIDO overview. Abgerufen von https://cidoc.mini.icom.museum/working-groups/lido/lido-overview/ (02/12/2024).
+ICOM-CIDOC (2024). LIDO overview. Abgerufen von https://cidoc.mini.icom.museum/working-groups/lido/lido-overview/ (letzter Zugriff 02.12.2024).
 
-Imeri, S. & Rizzolli, M. (2022). ‘CARE Principles for Indigenous Data Governance: Eine Leitlinie für ethische Fragen im Umgang mit Forschungsdaten?’, *o-bib. Das offene Bibliotheksjournal / Herausgeber VDB*, 9 (2), S. 1–14. Abgerufen von https://www.o-bib.de/bib/article/view/5815 (02/12/2024).
+Imeri, S. & Rizzolli, M. (2022). ‘CARE Principles for Indigenous Data Governance: Eine Leitlinie für ethische Fragen im Umgang mit Forschungsdaten?’, *o-bib. Das offene Bibliotheksjournal / Herausgeber VDB*, 9 (2), S. 1–14. Abgerufen von https://www.o-bib.de/bib/article/view/5815 (letzter Zugriff 02.12.2024).
 
-Jütte, R. (2011). ‘Die Stuttgarter Empfehlungen zum Umgang mit Präparaten aus menschlichem Gewebe in Sammlungen, Museen und öffentlichen Räumen’, In Weber, C. & Mauersberger, K. (Hrsg.) *Universitätsmussen und -sammlungen im Hochschulalltag*. Berlin, S. 43–47. Abgerufen von https://edoc.hu-berlin.de/handle/18452/1976 (10/12/2019).
+Jütte, R. (2011). ‘Die Stuttgarter Empfehlungen zum Umgang mit Präparaten aus menschlichem Gewebe in Sammlungen, Museen und öffentlichen Räumen’, In Weber, C. & Mauersberger, K. (Hrsg.) *Universitätsmussen und -sammlungen im Hochschulalltag*. Berlin, S. 43–47. Abgerufen von https://edoc.hu-berlin.de/handle/18452/1976 (letzter Zugriff 10.12.2019).
 
-Kaiser, I. (2021). ‘Digitalisierung menschlicher Überreste als besondere Herausforderung’. In Hahn, H. P. et al. (Hrsg.) *Digitalisierung ethnologischer Sammlungen. Perspektiven aus Theorie und Praxis*. Bielefeld, S. 199–214. Aberufen von https://www.transcript-open.de/doi/10.14361/9783839457900-012 (11/02/2025).
+Kaiser, I. (2021). ‘Digitalisierung menschlicher Überreste als besondere Herausforderung’. In Hahn, H. P. et al. (Hrsg.) *Digitalisierung ethnologischer Sammlungen. Perspektiven aus Theorie und Praxis*. Bielefeld, S. 199–214. Aberufen von https://www.transcript-open.de/doi/10.14361/9783839457900-012 (letzter Zugriff 11.02.2025).
 
-Local Contexts (2024). Abgerufen von https://localcontexts.org/ (02/12/2024).
+Local Contexts (2024). Abgerufen von https://localcontexts.org/ (letzter Zugriff 02.12.2024).
 
-Mähr, M. & Schnegg, N. (2024). ‘Handbuch zur Erstellung diskriminierungsfreier Metadaten für historische Quellen und Forschungsdaten’. Abgerufen von https://maehr.github.io/diskriminierungsfreie-metadaten/ (29/07/2024).
+Mähr, M. & Schnegg, N. (2024). ‘Handbuch zur Erstellung diskriminierungsfreier Metadaten für historische Quellen und Forschungsdaten’. Abgerufen von https://maehr.github.io/diskriminierungsfreie-metadaten/ (letzter Zugriff 29.07.2024).
 
-Minimaldatensatz, A. G. *et al.* (2024). Minimaldatensatz-Empfehlung für Museen und Sammlungen (v1.0). Abgerufen von https://zenodo.org/records/11209289 (31/05/2024).
+Minimaldatensatz, A. G. *et al.* (2024). Minimaldatensatz-Empfehlung für Museen und Sammlungen (v1.0). Abgerufen von https://zenodo.org/records/11209289 (letzter Zugriff 31.05.2024).
 
-Montenegro, M. (2019). ‘Subverting the universality of metadata standards : The TK labels as a tool to promote Indigenous data sovereignty’, *Universality of metadata standards*, 75 (4), S. 731–749. Abgerufen von https://doi.org/10.1108/JD-08-2018-0124 (02/12/2024).
+Montenegro, M. (2019). ‘Subverting the universality of metadata standards : The TK labels as a tool to promote Indigenous data sovereignty’, *Universality of metadata standards*, 75 (4), S. 731–749. Abgerufen von https://doi.org/10.1108/JD-08-2018-0124 (letzter Zugriff 02.12.2024).
