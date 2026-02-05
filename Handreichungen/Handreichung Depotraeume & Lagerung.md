@@ -18,7 +18,6 @@ Anne Hiltscher & Rebecca Wulke
 
 ## KI-Podcast
 
-> KI-Podcast
 > Erstellt mit https://notebooklm.google.com/, geprüft auf inhaltliche Fehler
 
 > https://github.com/user-attachments/assets/2695fb5c-d7fd-40f9-be70-f9d274f22d5e
