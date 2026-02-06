@@ -2,18 +2,23 @@
 
 Anne Hiltscher & Rebecca Wulke
 
-* [Grundvoraussetzungen am Arbeitsplatz](#grundvoraussetzungen-am-arbeitsplatz)
-  + [Kleidung](#kleidung)
-  + [Räume und Wege](#räume-und-wege)
-  + [Arbeitsflächen](#arbeitsflächen)
-  + [Zeit und Ruhe](#zeit-und-ruhe)
-  + [Klima und Lichtbedingungen am Arbeitsplatz](#klima-und-lichtbedingungen-am-arbeitsplatz)
-* [Vor dem Objekthandling](#vor-dem-objekthandling)
-* [Handling von Objekten](#handling-von-objekten)
-* [Reinigung von Objekten](#reinigung-von-objekten)
-* [Anhang: Checkliste](#anhang-checkliste)
-* [Anhang: Verwendete Literatur](#anhang-verwendete-und-weiterführende-literatur)
+**[PLEASE FIND THE ENGLISH VERSION BELOW](#handout-on-handling-museum-objects)**
 
+<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
+
+- [Grundvoraussetzungen am Arbeitsplatz](#grundvoraussetzungen-am-arbeitsplatz)
+   * [Kleidung](#kleidung)
+   * [Räume und Wege](#räume-und-wege)
+   * [Arbeitsflächen](#arbeitsflächen)
+   * [Zeit und Ruhe](#zeit-und-ruhe)
+   * [Klima und Lichtbedingungen am Arbeitsplatz](#klima-und-lichtbedingungen-am-arbeitsplatz)
+- [Vor dem Objekthandling](#vor-dem-objekthandling)
+- [Handling von Objekten](#handling-von-objekten)
+- [Reinigung von Objekten](#reinigung-von-objekten)
+- [Anhang: Checkliste](#anhang-checkliste)
+- [Anhang: Verwendete Literatur](#anhang-verwendete-und-weiterführende-literatur)
+
+<!-- TOC end -->
 
 ## KI-Podcast
 > Erstellt mit https://notebooklm.google.com/, geprüft auf inhaltliche Fehler
@@ -104,3 +109,104 @@ Rangol, Verena (2019): Zum Umgang mit Museumsobjekten. Eine Handreichung der LVR
 Volkskundliche Beratungs- und Dokumentationsstelle für Thüringen (Hrsg.) (2022): Grundwissen Heimatstube, Kranichfeld, URL: https://www.xn--volkskundliche-beratung-thringen-xmd.de/fileadmin/user_upload/03_aktuelles/Grundwissen_Heimatstube_Ratgeber.pdf (letzter Zugriff 02.12.2024).
 
 Waller, Christoph (Hrsg.): Didaktik zur Präventiven Konservierung, URL: https://llfa.de/didaktik.html (letzter Zugriff 05.12.2024).
+
+# Handout on Handling Museum Objects
+
+Anne Hiltscher & Rebecca Wulke
+
+<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
+
+- [Basic Requirements at the Workstation](#basic-requirements-at-the-workstation)
+   * [Clothing](#clothing)
+   * [Spaces and routes](#spaces-and-routes)
+   * [Work surfaces](#work-surfaces)
+   * [Time and rest](#time-and-rest)
+   * [Climate and lighting conditions at the workstation](#climate-and-lighting-conditions-at-the-workstation)
+- [Before Handling an Object](#before-handling-an-object)
+- [Handling Objects](#handling-objects)
+- [Cleaning Objects](#cleaning-objects)
+- [Appendix: Checklist](#appendix-checklist)
+- [Appendix: Sources and Literature](#appendix-sources-and-literature)
+
+<!-- TOC end -->
+
+Moving and touching an object poses a potential risk to both the object and the people working with the object. To avoid these risks, observe the recommendations for handling collection objects safely and carefully. Different types of objects and materials require different handling and transport. Before moving an object, carefully plan each work step.
+
+## Basic Requirements at the Workstation
+
+### Clothing
+
+**Nitrile gloves** should always be worn when working with objects in order to protect them from sweat, dirt and grease and at the same time, protect the persons working with the object (see [Handout on Hazardous Substances and Occupational Safety](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Handreichungen/Handreichung%20Gefahrstoffe%20und%20Arbeitsschutz.md)). In addition, suitable, clean clothing and sturdy footwear are important. Do not wear clothing **with sharp-edged applications (e.g., rivets, buttons and buckles), cords and bands** that could damage or catch on an object. **Wide cuts** (batwing sleeves, waterfall necklines) are also unsuitable. When working with objects, avoid wearing **jewelry**, such as belt buckles, rings, bracelets and long necklaces. Sturdy footwear provides sure-footedness and protects feet against dirt and coarse particles.
+
+### Spaces and routes
+
+An environment with sufficient light and sufficient space must be selected for handling and processing the objects to allow yourself, any other persons required and the object itself to move or be moved. Routes must be checked beforehand and, if necessary, cleared to eliminate tripping hazards.
+
+### Work surfaces
+
+The workstation must be prepared before working with an object. Choose and clear a surface to create sufficient room. Make sure that the **surfaces are clean and tidy**. A separate table is ideal. There should be no sharp-edged objects or liquids at the workstation. The **work surface should be large enough** to safely set the object down and, if necessary, move it on the surface. The work surface itself should also be clean and dry. Depending on the object and area, use pads, such as acid-free cardboard or foam sheets, to protect the object. Do not store or ingest food or beverages at the workstation while working with objects. This protects both the object and your own health (see [Handout on Hazardous Substances and Occupational Safety](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Handreichungen/Handreichung%20Gefahrstoffe%20und%20Arbeitsschutz.md)).
+
+### Time and rest
+
+Stress and time pressure encourage errors and can lead to damage to objects and/or injury to people. That is why you should leave yourself enough time when handling objects. Quality matters, not quantity. Reduce the pace of work to ensure proper handling. Confident and responsible action should be the maxim. Do not let pressure from other people have an influence on the pace and quality of your work.
+
+### Climate and lighting conditions at the workstation
+
+Fluctuating temperatures and humidity, as well as strong exposure to light, are suboptimal conditions: they put a high level of stress on many objects and lead to faster decay. For this reason, [temperature, humidity and lighting conditions](https://www.xn--volkskundliche-beratung-thringen-xmd.de/fileadmin/user_upload/03_aktuelles/Grundwissen_Heimatstube_Ratgeber.pdf) should be optimally adapted to the objects or at least kept as stable as possible.
+
+## Before Handling an Object
+
+**What things must be considered before handling an object?**
+
+In advance, clarify what work is to be carried out on the object. For what purpose, e.g., lending, restoring, digitizing, valuing, will an object be handled? Which work steps must be carried out? Are all work steps absolutely necessary? Can this activity be combined with other activities (such as object photography and restoration assessment with a lending process) as a way of avoiding additional handling? Which activities must be carried out in what order and at what time? What sequence of work steps ensures a minimum risk to the object?
+
+Since touching and moving collection objects are always risky, carefully consider beforehand whether it is necessary or whether the condition of the object allows this at all. In most cases, objects cannot be processed and handled in their storage location and they must be transported (see [Handout on Packaging and Transport](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Handreichungen/Handreichung%20Verpackung%C2%A0%26%20Transport.md)).
+
+## Handling Objects
+
+Most damage to objects occurs during handling or is the result of improper storage. The ultimate goal of handling is therefore to avoid leaving any traces of handling and packaging. Before handling an object, the first question to be clarified is whether the object should be touched or worked on at all. Does the condition of the object allow handling? For example, if a painting is losing patches of paint, the painting should not be touched. The same applies to graphics with holes and sculptures with loose or missing components or damage since handling can lead to deterioration in the object’s condition. It is advisable to document the condition, to have it confirmed and to consult with the responsible restorer and/or the borrowing institution.
+
+In general, the influence of pressure, impact, air and light on an object must be reduced. Even a small, lightweight object should always be handled with two hands, as this provides stability and prevents slipping. Particularly in the case of small objects, take special care to ensure that each step is carried out in the planned order. In other words, after an object has been picked up with both hands, it must be placed on the work surface before the next step follows. The weight of some pieces should not be underestimated. When in doubt, get help with handling the object.
+
+It is important to override the usual forms of handling everyday objects: for example, the habit of lifting ceramics by their handle. Objects should never be lifted by attached parts, since how well they are connected to the whole is unknown. Material properties and thickness must be observed. If there is mold on an object, for example, **before making contact** with the object always ask whether it can be handled and worked on. This is for self-protection: contact with such objects must be avoided (see [Handout of Hazardous Substances and Occupational Safety](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Handreichungen/Handreichung%20Gefahrstoffe%20und%20Arbeitsschutz.md)). When working with contaminated objects, change your gloves immediately before making contact with the next object and clean the workstation.
+
+With **paper objects**, e.g., graphics, photographs, literary sources and papyri, do not correct defects or bend back or unroll corners, since this can cause pieces of paper to break off. Use a flat, firm support, e.g., a stable acid-free folder or cardboard, for working with them. This will avoid deformation, bending or bulging. Ideally, two people should turn an object over. The pages of a book are an exception. Do not touch objects such as graphics and photographs on the image side, since fingerprints can damage the image through traces, smudging, etc.
+
+**Plastics, equipment, instruments, preparations, etc**. should always be held/picked up by the base. Alternatively, hold the object from below with one hand and support the <u>slight</u> tilt with the other hand. Excessive tilting carries the risk of tipping over or forming fracture points. For these reasons, lifting vertically is recommended. Avoid touching sensitive areas such as cavities or fragile protruding elements. Also note that the weight of an object is not obvious: it can be lighter or heavier than expected. Therefore, lift each object carefully and with caution. Padding an object prevents components from breaking off if it cannot be positioned on its base for photos, etc. Tyvek fleece, foam or bubble wrap are ideal as padding.
+
+**Paintings** make special demands on handling due to their properties. Here, it is important to pay attention to the stability of the frame if there is one. If there is no frame or the frame is sensitive/unstable, the painting should be stored lying down on foam blocks and padded. Tyvek fleece is suitable as an intermediate layer between the painting and the foam blocks. Ideally, a restorer should adjust frames that don’t fit or are warped. Always pick up paintings at the edges using two hands. With this type of object, it is also important to avoid touching the image surface.
+
+**Coins** are another special case. Never touch them without gloves. This will avoid soiling the surfaces with the skin’s sweat and oil, substances that are extremely difficult to remove.
+
+After handling the objects, do not leave them at the workstation. Instead, adequately store them.
+
+When in doubt, always consult a restorer.
+
+## Cleaning Objects
+
+Always request an expert assessment before cleaning an object. Do not clean without prior consultation since cleaning can both damage the object and be detrimental to the health of employees. A light layer of dust from insensitive materials such as metal appliances or porcelain dishes can be removed using a dry goat hair brush without specialist training (for the hazards of dust, see [Handout on Hazardous Substances and Occupational Safety](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Handreichungen/Handreichung%20Gefahrstoffe%20und%20Arbeitsschutz.md)).
+
+## Appendix: Checklist
+
+Every time an object is moved or touched, there is a potential risk to the object. Each work step should be carefully planned before moving an object. Ask the following questions in advance:
+
+- [ ] **What clothing is suitable?** (cf. [Clothing](#kleidung)) Does the clothing have sharp-edged applications, cords, ribbons or a wide cut? Should jewelry be removed?
+
+- [ ] **How should the premises and the workstation be prepared?** (cf. [Basic Requirements at the Workstation](#grundvoraussetzungen-am-arbeitsplatz)) What should be avoided? Is the workstation clean and suitable? What should work surfaces ideally look like? Which climate conditions and lighting are suitable? Are the transport routes safe?
+
+- [ ] **What things must be considered before handling the object?** (cf. [Preliminary considerations](#vor-dem-objekthandling))
+- [ ] **What sequence of work steps is appropriate?**
+- [ ] **Are all work steps necessary or can some activities be omitted or combined?** (cf. [Before Handling an Object](#vor-dem-objekthandling))
+- [ ] **Should the object be touched/handled?** (cf. [Before Handling an Object](#vor-dem-objekthandling))
+
+Could touching the object make damage worse? Does the condition of the object need to be documented? Who should be aware of the object’s condition?
+
+## Appendix: Sources and Literature
+
+Notfallverbund Stuttgart (2022): Pocket Guide Notfall, URL: https://notfallverbund.ub.uni-stuttgart.de/wp-content/uploads/sites/4/2020/05/Pocket_NoVe.pdf (last accessed 28.012025).
+
+Rangol, Verena (2019): Zum Umgang mit Museumsobjekten. Eine Handreichung der LVR-Museumsberatung, (ed.) Landschaftsverband Rheinland, Cologne, URL: https://www.museen-brandenburg.de/fileadmin/Handreichungen/Umgang_mit_Museumsobjekten_LVR-Museumsheft3.pdf (last accessed 12.02.2024).
+
+Volkskundliche Beratungs- und Dokumentationsstelle für Thüringen (ed.) (2022): Grundwissen Heimatstube, Kranichfeld, URL: https://www.xn--volkskundliche-beratung-thringen-xmd.de/fileadmin/user_upload/03_aktuelles/Grundwissen_Heimatstube_Ratgeber.pdf (last accessed 12.02.2024).
+
+Waller, Christoph (ed.): Didaktik zur Präventiven Konservierung, URL: https://llfa.de/didaktik.html (last accessed 12.05.2024).
