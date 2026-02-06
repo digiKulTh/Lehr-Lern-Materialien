@@ -168,9 +168,7 @@ For **special objects**, such as flash paper, etc., the material or components t
 
 - [ ] **Are pest control measures necessary**? (cf. [Integrated Pest Management (IPM)](#integrated-pest-management-ipm))
 - [ ] **Which object genre** (paintings, furniture, textiles, technical equipment, etc.) **is involved and which special features must be taken into account?**(cf. [Type of storage](#type-of-storage))
-- [ ] **In which position should objects be stored?** (cf. [Type of storage](#type-of-storage))
-
-Depending on the object, hanging or upright storage is ideal. 
+- [ ] **In which position should objects be stored?** (cf. [Type of storage](#type-of-storage)) Depending on the object, hanging or upright storage is ideal. 
 
 ## Appendix: Sources and Literature
 
