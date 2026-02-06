@@ -190,14 +190,14 @@ Always request an expert assessment before cleaning an object. Do not clean with
 
 Every time an object is moved or touched, there is a potential risk to the object. Each work step should be carefully planned before moving an object. Ask the following questions in advance:
 
-- [ ] **What clothing is suitable?** (cf. [Clothing](#kleidung)) Does the clothing have sharp-edged applications, cords, ribbons or a wide cut? Should jewelry be removed?
+- [ ] **What clothing is suitable?** (cf. [Clothing](#clothing)) Does the clothing have sharp-edged applications, cords, ribbons or a wide cut? Should jewelry be removed?
 
-- [ ] **How should the premises and the workstation be prepared?** (cf. [Basic Requirements at the Workstation](#grundvoraussetzungen-am-arbeitsplatz)) What should be avoided? Is the workstation clean and suitable? What should work surfaces ideally look like? Which climate conditions and lighting are suitable? Are the transport routes safe?
+- [ ] **How should the premises and the workstation be prepared?** (cf. [Basic Requirements at the Workstation](#basic-requirements-at-the-workstation)) What should be avoided? Is the workstation clean and suitable? What should work surfaces ideally look like? Which climate conditions and lighting are suitable? Are the transport routes safe?
 
-- [ ] **What things must be considered before handling the object?** (cf. [Preliminary considerations](#vor-dem-objekthandling))
+- [ ] **What things must be considered before handling the object?** (cf. [Before Handling an Object](#before-handling-an-object))
 - [ ] **What sequence of work steps is appropriate?**
-- [ ] **Are all work steps necessary or can some activities be omitted or combined?** (cf. [Before Handling an Object](#vor-dem-objekthandling))
-- [ ] **Should the object be touched/handled?** (cf. [Before Handling an Object](#vor-dem-objekthandling))
+- [ ] **Are all work steps necessary or can some activities be omitted or combined?** (cf. [Before Handling an Object](#before-handling-an-object))
+- [ ] **Should the object be touched/handled?** (cf. [Before Handling an Object](#before-handling-an-object))
 
 Could touching the object make damage worse? Does the condition of the object need to be documented? Who should be aware of the object’s condition?
 
