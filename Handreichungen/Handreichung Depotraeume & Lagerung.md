@@ -134,7 +134,7 @@ Measuring instruments should also be procured to check the various light paramet
 
 ### Do not Ventilate
 
-Polluted or hot air has a negative effect on the condition of the collection objects, nevertheless storerooms must not be ventilated. This would cause humidity from warmer outside air to precipitate on the cooler objects and walls in the storeroom, particularly in the summer months, which in turn would cause a sudden build-up of mold. Open windows are also gateways for pests (see [Integrated Pest Management (IPM)](#integrierte-sch%C3%A4dlingsbek%C3%A4mpf)). Temperature and humidity should therefore always be regulated using appropriate technology.
+Polluted or hot air has a negative effect on the condition of the collection objects, nevertheless storerooms must not be ventilated. This would cause humidity from warmer outside air to precipitate on the cooler objects and walls in the storeroom, particularly in the summer months, which in turn would cause a sudden build-up of mold. Open windows are also gateways for pests (see [Integrated Pest Management (IPM)](#integrated-pest-management-ipm)). Temperature and humidity should therefore always be regulated using appropriate technology.
 
 ## Integrated Pest Management (IPM)
 
@@ -162,16 +162,12 @@ For **special objects**, such as flash paper, etc., the material or components t
 
 ## Appendix: Checklist
 
-- [ ] **How should storerooms be constructed?** (cf. [Storerooms](#storerooms))
+- [ ] **How should storerooms be constructed?** (cf. [Storerooms](#storerooms)) Restricted access, in accordance with fire protection regulations, sufficient space for storing the objects
 
-Restricted access, in accordance with fire protection regulations, sufficient space for storing the objects
+- [ ] **What conditions must the environment fulfill to optimally store the object?** (cf. [Storerooms](#storerooms)) The indoor climate (temperature and humidity) must be stable and optimal. The lighting should be as low and brief as possible. The duration, intensity and spectrum of light are decisive factors for optimal storage or display of objects.
 
-- [ ] **What conditions must the environment fulfill to optimally store the object?** (cf. [Storerooms](#storerooms))
-
-The indoor climate (temperature and humidity) must be stable and optimal. The lighting should be as low and brief as possible. The duration, intensity and spectrum of light are decisive factors for optimal storage or display of objects.
-
-- [ ] **Are pest control measures necessary**? (cf. [Integrated Pest Management (IPM)](#integrated-pest-management))
-- [ ] **Which object genre** (paintings, furniture, textiles, technical equipment, etc.) **is involved and which special features must be taken into account?** (cf. [Type of storage](#type-of-storage))
+- [ ] **Are pest control measures necessary**? (cf. [Integrated Pest Management (IPM)](#integrated-pest-management-ipm))
+- [ ] **Which object genre** (paintings, furniture, textiles, technical equipment, etc.) **is involved and which special features must be taken into account?**(cf. [Type of storage](#type-of-storage))
 - [ ] **In which position should objects be stored?** (cf. [Type of storage](#type-of-storage))
 
 Depending on the object, hanging or upright storage is ideal. 
