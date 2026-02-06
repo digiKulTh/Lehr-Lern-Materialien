@@ -92,9 +92,11 @@
 Sächsische Landesstelle für Museumswesen (Hrsg.) (2020): Handreichungen für die Museumsarbeit. Nr. 3
 Objektfotografie im Museum, Chemnitz, URL: https://museumswesen.skd.museum/fileadmin/userfiles/Saechsische_Landesstelle_fuer_Museumswesen/Dateien/HR_Dokumentation_3_Objektfotografie_neu.pdf (letzter Zugriff 02.06.2025).
 
-
-
-
+[]
+[]
+[]
+[]
+[]
 
 # Checklist Object Photography
 
@@ -184,4 +186,5 @@ Objektfotografie im Museum, Chemnitz, URL: https://museumswesen.skd.museum/filea
 
 ## Appendix: Sources and Literature
 
-Sächsische Landesstelle für Museumswesen (ed.) (2020): Handreichungen für die Museumsarbeit. Nr. 3 Objektfotografie im Museum, Chemnitz, URL: https://museumswesen.skd.museum/fileadmin/userfiles/Saechsische_Landesstelle_fuer_Museumswesen/Dateien/HR_Dokumentation_3_Objektfotografie_neu.pdf (last accessed 02.06.2025).
+Sächsische Landesstelle für Museumswesen (ed.) (2020): Handreichungen für die Museumsarbeit. Nr. 3 Objektfotografie im Museum, Chemnitz, URL:
+https://museumswesen.skd.museum/fileadmin/userfiles/Saechsische_Landesstelle_fuer_Museumswesen/Dateien/HR_Dokumentation_3_Objektfotografie_neu.pdf (last accessed 02.06.2025).
