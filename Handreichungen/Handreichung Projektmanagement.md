@@ -225,10 +225,10 @@ The following information attempts to cover all the essential aspects of a gener
 | Phase I: Preparation | Phase II: Digitization process | Phase III: Project completion |
 | --- | --- | --- |
 | [Project planning](#project-planning) | [Transporting object](#transporting-object) | [Quality management](#quality-management) |
-| [[Involving relevant stakeholders](#involving-relevant-stakeholders) | [Preparing objects](#preparing-objects) | [[Long-term data management](#long-term-data-management) |
-| [State of the collection](#state-of-the-collection) | [Cataloging and collecting basic data](#cataloging-and -ollecting-basic-data) | [Evaluation and documentation](#evaluation-and-documentation) |
-| [Resources: room, technology, personnel, budget](#resources-room-technology-personnel-budget) | [[Making digital copies](#making-digital-copies) | [Publishing data](#publishing-data) |
-| [[Legal situation](#legal-situation) | [Storing digital copy metadata](#storing-digital-copy-metadata) |     |
+| [Involving relevant stakeholders](#involving-relevant-stakeholders) | [Preparing objects](#preparing-objects) | [Long-term data management](#long-term-data-management) |
+| [State of the collection](#state-of-the-collection) | [Cataloging and collecting basic data](#cataloging-and-collecting-basic-data) | [Evaluation and documentation](#evaluation-and-documentation) |
+| [Resources: room, technology, personnel, budget](#resources-room-technology-personnel-budget) | [Making digital copies](#making-digital-copies) | [Publishing data](#publishing-data) |
+| [Legal situation](#legal-situation) | [Storing digital copy metadata](#storing-digital-copy-metadata) |     |
 | [Work instructions](#work-instructions) | [Storing, derivatives, backup](#storing-derivatives-backup) |     |
 
 ---
