@@ -131,11 +131,11 @@ Anne Hiltscher & Michael Markert (ed.)
   * [Personal protection measures](#personal-protection-measures)
       + [Gloves](#gloves)
       + [Other equipment](#other-equipment)
-      + [Food and beverages](#food-and-beverages)
+      + [Food and drink](#food-and-drink)
       + [Skincare](#skincare)
   * [Organizational protection measures](#organizational-protection-measures)
   * [Technical protection measures](#technical-protection-measures)
-- [Appendix: Checklist for Hazardous Substances and Occupational Safety](#appendix-checklist-for-hazardous-substances-and-occupational-safety)
+- [Appendix: Checklist for Hazardous Substances and Occupational Safety](#appendix-checklist-for-hazardous-materials-and-occupational-safety)
 - [Appendix: Sources and Literature](#appendix-sources-and-literature)
 
 <!-- TOC end -->
