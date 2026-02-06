@@ -162,7 +162,7 @@ Michael Markert
 - [Introduction](#introduction)
 - [FAIR Principles](#fair-principles)
 - [CARE Principles](#care-principles)
-- [Be FAIR and CARE: The minimum record of the German Digital Library as an example](#be-fair-and-care-the-minimum-record-of-the-germandigital-library-as-an-example)
+- [Be FAIR and CARE: The minimum record of the German Digital Library as an example](#be-fair-and-care-the-minimum-record-of-the-german-digital-library-as-an-example)
 - [Beyond FAIR and CARE](#beyond-fair-and-care)
 - [Appendix: Checklist](#appendix-checklist)
 - [Appendix: Sources and Literature](#appendix-sources-and-literature)
