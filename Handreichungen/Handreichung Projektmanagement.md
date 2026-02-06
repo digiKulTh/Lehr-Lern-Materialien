@@ -225,11 +225,11 @@ The following information attempts to cover all the essential aspects of a gener
 | Phase I: Preparation | Phase II: Digitization process | Phase III: Project completion |
 | --- | --- | --- |
 | [Project planning](#project-planning) | [Transporting object](#transporting-object) | [Quality management](#quality-management) |
-| [[Involving relevant stakeholders](#[involving-relevant-stakeholders) | [Preparing objects](#preparing-objects) | [[Long-term data management](#[long-term-data-management) |
+| [[Involving relevant stakeholders](#involving-relevant-stakeholders) | [Preparing objects](#preparing-objects) | [[Long-term data management](#long-term-data-management) |
 | [State of the collection](#state-of-the-collection) | [Cataloging and collecting basic data](#cataloging-and -ollecting-basic-data) | [Evaluation and documentation](#evaluation-and-documentation) |
-| [Resources: room, technology, personnel, budget](#resources-room-technology-personnel-budget) | [[Making digital copies](#[making-digital-copies) | [Publishing data](#publishing-data) |
-| [[Legal situation](#[legal-situation) | [Storing digital copy metadata](#storing-digital-copy-metadata) |     |
-| [Work instructions](#work-instructions) | [Storing, derivatives, backup](#[storing-derivatives-backup) |     |
+| [Resources: room, technology, personnel, budget](#resources-room-technology-personnel-budget) | [[Making digital copies](#making-digital-copies) | [Publishing data](#publishing-data) |
+| [[Legal situation](#legal-situation) | [Storing digital copy metadata](#storing-digital-copy-metadata) |     |
+| [Work instructions](#work-instructions) | [Storing, derivatives, backup](#storing-derivatives-backup) |     |
 
 ---
 
@@ -313,7 +313,7 @@ For the best possible quality, archive uncompressed versions of image data (usua
 
 Object digitization at the Bremen Overseas Museum (example) (link to YouTube video):
 
->[![Digitization Übersee-Museum Bremen]    >[![Digitalsierung am Übersee-Museum Bremen](https://img.youtube.com/vi/nyM1c1GsLi4/mqdefault.jpg)](https://youtu.be/nyM1c1GsLi4)
+>[![Digitization Übersee-Museum Bremen](https://img.youtube.com/vi/nyM1c1GsLi4/mqdefault.jpg)](https://youtu.be/nyM1c1GsLi4)
 
 ---
 
