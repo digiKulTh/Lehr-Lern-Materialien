@@ -2,7 +2,7 @@
 
 Anne Hiltscher & Rebecca Wulke 
 
-[PLEASE FIND THE ENGLISH VERSION BELOW](#handout-on-storerooms-and-storage)
+[**PLEASE FIND THE ENGLISH VERSION BELOW**](#handout-on-storerooms-and-storage)
 
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
