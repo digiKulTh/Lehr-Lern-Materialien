@@ -387,11 +387,11 @@ The duration and type of accession are irrelevant for accession registration. Wh
 - [ ] **What data should be included in an inventory?** (cf. [What data should be included?](#what-data-should-be-included)) Titles, catalog numbers and location are particularly important for traceability, therefore take at least one photograph. Information on authors, technology, dimensions and materials are used for exhibition preparation or are important for professional storage.
 Information about previous owners and acquisitions is important for provenance research.
 
-- [ ] **Are the catalog numbers attached correctly?** (cf. [How to attach accession numbers?](#how-to-attach-accession-numbers)) Catalog numbers are attached in accordance with the material of the object. There are three different methods: apply to the object itself, apply the catalog number to a carrier and attach it to the object or add the number to previously attached label or wrapping material.
+- [ ] **Are the catalog numbers attached correctly?** (cf. [How to attach catalog numbers?](#how-to-attach-catalog-numbers)) Catalog numbers are attached in accordance with the material of the object. There are three different methods: apply to the object itself, apply the catalog number to a carrier and attach it to the object or add the number to previously attached label or wrapping material.
 
 - [ ] **Am I even allowed to do this myself?** Basically yes, if the appropriate materials (special varnishes, inks, labels, etc.) are available. When in doubt, consult an expert before labeling, particularly if the object is very sensitive or damaged or if it is an object made of organic material.
 
-- [ ] **How to proceed when an object leaves the collection** (cf. [Sale, de-accession or loss of an object](#sale,-de-accession-or-loss-of-an-object)) Note the sale, de-accession or loss of an object in the inventory.
+- [ ] **How to proceed when an object leaves the collection** (cf. [Sale, de-accession or loss of an object](#sale-de-accession-or-loss-of-an-object)) Note the sale, de-accession or loss of an object in the inventory.
 
 - [ ] **What should be considered when lending/borrowing objects?** (see [Lending an Object](#lending-an-object)) A loan agreement in which a minimum amount of information is recorded must be concluded for each transaction. A handover protocol for clarifying the condition of the object and for insurance claims is also recommended.
 
