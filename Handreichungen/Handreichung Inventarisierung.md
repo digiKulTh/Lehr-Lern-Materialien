@@ -242,9 +242,9 @@ Anne Hiltscher
 - [Cataloging](#cataloging)
    * [On the difference between possession and ownership](#on-the-difference-between-possession-and-ownership)
    * [What data should be included?](#what-data-should-be-included)
-   * [Accession numbers](#accession-numbers)
-   * [How to attach accession numbers](#how-to-attach-accession-numbers)
-- [Sale, de-accession or loss of an object](#sale,-de-accession-or-loss-of-an-object)
+   * [Catalog numbers](#catalog-numbers)
+   * [How to attach catalog numbers](#how-to-attach-catalog-numbers)
+- [Sale, de-accession or loss of an object](#sale-de-accession-or-loss-of-an-object)
 - [Lending an Object](#lending-an-object)
 - [Appendix: Checklist](#appendix-checklist)
 - [Appendix: Sources and Literature](#appendix-sources-and-literature)
@@ -278,7 +278,7 @@ Regardless of documentation form, the following information should be documented
 - **Remarks** (e.g., subsequent information)
 - **Conservation status**
 - **Processor** (of entry in accession log) 
-- **Location/whereabouts
+- **Location/whereabouts**
 
 ## Cataloging
 
@@ -381,33 +381,19 @@ A handover protocol must be created upon handover of the objects. It should cont
 
 ## Appendix: Checklist
 
-- [ ] **Are the accession registration and cataloging for an object present?** (cf. [Accession registration](#accession-registration) and [Cataloging](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Handreichungen/Handreichung%20Inventarisierung.md#inventarisierung))
-
-Basically, both record information about objects that have come into a collection for the short or long term and support the clear attributability of this information. In accession registration, the objects are registered for the first time right after their arrival.
-
+- [ ] **Are the accession registration and cataloging for an object present?** (cf. [Accession registration](#accession-registration) and [Cataloging](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Handreichungen/Handreichung%20Inventarisierung.md#inventarisierung)) Basically, both record information about objects that have come into a collection for the short or long term and support the clear attributability of this information. In accession registration, the objects are registered for the first time right after their arrival.
 The duration and type of accession are irrelevant for accession registration. When an object is cataloged, it is included in the inventory of a collection and documented as comprehensively as possible for further use.
 
-- [ ] **What data should be included in an inventory?** (cf. [What data should be included?](#what-data-should-be-included))
-
-Titles, catalog numbers and location are particularly important for traceability, therefore take at least one photograph. Information on authors, technology, dimensions and materials are used for exhibition preparation or are important for professional storage.
-
+- [ ] **What data should be included in an inventory?** (cf. [What data should be included?](#what-data-should-be-included)) Titles, catalog numbers and location are particularly important for traceability, therefore take at least one photograph. Information on authors, technology, dimensions and materials are used for exhibition preparation or are important for professional storage.
 Information about previous owners and acquisitions is important for provenance research.
 
-- [ ] **Are the catalog numbers attached correctly?** (cf. [How to attach accession numbers?](#how-to-attach-accession-numbers))
+- [ ] **Are the catalog numbers attached correctly?** (cf. [How to attach accession numbers?](#how-to-attach-accession-numbers)) Catalog numbers are attached in accordance with the material of the object. There are three different methods: apply to the object itself, apply the catalog number to a carrier and attach it to the object or add the number to previously attached label or wrapping material.
 
-Catalog numbers are attached in accordance with the material of the object. There are three different methods: apply to the object itself, apply the catalog number to a carrier and attach it to the object or add the number to previously attached label or wrapping material.
+- [ ] **Am I even allowed to do this myself?** Basically yes, if the appropriate materials (special varnishes, inks, labels, etc.) are available. When in doubt, consult an expert before labeling, particularly if the object is very sensitive or damaged or if it is an object made of organic material.
 
-- [ ] **Am I even allowed to do this myself?**
+- [ ] **How to proceed when an object leaves the collection** (cf. [Sale, de-accession or loss of an object](#sale,-de-accession-or-loss-of-an-object)) Note the sale, de-accession or loss of an object in the inventory.
 
-Basically yes, if the appropriate materials (special varnishes, inks, labels, etc.) are available. When in doubt, consult an expert before labeling, particularly if the object is very sensitive or damaged or if it is an object made of organic material.
-
-- [ ] **How to proceed when an object leaves the collection** (cf. [Sale, de-accession or loss of an object](#sale,-de-accession-or-loss-of-an-object))
-
-Note the sale, de-accession or loss of an object in the inventory.
-
-- [ ] **What should be considered when lending/borrowing objects?** (see [Lending an Object](#lending-an-object))
-
-A loan agreement in which a minimum amount of information is recorded must be concluded for each transaction. A handover protocol for clarifying the condition of the object and for insurance claims is also recommended.
+- [ ] **What should be considered when lending/borrowing objects?** (see [Lending an Object](#lending-an-object)) A loan agreement in which a minimum amount of information is recorded must be concluded for each transaction. A handover protocol for clarifying the condition of the object and for insurance claims is also recommended.
 
 ## Appendix: Sources and Literature
 
