@@ -101,7 +101,7 @@ Objektfotografie im Museum, Chemnitz, URL: https://museumswesen.skd.museum/filea
 - [Camera and lens setting](#camera-and-lens-setting)
 - [Preparing for photography](#preparing-for-photography)
 - [Taking photographs](#taking-photographs)
-- [Appendix: Sources and Literature](#appendix:-sources-and-literature)
+- [Appendix: Sources and Literature](#appendix-sources-and-literature)
 
 <!-- TOC end -->
 
