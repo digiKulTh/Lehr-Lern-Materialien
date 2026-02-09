@@ -2,6 +2,8 @@
 
 Michael Markert
 
+**[PLEASE FIND THE ENGLISH VERSION BELOW](#handout-on--legal-aspects-of-object-digitization)**
+
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
 - [Urheberrechtliche Aspekte](#urheberrechtliche-aspekte)
@@ -169,3 +171,160 @@ Verfassungsschutz (2024): Übersichten verbotener Kennzeichen und Symbole erweit
 VG Bild-Kunst (2023) Internet-Tarife. Abgerufen von  https://www.bildkunst.de/download.2496c0f5cd21917ad981f1ac2233b460_1/ (letzter Zugriff 02.12.2024).
 
 VG Bild-Kunst (2024): Künstlersuche. Abgerufen von https://www.bildkunst.de/lizenzen/bildrechte_klaeren/kuenstlersuche/ (letzter Zugriff 02.12.2024).
+
+# Handout on Legal Aspects of Object Digitization
+
+Michael Markert
+
+<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
+
+- [Issues around Copyright Protection](#issues-around-copyright-protection)
+   * [What is a work?](#what-is-a-work)
+   * [What rights do authors have?](#what-rights-do-authors-have)
+   * [Rights to a digital copy](#rights-to-a-digital-copy)
+   * [Transfer of rights and licenses](#transfer-of-rights-and-licenses)
+   * [Copyright protection in employment relationships, internships, etc.](#copyright-protection-in-employment-relationships,-internships,-etc.)
+   * [Relevant limits of copyright protection](#relevant-limits-of-copyright-protection)
+- [Rights to One’s Own Image](#rights-to-one’s-own-image)
+- [Characteristics of Unconstitutional Organizations](#characteristics-of-unconstitutional-organizations)
+- [Appendix: Checklist](#appendix-checklist)
+- [Appendix: Sources and Literature](#appendix-sources-and-literature)
+- 
+<!-- TOC end -->
+
+## Issues around Copyright Protection
+
+In Germany, the Copyright Act (UrhG) regulates what is considered a creative, artistic work and who may use it under what conditions. Different copyright levels must be considered when digitizing museum objects, particularly works of art. The level has an impact on the options and limits of printed publications such as flyers, posters and exhibition catalogues on websites. The author(s) must always agree to all uses of a “work” (see Section 1.1), including its “reproduction” and therefore photographing it, for example. However, cultural institutions like libraries and museums can make reproductions without advance permission, for example for inventory documentation and for user research in databases on site (see Section 1.6.).
+
+Both the digitized object and the digital file created from it (e.g., photography) can have the character of a work and thus copyright relevance. From the perspective of cultural institutions, the greatest possible freedom of action is always desirable. Keep this in mind when making user agreements with photographers. The use of data by third parties – in research and teaching, but also in the areas of citizen science and public history, for example – should also be based on a solid legal foundation, e. g., by issuing a suitable CC license (see Section 1.4). Existing copyright protection often means that the use of digitized works must be clarified case by case, which can quickly turn out to be impossible when publishing entire repository holdings.
+
+### What is a work?
+
+According to [Sect. 2 (2) GCA](https://www.gesetze-im-internet.de/urhg/__2.html), only **personal intellectual creations** are “works within the meaning of this law.” This refers to individual realizations by people, into which thoughts or feelings have been incorporated and which are thus distinguishable from other works. In the meaning of the Copyright Act, mere ideas that were not recorded as a work in a medium are just as unprotected as craft products, answers from AIs and serial objects manufactured according to certain protocols or instructions, e.g., micro-preparations and structured metadata (object names, dimensions, material details). On the other hand, associated texts – including image descriptions or company biographies in database text fields – have at least a low level of creativity (“small change”). The medium itself has no influence on copyright protection. A copyrighted text enjoys equal protection in any version – be it a scanned manuscript, a printed book or an e-book.
+
+### What rights do authors have?
+
+A [copyright](https://www.gesetze-im-internet.de/urhg/) is intended to protect an author in their “intellectual and personal relationship to the work and in the use of the work” and “serves to secure appropriate remuneration for the use of the work.” ([Sect. 11 GCA](https://www.gesetze-im-internet.de/urhg/__11.html)) The associated rights include **moral rights** and rights of exploitation. The former grant the author the right to have their name mentioned, to decide whether and how their work is to be published, how they should be named and to protect it against distortion or mutilation ([Sect. 12](https://www.gesetze-im-internet.de/urhg/__12.html), [13](https://www.gesetze-im-internet.de/urhg/__13.html), [14 GCA](https://www.gesetze-im-internet.de/urhg/__14.html)). Rights of exploitation include **reproduction rights** ([Sect. 16 GCA](https://www.gesetze-im-internet.de/urhg/__16.html)) and distribution rights, i.e., rights of **publication and marketing** ([Sect. 17 GCA](https://www.gesetze-im-internet.de/urhg/__17.html)) and **exhibition rights** ([Sect. 18 GCA](https://www.gesetze-im-internet.de/urhg/__18.html)).
+
+**In Germany,** **the** **term of protection for a work ends 70 years after the death** of the last author ([Sect. 64 GCA](https://www.gesetze-im-internet.de/urhg/__64.html)); after their death it passes to the heirs. After the term ends, the work will enter the public domain. In certain sectors in Germany, representation of copyright claims during the protection period can be taken over by copyright collectives like VG Bild-Kunst (searchable via [VG Bild-Kunst search form](https://www.bildkunst.de/lizenzen/bildrechte_klaeren/kuenstlersuche/)). Extensive research is often necessary to find out whether there is still protection on a work and who represents it; this is particularly complex in the case of film works because of the many creative people involved.
+
+**A copyright claim does not arise from ownership** of an object or work. The digitization and publication of a loaned work is therefore unproblematic, as long as there are no other claims (such as by the author) or the loan agreement does not explicitly exclude this.
+
+### Rights to a digital copy
+
+Both the work itself and a digital copy of it – as well as a text about it – are protected by copyright as a newly created work. The extent of protection depends on whether the digital copy is a **photographic work**, **photograph** or **mechanically produced digital copy**.
+
+**Photographic works** ([Sect. 2 (5) GCA](https://www.gesetze-im-internet.de/urhg/__2.html)) are individual works of photography that represent the author's own intellectual creation. Photographic works receive full copyright protection. The term of protection ends 70 years after the death of the photographer. **Every form of staged photography** (the lighting situation, image detail and perspective freely chosen by the photographers) is protected and therefore every photo of three-dimensional objects and architecture – even if it is “pure” object photography. This is particularly important if digital copies of objects are awarded as contracts because the rights of use must be clarified by the commissioning institution in order not to infringe on rights later (for example, in the case of a publication in an online portal).
+
+A **photographic work** ([Sect. 72 GCA](https://www.gesetze-im-internet.de/urhg/__72.html)) is non-creative photography when the **technical conditions and formal requirements have a significant role in determining the results**, but the photograph itself is taken by a human being. This includes reproduction photography – which is not intended to be creative – involving two-dimensional objects, such as paintings, graphics or books, and true-to-life 3D digitization. Copyright protection expires 50 years after the first appearance of the photograph or 50 years after its creation if it was not published within 50 years.
+
+If a **visual work in the public domain** is reproduced, it is **not protected by a copyright** ([Sect. 68 GCA](https://www.gesetze-im-internet.de/urhg/__68.html)). This also applies to 3D digital copies as “mere reproductions” of a physical object (cf. [3D-Scans und das Recht &#8211; iRights.info – iRights.info](https://irights.info/artikel/3d-scans-und-das-recht/32063)).
+
+**Mechanically/technically produced photos** (e.g., scans) are **not protected by copyright**. Since the differences between scans and photography are hardly detectable in the resulting image and the boundaries between the two are technically flexible, when in doubt assume protection in accordance with [Sect. 72 GCA](https://www.gesetze-im-internet.de/urhg/__68.html) (Photographic Work Protection).
+
+### Transfer of rights and licenses
+
+Authors have various options for **granting rights of use** to third parties. On the one hand, this can be done in the form of a simple right of use, in which case others (in the future) may also apply rights of use if a corresponding agreement has been concluded. On the other hand, there is also an exclusive right of use, in which case only this one party may use the work until the term of protection has expired. Third parties can apply for an individual contract, use a specialized copyright collective like [VG Bild-Kunst](https://www.bildkunst.de/homepage), which focuses on works of art, or receive a suitable license.
+
+[Creative Commons](https://de.creativecommons.net/was-ist-cc/) offers a **licensing kit** that is now widely recognized and used in the cultural sector. It can be used to compile and reliably define rights of use. One of these licenses is [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en), where “BY” requires attribution of the authors and “SA” (ShareAlike) requires sharing under the same conditions, that is, with attribution and under the same license. This licenses free transfer and editing under the specified conditions, while editing can be excluded with the addition “ND” (no derivatives).
+
+For the cultural sector, **four licenses are recommended**, listed here in order of decreasing restrictions: [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/), [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.en), [CC-BY](https://creativecommons.org/licenses/by-sa/4.0/deed.en) and [CC0](https://creativecommons.org/publicdomain/zero/1.0/). A CC0 license is unconditional. It is preferred by Wikipedia, for example, and is even required by the Common Standard File (CSF) of scientific libraries and provides for all conceivable forms of use for everyone in the future. The use of CC licenses with the addition “**NC”** (non-commercial) **is sometimes discouraged for the cultural sector** to avoid creating unnecessary obstacles to reuse. Since AI is increasingly being trained with cultural data repositories, NC licenses can be quite useful, as the necessary separate collection of rights enables data providers to have more control over these types of use.
+
+### Copyright in employment relationships, internships, etc.
+
+Since any use of a camera at a cultural institution is likely to give rise to a copyright claim, **institutions should clearly regulate the transfer of rights of use from employees to the institution**. The employing institution has an exclusive right of use to the employee’s digital copies if the “work in fulfilment of their obligations” was created in accordance with the “content or essence of the employment or service relationship” ([Sect. 43 GCA](https://www.gesetze-im-internet.de/urhg/__43.html)). This is certainly the case with photographers or technical personnel employed specifically for digitization.
+
+In the case of academic assistants, academic or voluntary staff, or interns, on the other hand, employment contracts often do not include object digitization as a significant aspect of the job or mention it at all. Here, the **granting of rights of use should take place explicitly in the employment contract or a separate regulation confirmed in writing** – ideally with licenses that are as open as possible according to the CC model. Conversely, authors should be aware of their rights and, if necessary, demand them – such as the right to be named or the right to their own distribution.
+
+### Relevant limitations and exceptions of copyright
+
+In various special cases, the copyright is limited in favor of the public interest, and no separate assertion of rights is necessary. Some of these cases are not particularly relevant for the digitization of the object itself: for example, in the case of reporting current events ([Sect. 50 GCA](https://www.gesetze-im-internet.de/urhg/__50.html)) or creating caricatures, parodies and pastiche ([Sect. 51a GCA](https://www.gesetze-im-internet.de/urhg/__51a.html)).
+
+Certainly the most important barrier when it comes to digitizing cultural property is the “**right of reproduction” of** **public, non-commercial libraries, archives and museums** ([Sect. 60f GCA](https://www.gesetze-im-internet.de/urhg/__60f.html)) for works “from their holdings or exhibitions for the purposes of making them accessible, indexing, cataloguing, preservation and restoration” ([Sect. 60e GCA](https://www.gesetze-im-internet.de/urhg/__60e.html)), as well as the right to make them accessible to users in places within the institution and thus researchable.
+
+**Quotation rights** ([Sect. 51 GCA](https://www.gesetze-im-internet.de/urhg/__51.html)) permit the reproduction, distribution and public accessibility or reproduction of a published work for the purpose of quotation, provided that the extent of use is justified by the special purpose. This requires a more in-depth scientific examination of the work. If it is only used as an example or illustration, or only mentioned, for example, on a cultural website, it is not covered by quotation rights.
+
+**Advertising for the exhibition and public sale of works** (Sect. [58 GCA](https://www.gesetze-im-internet.de/urhg/__58.html)) with works that are actually protected by copyright is also permitted, but must remain limited to this advertising phase. The works can be used for posters, websites or social media posts, but they may no longer be accessible to the public after the end of the exhibition at the latest.
+
+**Works in public places** ([Sect. 59 GCA](https://www.gesetze-im-internet.de/urhg/__59.html)) may be digitally reproduced without obtaining rights of use, as may the external views of buildings.
+
+A particularly important exception for universities is the use of foreign works for **teaching and education** ([Sect. 60a GCA](https://www.gesetze-im-internet.de/urhg/__60a.html)) and for **scientific research** ([Sect. 60c GCA](https://www.gesetze-im-internet.de/urhg/__60c.html)). This permits, for example, the reproduction, distribution and public access or reproduction for 15% of a work or individual illustrations, journal articles, etc. for the participants in a course, other lecturers at the same institution or colleagues in a research project.
+
+Finally, there are two limitations that include indirect collection of rights and are becoming increasingly important, particularly for presentation on websites: the limitations for **unavailable and orphan works**. A work with known authors “is unavailable if it is not offered to the general public through customary channels of commerce [for example, as new goods or as the production of a workshop] in a complete version” ([Sect. 52b VGG](https://www.gesetze-im-internet.de/vgg/__52b.html)). [Section 61d GCA](https://www.gesetze-im-internet.de/urhg/__61d.html), which allows the publication of these works by cultural heritage institutions, even with existing copyrights, without obtaining separate rights from all individual authors, applies here. This may incur annual licensing costs, if applicable, by a copyright collective (for images such as photographs, graphics or paintings, for example, according to the [internet tariffs](https://www.bildkunst.de/fileadmin/user_upload/downloads/Tarife_ab_2017/2023_07_31_Einzeltarif_Online-Bestandspr%C3%A4sentation_2023.pdf) of VG Bild-Kunst. The exact procedure and any responsible copyright collectives are described on the Deutsche Digitale Bibliothek website for the [digitization of unavailable works](https://pro.deutsche-digitale-bibliothek.de/daten-liefern/teilnahmekriterien/rechtliches/digitalisierung-noch-urheberrechtlich-geschuetzter-materialien).
+
+“Orphan,” in turn, means works “the rightholder of which could not be established or traced despite a diligent search” ([Sect. 61 GCA](https://www.gesetze-im-internet.de/urhg/__61.html)). This assumes that there were documented exhaustive searches that remain inconclusive ([Sect. 61a](https://www.gesetze-im-internet.de/urhg/__61a.html)).
+
+Both unavailable and orphan works are to be registered on the [EUIPO (European Union Intellectual Property Office) website](https://www.euipo.europa.eu/de); authors have a 6-month deadline in which to object before the works can be published.
+
+## Rights to One’s Own Image
+
+A right to one’s own image, its use and publication is derived from the general right of privacy enshrined in the German constitution. For collections, this means that **digital copies of photographs with identifiable persons** – such as excavation workers, students or student groups – are subject to certain restrictions, provided that the persons depicted were not demonstrably paid for posing. **They can be published without consent 10 years after the death of the person depicted** ([Sect. 22 GACA](https://www.gesetze-im-internet.de/kunsturhg/__22.html)).
+
+The Art Copyright Act (Kunsturhebergesetz) has several **exceptions**, namely:
+
+1. “Portraits from fields of **contemporary history** [usually outstanding persons from politics, culture, sports];
+2. images in which **persons appear only as an accessory** in a landscape or other location;
+3. images of meetings, elevators, etc. in which the depicted persons participated [also **public events**, at which one can assume they will be photographed for press and documentation];
+4. portraits that were not commissioned, provided that their distribution or exhibition serves **higher interests of art** [i.e., photographs that are themselves works of art in the discipline of street photography, for example].” ([Sect. 23 GACA](https://www.gesetze-im-internet.de/kunsturhg/__23.html))
+
+Here, too, the decision as to whether an image falls under one of these exceptions can be very complex in individual cases.
+
+## Distinguishing Marks of Unconstitutional Organizations
+
+**Criminal liability for the use of emblems of unconstitutional and terrorist organizations** (Sect. [86a GCC](https://www.gesetze-im-internet.de/stgb/__86a.html)) is becoming increasingly relevant in the collection context. They include symbols of national socialism such as the swastika, the runic insignia of the SS, the Imperial War Flag 1938-1945 or the portrait of Adolf Hitler, which can be depicted as elements of digitized provenance features like inventory stamps or on historical photographs.
+
+**Presentation is permitted for** “... civic enlightenment, defense against unconstitutional efforts, **art or science, research or teaching**, reporting on current events or history or similar purposes ...” ([Sect. 86 (4) GCC](https://www.gesetze-im-internet.de/stgb/__86.html)). This does not apply to context-free publication on a collection website; it is limited to special exhibitions and thematically focused websites on Nazi history and the like. As always with legal issues, a case-by-case examination is recommended. Overviews of the relevant distinguishing marks are available under “[Overviews of prohibited distinguishing markings and symbols](https://www.verfassungsschutz.de/SharedDocs/kurzmeldungen/DE/2024/2024-06-07-auflistung-verbotener-zeichen-und-symbole.html)” (in German only) on the website of the German domestic intelligence services.
+
+## Appendix: Checklist
+
+Copyright issues become important when there is a “duplication” or “distribution” of content. “Duplication” in copyright law refers to a digital copy (photo, 3D reconstruction) and “distribution” to its use outside the institution (exhibition catalogue, website). Depending on the specific individual case, the topic can become very complex and require extensive research into the artist’s life data, for example.
+
+**Rights to the digitized object**
+
+- [ ] Is it a work, i.e., was it created in an individual, creative act (cf. [What is a work?](#what-is-a-work))?
+- [ ] Is it still protected by copyright, i.e., have the authors not been dead for at least 70 years (cf. [What rights do authors have?](#What-rights-do-authors-have))?
+- [ ] If it is protected, is there a license or other permission for duplication and publication (if pertinent) or can this be obtained – for example from a copyright collective (cf. [Transfer of rights and types of licensing](#transfer-of-rights-and-types-of-licensing))?
+- [ ] Does a limitation like the option of digitization for (internal) documentation purposes apply (cf. [Relevant copyright barriers](#relevant-copyright-barriers))?
+
+**Rights to the digital copy**
+
+- [ ] Is it a staged photo of a three-dimensional object, space, etc., or a simple reproduction of a painting, a graphic, a photonegative (cf. [Rights to a digital copy](#rights-to-a-digital-copy))?
+- [ ] Is the original of the digital copy perhaps now in the public domain or has a reproduction been generated by purely mechanical means (e.g., scan) (cf. [Rights to a digital copy](#rights-to-a-digital-copy))?
+- [ ] If copyright protection exists, is there a license for use (cf. [Transfer of rights and types of licensing](#transfer-of-rights-and-types-of-licensing), [Copyright in employment relationships, internships, etc.](#copyright-in-employment-relationships-internships-etc))?
+
+**Rights to One's Own Image**
+
+- [ ] Can people in a digitized photo negative or print be identified (cf. [Right to One’s Own Image](#right-to-one’s-own-image))?
+
+**Distinguishing Marks of Unconstitutional Organizations**
+
+- [ ] Do the objects to be digitized or digitized copies show symbols or distinguishing marks, in particular of Nazi organizations (cf. [Overviews of prohibited distinguishing marks and symbols](#overviews-of-prohibited-distinguishing-marks-and-symbols))?
+
+## Appendix: Sources and Literature
+
+Bertelsmann Stiftung (ed.): (2016): Freie Lizenzen - einfach erklärt. Retrieved from [Freie Lizenzen - einfach erklärt](https://www.bertelsmann-stiftung.de/de/publikationen/publikation/did/freie-lizenzen-einfach-erklaert) (last accessed 27.05.2024).
+
+Creative Commons (2024): About CC licenses. Retrieved from [About CC Licenses - Creative Commons](https://creativecommons.org/share-your-work/cclicenses/) (last accessed 02.12.2024).
+
+Creative Commons Germany (2024). Retrieved from [https://de.creativecommons.net/](https://de.creativecommons.net/) (last accessed 02.12.2024).
+
+Copyright and Related Rights Act (Copyright Act -- GCA). Retrieved from [UrhG - nichtamtliches Inhaltsverzeichnis](https://www.gesetze-im-internet.de/urhg/) (last accessed 02.12.2024).
+
+Deutsche Digitale Bibliothek (2024): Die Digitalisierung nicht verfügbarer Werke. Retrieved from [Die Digitalisierung nicht verfügbarer Werke | DDBpro](https://pro.deutsche-digitale-bibliothek.de/daten-liefern/teilnahmekriterien/rechtliches/digitalisierung-noch-urheberrechtlich-geschuetzter-materialien) (last accessed 02.12.2024).
+
+German Criminal Code. Retrieved from [StGB - nichtamtliches Inhaltsverzeichnis](https://www.gesetze-im-internet.de/stgb/) (last
+accessed 02.12.2024).
+
+Klimpel, Paul (2022); In Bewegung. Die Rechtsfibel für Digitalisierungsprojekte in Kulturerbe-Einrichtungen. Retrieved from [Dein Browser wird geprüft!](https://opus4.kobv.de/opus4-zib/frontdoor/index/index/docId/8648) (last accessed 04.11.2024).
+
+Klimpel, Paul (2023): 3D-Scans und das Recht. Retrieved from [3D-Scans und das Recht &#8211; iRights.info – iRights.info](https://irights.info/artikel/3d-scans-und-das-recht/32063) (last accessed 02.12.2024).
+
+Markert, Michael (2024). Entscheidungsbaum zu urheberrechtlichen Aspekten der Nutzung von Digitalisaten durch Kulturinstitutionen wie Universitätssammlungen. Retrieved from [Lia](https://liascript.github.io/course/?https://api.allorigins.win/raw?url=https%3A%2F%2Fraw.githubusercontent.com%2FMichaelMarkert%2FSODa%2Fmain%2Fdocs%2Furhg_baum.md) (last accessed 07.14.2025).
+
+Saxon State Office for Museums (ed.) (2020): Handreichungen für die Museumsarbeit. Nr. 5 Bildrechte im Museum, Chemnitz, URL: https://museumswesen.skd.museum/fileadmin/userfiles/Saechsische_Landesstelle_fuer_Museumswesen/Dateien/Digiteam/HR_Dokumentation_5_Bildrechte_neu.pdf (last accessed 06.02.2025).
+
+Verfassungsschutz (2024): Übersichten verbotener Kennzeichen und Symbole erweitert. Retrieved from [Bundesamt für Verfassungsschutz - Bundesamt für Verfassungsschutz - Übersichten verbotener Kennzeichen und Symbole erweitert](https://www.verfassungsschutz.de/SharedDocs/kurzmeldungen/DE/2024/2024-06-07-auflistung-verbotener-zeichen-und-symbole.html) (last accessed 02.12.2024).
+
+VG Bild-Kunst (2023) Internet-Tarife. Retrieved from https://www.bildkunst.de/download.2496c0f5cd21917ad981f1ac2233b460_1/ (last accessed 02.12.2024).
+
+VG Bild-Kunst (2024): Künstlersuche. Retrieved from [Künstlersuche - Bildkunst](https://www.bildkunst.de/lizenzen/bildrechte_klaeren/kuenstlersuche/) (last accessed 02.12.2024).
