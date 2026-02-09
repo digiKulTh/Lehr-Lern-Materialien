@@ -217,7 +217,7 @@ To avoid accidents, aids can also be used for short distances during transport. 
 For packaging and storage, use materials that do not release harmful substances like acids or are contaminated with biocides. Depending on the type of object, be sure to store it appropriately: for example, in a suitable box.
 
 - [ ] **What things must be considered before handling the object?** (cf. [Preliminary considerations](#preliminary-considerations))
-- [ ] **Which object data are relevant?** (cf. [Object type and materiality](#object-type-and-materiality), [Object condition](#object-condition) and [Object weight and size](#object-weight-and-size)) (Object type, material, condition, size and weight)
+- [ ] **Which object data are relevant?** (cf. [Property type and materiality](#property-type-and-materiality), [Object condition](#object-condition) and [Object weight and size](#object-weight-and-size)) (Object type, material, condition, size and weight)
 - [ ] **What is the transport route like?** (see [Transport route](#transport-route))
 - [ ] **What are the risks and how can they be minimized?** (cf. [Risks and minimizing them](#risks-and-minimizing-them))
 - [ ] **What aids are needed to transport the object?** (cf. [Aids](#aids))
