@@ -127,14 +127,14 @@ Anne Hiltscher
 
 - [Packaging and Packaging Materials](#packaging-and-packaging-materials)
   * [General](#general)
-  * [Usual packaging materials used for collections](#usual-packaging-materials-used-for-collections)  
+  * [Typical packaging materials used for collections](#typical-packaging-materials-used-for-collections)  
 - [Transporting Objects](#transporting-objects)
   * [Preliminary considerations](#preliminary-considerations)
   * [Property type and materiality](#property-type-and-materiality)
-  * [Condition of object](#condition-of-object)
+  * [Object condition](#object-condition)
   * [Object weight and size](#object-weight-and-size)
   * [Transport route](#transport-route)
-  * [Risks and their minimization](#risks-and-their-minimization) 
+  * [Risks and minimization them](#risks-and-minimizing-them) 
 - [Aids](#aids)
 - [Appendix: Checklist](#appendix-checklist)
 - [Appendix: Sources and Literature](#appendix-sources-and-literature)
@@ -217,9 +217,9 @@ To avoid accidents, aids can also be used for short distances during transport. 
 For packaging and storage, use materials that do not release harmful substances like acids or are contaminated with biocides. Depending on the type of object, be sure to store it appropriately: for example, in a suitable box.
 
 - [ ] **What things must be considered before handling the object?** (cf. [Preliminary considerations](#preliminary-considerations))
-- [ ] **Which object data are relevant?** (cf. [Object type and materiality](#objektgattung-und-materialit%C3%A4t), [Condition of object](#condition-of-object) and [Object weight and size](#object-weight-and-size)) (Object type, material, condition, size and weight)
+- [ ] **Which object data are relevant?** (cf. [Object type and materiality](#object-type-and-materiality), [Object condition](#object-condition) and [Object weight and size](#object-weight-and-size)) (Object type, material, condition, size and weight)
 - [ ] **What is the transport route like?** (see [Transport route](#transport-route))
-- [ ] **What are the risks and how can they be minimized?** (cf. <u><span>Risks and minimizing them</span></u>)
+- [ ] **What are the risks and how can they be minimized?** (cf. [Risks and minimizing them](#risks-and-minimizing-them))
 - [ ] **What aids are needed to transport the object?** (cf. [Aids](#aids))
 
 ## Appendix: Sources and Literature
