@@ -184,9 +184,9 @@ Michael Markert
    * [Rights to a digital copy](#rights-to-a-digital-copy)
    * [Transfer of rights and licenses](#transfer-of-rights-and-licenses)
    * [Copyright in employment relationships, internships, etc.](#copyright-in-employment-relationships-internships-etc)
-   * [Relevant limits of copyright protection](#relevant-limits-of-copyright-protection)
+   * [Relevant limitations and exceptions of copyright](#relevant-limitations-and-exceptions-of-copyright)
 - [Rights to One’s Own Image](#rights-to-ones-own-image)
-- [Characteristics of Unconstitutional Organizations](#characteristics-of-unconstitutional-organizations)
+- [Distinguishing Marks of Unconstitutional Organizations](#distinguishing-marks-of-unconstitutional-organizations)
 - [Appendix: Checklist](#appendix-checklist)
 - [Appendix: Sources and Literature](#appendix-sources-and-literature)
 
@@ -236,7 +236,7 @@ Since any use of a camera at a cultural institution is likely to give rise to a 
 
 In the case of academic assistants, academic or voluntary staff, or interns, on the other hand, employment contracts often do not include object digitization as a significant aspect of the job or mention it at all. Here, the **granting of rights of use should take place explicitly in the employment contract or a separate regulation confirmed in writing** – ideally with licenses that are as open as possible according to the CC model. Conversely, authors should be aware of their rights and, if necessary, demand them – such as the right to be named or the right to their own distribution.
 
-### Relevant limitations and exceptions of copyright
+### Relevant limitations and exceptions of copyright 
 
 In various special cases, the copyright is limited in favor of the public interest, and no separate assertion of rights is necessary. Some of these cases are not particularly relevant for the digitization of the object itself: for example, in the case of reporting current events ([Sect. 50 GCA](https://www.gesetze-im-internet.de/urhg/__50.html)) or creating caricatures, parodies and pastiche ([Sect. 51a GCA](https://www.gesetze-im-internet.de/urhg/__51a.html)).
 
@@ -284,7 +284,7 @@ Copyright issues become important when there is a “duplication” or “distri
 - [ ] Is it a work, i.e., was it created in an individual, creative act (cf. [What is a work?](#what-is-a-work))?
 - [ ] Is it still protected by copyright, i.e., have the authors not been dead for at least 70 years (cf. [What rights do authors have?](#What-rights-do-authors-have))?
 - [ ] If it is protected, is there a license or other permission for duplication and publication (if pertinent) or can this be obtained – for example from a copyright collective (cf. [Transfer of rights and types of licensing](#transfer-of-rights-and-types-of-licensing))?
-- [ ] Does a limitation like the option of digitization for (internal) documentation purposes apply (cf. [Relevant copyright barriers](#relevant-copyright-barriers))?
+- [ ] Does a limitation like the option of digitization for (internal) documentation purposes apply (cf. [Relevant limitations and exceptions of copyright](#relevant-limitations-and-exceptions-of-copyright))?
 
 **Rights to the digital copy**
 
@@ -298,7 +298,7 @@ Copyright issues become important when there is a “duplication” or “distri
 
 **Distinguishing Marks of Unconstitutional Organizations**
 
-- [ ] Do the objects to be digitized or digitized copies show symbols or distinguishing marks, in particular of Nazi organizations (cf. [Overviews of prohibited distinguishing marks and symbols](#overviews-of-prohibited-distinguishing-marks-and-symbols))?
+- [ ] Do the objects to be digitized or digitized copies show symbols or distinguishing marks, in particular of Nazi organizations (cf. [Distinguishing Marks of Unconstitutional Organizations](#distinguishing-marks-of-unconstitutional-organizations))?
 
 ## Appendix: Sources and Literature
 
