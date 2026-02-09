@@ -53,7 +53,7 @@ Die folgende Darstellung versucht, alle wesentlichen Aspekte eines generischen W
 | [Projektplanung](#projektplanung) | [Objekttransport](#objekttransport) | [Qualitätsmanagement](#qualitätsmanagement) |
 | [Einbezug relevanter Stakeholder](#einbezug-relevanter-stakeholder) | [Vorbereitung der Objekte](#vorbereitung-der-objekte) | [Langfristige Datenhaltung](#langfristige-datenhaltung) |
 | [Zustand der Sammlung](#zustand-der-sammlung) | [Inventarisierung und Basisdatenerfassung](#inventarisierung-und-basisdatenerfassung) | [Evaluierung und Dokumentation](#evaluierung-und-dokumentation) |
-| [Ressourcen: Raum, Technik, Personal, Budget](#ressourcen) | [Anfertigung von Digitalisaten](#anfertigung-von-digitalisaten) | [Datenpublikation](#datenpublikation) |
+| [Ressourcen: Raum, Technik, Personal, Budget](#ressourcen) | [Anfertigung von Digitalisaten](#anfertigen-von-digitalisaten) | [Datenpublikation](#datenpublikation) |
 | [Rechtslage](#rechtslage) | [Hinterlegen von Digitalisat-Metadaten](#hinterlegen-von-digitalisat-metadaten) |     |
 | [Arbeitsanweisung](#arbeitsanweisung) | [Speichern, Derivate, Backup](#speichern-derivate-backup) |     |
 
