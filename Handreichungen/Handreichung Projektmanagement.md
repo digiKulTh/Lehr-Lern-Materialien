@@ -299,7 +299,7 @@ Digitization projects are often carried out together with conservation measures 
 
 Sometimes holdings that the museum has not yet been documented or whose records are only rudimentary must be digitized. Depending on the research involved, assigning catalog numbers to objects and recording metadata such as the title, manufacturer, development period, object classification, dimensions, materials, technology, location and a short description (cf. [Handout on Cataloging](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Handreichungen/Handreichung%20Inventarisierung.md)) can be extremely time-consuming. Dating and further research into a manufacturer’s distinguishing mark can easily take an hour – time in which colleagues are waiting to work with the object as well.
 
-### Producing digital copies
+### Making digital copies
 
 Depending on the object type and requirements – simple work photos, restoration documentation or images for publication – it is important to establish and standardize the appropriate technical conditions to ensure consistent quality if the work is interrupted (illness, vacation) and in case of personnel changes. Create precise work instructions and document the work regularly to make changes in the workflow and the current status of the work centrally available. Depending on the technology used, the processes can be very complex and detailed – particularly when it comes to 3D-digitization, which often requires very time-consuming and intensive postprocessing on the computer. Also consider the amount of memory required for large numbers of high-resolution images.
 
