@@ -183,13 +183,13 @@ Michael Markert
    * [What rights do authors have?](#what-rights-do-authors-have)
    * [Rights to a digital copy](#rights-to-a-digital-copy)
    * [Transfer of rights and licenses](#transfer-of-rights-and-licenses)
-   * [Copyright protection in employment relationships, internships, etc.](#copyright-protection-in-employment-relationships,-internships,-etc.)
+   * [Copyright in employment relationships, internships, etc.](#copyright-in-employment-relationships-internships-etc)
    * [Relevant limits of copyright protection](#relevant-limits-of-copyright-protection)
 - [Rights to One’s Own Image](#rights-to-one’s-own-image)
 - [Characteristics of Unconstitutional Organizations](#characteristics-of-unconstitutional-organizations)
 - [Appendix: Checklist](#appendix-checklist)
 - [Appendix: Sources and Literature](#appendix-sources-and-literature)
-- 
+
 <!-- TOC end -->
 
 ## Issues around Copyright Protection
@@ -230,7 +230,7 @@ Authors have various options for **granting rights of use** to third parties. On
 
 For the cultural sector, **four licenses are recommended**, listed here in order of decreasing restrictions: [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/), [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.en), [CC-BY](https://creativecommons.org/licenses/by-sa/4.0/deed.en) and [CC0](https://creativecommons.org/publicdomain/zero/1.0/). A CC0 license is unconditional. It is preferred by Wikipedia, for example, and is even required by the Common Standard File (CSF) of scientific libraries and provides for all conceivable forms of use for everyone in the future. The use of CC licenses with the addition “**NC”** (non-commercial) **is sometimes discouraged for the cultural sector** to avoid creating unnecessary obstacles to reuse. Since AI is increasingly being trained with cultural data repositories, NC licenses can be quite useful, as the necessary separate collection of rights enables data providers to have more control over these types of use.
 
-### Copyright in employment relationships, internships, etc.
+### Copyright in employment relationships, internships, etc. 
 
 Since any use of a camera at a cultural institution is likely to give rise to a copyright claim, **institutions should clearly regulate the transfer of rights of use from employees to the institution**. The employing institution has an exclusive right of use to the employee’s digital copies if the “work in fulfilment of their obligations” was created in accordance with the “content or essence of the employment or service relationship” ([Sect. 43 GCA](https://www.gesetze-im-internet.de/urhg/__43.html)). This is certainly the case with photographers or technical personnel employed specifically for digitization.
 
