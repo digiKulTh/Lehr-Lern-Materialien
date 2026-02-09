@@ -2,7 +2,7 @@
 
 Michael Markert
 
-**[PLEASE FIND THE ENGLISH VERSION BELOW](#handout-on--legal-aspects-of-object-digitization)**
+**[PLEASE FIND THE ENGLISH VERSION BELOW](#handout-on-legal-aspects-of-object-digitization)**
 
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
