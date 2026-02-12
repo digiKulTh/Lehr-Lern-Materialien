@@ -98,6 +98,9 @@ Objektfotografie im Museum, Chemnitz, URL: https://museumswesen.skd.museum/filea
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 
 # Checklist Object Photography
 
