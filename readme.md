@@ -18,6 +18,7 @@ Dieses Repositorium enthält derzeit als nutzbare Ressourcen einen Ordner mit [H
 - Wie kann eine **Schreibanweisung für (Objekt)-Informationen** aussehen? <br> => [Demo-Schreibanweisung](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Lehrendenmaterial/Demo-Schreibanweisung.md)
 - Wie könnte eine Vorlage zur **Übertragung von Nutzungsrechten** von Objektfotodigitalisaten und -metadaten aussehen? <br> => [Vorlage Rechtübertragung](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Lehrendenmaterial/Vorlage_Rechte%C3%BCbertragung.md)
 - Welche wesentlichen **Faktoren und Techniken** sind für die **Praxis der Objektfotografie** relevant? <br> => [Handreichung Praxis Objektfotografie für Lehrende](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Lehrendenmaterial/Handreichung-Objektfotografie_fuer_Lehrende.md)
+- Wie können Studierende auf das Lehrangebot und die Inhalte der Lehrveranstaltung aufmerksam gemacht werden? <br> => [DigiSnacks] ()
   
 ### Studierendenmaterial
 - Über welche **Grundkenntnisse** zur Kulturgutdigitalisierung sollte ich verfügen? <br> => [Ordner Handreichungen](https://github.com/digiKulTh/Lehr-Lern-Materialien/tree/main/Handreichungen)
