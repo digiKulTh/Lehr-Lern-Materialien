@@ -119,6 +119,13 @@ Unfallkasse Nordrhein-Westfalen (2020): Handlungshilfe für die Gefährdungsbeur
 
 Hintergrundinformation: Der Umgang mit Gefahrstoffen ist für Arbeitgeber und -nehmer in Deutschland im [Arbeitsschutzgesetz (ArbSchG)](https://www.gesetze-im-internet.de/arbschg/BJNR124610996.html) und in der [Gefahrstoffverordnung (GefStoffV](https://www.gesetze-im-internet.de/gefstoffv_2010/BJNR164400010.html)) geregelt. Aktuellste wissenschaftliche und technische Informationen über die Arbeit mit Gefahrstoffen bieten die [Technischen Regeln für Gefahrstoffe (TRGS)](https://www.baua.de/DE/Angebote/Regelwerk/TRGS/TRGS). Gefahrstoffe werden im EWR (Europäischer Wirtschaftraum, umfasst alle EU-Mitgliedsstaaten sowie Island, Norwegen und Liechtentein) in der [CLP(Classification, Labelling and Packaging of Chemicals )-Verordnung Nr. 1272/2008](https://echa.europa.eu/de/regulations/clp/understanding-clp) aufgeführt. 
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 # Handout on Hazardous Substances and Occupational Safety
 
 Anne Hiltscher & Michael Markert (ed.)
