@@ -230,6 +230,16 @@ für die Museumsarbeit. Nr. 2 Vergabe und Aufbringen von Inventarnummern, Chemni
 
 Verband der Museen der Schweiz (Hrsg.) (2015): Inventar im Museum. Das A und O der Inventarisierung, URL: https://wissenschaftliche-sammlungen.de/files/7815/3484/9123/VMS_Inventar_D_web.pdf, (letzter Zugriff 06.12.2024).
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 # Handout on Inventory
 
 Anne Hiltscher
