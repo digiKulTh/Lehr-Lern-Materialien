@@ -172,6 +172,16 @@ VG Bild-Kunst (2023) Internet-Tarife. Abgerufen von  https://www.bildkunst.de/do
 
 VG Bild-Kunst (2024): Künstlersuche. Abgerufen von https://www.bildkunst.de/lizenzen/bildrechte_klaeren/kuenstlersuche/ (letzter Zugriff 02.12.2024).
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 # Handout on Legal Aspects of Object Digitization
 
 Michael Markert
