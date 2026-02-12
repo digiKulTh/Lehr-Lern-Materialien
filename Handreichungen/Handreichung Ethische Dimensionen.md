@@ -155,6 +155,13 @@ Minimaldatensatz, A. G. *et al.* (2024). Minimaldatensatz-Empfehlung für Museen
 
 Montenegro, M. (2019). ‘Subverting the universality of metadata standards : The TK labels as a tool to promote Indigenous data sovereignty’, *Universality of metadata standards*, 75 (4), S. 731–749. Abgerufen von https://doi.org/10.1108/JD-08-2018-0124 (letzter Zugriff 02.12.2024).
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 # Handout on Ethical Dimensions of Object Digitization
 
 Michael Markert
