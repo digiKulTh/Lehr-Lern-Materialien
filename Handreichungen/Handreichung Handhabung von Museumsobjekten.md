@@ -110,6 +110,13 @@ Volkskundliche Beratungs- und Dokumentationsstelle für Thüringen (Hrsg.) (2022
 
 Waller, Christoph (Hrsg.): Didaktik zur Präventiven Konservierung, URL: https://llfa.de/didaktik.html (letzter Zugriff 05.12.2024).
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 # Handout on Handling Museum Objects
 
 Anne Hiltscher & Rebecca Wulke
