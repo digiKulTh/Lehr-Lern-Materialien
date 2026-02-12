@@ -161,6 +161,9 @@ Montenegro, M. (2019). ‘Subverting the universality of metadata standards : 
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 
 # Handout on Ethical Dimensions of Object Digitization
 
