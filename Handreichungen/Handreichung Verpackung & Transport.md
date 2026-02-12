@@ -119,6 +119,16 @@ Huber, Joachim; Lerber, Karin von (2015): Handhabung und Lagerung von mobilem Ku
 
 Waller, Christoph (Hrsg.): Didaktik zur Präventiven Konservierung, URL: [Didaktik](https://llfa.de/didaktik.html) (letzter Zugriff 05.12.2024).
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 # Handout on Packaging and Transport
 
 Anne Hiltscher
