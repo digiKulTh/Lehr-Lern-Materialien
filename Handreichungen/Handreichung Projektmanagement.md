@@ -2,7 +2,7 @@
 
 Michael Markert
 
-**[PLEASE FIND THE ENGLISH VERSION BELOW](#project-management-in-cultural-property-digitization)**
+**[PLEASE FIND THE ENGLISH VERSION BELOW](#handout-on-project-management-in-cultural-property-digitization)**
 
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
@@ -177,7 +177,17 @@ Wikimedia: Commons:Structured data, 2025, URL: <https://commons.wikimedia.org/wi
 
 Wikipedia: Gaussian Splatting, 2025, URL: <https://de.wikipedia.org/wiki/Gaussian_Splatting> (letzter Zugriff 06.02.2025).
 
-# Project Management in Cultural Property Digitization
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# Handout on Project Management in Cultural Property Digitization
 
 Michael Markert
 
