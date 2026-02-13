@@ -29,6 +29,8 @@ Dieses Repositorium enthält derzeit als nutzbare Ressourcen einen Ordner mit [H
 - Wie kann man mit dem Setup **Objekte fotografieren**? <br> => [Poster Objektfotografie III](https://github.com/user-attachments/files/20589074/Poster.Objektfotografie.pdf), [Video-Tutorial Fotografieworkflow](https://www.youtube.com/watch?v=mAjWm4rSCuE)
 - Wie kann ich in digiCult.web **Objektinformationen eintragen**? <br> => [Screencast zur Anlage eines Datensatzes](https://www.youtube.com/watch?v=R3o4tdLhXHI)
 
+<img width="3584" height="1148" alt="Digitale Kulturwerkbank Logo Neu schwarz" src="https://github.com/user-attachments/assets/9791c72f-7773-4655-bc65-0187d6b61641" />
+
 ![Logo_Stiftung_Hochschullehre_pos-Gefördert-durch](https://github.com/user-attachments/assets/44d3176a-1fdb-471a-ad90-831c8c2696da)
 
 
