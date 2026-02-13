@@ -29,4 +29,5 @@ Dieses Repositorium enthält derzeit als nutzbare Ressourcen einen Ordner mit [H
 - Wie kann man mit dem Setup **Objekte fotografieren**? <br> => [Poster Objektfotografie III](https://github.com/user-attachments/files/20589074/Poster.Objektfotografie.pdf), [Video-Tutorial Fotografieworkflow](https://www.youtube.com/watch?v=mAjWm4rSCuE)
 - Wie kann ich in digiCult.web **Objektinformationen eintragen**? <br> => [Screencast zur Anlage eines Datensatzes](https://www.youtube.com/watch?v=R3o4tdLhXHI)
 
+<img width="365.0" height="121.6" alt="Digitale Kulturwerkbank Logo Neu Schlagschatten" src="https://github.com/user-attachments/assets/a70dadfa-1abb-45a5-a87f-4bdba4e1f0fb" />
 
