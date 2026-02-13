@@ -28,3 +28,5 @@ Dieses Repositorium enthält derzeit als nutzbare Ressourcen einen Ordner mit [H
 - Wie sollte ich die **Technik einstellen**? <br> => [Poster Objektfotografie I-III](https://github.com/user-attachments/files/20589074/Poster.Objektfotografie.pdf), [Checkliste Objektfotografie](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Handreichungen/Checkliste%20Objektfotografie.md), [Video-Tutorial Einführung in die Objektfotografie](https://youtu.be/zAy0TGYMUWI)
 - Wie kann man mit dem Setup **Objekte fotografieren**? <br> => [Poster Objektfotografie III](https://github.com/user-attachments/files/20589074/Poster.Objektfotografie.pdf), [Video-Tutorial Fotografieworkflow](https://www.youtube.com/watch?v=mAjWm4rSCuE)
 - Wie kann ich in digiCult.web **Objektinformationen eintragen**? <br> => [Screencast zur Anlage eines Datensatzes](https://www.youtube.com/watch?v=R3o4tdLhXHI)
+
+<img width="358.4" height="114.8" alt="DigiKulTh Logo neu" src="https://github.com/user-attachments/assets/5c3b41e7-edfc-450a-ad28-5d004036235f" />
