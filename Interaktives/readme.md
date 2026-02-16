@@ -6,3 +6,6 @@
 
 ## Quiz zur Wissensüberprüfung
 [Start des LiaScript-Quiz](https://liascript.github.io/course/?https://raw.githubusercontent.com/digiKulTh/Lehr-Lern-Materialien/refs/heads/main/Interaktives/Quiz_Kulturgutdigitalisierung.md)
+
+## DigiSnacks zur Bewerbung einzelner Praxisseminarschwerpunkte
+[Liste der DigiSnacks](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Interaktives/DigiSnacks.md)
