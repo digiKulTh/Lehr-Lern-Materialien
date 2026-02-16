@@ -30,6 +30,6 @@ Dieses Repositorium enthält derzeit als nutzbare Ressourcen einen Ordner mit [H
 - Wie kann ich in digiCult.web **Objektinformationen eintragen**? <br> => [Screencast zur Anlage eines Datensatzes](https://www.youtube.com/watch?v=R3o4tdLhXHI)
 <br>
 <br>
-<img width="358.4" height="114.8" alt="Digitale Kulturwerkbank Logo Neu schwarz" src="https://github.com/user-attachments/assets/9791c72f-7773-4655-bc65-0187d6b61641" />&nbsp;<img width="369.9" height="49.2" alt="ThULB Logo Schwarz" src="https://github.com/user-attachments/assets/b340f0ea-8964-4485-9a89-652f0535e5f5" />&nbsp;<img width="309.1" height="151.9" alt="siidhl logo" src="https://github.com/user-attachments/assets/6997465c-8a4b-42e8-92b7-e5c0eaa55012" />
+<img width="286.72" height="91.84" alt="Digitale Kulturwerkbank Logo Neu schwarz" src="https://github.com/user-attachments/assets/9791c72f-7773-4655-bc65-0187d6b61641" />&nbsp;<img width="295.92" height="39.36" alt="ThULB Logo Schwarz" src="https://github.com/user-attachments/assets/b340f0ea-8964-4485-9a89-652f0535e5f5" />&nbsp;<img width="247.3" height="121.52" alt="siidhl logo" src="https://github.com/user-attachments/assets/6997465c-8a4b-42e8-92b7-e5c0eaa55012" />
 
 
