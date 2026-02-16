@@ -8,12 +8,4 @@
 
 ## DigiSnack - Inventarisierung mit Klebezetteln
 
-https://youtube.com/shorts/IDXORA_6pt0
-
-
-
-
-
-
-
-[![Aufbau der Fotostation 1](https://img.youtube.com/vi/YNlT-KAWyGc/0.jpg)](https://youtu.be/YNlT-KAWyGc)
+[![DigiSnack - Inventarisierung mit Klebezetteln](https://youtube.com/shorts/IDXORA_6pt0/0.jpg)](https://youtube.com/shorts/IDXORA_6pt0)
