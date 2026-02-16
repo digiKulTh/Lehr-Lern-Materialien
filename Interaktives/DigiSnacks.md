@@ -1,6 +1,6 @@
 ## DigiSnack - Baumwoll- vs. Nitrilhandschuhe
 
-https://youtube.com/shorts/XCapvaWHzqM
+[![DigiSnack - Baumwoll- vs. Nitrilhandschuhe](https://youtube.com/shorts/XCapvaWHzqM.jpg)](https://youtube.com/shorts/XCapvaWHzqM)
 
 ## DigiSnack - Gefahrstoffe
 
