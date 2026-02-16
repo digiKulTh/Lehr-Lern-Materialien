@@ -37,6 +37,10 @@
 - Fotokoffer **Calumet Water Tight Hard Case WT2175 black mit Schaumstoffeinsatz, Innenmaß 480x370x205**
 - **Rollei Sensor-Reinigungskit** 
 
+![Vogelperspektive Equipment 1](https://github.com/user-attachments/assets/7b7722e1-1ef6-4984-b429-c27e2dfa79c2)
+
+![Vogelperspektive Equipment 2](https://github.com/user-attachments/assets/84a0c0af-46e0-4cf8-bae4-5ba7112d93f2)
+
 ## Software
 Die Auswahl der Software hatte als Kriterium, dass unbefristete Einzelplatzlizenzen existieren, sodass der Workflow langfristig durch wechselndes Personal genutzt werden kann. 
 - **Capture One** für Tethering und digitale Entwicklung, https://www.captureone.com/de
