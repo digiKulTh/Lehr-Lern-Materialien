@@ -9,3 +9,5 @@
 ## DigiSnack - Inventarisierung mit Klebezetteln (Link zu Youtube)
 
 [![DigiSnack - Inventarisierung mit Klebezetteln](https://img.youtube.com/vi/shorts/IDXORA_6pt0/0.jpg)](https://youtube.com/shorts/IDXORA_6pt0)
+
+[![DigiSnack - Herbarium Hausknecht](https://img.www.youtube.com/shorts/kDXZEeMB-1U.jpg)](https://www.youtube.com/shorts/kDXZEeMB-1U)
