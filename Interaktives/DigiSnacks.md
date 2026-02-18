@@ -12,4 +12,4 @@
 
 ## DigiSnack - Herbarium Hausknecht (Link zu Youtube)
 
-[![DigiSnack - Herbarium Hausknecht](https://img.www.youtube.com/kDXZEeMB-1U/0.jpg)](https://www.youtube.com/vi/shorts/kDXZEeMB-1U)
+[![DigiSnack - Herbarium Hausknecht](https://img.www.youtube.com/vi/kDXZEeMB-1U/0.jpg)](https://www.youtube.com/vi/shorts/kDXZEeMB-1U)
