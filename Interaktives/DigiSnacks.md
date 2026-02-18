@@ -4,7 +4,7 @@
 
 ## DigiSnack - Gefahrstoffe (Link zu Youtube)
 
-[![DigiSnack - Gefahrstoffe]([https://img.youtube.com/vi/5exX2jcff9M/maxresdefault.jpg](https://img.youtube.com/vi/5exX2jcff9M/0.jpg))](https://youtube.com/vi/shorts/5exX2jcff9M)
+[![DigiSnack - Gefahrstoffe]([https://img.youtube.com/vi/5exX2jcff9M/maxresdefault.jpg](https://img.youtube.com/vi/shorts/5exX2jcff9M/0.jpg))](https://youtube.com/vi/shorts/5exX2jcff9M)
 
 ## DigiSnack - Inventarisierung mit Klebezetteln (Link zu Youtube)
 
