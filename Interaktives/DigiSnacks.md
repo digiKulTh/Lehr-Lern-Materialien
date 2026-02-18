@@ -1,11 +1,11 @@
 ## DigiSnack - Baumwoll- vs. Nitrilhandschuhe (Link zu Youtube)
 
-[![DigiSnack - Baumwoll- vs. Nitrilhandschuhe](https://img.youtube.com/vi/shorts/XCapvaWHzqM.jpg)](https://youtube.com/shorts/XCapvaWHzqM)
+[![DigiSnack - Baumwoll- vs. Nitrilhandschuhe](https://img.youtube.com/vi/shorts/XCapvaWHzqM/0.jpg)](https://youtube.com/shorts/XCapvaWHzqM)
 
 ## DigiSnack - Gefahrstoffe (Link zu Youtube)
 
-[![DigiSnack - Gefahrstoffe](https://img.youtube.com/vi/shorts/5exX2jcff9M.jpg)](https://youtube.com/shorts/5exX2jcff9M)
+[![DigiSnack - Gefahrstoffe](https://img.youtube.com/vi/shorts/5exX2jcff9M/0.jpg)](https://youtube.com/shorts/5exX2jcff9M)
 
 ## DigiSnack - Inventarisierung mit Klebezetteln (Link zu Youtube)
 
-[![DigiSnack - Inventarisierung mit Klebezetteln](https://img.youtube.com/vi/shorts/IDXORA_6pt0.jpg)](https://youtube.com/shorts/IDXORA_6pt0)
+[![DigiSnack - Inventarisierung mit Klebezetteln](https://img.youtube.com/vi/shorts/IDXORA_6pt0/0.jpg)](https://youtube.com/shorts/IDXORA_6pt0)
