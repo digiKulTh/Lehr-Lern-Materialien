@@ -14,6 +14,10 @@
 
 [![Digitale Fotografie 2](https://img.youtube.com/vi/mAjWm4rSCuE/0.jpg)](https://youtu.be/mAjWm4rSCuE)
 
+## Focus Stacking mit Affinity ##
+
+[![Focus Stacking](https://img.youtube.com/vi/kyW3y66Or80/0.jpg)]((https://youtu.be/kyW3y66Or80))
+
 ## Objekterfassung in digiCULT.web ##
 
 [![Objekterfassung](https://img.youtube.com/vi/R3o4tdLhXHI/0.jpg)](https://youtu.be/R3o4tdLhXHI)
@@ -21,7 +25,3 @@
 ## Anlage von Personen in digiCULT.web ##
 
 [![Personenanlage](https://img.youtube.com/vi/p8cM5bFVfb4/0.jpg)](https://youtu.be/p8cM5bFVfb4)
-
-## Focus Stacking mit Affinity ##
-
-[![Focus Stacking](https://img.youtube.com/vi/kyW3y66Or80/0.jpg)]((https://youtu.be/kyW3y66Or80))
