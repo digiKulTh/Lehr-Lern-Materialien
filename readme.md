@@ -3,11 +3,11 @@ Hier finden sich die Materialien aus dem Lehrinnovationsprojekt [digitale Kultur
 
 **Einblick in das Praxisseminar 2024 (Link zu Youtube)**
 
-[![Seminarteaser 2024](https://img.youtube.com/vi/p4JQlzfPxbI/hddefault.jpg)](https://youtu.be/p4JQlzfPxbI)
+[![Seminarteaser 2024](https://img.youtube.com/vi/p4JQlzfPxbI/hqdefault.jpg)](https://youtu.be/p4JQlzfPxbI)
 
 **Einblick in das Praxisseminar 2025 (Link zu Youtube)**
 
-[![Seminarteaser 2025](https://img.youtube.com/vi/lLmtBl39K2I/hddefault.jpg)](https://youtu.be/lLmtBl39K2I?si=bnbqtJ2rHFY_pXsr)
+[![Seminarteaser 2025](https://img.youtube.com/vi/lLmtBl39K2I/hqdefault.jpg)](https://youtu.be/lLmtBl39K2I?si=bnbqtJ2rHFY_pXsr)
 
 ## Zielgruppe und Inhalt des Repositoriums
 Das Repositorium richtet sich primär an Hochschul-Lehrende im Bereich Kulturgutdigitalisierung und soll Hilfestellung bei der Vorbereitung und Durchführung entsprechender Lehrveranstaltungen bieten. Da museale Standards angewendet und eingehalten werden, ist es auch für den Bereich der Ausbildung an GLAM-Institutionen – etwa bei der Schulung von Volontär:innen – hilfreich. Es besteht sowohl aus Materialien für die Lehrenden als auch für die Studierenden und ist so lizensiert, dass eine Bearbeitung und Veränderung problemlos möglich ist. Es wird zumindest bis zum Ende der Projektlaufzeit im März 2026 beständig erweitert und überarbeitet.
