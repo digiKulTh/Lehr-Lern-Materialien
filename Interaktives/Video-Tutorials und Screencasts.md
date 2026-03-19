@@ -25,3 +25,6 @@
 ## Anlage von Personen in digiCULT.web ##
 
 [![Personenanlage](https://img.youtube.com/vi/p8cM5bFVfb4/0.jpg)](https://youtu.be/p8cM5bFVfb4)
+
+
+Videos produziert von Daniel Pelz
