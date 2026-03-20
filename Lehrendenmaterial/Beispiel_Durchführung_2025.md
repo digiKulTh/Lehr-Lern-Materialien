@@ -2,8 +2,12 @@
 
 Anne Hiltscher & Michael Markert
 
+[**PLEASE FIND THE ENGLISH VERSION BELOW**](#example-conducting-the-2025-practical-seminar-from-object-to-record)
+
 ## Inhalt
+
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
+
    * [Rahmenbedingungen](#rahmenbedingungen)
       + [Überblick](#überblick)
    * [Woche 1](#woche-1)
