@@ -62,7 +62,7 @@ Anne Hiltscher & Michael Markert
       + [Donnerstag 28.08.](#donnerstag-2808)
          - [Beenden der letzten Arbeitsschritte, Kontrolle der Arbeitsergebnisse, Abbau der Stationen (120 min)](#beenden-der-letzten-arbeitsschritte-kontrolle-der-arbeitsergebnisse-abbau-der-stationen-120-min)
          - [Erweiterte Feedbackrunde (15 min)](#erweiterte-feedbackrunde-15-min-2)
-         - [13:30 Uhr-16:00 Uhr](#1330-uhr-1600-uhr)
+         - [Mittagspause](#mittagspause-8)
          - [Kennenlernen von 3D-Digitalisierung (Photogrammetrie) (120 min)](#kennenlernen-von-3d-digitalisierung-photogrammetrie-120-min)
       + [Freitag 29.08.](#freitag-2908)
          - [Input: Nachnutzung - Einblick in Kulturportale (URMEL, Kulthura, DDB, Eurpeana & Co) (90 min)](#input-nachnutzung---einblick-in-kulturportale-urmel-kulthura-ddb-eurpeana--co-90-min)
@@ -355,7 +355,7 @@ Jede Teilnehmer:in antwortet auf mindestens eine der vier Fragen:
 #### Erweiterte Feedbackrunde (15 min)
 - Wie fandet ihr den Block 2D-Digitalisierung insgesamt? Hat euch etwas gefehlt? Fandet ihr etwas besonders toll? Was könnte man verbessern?
 
-#### 13:30 Uhr-16:00 Uhr
+#### Mittagspause
 
 #### Kennenlernen von 3D-Digitalisierung (Photogrammetrie) (120 min)
 Vorbereitung:
