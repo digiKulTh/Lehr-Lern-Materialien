@@ -414,7 +414,7 @@ Anne Hiltscher and Michael Markert
 - [General Conditions](#general-conditions)
   - [Overview](#overview)
 - [Week 1](#week-1)
-  - [Monday, Aug. 18](#monday-aug18)
+  - [Monday, Aug. 18](#monday,aug18)
     - [Introduction (90 min)](#introduction)
     - [Short break](#short-break)
     - [Exercise: Planning a digitization project (60 min)](#exercise-planning-a-digitization-project)
