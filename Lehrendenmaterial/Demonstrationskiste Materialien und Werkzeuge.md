@@ -43,3 +43,56 @@ Die Demonstrationskiste ist ein flacher Eurobehälter mit transparentem Deckel u
 - Schere, Cuttermesser
 - Kreppband
 - Wasserwaage
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+Introduction
+
+The demonstration box is a flat euro container – a box whose dimensions are based on European standards – with a transparent lid. It contains the materials usually used for handling, packaging, cleaning and cataloging objects, as well as for occupational safety and object protection. The demonstration box is used for presentations in teaching scenarios and helps to distinguish the usual materials from unsuitable, everyday materials. The following is a list of the contents of the box used in the practical seminar in Jena
+
+## Materials for Handling
+- Nitrile gloves  
+- Cotton gloves 
+- FFP2 and FFP3 masks
+
+## Materials for Cleaning
+- Disposable dustcloths
+- Brush with natural bristles for cleaning objects (marabou feather brush, goat-hair brush, camel-hair brush)
+- Hand brush or wide synthetic brush for cleaning the (photo) workstation
+
+## Materials for Cataloging/Recording Data
+- Archive pens
+  - Fineliner with pigment ink (e.g. Staedtler pigment liner 308) 
+  - Ink pen (e.g., Pitt Artist Pen brush India ink pen)    
+- 2B pencil 
+- Eraser 
+- Acid-free paper labels with unbleached cotton strings  
+- For directly writing on (labeling) approved materials  
+  - Schmincke acrylic varnish or acryloid consolidant (e.g., Paraloid B-72) in solution primer and top layer of the label   
+  - Synthetic artist’s brush (size 4, 8) for applying acrylic varnish or acryloid film
+- Plastic caliper (to avoid object damage) 
+- Plastic yardstick 
+- Tape measure 
+- Magnifying glass 
+- Kitchen scale, if necessary
+  
+## Materials for Packaging Objects
+- Tyvek (suitable for object contact) 
+- Bubble wrap (as packaging without direct contact to the object) 
+- PE pressure-lock bags (food-safe)
+- Glassine bags for photos and negatives, various sizes  
+- Archival folder (acid-free) 
+- Archival 4-flap expansion folder (acid-free)
+- Archival storage box (acid-free)
+- Archival clamshell box (acid-free)
+- Scissors, cutter
+- Masking tape
+- Spirit level
