@@ -54,9 +54,13 @@ Die Demonstrationskiste ist ein flacher Eurobehälter mit transparentem Deckel u
 <br>
 <br>
 
-Introduction
+## Introduction
 
-The demonstration box is a flat euro container – a box whose dimensions are based on European standards – with a transparent lid. It contains the materials usually used for handling, packaging, cleaning and cataloging objects, as well as for occupational safety and object protection. The demonstration box is used for presentations in teaching scenarios and helps to distinguish the usual materials from unsuitable, everyday materials. The following is a list of the contents of the box used in the practical seminar in Jena
+The demonstration box is a flat euro container – a box whose dimensions are based on European standards – with a transparent lid. It contains the materials usually used for handling, packaging, cleaning and cataloging objects, as well as for occupational safety and object protection. The demonstration box is used for presentations in teaching scenarios and helps to distinguish the usual materials from unsuitable, everyday materials. The following is a list of the contents of the box used in the practical seminar in Jena.
+
+<img width="2048" height="1365" alt="image" src="https://github.com/user-attachments/assets/1f5ad011-2aa7-423b-a176-7802c816f9b0" />
+
+<img width="2048" height="1365" alt="image" src="https://github.com/user-attachments/assets/ee28e739-fee9-49d4-8e5e-a5e61cab9b40" />
 
 ## Materials for Handling
 - Nitrile gloves  
