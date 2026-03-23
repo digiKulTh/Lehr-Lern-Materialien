@@ -1,5 +1,7 @@
 # Checkliste Praxisseminar
 
+[**PLEASE FIND THE ENGLISH VERSION BELOW**](#practical-seminar-checklist)
+
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
 - [Vorlauf ab 9 Monate](#vorlauf-ab-9-monate)
@@ -129,3 +131,140 @@ Kamerasysteme mit Objektiven
   - Aufbau
   - Anpassung der Workflows
   - ggf. Überarbeitung Schreibanweisung
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# Practical Seminar Checklist
+
+- [Starting 9 months in advance](#starting9months-in-advance)
+  - [Organization](#organization)
+  - [Promotion](#promotion)
+- [Starting 6 months in advance](#starting6months-in-advance)
+- [Starting 3 months in advance](#starting3months-in-advance)
+  - [Impact on seminar](#impact-on-seminar)
+  - [Impact on students](#impact-on-students)
+  - [Starting 1 week in advance](#starting1week-in-advance)
+- [During the seminar](#during-the-seminar)
+- [After the seminar](#after-the-seminar)
+
+## Starting 9 months in advance
+
+### Organization
+
+- Develop rough agenda
+- Select dates (semester holiday, but after school holidays, up to start of lectures in October at least 6 weeks for subsequent practice work)
+- Request colleagues to distribute teaching content, in advance of time window to be blocked (2 weeks)
+- If necessary, hire academic assistants (could provide low-threshold support to students during the practical seminar and answer questions)
+- Inquire if collections are interested in participating
+- Specify possible field trip destinations (with alternatives)
+
+## Promotion
+
+- Enter as a seminar in course catalog
+- Promotion
+  - Putting up posters 
+  - Send PowerPoint presentation slides with core information to professors and persons responsible for courses in the relevant disciplines for distribution and use in presentations in teaching scenarios  
+  - Publish trailers on screens (no sound) and via social media (with sound) from January (save the date) & end of February/beginning of March (reminder) 
+  - Announcement in student and institution mailing lists 
+- Check/adjust learning goals
+- Adjust/improve teaching materials
+
+## Starting 6 months in advance
+
+- Inquire about concrete dates from collections/field trip destinations/partners (other teachers, persons responsible for collections, department heads/collection representatives, etc.)
+- Together with partners, determine goals, digitization needs and agenda
+- Clarify whether or not suitable objects are available in sufficient numbers. Requirements for the objects:
+  - Stable and without hazardous substances
+  - Portable and not too large or small for the setup
+  - If possible, suitable for a 2-point lighting setup without special equipment like polarization filters. In other words, avoid glass objects and highly reflective surfaces
+- Find rooms for digitization part and inspect the rooms. Requirements:  
+  - Sufficient space for photo workstations (minimum 2x3 m), object handling and indexing
+  - Can be locked and darkened, sufficient number of sockets and WIFI reception    
+  - with two tables per station each for object photography and handling/creating records
+- Reserve rooms
+- Clarify supervision for students in subsequent practice work (do not underestimate supervision effort)
+- Reserve or procure photo technology, (s. [digiKulTh Photo Technology](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/digiKulTh-Fototechnik.md)) camera systems with lenses
+- Select collection object for the lecture part
+
+## Starting 3 months in advance
+
+### Impacts seminar
+
+- Specify schedule, including sufficient time for changing location
+- Check and revise the materials/link lists if necessary + coordinate editing
+- Create style guide for the database work in the respective collection and make available on learning platform
+- Set up laptops (Eduroam access and Adobe licenses, install software, incl. Firefox or Chrome for online compilation)
+- Check technology (damage can also occur during storage). Organize transport of digitization technology
+- If necessary, register field trips and apply for business trips for teachers through the HR department
+- Name tags/blanks to be filled out for all ordered materials,
+- order material if necessary (cleaning supplies and equipment, see below)
+
+### Impacts students
+
+- Close registration for the practical seminar 
+- Ask students about desired practice work via distribution list with 
+- Internship agreement forms 
+- Enable teaching materials for students for inverted classroom from end of April and communicate this  around 8 weeks in advance of the practical seminar, inform participants of the date of the preliminary meeting in writing to meet the deadline for applying for practice work 
+- Reminder about preliminary meeting around the materials on the learning platform (preparation)  
+  - Clarify questions around the practical seminar and subsequent practice work, if any   
+  - Poll about (mandatory) practice work  
+  - Explain how to apply for mandatory practice work  
+  - Complete forms to confirm practice work supervision  
+
+### Starting 1 week in advance
+
+- Reminder of field trip destinations via email 
+- Reminder to students via email about materials on learning platform 
+- Assemble objects and demo materials (gloves, masks, paper, colorcheckers in various sizes, etc.), 
+- fetch collection objects for the lecture part 
+- Gather protective equipment and cleaning materials for box 
+  - Nitrile gloves, 100x S, 200x M, 100x L    
+  - Brushes (various sizes and thicknesses)  
+  - Dustcloths FFP2 and FFP3 masks   
+  - Feather duster with marabou or ostrich feathers, if necessary   
+  - Vacuum cleaner with HEPA filter, vacuum brush with natural bristles, if necessary
+- Collect necessary equipment for box 
+  - Mounting brackets or clamping clips adequate  
+  - Extension cord   
+  - Measuring instruments (folding ruler, tape measure, ruler, scale, if necessary)   
+  - Cutter   
+  - Masking and adhesive tape   
+  - Magnifying glass   
+  - Ink pens 
+  - Pencils (2B)   
+  - Writing paper,   
+  - Eraser   
+  - Tweezers, if necessary
+  - Flashlight, if necessary    
+
+# During the seminar
+
+- Plan 30 min pre- and post-lecture every day for clarifying problems 
+- Adjust style guide if necessary
+- Constant communication and coordination with all involved/affected stakeholders:
+- For example, about changes in schedule, picking up keys, transporting technology, booking vehicles and rooms, etc., adapting flexibly to illness, power outage, and more
+- Document the activity and status at the end of the digitization part for handover 
+- Daily feedback sessions in the afternoon or the next morning:  
+  - What was particularly important to me? 
+  - What will I immediately forget?   
+  - What was surprising?  
+  - Plus, in the digitization part: What should the other teams know or what would I like to discuss with them? 
+
+# After the seminar
+
+- Evaluation
+- Meet to discuss the subsequent practice work  
+- If necessary, batch image upload to link to records if this was not done during the seminar (who, how, when?)  
+- Supervision of practice work  
+  - Move technology to new location  
+  - Set up, 
+  - adjust workflow, 
+  - revise style guide if necessary
