@@ -144,14 +144,14 @@ Kamerasysteme mit Objektiven
 
 # Practical Seminar Checklist
 
-- [Starting 9 months in advance](#starting9months-in-advance)
+- [Starting 9 months in advance](#starting-9-months-in-advance)
   - [Organization](#organization)
   - [Promotion](#promotion)
-- [Starting 6 months in advance](#starting6months-in-advance)
-- [Starting 3 months in advance](#starting3months-in-advance)
+- [Starting 6 months in advance](#starting-6-months-in-advance)
+- [Starting 3 months in advance](#starting-3-months-in-advance)
   - [Impact on seminar](#impact-on-seminar)
   - [Impact on students](#impact-on-students)
-  - [Starting 1 week in advance](#starting1week-in-advance)
+  - [Starting 1 week in advance](#starting-1-week-in-advance)
 - [During the seminar](#during-the-seminar)
 - [After the seminar](#after-the-seminar)
 
