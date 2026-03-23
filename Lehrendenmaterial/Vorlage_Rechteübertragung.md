@@ -92,7 +92,7 @@ This agreement shall regulate the rights to works and services being created or 
 
 ---
 
-**Name:** 
+**Name:** <br>
 (hereafter, rights holder)
 
 **(Working) title of the project:**
