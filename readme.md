@@ -51,7 +51,7 @@ Dieses Repositorium enthält derzeit als nutzbare Ressourcen einen Ordner mit [H
 
 # Digital Culture Workbench Thuringia@ThULB.
 
-Here, you will find the materials from the teaching innovation project [Digital Culture Workbench](https://dksm.thulb.uni-jena.de/digikulth/) [Thuringia (digiKulTh)](https://stiftung-hochschullehre.de/)[, carried out as part of](https://stiftung-hochschullehre.de/) [Freiraum 2023](https://stiftung-hochschullehre.de/) [of the](https://stiftung-hochschullehre.de/) [Foundation for Innovation in Higher Education](https://stiftung-hochschullehre.de/) [at](https://stiftung-hochschullehre.de/en/) [](https://www.thulb.uni-jena.de/en/home)[Thuringian State University and Library Jena](https://www.thulb.uni-jena.de/en/home)[.](https://www.thulb.uni-jena.de/en/home)
+Here, you will find the materials from the teaching innovation project [Digital Culture Workbench Thuringia (digiKulTh)](https://dksm.thulb.uni-jena.de/digikulth/), carried out as part of [Freiraum 2023](https://stiftung-hochschullehre.de/foerderung/freiraum/) of the [Foundation for Innovation in Higher Education](https://stiftung-hochschullehre.de/) at [Thuringian State University and Library Jena](https://www.thulb.uni-jena.de/en/home)[.](https://www.thulb.uni-jena.de/en/home)
 
 **Insight into the practical seminar in 2024 (Link to YouTube]**
 [![Seminarteaser 2024](https://img.youtube.com/vi/p4JQlzfPxbI/mqdefault.jpg)](https://youtu.be/p4JQlzfPxbI)
