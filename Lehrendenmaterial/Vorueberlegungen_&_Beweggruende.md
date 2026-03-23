@@ -2,6 +2,8 @@
 
 Anne Hiltscher & Michael Markert
 
+[**PLEASE FIND THE ENGLISH VERSION BELOW**](#preliminary-considerations-and-motivation)
+
 ## Inhalt
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 - [Konzept und didaktische Überlegungen](#konzept-und-didaktische-überlegungen)
@@ -148,3 +150,175 @@ Von den Studierenden in Feedback und Evaluation mehrfach positiv erwähnt Faktor
 - keine Erwartungen wie viele Datensätze und Objektfotos entstehen -> Qualität statt Quantität
 - regelmäßige Pausen in ausreichender Länge
 - Angebot von Süßigkeiten in der Praxisphase des Digitalisierens
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# Preliminary Considerations and Motivation
+
+Anne Hiltscher & Michael Markert
+
+## Contents
+
+<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
+
+- [Concept and Didactic Considerations](#concept-and-didactic-considerations)
+  - [Lernziele](#lernziele)
+    - [The participants know the important general conditions of cultural asset digitization.](#the-participants-know-the-important-general-conditions-of-cultural-asset-digitization)
+    - [The participants possess theoretical knowledge and practical experience in handling objects.](#the-participants-possess-theoretical-knowledge-and-practical-experience-in-handling-objects)
+    - [The participants can acquire object-related data and file it according to a structure.](#the-participants-can-acquire-object-related-data-and-file-it-according-to-a-structure)
+    - [The participants can produce digital copies based on museum standards.](#the-participants-can-produce-digital-copies-based-on-museum-standards.)
+  - [Topic selection](#topic-selection)
+    - [What about 3-D digitization and provenance research?](#what-about-3-d-digitization-and-provenance-research?)
+- [General Conditions](#General Conditions)
+  - [Spatial conditions](#spatial-conditions)
+  - [Human resources and limited participation](#human-resources-and-limited-participation)
+  - [Time frame](#time-frame)
+    - [Promoting the practical seminar](#promoting-the-practical-seminar)
+  - [Format](#format)
+    - [Field trips](#field-trips)
+    - [Practice work](#practice-work)
+    - [Example: Plan of practical seminar in summer semester 2025](#example-plan-of-practical-seminar-in-summer-semester-2025)
+  - [Software and hardware](#software-and-hardware)
+  - [Work atmosphere](#work-atmosphere)
+
+<!-- TOC end -->
+
+## Concept and Didactic Considerations
+
+The Digital Culture and Collection Management (DKSM) department at Thuringian University and State Library (ThULB) supervises well over 100 projects around object digitization in the culture sector. A major challenge that the growing need for digital know-how has only made greater is the lack of expertise in the areas of handling, indexing, object photography and data enrichment at the cooperating institutions.
+
+The project’s goal is to set up a long-term internship program for object digitization encompassing everything from initial object handling to reproduction in a portal that is accessible to the public. With the program, we hope to gain a stronger professional
+orientation for jobs at established cultural institutions and to professionalize the digitization of cultural assets in and outside Thuringia.
+The primary target group is students of the cultural sciences and humanities, but the program also has an open design and with its focus on databases, vocabularies and linked open data, also targets data- and technology-related fields of study.
+
+It is realized as a teaching program consisting of certified “basic training” as a two-week practical seminar supplemented by four to eight weeks of practice work done parallel to studying, depending on the students’ needs. Employees of the DKSM department, who have many years of experience and a high level of expertise, are responsible for teaching the students using the collections of the University of Jena. This combination enables the entire spectrum of “flatware” – from graphical works and objects of cultural history like paintings and sculptures to objects of the natural sciences like herbarium sheets, preparations or research equipment – to be mapped.
+
+### Learning goals
+
+Of the six levels of objectives in Bloom’s taxonomy, levels 1 (Knowledge: Reporting facts and information), 2 (Comprehension: Explaining, interpreting information and reporting it in one’s own words) and 3 (Application: Applying learned knowledge in new situations) are addressed. The level is always indicated in parentheses next to the learning goal.
+
+#### The participants know the important general conditions of cultural asset digitization.
+
+- They know the relevance of cultural asset digitization and are familiar with both its objectives and the steps required to meet them (1).
+- They understand the basic structure of museum collection management as an interrelationship of physical (handling, preservation, etc.) and digital (photography, indexing) aspects (2).
+- They are familiar with the main legal aspect of collection digitization in the areas of copyright and personal rights (1).
+- They know license models for publishing (meta)data (1) and can describe their characteristics (2).
+- They are aware of the ethical challenges of cultural asset digitization, particularly within the wider scope of the CARE principles (sensitive objects) (1).
+- They know forms of the downstream use of collection data in research, teaching and mediation (1). 
+- They have an overview of the expertise fields relevant for the overall process and can name relevant contact persons (1).
+
+#### The participants possess theoretical knowledge and practical experience in handling objects
+
+- They possess basic knowledge of how to handle objects: they know the characteristics of suitable gloves, packaging materials, depot furnishings and rooms (1).
+- They are aware of frequently occurring substances, states and conditions that could damage the objects or themselves upon exposure to them (1).
+- They know the options for attaching catalog numbers, as well as basic preservation techniques and the concept of integrated pest management (IPM) (1).
+- They have applied this knowledge in practical applications on a pre-selected object in the collection under supervision (3).
+
+#### The participants can acquire object-related data and file it according to a structure.
+
+- They have basic knowledge of data management and know the FAIR principles (1).
+- They understand the relevance of structured data for working with collections and how to use collection data for research, teaching and mediation (2).
+- They know what metadata they should acquire when digitizing cultural assets and how to use an input screen to do this (2).
+- They can input object-related data into a structured museum data collection system (3).
+
+#### The participants can produce digital copies based on museum standards.
+
+- They know the relevant equipment for object photography and key camera and lens parameters (1).
+- They know the key steps for digital development and data export (1).
+- They can describe the elements and properties of a workstation for object photography (2).
+- They can list the key quality criteria for object photography (1) and assess submitted digital copies accordingly (2).
+- They have carried out all the steps of object digitization and understand their context (3). 
+- They can operate an existing workstation for object photography independently and create digital copies (3).
+
+### Topic selection
+
+The topics and examples in the digiKulTh practical seminar were selected in accordance with the objectives of meeting the learning goals to the greatest extent possible and preparing participants for a later job in the field of cultural asset digitization based on the many years of experience in the DKSM department of ThULB. Since no prior knowledge is required and objects cannot be digitized without physical interaction with them, we believe it is necessary to present content around collection management, object handling and cataloging, occupational safety & hazardous substances, storage, packaging, depot rooms and means of transport, alongside the basics of digitization and object photography. In the context of the planned publication of digital copies, legal and ethical aspects should also be conveyed.
+
+#### What about 3-D digitization and provenance research?
+
+Teaching and applying the procedures of 3-D digitization in the GLAM field is (still) much more complex than “classic” object photography; not least because they are not yet standardized. It surely makes sense to provide some insight into the new procedures (photogrammetry, laser scanning and Gaussian splatting), which are quickly gaining in importance. We have decided to integrate a half-day experimental,
+explorative section on photogrammetry from 2025 in order to facilitate initial contact with 3-D modeling.
+
+An expansion around the topics related to provenance research was discussed, also because digitization and the cataloging connected to it are often done in the context of provenance research projects. However, a detailed introduction would seem to lead away from the actual core goals of our offering. Provenance research is touched upon in the context of the ethical aspects of digitization.
+
+## General Conditions
+
+### Spatial conditions
+
+The rooms should be chosen such that they provide sufficient space for the photo setups, transporting and handling the objects and the actions of the participants. Further, the digitization workstations should not be too far from the storage location of the objects in order to keep transport routes as short as possible. This protects both the participants and the objects. Ideally, the transport routes should not lead up and down stairs but instead, use elevators or be on one level. If stairs are unavoidable and multiple staircases exist, choose the ones that are as wide as possible, with steps that are small and not too steep.
+
+### Human resources and limited participation
+
+The number of participants was limited due to the following factors:
+
+1.  Scope of technology
+2.  Frequently limited space in collections
+3.  Supervision by several teachers
+
+In our case, the limit is 16: four students per photo setup supervised by at least one teacher each in order to distribute the frequent, diverse questions among multiple people with expertise.
+
+### Time frame
+
+In the digiKulTh project, the training takes place as a two-week block seminar. A block of time seems to be the best choice; particularly because the photo technology must only be transported back and forth once during the practice part and the photo stations must only be set up and broken down once as well. Another advantage is that the participants can immediately apply what they have learned and consolidate it in practical terms. For reasons of feasibility, a period of time in the semester break and outside the school vacation was chosen – the latter to ensure that teachers and students with school-age children would be available and able to participate. Until the winter semester begins, there should be enough time to complete a subsequent practice work period of several weeks. The time involved in preparing for this type of block seminar with many field trips and moving technology and objects should not be underestimated.
+
+#### Promoting the practical seminar
+
+If possible, the promotional campaign should start at the end of the second to last semester before the practical seminar. At that time, most students have not left for the semester break yet and will be exposed to the campaign on the various channels. This enables students to plan for the practical seminar in the next semester and the semester break that immediately follows. For best results, send another reminder when registration is opened during the semester break.
+
+### Format
+
+The first week of the practical seminar is divided into a morning part and an afternoon part. Since the seminar takes place in the middle of the summer, we try to convey the more abstract inputs during the cooler mornings and reserve the afternoons for field trips to university collections with practical input on site. In the second week, the acquired knowledge should be applied as a means of consolidating it. Therefore, it is mostly reserved for practical training in a collection. This ensures that all participants are involved in the complete range of activities (primarily object transport, cleaning, cataloging and photography) for a certain period of time.
+
+#### Field trips
+
+Field trips to various university collections of FSU Jena offer several advantages. The students gain insight into various indexing statuses, the available resources and a wide range of topics, objects, general conditions and challenges. If the collections are also available for practice work, the participants also gain a first impression that helps them to choose objects that they find particularly interesting.
+
+#### Practice work
+
+The offer of practice work immediately after the project seminar enable the students to further expand their knowledge. After all, feedback shows that the practical part of the
+seminar is usually felt to be too short. Depending on the study concept, practice work has a scope of 4 to 8 weeks. Around 2 months before the practical seminar begins, students are asked if they are interested in doing practice work as the kick-off to initiating the necessary practice work agreements. Practice work is also interesting for collection curators, many of whom do not have the personnel and technical resources for digitization campaigns.
+
+#### Example: Plan of Practical Seminar in Summer Semester 2025
+
+| **Week** | **Time** | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** |
+| --- | --- | --- | --- | --- | --- | --- |
+| Week 1 | 10-12:30 | Basics of collection <br/>management | Field trip: Collection of Minor Arts from Antiquity | Input/Practice: Digital cataloging<br>and metadata | Input: <br/>Object photography | Field trip: Herbarium <br/>Haussknecht |
+|     | 14-16:30 | Field trip: Collection of Scientific and Technical Equipment<br><br/> for Physics | Input: Indexing software, vocabularies, law & <br/>ethics | Field trip: Art Collection <br/>of the Custody | Field trip: Zoological <br/>Collection | Practice: Setting up the <br/>photo setup |
+| Week 2 | 10-12:30 | Tour of the Medical History Collection | Practice: Object photography and <br/>cataloging | Practice: Object photography and <br/>cataloging | Practice: Work completion, photo setup breakdown | Input: Culture portals, summary <br/>and feedback |
+|     | 13:30-16 | Practice: Object photography and <br/>cataloging | Practice: Object photography and <br/>cataloging | Practice: Object photography and <br/>cataloging | Practice: 3-D <br/>digitization |     |
+
+### Software and hardware
+
+When selecting the photo software, the main criterion was that unlimited single-user licenses exist to ensure that the workflow could also be used by changing personnel in the long term. The Capture One application for camera remote control and raw data development and Affinity Photo for photo editing (e.g., focus stacking, panorama creation) offer these functions. digiCULT.web is the indexing software most of the collections at FSU Jena and most museums use because there is a state license.
+
+The DKSM department therefore has specialist personnel who are experienced with the software, hold training sessions for museum personnel and are involved in the practical seminar.
+
+Multiple factors went into the selection of the technology:
+
+- Orientation on the setups that have been used for museum digitization at ThULB for many years
+- Sufficient reserve capacity for many years of use
+- Operation independent of individual user accounts
+- Compact enough for uncomplicated transport and set up (for each setup, a photo case, two euro boxes and a tripod bag) – even in smaller rooms
+
+For a technology list with comments, see [ObjectPhotography@digiKulTh Material List](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Lehrendenmaterial/digiKulTh-Fototechnik.md).
+
+### Work atmosphere
+
+Since the practical seminar is not a mandatory seminar and also takes place during the semester break, pay special attention to creating a pleasant atmosphere. Establish a safe space for trying out, learning and experiencing. The students must be told to be careful when handling objects and the technology. But mistakes and questions are part of the learning process.
+
+In feedback and evaluation rounds, the following factors have received multiple positive ratings:
+
+- Good preparation for handling collection objects and the equipment
+- Appropriate workload on the individual days (above all in view of the high afternoon temperatures)
+- Pleasant social climate among teachers and participants
+- No expectations as to how many records and object photos are created -> quality, not quantity
+- Breaks of sufficient length at regular intervals
+- Sweet snacks available during the practical phase of digitization
