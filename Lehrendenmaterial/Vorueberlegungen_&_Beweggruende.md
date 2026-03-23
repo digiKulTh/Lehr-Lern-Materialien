@@ -170,14 +170,14 @@ Anne Hiltscher & Michael Markert
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
 - [Concept and Didactic Considerations](#concept-and-didactic-considerations)
-  - [Lernziele](#lernziele)
+  - [Learning goals](#learning-goals)
     - [The participants know the important general conditions of cultural asset digitization.](#the-participants-know-the-important-general-conditions-of-cultural-asset-digitization)
     - [The participants possess theoretical knowledge and practical experience in handling objects.](#the-participants-possess-theoretical-knowledge-and-practical-experience-in-handling-objects)
     - [The participants can acquire object-related data and file it according to a structure.](#the-participants-can-acquire-object-related-data-and-file-it-according-to-a-structure)
     - [The participants can produce digital copies based on museum standards.](#the-participants-can-produce-digital-copies-based-on-museum-standards.)
   - [Topic selection](#topic-selection)
     - [What about 3-D digitization and provenance research?](#what-about-3-d-digitization-and-provenance-research?)
-- [General Conditions](#General Conditions)
+- [General Conditions](#general-conditions)
   - [Spatial conditions](#spatial-conditions)
   - [Human resources and limited participation](#human-resources-and-limited-participation)
   - [Time frame](#time-frame)
