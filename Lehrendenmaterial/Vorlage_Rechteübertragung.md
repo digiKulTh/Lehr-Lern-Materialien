@@ -71,3 +71,89 @@ Unterschrift Rechteinhaber:in
 ---
 
 Unterschrift Vertreter:in der ThULB/DKSM
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# Agreement for CC licensing and granting of usage rights as part of an activity at ThULB in the Digital Culture and Collection Management Department
+
+## Preamble
+
+This agreement shall regulate the rights to works and services being created or created as part of activities for the Digital Culture and Collection Management Department (DKSM) of the Thuringian State and University Library (ThULB).
+
+---
+
+**Name:** 
+(hereafter, rights holder)
+
+**(Working) title of the project:**
+
+**Name of the object-holding institution, if applicable:**
+
+**Duration of the seminar/project:**
+
+**Representative of ThULB/DKSM:**
+
+---
+
+## Sect. 1 Scope
+
+(1) The subject of this agreement
+is the licensing of the following types of works:
+- Photographic works and photographs, including reproduction photographs (if they are protected by law) and edited images
+- Object and context metadata, if they have achieved creation level (e.g., image descriptions, short biographies)
+- Contributions to databases/compilations
+- Software scripts (cross out if not applicable)
+
+(2) The licensing shall apply to all data in accordance with para. 1 that are or were created during the activity of the rights holder as described in the Preamble. Copyright and other rights to the collection objects themselves remain unaffected.
+
+## Sect. 2 Scope of the Assigned
+
+Usage Rights
+
+(1) With immediate effect, the author shall entitle ThULB to the simple, transferable, sublicensable, temporally and spatially unlimited usage right to all types of use (reproduction, distribution, making publicly accessible, editing, archiving and database use, including the rights of database manufacturers).
+
+(2) After full institutional clearance has been granted in accordance with Sect. 4, the author shall waive all copyrights and associated rights to protection for the approved works in accordance with [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/deed.en). Approval is worldwide, free of charge, temporally unlimited and irrevocable. CC0 shall not affect patent or trademark rights in any respect or the rights of third parties (in particular, data privacy rights and the rights to one’s own image) with reference to usage of the work. Unless expressly indicated otherwise, no guarantees shall be assumed and all liability for usage of the work shall be excluded within the legally permissible scope; an endorsement may not be suggested by usage. The [CC0 1.0 Universal License Code](https://creativecommons.org/publicdomain/zero/1.0/legalcode.enzero/1.0/legalcode.de) is definitive.
+
+(3) Should the CC0 waiver be partially or fully invalid, the rights granted in para. 1 shall continue to apply.
+
+## Sect. 3 Compensation and Credit
+
+(1) The rights are assigned voluntarily and free of charge to the extent that the activity is not compensated elsewhere. There shall be no entitlement to additional compensation. This shall not affect study and test services.
+
+(2) Notwithstanding Sect. 2 (1), ThULB shall make every possible effort to ensure appropriate credit is named in curatorial and internal project contexts. There is no legal entitlement to this.
+
+## Sect. 4 Institutional Clearance and Conditions for Approval
+
+(1) The prerequisite for every external use (including publication under CC licenses, open data provision, sublicensing and provision in repositories) is the prior verification by ThULB (“institutional clearance”) and, to the extent necessary, the object-holding institution (university collection, museum, etc.). Clearance encompasses in particular copyright, domiciliary rights, personal rights and data protection rights, as well as contractual commitments to lenders, for example.
+
+(2) ThULB or, rather, the object-holding institution, can withhold approval completely or partially or attach conditions if the rights of third parties, matters worthy of protection (in particular, personal/data protection), protective interests, domiciliary rights or contractual stipulations oppose approval.
+
+(3) CC0 approval in accordance with Sect. 2 shall not take effect until after institutional clearance has been granted. Until that time, only internal use for work and test purposes and use in accordance with Sect. 2 (2) are permitted.
+
+## Sect. 5 Term, Form and Concluding Stipulations
+
+(1) This agreement shall apply for the term of activity designated in the Preamble. CC0 approval and the usage rights granted in Sect. 2 (2) shall apply without a time limit. Completion of the activity shall have no effect on previously granted licenses.
+
+(2) Changes and additions can be agreed in text form (e.g., email).
+
+(3) If individual stipulations become or are invalid, the validity of the remaining stipulations shall remain unaffected.
+
+---
+
+Place, date
+
+---
+
+Signature of rights holder
+
+---
+
+Signature of ThULB/DKSM representative
