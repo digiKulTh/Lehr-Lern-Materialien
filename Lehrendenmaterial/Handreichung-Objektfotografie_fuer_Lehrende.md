@@ -730,27 +730,27 @@ On the other hand, archiving is the long-term storage of important data. In thec
 
 ## Appendix: Source and Literature
 
-Adobe Systems Software Ireland Limited (ed.): Einführung in die Verwendung von Weitwinkelobjektiven, URL: Weitwinkelobjektive: Leitfaden für Einsteigende | Adobe (https://www.adobe.com/de/creativecloud/photography/discover/wide-angle-lens.html)(last accessed 4/28/2025).
+Adobe Systems Software Ireland Limited (ed.): Einführung in die Verwendung von Weitwinkelobjektiven, URL: Weitwinkelobjektive: Leitfaden für Einsteigende | Adobe https://www.adobe.com/de/creativecloud/photography/discover/wide-angle-lens.html (last accessed 4/28/2025).
 
-Adobe Systems Software Ireland Limited (ed.): Keine „falschen“ Farben mit dem richtigen Weißabgleich, URL: (https://www.adobe.com/de/creativecloud/photography/discover/white-balance.html) (last accessed 4/29/2025).
+Adobe Systems Software Ireland Limited (ed.): Keine „falschen“ Farben mit dem richtigen Weißabgleich, URL: https://www.adobe.com/de/creativecloud/photography/discover/white-balance.html (last accessed 4/29/2025).
 
 Brehm, G. (2025) Light in standardised insect photography and description of lighting devices, including the UV range. Nota Lepidopterologica 48: 145-164. [Light in standardised insect photography and description of lighting devices, including the UV range](https://doi.org/10.3897/nl.48.145444) (last accessed 1/21/2026).
 
 Federal Agencies Digital Guidelines Initiative (no year): Glossary – Term: Color rendering index CRI), URL: [Color rendering index (CRI) - Glossary - Federal Agencies Digitization Guidelines Initiative](https://www.digitizationguidelines.gov/term.php?term=colorrenderingindex) (last accessed 1/21/2026).
 
-Gemeinschaftsredaktion in Zusammenarbeit mit der Verbraucherzentrale Rheinland-Pfalz für das Netzwerk der Verbraucherzentralen in Deutschland* (2025): So richten Sie mit wenigen Klicks eine Datensicherung ein, URL:(https://www.verbraucherzentrale.de/wissen/digitalewelt/apps-und-software/so-richten-sie-mit-wenigen-klicks-eine-datensicherung-ein-69763 (last accessed 1/14/2026).
+Gemeinschaftsredaktion in Zusammenarbeit mit der Verbraucherzentrale Rheinland-Pfalz für das Netzwerk der Verbraucherzentralen in Deutschland* (2025): So richten Sie mit wenigen Klicks eine Datensicherung ein, URL: https://www.verbraucherzentrale.de/wissen/digitalewelt/apps-und-software/so-richten-sie-mit-wenigen-klicks-eine-datensicherung-ein-69763 (last accessed 1/14/2026).
 
-Hönlinger, Bertram; Nasse, Hubert (2009): Verzeichnung, URL (https://lenspire.zeiss.com/photo/app/uploads/2022/02/fachartikel-verzeichnung.pdf) (last accessed 4/29/2025).
+Hönlinger, Bertram; Nasse, Hubert (2009): Verzeichnung, URL https://lenspire.zeiss.com/photo/app/uploads/2022/02/fachartikel-verzeichnung.pdf (last accessed 4/29/2025).
 
-Meyer, Jeff; Summersby, Alex: Alles über die Blende, URL: (https://www.canon.de/pro/infobank/aperture/) (last accessed 4/30/2025).
+Meyer, Jeff; Summersby, Alex: Alles über die Blende, URL: https://www.canon.de/pro/infobank/aperture/ (last accessed 4/30/2025).
 
-Nicholson, Angela; Summersby, Alex: Die Bedeutung der Brennweite in der Fotografie verstehen, URL: (https://www.canon.de/pro/infobank/understanding-focal-length/) (last
+Nicholson, Angela; Summersby, Alex: Die Bedeutung der Brennweite in der Fotografie verstehen, URL: https://www.canon.de/pro/infobank/understanding-focal-length/ (last
 accessed 4/28/2025).
 
-Richards, Matthew: Tipps für die Makrofotografie, URL: (https://www.canon.de/get-inspired/tips-and-techniques/macro-photography-tips/) (last accessed 4/30/2025).
+Richards, Matthew: Tipps für die Makrofotografie, URL: https://www.canon.de/get-inspired/tips-and-techniques/macro-photography-tips/ (last accessed 4/30/2025).
 
-Roskothen, Peter (2025): Was ist eine DSLM? Vorteile spiegelloser Kameras einfach erklärt, URL: (https://www.fotowissen.eu/was-ist-eine-dslm-kamera/) (last accessed 1/14/2026).
+Roskothen, Peter (2025): Was ist eine DSLM? Vorteile spiegelloser Kameras einfach erklärt, URL: https://www.fotowissen.eu/was-ist-eine-dslm-kamera/ (last accessed 1/14/2026).
 
-Roskothen, Peter (2025): Dynamikbereich der digitalen Kamera – Kameradynamik, URL: (https://www.fotowissen.eu/dynamikbereich-der-digitalen-kamera-kameradynamik/) (last accessed 1/14/2026).
+Roskothen, Peter (2025): Dynamikbereich der digitalen Kamera – Kameradynamik, URL: https://www.fotowissen.eu/dynamikbereich-der-digitalen-kamera-kameradynamik/ (last accessed 1/14/2026).
 
-Zangl, Christian (2024): Sweet Spot beim Fotografieren, URL: https://www.digitipps.ch/fotolexikon/sweet-spot/) (last accessed 4/30/2025).
+Zangl, Christian (2024): Sweet Spot beim Fotografieren, URL: https://www.digitipps.ch/fotolexikon/sweet-spot/ (last accessed 4/30/2025).
