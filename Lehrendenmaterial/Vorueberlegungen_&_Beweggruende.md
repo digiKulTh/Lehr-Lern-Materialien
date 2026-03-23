@@ -308,7 +308,7 @@ Multiple factors went into the selection of the technology:
 - Operation independent of individual user accounts
 - Compact enough for uncomplicated transport and set up (for each setup, a photo case, two euro boxes and a tripod bag) – even in smaller rooms
 
-For a technology list with comments, see [ObjectPhotography@digiKulTh Material List]([https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Lehrendenmaterial/digiKulTh-Fototechnik.md](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Lehrendenmaterial/digiKulTh-Fototechnik.md#hardware-four-identical-setups)).
+For a technology list with comments, see [ObjectPhotography@digiKulTh Material List](https://github.com/digiKulTh/Lehr-Lern-Materialien/blob/main/Lehrendenmaterial/digiKulTh-Fototechnik.md#hardware-four-identical-setups)).
 
 ### Work atmosphere
 
