@@ -1,6 +1,6 @@
 # Materialliste Objektfotografie@digiKulTh 
 
-[**PLEASE FIND THE ENGLISH VERSION BELOW**](#objectphotography-digiKulTh-material-list)
+[**PLEASE FIND THE ENGLISH VERSION BELOW**](#material-list)
 
 ## Hardware (vier identische Setups)
   
