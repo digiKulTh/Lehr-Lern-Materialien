@@ -1,6 +1,5 @@
 # Materialliste Objektfotografie@digiKulTh 
 
-[**PLEASE FIND THE ENGLISH VERSION BELOW**](#material-list)
 [**PLEASE FIND THE ENGLISH VERSION BELOW**](#hardware-four-identical-setups)
 
 ## Hardware (vier identische Setups)
@@ -59,7 +58,6 @@ Die Auswahl der Software hatte als Kriterium, dass unbefristete Einzelplatzlizen
 <br>
 <br>
 
-# Material List ObjectPhotography@digiKulTh 
 # ObjectPhotography@digiKulTh Material List
 
 ## Hardware (Four Identical Setups)
