@@ -2,6 +2,8 @@
 
 Anne Hiltscher
 
+[**PLEASE FIND THE ENGLISH VERSION BELOW**](#handout-on-photographing-cultural-assets-practical-instruction-on-the-basics-and-methods-of-object-photography-for-teacher)
+
 ## Inhalt
 
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
@@ -378,16 +380,23 @@ Roskothen, Peter (2025): Dynamikbereich der digitalen Kamera – Kameradynamik, 
 
 Zangl, Christian (2024): Sweet Spot beim Fotografieren, URL: https://www.digitipps.ch/fotolexikon/sweet-spot/ (letzter Zugriff 30.04.2025).
 
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 # Handout on Photographing Cultural Assets – Practical instruction on the basics and methods of object photography for teachers
 
 Anne Hiltscher
 
 ## Contents
+
+<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
 - [Hardware](#hardware)
   - [Camera or smartphone?](#camera-or-smartphone)
@@ -431,6 +440,8 @@ Anne Hiltscher
     - [Saving and exporting](#saving-and-exporting)
   - [Is archiving necessary?](#is-archiving-necessary)
 - [Appendix: Sources and Literature](#appendix-sources-and-literature)
+
+<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
 ## Hardware
 
