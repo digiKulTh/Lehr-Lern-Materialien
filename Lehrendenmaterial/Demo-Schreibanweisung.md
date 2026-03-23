@@ -1,6 +1,8 @@
 # digiCULT.web-Schreibanweisung für die Bestände der Sammlung wissenschaftlicher und technischer Geräte zur Physik an der FSU Jena
 
-**Elea Koop, Martin Schumacher**
+[**PLEASE FIND THE ENGLISH VERSION BELOW**](#digicult.web-style-guide-for-the-objects-in-the-collection-of-scientific-and-technical-equipotential-for-physics-at-fsu-jena)
+
+Elea Koop, Martin Schumacher
 
 ## Vorbemerkung
 
@@ -129,3 +131,129 @@ Hier können alle Werke zu denen ein Objekt in einer Beziehung steht verlinkt we
 ## Reiter Literatur
 
 Abhängig von internen Hinweisen.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# digiCULT.web style guide for the objects in the collection of scientific and technical equipotential for physics at FSU Jena
+
+Elea Koop and Martin Schumacher
+
+## Preliminary Remarks
+
+Only complete the mentioned fields. Fields must be written in cursive. Field designations must be written in small capital letters (are visible when the field is blank). Examples are provided in square brackets [ ].
+
+The data for the objects must be entered on the **ART/CULTURAL HISTORY** object input screen in order to create records.
+
+## Basic Data Tab
+
+### Basic data
+
+**museum:**<br>´FSU JENA: COLLECTION OF OLD SCIENTIFIC AND TECHNICAL EQUIPMENT FOR PHYSICs´
+
+**Collection:**<br>
+
+Correctly selected
+
+**catalog number**:<br>Four-digit sequential number (´0033´)
+
+**Old catalog numbers:**<br>Usually on the object
+
+**Other numbers:**<br>
+
+INTERNAL CODES: Always 3-digit, old catalog number must be provided in COMMENT
+
+OTHER NUMBERS: Additional catalog numbers at or on the object, from the accession log, the 2001 collection catalog, Excel document.
+
+**Status:**<br>As standard, ´PRESENT´ is written here; deviations must be corrected.
+
+**Object name:**<br>Select the most applicable name from the vocabulary.
+
+**Title:**<br>The object must be named as precisely as possible.
+
+**Subject group:**<br>´MEASURING/WEIGHING´
+
+**Material:**<br>Should be completed in as much detail as possible base on the VOCABULARY. When in doubt, it is also possible to select the next-higher material group (´LEATHER´ > ´GOATSKIN´ > ´MOROCCO LEATHER´). Notes or detailed descriptions are not possible in the vocabulary in MATERIAL (´WATER Spirit level´) and classifications to object parts (´foot´) are entered in COMMENT.
+
+**Signature:**<br>
+
+All written notes on the work must be entered here. This includes stamps, embossing, seals, monograms, etc. A TYPE must be selected first, preferably ´SIGNED´, ´DATED´, ´DESIGNATED´, ´LABELED´, ´NUMBERED´, and ´TITLED´ are used for all written artifacts.
+
+For WHERE, the site must be indicated (´center top bottom right rear right´) based on the correct standpoint of the observer  (´for a sculpture, the pedestal is at the bottom and Face of the figure is the front / a piece of paper is placed such that forlandscape, the sky is at the top´).
+
+For WHAT, everything is entered exactly as it appears on the work. The grammar, orthography, etc. are not corrected. If parts of an inscription are illegible or unclear, this is indicated with a ´[?]´. If an entire label is illegible, this is indicated with ´[illegible]´. Signatures and artist’s monograms are marked by the ´[artist’s monogram]´. For inscriptions on multiple lines, the line break must be indicated by a slash with a blank space in front and in back (this is line 1 ´/´ and this is line 2). If there is a wide gap between the inscriptions on one line, this must be indicated with a vertical line (left hand inscription ´|´ right-hand inscription). Changes in color and deletions of inscriptions must be comparably indicated ´[red, crossed through]´.
+
+### Manufacture
+
+**Artist/manufacturer:**
+
+The producer of the object is a MANUFACTURER.
+
+The PERSONS/ORGANIZATIONS are searched and selected in the database of persons/organizations beginning with the name or last name. If they are not present in the database, they must be created in as much detail possible with external data classification (GND, Wikidata).
+
+If biographical information cannot be found, indicate this in an entry in COMMENT. This field is also used if only partial names have been passed on.
+
+**Place of manufacture:**
+
+The place where a work originated can be selected here. The database does not know all places. In COMMENT, places that are not entered in the database can be indicated and described in greater detail (´Studio 312´).
+
+**Dating:**
+
+Here, the time of origin can be very precisely entered by a date FROM TO. Usually, a year is sufficient for FROM. With the aid of a DATING WIZARD, longer periods of time can also be entered (´2nd HALF 19TH CENTURY´). The dates should be as precise as possible.
+
+### Dimensions
+
+**Object part:**
+
+This field contains the description of the part of an object whose data is being recorded. All parts that can be attributed to the work – frame, mat, support, etc. – must be entered in detail
+
+ENTIRE is used for the object as a whole.
+
+**Explanation:**
+
+Here it is possible to describe in more detail the exact part of the object being recorded if, for example, multiple components and accessories are part of an object (´base´, ´body´, ´transport box´ ). There are different options for identifying measured objects/object parts, in particular: 1. Naming the object part (´base´, ´foot´) 2. Using the model number listed in the manufacturer’s or sales catalog (+ literature reference & page number) 3. Using the numbers attached to the object/object part, particularly if the dimensions are identical (´1-3, 5-6, 10-12´).
+
+**Type:**
+
+Here, HEIGHT, WIDTH and DEPTH are almost always adequate. For round objects, it makes sense to add the DIAMETER. Even if all objects are three-dimensional, listing the height and width is sufficient for works on paper and others.
+
+**Value:**
+
+Enter the measured value. The value must be as precise as possible; for dimensions in ´CM´ to one decimal place.
+
+**Unit:**
+
+Select a unit that is appropriate for the object; usually ´CM´ and ´G´ or ´M´ and ´KG´ are used.
+
+## Expanded Data Tab
+
+**Description:**
+
+Use this field to enter a more precise description of the equipment, if the TITLE does not provide sufficient meaningful information. Technical data, manufacturer numbers, manufacturer, measured areas and other detailed information is useful.
+
+## Condition/Restoration Tab
+
+### Conditions
+
+**Condition:**
+
+If damage is present, note this (´mold stains´, ´mildew´, ´crack´, ´hole´). Also indicate where the damage is (´top left´), and the size of cracks and holes (´6 x 3 mm´). If works are adhered or mounted, (´foldable´, ´not foldable´) are helpful.
+
+## Location Tab
+
+Select the PERMANENT LOCATION of the object here. To do this, follow the path under LOCATION OVERVIEW and select the corresponding institute, floor, room/display case, etc.
+
+## Relations/Links Tab
+
+All the works that are related to the object can be linked here. For INTERNAL RELATIONS, this should primarily be done using the catalog number.
+
+## Literature Tab
+
+Depends on internal information.
