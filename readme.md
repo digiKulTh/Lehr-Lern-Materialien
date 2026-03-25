@@ -100,3 +100,7 @@ As usable resources, the repository currently contains a folder with [handouts](
 - How can you **photograph objects** using the setup?<br> => [Object Photography Poster III](https://github.com/user-attachments/files/20589074/Poster.Objektfotografie.pdf)[,](https://github.com/user-attachments/files/20589074/Poster.Objektfotografie.pdf) [Video Tutorial Photography Workflow](https://www.youtube.com/watch?v=mAjWm4rSCuE)
 
 - How can I **enter object information** in digiCult.web?<br> => [Screencast Creating a Record](https://www.youtube.com/watch?v=R3o4tdLhXHI)
+
+<br>
+<br>
+<img width="286.72" height="91.84" alt="Digitale Kulturwerkbank Logo Neu schwarz" src="https://github.com/user-attachments/assets/9791c72f-7773-4655-bc65-0187d6b61641" />&nbsp;<img width="295.92" height="39.36" alt="ThULB Logo Schwarz" src="https://github.com/user-attachments/assets/b340f0ea-8964-4485-9a89-652f0535e5f5" />&nbsp;<img width="247.3" height="121.52" alt="siidhl logo" src="https://github.com/user-attachments/assets/6997465c-8a4b-42e8-92b7-e5c0eaa55012" />
