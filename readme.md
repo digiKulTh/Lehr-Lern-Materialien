@@ -1,6 +1,6 @@
 # Digitale Kulturwerkbank Thüringen@ThULB. 
 
-[**PLEASE FIND THE ENGLISH VERSION BELOW**](#digital-culture-workbench-thuringia@thulb)
+[**PLEASE FIND THE ENGLISH VERSION BELOW**](https://github.com/digiKulTh/Lehr-Lern-Materialien#digital-culture-workbench-thuringia@thulb))
 
 Hier finden sich die Materialien aus dem Lehrinnovationsprojekt [digitale Kulturwerkstatt Thüringen (digiKulTh)](https://dksm.thulb.uni-jena.de/digikulth/), durchgeführt im Rahmen von [Freiraum2023](https://stiftung-hochschullehre.de/foerderung/freiraum/) der [Stiftung Innovation in der Hochschullehre](https://stiftung-hochschullehre.de/) an der [Thüringer Universitäts- und Landesbibliothek Jena](https://www.thulb.uni-jena.de/home).
 
