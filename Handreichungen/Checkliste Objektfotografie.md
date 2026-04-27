@@ -38,7 +38,7 @@
 
 - [ ] Speicherformat RAW
 
-- [ ] mit Blitz Belichtungszeit >= 1/250 s (Blitzsynchronzeit)
+- [ ] mit Blitz Belichtungszeit >= 1/125 s (Blitzsynchronzeit)
 
 - [ ] Blendenwert F8 bis F16
 
@@ -140,7 +140,7 @@ Objektfotografie im Museum, Chemnitz, URL: https://museumswesen.skd.museum/filea
 
 - [ ] RAW storage format
 
-- [ ] With flash exposure time >= 1/250 s (flash sync time)
+- [ ] With flash exposure time >= 1/125 s (flash sync time)
 
 - [ ] Aperture setting F8 to F16
 
